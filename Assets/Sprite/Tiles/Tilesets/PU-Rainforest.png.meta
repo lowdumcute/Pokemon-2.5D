@@ -1,0 +1,3055 @@
+fileFormatVersion: 2
+guid: 07b7f1b4773d089448eaf77461923d47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8426852568094590925
+    second: PU-Rainforest_0
+  - first:
+      213: 329292395857476776
+    second: PU-Rainforest_1
+  - first:
+      213: 623485243762646177
+    second: PU-Rainforest_2
+  - first:
+      213: 39029508156063766
+    second: PU-Rainforest_3
+  - first:
+      213: 1033074405296212426
+    second: PU-Rainforest_4
+  - first:
+      213: -8121568513774926847
+    second: PU-Rainforest_5
+  - first:
+      213: 5290953932428724144
+    second: PU-Rainforest_6
+  - first:
+      213: -690279206567701407
+    second: PU-Rainforest_7
+  - first:
+      213: 4156325962693568217
+    second: PU-Rainforest_8
+  - first:
+      213: 1940935353436385494
+    second: PU-Rainforest_9
+  - first:
+      213: -6935146800050319428
+    second: PU-Rainforest_10
+  - first:
+      213: 6046848109102638146
+    second: PU-Rainforest_11
+  - first:
+      213: -4594536895213999539
+    second: PU-Rainforest_12
+  - first:
+      213: -2706647880068541588
+    second: PU-Rainforest_13
+  - first:
+      213: 1479438066307617153
+    second: PU-Rainforest_14
+  - first:
+      213: 543356022697948385
+    second: PU-Rainforest_15
+  - first:
+      213: 1769601638389577740
+    second: PU-Rainforest_16
+  - first:
+      213: -4079788005279502399
+    second: PU-Rainforest_17
+  - first:
+      213: -2098258248509595444
+    second: PU-Rainforest_18
+  - first:
+      213: -4923841884694679395
+    second: PU-Rainforest_19
+  - first:
+      213: -4676667924307703440
+    second: PU-Rainforest_20
+  - first:
+      213: 6241602833075484036
+    second: PU-Rainforest_21
+  - first:
+      213: -1052541432892306860
+    second: PU-Rainforest_22
+  - first:
+      213: 5181678785169170980
+    second: PU-Rainforest_23
+  - first:
+      213: 1584357531208207153
+    second: PU-Rainforest_24
+  - first:
+      213: 3569091283844788380
+    second: PU-Rainforest_25
+  - first:
+      213: -7162205442755671310
+    second: PU-Rainforest_26
+  - first:
+      213: 4756575944429911095
+    second: PU-Rainforest_27
+  - first:
+      213: -1177915123948567404
+    second: PU-Rainforest_28
+  - first:
+      213: -8035579495022467309
+    second: PU-Rainforest_29
+  - first:
+      213: -3919513558147573656
+    second: PU-Rainforest_30
+  - first:
+      213: -4585132701623771049
+    second: PU-Rainforest_31
+  - first:
+      213: -8324084212641632405
+    second: PU-Rainforest_32
+  - first:
+      213: 7352482379286184113
+    second: PU-Rainforest_33
+  - first:
+      213: 1794277122766855378
+    second: PU-Rainforest_34
+  - first:
+      213: -383995986000583460
+    second: PU-Rainforest_35
+  - first:
+      213: 598471431564562667
+    second: PU-Rainforest_36
+  - first:
+      213: -7713985590972673062
+    second: PU-Rainforest_37
+  - first:
+      213: -3046403548117182640
+    second: PU-Rainforest_38
+  - first:
+      213: -5571746883551356336
+    second: PU-Rainforest_39
+  - first:
+      213: -8359935923500537124
+    second: PU-Rainforest_40
+  - first:
+      213: 3910492230230942077
+    second: PU-Rainforest_41
+  - first:
+      213: 8728762780467334166
+    second: PU-Rainforest_42
+  - first:
+      213: -7745723733882730026
+    second: PU-Rainforest_43
+  - first:
+      213: -404066891909426861
+    second: PU-Rainforest_44
+  - first:
+      213: 7530173011590412256
+    second: PU-Rainforest_45
+  - first:
+      213: 5391906075326648754
+    second: PU-Rainforest_46
+  - first:
+      213: 9161961229744347688
+    second: PU-Rainforest_47
+  - first:
+      213: 7558194917902331238
+    second: PU-Rainforest_48
+  - first:
+      213: 1996422558871755050
+    second: PU-Rainforest_49
+  - first:
+      213: -2032232485846446590
+    second: PU-Rainforest_50
+  - first:
+      213: -2241606186048576785
+    second: PU-Rainforest_51
+  - first:
+      213: 2645970394619353668
+    second: PU-Rainforest_52
+  - first:
+      213: 4188372541173661450
+    second: PU-Rainforest_53
+  - first:
+      213: 4263865240435727158
+    second: PU-Rainforest_54
+  - first:
+      213: 3905675043479009062
+    second: PU-Rainforest_55
+  - first:
+      213: 6101052736133787698
+    second: PU-Rainforest_56
+  - first:
+      213: 7469997665259133638
+    second: PU-Rainforest_57
+  - first:
+      213: -1112752827425857275
+    second: PU-Rainforest_58
+  - first:
+      213: -8783862240940795945
+    second: PU-Rainforest_59
+  - first:
+      213: -1343662749493899088
+    second: PU-Rainforest_60
+  - first:
+      213: -1488424198937741192
+    second: PU-Rainforest_61
+  - first:
+      213: -3384244094477345461
+    second: PU-Rainforest_62
+  - first:
+      213: 1565614250242167874
+    second: PU-Rainforest_63
+  - first:
+      213: -1106601418735736656
+    second: PU-Rainforest_64
+  - first:
+      213: 8702852016445698391
+    second: PU-Rainforest_65
+  - first:
+      213: 2687293945245276940
+    second: PU-Rainforest_66
+  - first:
+      213: 4860684244263279279
+    second: PU-Rainforest_67
+  - first:
+      213: -6609445971425720036
+    second: PU-Rainforest_68
+  - first:
+      213: 8265539968572544959
+    second: PU-Rainforest_69
+  - first:
+      213: -131676781691633447
+    second: PU-Rainforest_70
+  - first:
+      213: 1372008375968876639
+    second: PU-Rainforest_71
+  - first:
+      213: -1932134277746139158
+    second: PU-Rainforest_72
+  - first:
+      213: 6803920964038438245
+    second: PU-Rainforest_73
+  - first:
+      213: -7637465839493686880
+    second: PU-Rainforest_74
+  - first:
+      213: -5861942112781735198
+    second: PU-Rainforest_75
+  - first:
+      213: 2492719255125129245
+    second: PU-Rainforest_76
+  - first:
+      213: -5238437484983459015
+    second: PU-Rainforest_77
+  - first:
+      213: -1028111463399772747
+    second: PU-Rainforest_78
+  - first:
+      213: 5516700886636228254
+    second: PU-Rainforest_79
+  - first:
+      213: -6595892845093591817
+    second: PU-Rainforest_80
+  - first:
+      213: -3109880775182499604
+    second: PU-Rainforest_81
+  - first:
+      213: -297290177712768857
+    second: PU-Rainforest_82
+  - first:
+      213: -1329455482031789263
+    second: PU-Rainforest_83
+  - first:
+      213: -7374444970365509667
+    second: PU-Rainforest_84
+  - first:
+      213: -5874134709667114040
+    second: PU-Rainforest_85
+  - first:
+      213: 6175688426313103754
+    second: PU-Rainforest_86
+  - first:
+      213: -6389344548835798534
+    second: PU-Rainforest_87
+  - first:
+      213: 4235080873864813646
+    second: PU-Rainforest_88
+  - first:
+      213: -3458494102935113235
+    second: PU-Rainforest_89
+  - first:
+      213: -1966240566131159692
+    second: PU-Rainforest_90
+  - first:
+      213: 8547498349359778395
+    second: PU-Rainforest_91
+  - first:
+      213: 498504840398529019
+    second: PU-Rainforest_92
+  - first:
+      213: 3098660801547515562
+    second: PU-Rainforest_93
+  - first:
+      213: -4722026565299125190
+    second: PU-Rainforest_94
+  - first:
+      213: -1546520909065346713
+    second: PU-Rainforest_95
+  - first:
+      213: -6832643239290053145
+    second: PU-Rainforest_96
+  - first:
+      213: -7253227744043127207
+    second: PU-Rainforest_97
+  - first:
+      213: -4277196849748806519
+    second: PU-Rainforest_98
+  - first:
+      213: -6970899531869308658
+    second: PU-Rainforest_99
+  - first:
+      213: 9116439552098221614
+    second: PU-Rainforest_100
+  - first:
+      213: 4337759671020655852
+    second: PU-Rainforest_101
+  - first:
+      213: -1764742519134630665
+    second: PU-Rainforest_102
+  - first:
+      213: -2333918321861662327
+    second: PU-Rainforest_103
+  - first:
+      213: -7631906302163902668
+    second: PU-Rainforest_104
+  - first:
+      213: -234101087003553793
+    second: PU-Rainforest_105
+  - first:
+      213: 4136928388514267975
+    second: PU-Rainforest_106
+  - first:
+      213: -6118930027210369563
+    second: PU-Rainforest_107
+  - first:
+      213: 3873841868915648908
+    second: PU-Rainforest_108
+  - first:
+      213: 4725441391936814381
+    second: PU-Rainforest_109
+  - first:
+      213: 3525091504289279674
+    second: PU-Rainforest_110
+  - first:
+      213: 6843749355399045063
+    second: PU-Rainforest_111
+  - first:
+      213: -5566383658450580425
+    second: PU-Rainforest_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-Rainforest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4223
+        width: 256
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33832289c3ecd0b80800000000000000
+      internalID: -8426852568094590925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4193
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac725a70b1e19400800000000000000
+      internalID: 329292395857476776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4191
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac9b2d968017a800800000000000000
+      internalID: 623485243762646177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61086618129aa8000800000000000000
+      internalID: 39029508156063766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4159
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac98a3ab2b7365e00800000000000000
+      internalID: 1033074405296212426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4195
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104c27577746a4f80800000000000000
+      internalID: -8121568513774926847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4161
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7ce51a19e3d6940800000000000000
+      internalID: 5290953932428724144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4179
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16491b808b2ab66f0800000000000000
+      internalID: -690279206567701407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4183
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d66511217c3ea930800000000000000
+      internalID: 4156325962693568217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4159
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0b291ab669fea10800000000000000
+      internalID: 1940935353436385494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 4153
+        width: 5
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf40d5bab861cf90800000000000000
+      internalID: -6935146800050319428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2442ec15158bae350800000000000000
+      internalID: 6046848109102638146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ae755690dec30c0800000000000000
+      internalID: -4594536895213999539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c635370f71e007ad0800000000000000
+      internalID: -2706647880068541588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181d4793515088410800000000000000
+      internalID: 1479438066307617153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4fa7f7c636a8700800000000000000
+      internalID: 543356022697948385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08f82a7053ee8810800000000000000
+      internalID: 1769601638389577740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf6a62cc6ea167c0800000000000000
+      internalID: -4079788005279502399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4065
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc06d827d3d71e2e0800000000000000
+      internalID: -2098258248509595444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4097
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90759cb4effaabb0800000000000000
+      internalID: -4923841884694679395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_20
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 4098
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0790d270d43291fb0800000000000000
+      internalID: -4676667924307703440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4109
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485398e05b0ae9650800000000000000
+      internalID: 6241602833075484036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3935
+        width: 256
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ac215b42f9461f0800000000000000
+      internalID: -1052541432892306860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3807
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422af22c66509e740800000000000000
+      internalID: 5181678785169170980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3647
+        width: 97
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b41e4c7c4ccf510800000000000000
+      internalID: 1584357531208207153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3775
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90f280ec95f78130800000000000000
+      internalID: 3569091283844788380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3743
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2facd28c81cba9c90800000000000000
+      internalID: -7162205442755671310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3721
+        width: 129
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cb9eabe90c20240800000000000000
+      internalID: 4756575944429911095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3647
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4944c758f6437afe0800000000000000
+      internalID: -1177915123948567404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3711
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317e5ca0603eb7090800000000000000
+      internalID: -8035579495022467309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3681
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86859427f271b99c0800000000000000
+      internalID: -3919513558147573656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3679
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75020b7d9165e50c0800000000000000
+      internalID: -4585132701623771049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3661
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fee01f289ea7c80800000000000000
+      internalID: -8324084212641632405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_33
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3679
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b00ca2d4c3490660800000000000000
+      internalID: 7352482379286184113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_34
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3659
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcd023698d86e810800000000000000
+      internalID: 1794277122766855378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3679
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4624b6fa5cbaaf0800000000000000
+      internalID: -383995986000583460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3661
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be010ae98923e4800800000000000000
+      internalID: 598471431564562667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3555
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad39797b9fa62f490800000000000000
+      internalID: -7713985590972673062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3519
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0575cff0d1009b5d0800000000000000
+      internalID: -3046403548117182640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_39
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3551
+        width: 114
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a1883dabd2da2b0800000000000000
+      internalID: -5571746883551356336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3551
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda29b6029a8bfb80800000000000000
+      internalID: -8359935923500537124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3263
+        width: 256
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7127d7f6fbd44630800000000000000
+      internalID: 3910492230230942077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3199
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c086a708bc22970800000000000000
+      internalID: 8728762780467334166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3239
+        width: 109
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d98b997d49a18490800000000000000
+      internalID: -7745723733882730026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_44
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3231
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3511e3a7d47746af0800000000000000
+      internalID: -404066891909426861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2853
+        width: 243
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7741d157c808860800000000000000
+      internalID: 7530173011590412256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b19d1a0206e3da40800000000000000
+      internalID: 5391906075326648754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a10d04233d52f70800000000000000
+      internalID: 9161961229744347688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3199
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d2bb89b3a14e860800000000000000
+      internalID: 7558194917902331238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3071
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2990236db7b4bb10800000000000000
+      internalID: 1996422558871755050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2431
+        width: 256
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e0d14425f0cc3e0800000000000000
+      internalID: -2032232485846446590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2879
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2a142ec0734e0e0800000000000000
+      internalID: -2241606186048576785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2267
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a9c711e0068b420800000000000000
+      internalID: 2645970394619353668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2101
+        width: 129
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ff7af92a6102a30800000000000000
+      internalID: 4188372541173661450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b9e4268da4c2b30800000000000000
+      internalID: 4263865240435727158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627bca642ceb33630800000000000000
+      internalID: 3905675043479009062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230fd25832b4ba450800000000000000
+      internalID: 6101052736133787698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca94ce7c43caa760800000000000000
+      internalID: 7469997665259133638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5016876f235be80f0800000000000000
+      internalID: -1112752827425857275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_59
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7d1cca4d3791680800000000000000
+      internalID: -8783862240940795945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0dd7e29d95a5de0800000000000000
+      internalID: -1343662749493899088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_61
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878783bb31e085be0800000000000000
+      internalID: -1488424198937741192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_62
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2207
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dd6733defb801d0800000000000000
+      internalID: -3384244094477345461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_63
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2175
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24459f89ddd2ab510800000000000000
+      internalID: 1565614250242167874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_64
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b820586fdf84a0f0800000000000000
+      internalID: -1106601418735736656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_65
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751b90d9ccdb6c870800000000000000
+      internalID: 8702852016445698391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b1765fa9f2b4520800000000000000
+      internalID: 2687293945245276940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa96a0319e947340800000000000000
+      internalID: 4860684244263279279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19880748e78644a0800000000000000
+      internalID: -6609445971425720036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_69
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb75f870fc815b270800000000000000
+      internalID: 8265539968572544959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_70
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2143
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d08a1a2aa03c2ef0800000000000000
+      internalID: -131676781691633447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_71
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2111
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f584c76495a5a0310800000000000000
+      internalID: 1372008375968876639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefd59c7c1eaf25e0800000000000000
+      internalID: -1932134277746139158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d285d61126c6e50800000000000000
+      internalID: 6803920964038438245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a95cc4b845420690800000000000000
+      internalID: -7637465839493686880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_75
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaedb1d4b236aea0800000000000000
+      internalID: -5861942112781735198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18728e94fae79220800000000000000
+      internalID: 2492719255125129245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_77
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9336871acd45d47b0800000000000000
+      internalID: -5238437484983459015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_78
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdac8a321a6bb1f0800000000000000
+      internalID: -1028111463399772747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_79
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ee8084a324f8c40800000000000000
+      internalID: 5516700886636228254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_80
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4e7a7676ea674a0800000000000000
+      internalID: -6595892845093591817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_81
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce04e6d69eb77d4d0800000000000000
+      internalID: -3109880775182499604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_82
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2079
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8b7329820dfdbf0800000000000000
+      internalID: -297290177712768857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_83
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2047
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bacc86843dc8de0800000000000000
+      internalID: -1329455482031789263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1743
+        width: 247
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf92b5fe55b8a990800000000000000
+      internalID: -7374444970365509667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3df73aa91ea7ea0800000000000000
+      internalID: -5874134709667114040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_86
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8932ed47e374b550800000000000000
+      internalID: 6175688426313103754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_87
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1501b2cfc7457a0800000000000000
+      internalID: -6389344548835798534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c53c9cd9706ca30800000000000000
+      internalID: 4235080873864813646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_89
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1f4c0ffe5f000d0800000000000000
+      internalID: -3458494102935113235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_90
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d0ac86f9286b4e0800000000000000
+      internalID: -1966240566131159692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_91
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1951
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ac3df4670de9670800000000000000
+      internalID: 8547498349359778395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_92
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf164cad28b0be600800000000000000
+      internalID: 498504840398529019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_93
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2015
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6baa3e497a00b20800000000000000
+      internalID: 3098660801547515562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_94
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1922
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3443637bddf77eb0800000000000000
+      internalID: -4722026565299125190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_95
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1890
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76122715d67a98ae0800000000000000
+      internalID: -1546520909065346713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_96
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1858
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed542dbc239d21a0800000000000000
+      internalID: -6832643239290053145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_97
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1825
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e2d49cbcb575b90800000000000000
+      internalID: -7253227744043127207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_98
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1793
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9847d40702854a4c0800000000000000
+      internalID: -4277196849748806519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1695
+        width: 225
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e093ef52fc3624f90800000000000000
+      internalID: -6970899531869308658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_100
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1761
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eb22fb879148e70800000000000000
+      internalID: 9116439552098221614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_101
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1729
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce493383071d23c30800000000000000
+      internalID: 4337759671020655852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_102
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1697
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcc3f267006287e0800000000000000
+      internalID: -1764742519134630665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 823
+        width: 256
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989e8a2e6a14c9fd0800000000000000
+      internalID: -2333918321861662327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_104
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1683
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f947c57a5061690800000000000000
+      internalID: -7631906302163902668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_105
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1663
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffce9b3d4e40ccf0800000000000000
+      internalID: -234101087003553793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_106
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1663
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7434f927372596930800000000000000
+      internalID: 4136928388514267975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_107
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1663
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e597aa4f81351ba0800000000000000
+      internalID: -6118930027210369563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 199
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89a0c0c7a6a2c530800000000000000
+      internalID: 3873841868915648908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 161
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d3255d8e3249140800000000000000
+      internalID: 4725441391936814381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_110
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 159
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abee8e1eb04abe030800000000000000
+      internalID: 3525091504289279674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_111
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 159
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf5e5c67c1e9fe50800000000000000
+      internalID: 6843749355399045063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Rainforest_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c838afd8b30c2b0800000000000000
+      internalID: -5566383658450580425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-Rainforest_0: -8426852568094590925
+      PU-Rainforest_1: 329292395857476776
+      PU-Rainforest_10: -6935146800050319428
+      PU-Rainforest_100: 9116439552098221614
+      PU-Rainforest_101: 4337759671020655852
+      PU-Rainforest_102: -1764742519134630665
+      PU-Rainforest_103: -2333918321861662327
+      PU-Rainforest_104: -7631906302163902668
+      PU-Rainforest_105: -234101087003553793
+      PU-Rainforest_106: 4136928388514267975
+      PU-Rainforest_107: -6118930027210369563
+      PU-Rainforest_108: 3873841868915648908
+      PU-Rainforest_109: 4725441391936814381
+      PU-Rainforest_11: 6046848109102638146
+      PU-Rainforest_110: 3525091504289279674
+      PU-Rainforest_111: 6843749355399045063
+      PU-Rainforest_112: -5566383658450580425
+      PU-Rainforest_12: -4594536895213999539
+      PU-Rainforest_13: -2706647880068541588
+      PU-Rainforest_14: 1479438066307617153
+      PU-Rainforest_15: 543356022697948385
+      PU-Rainforest_16: 1769601638389577740
+      PU-Rainforest_17: -4079788005279502399
+      PU-Rainforest_18: -2098258248509595444
+      PU-Rainforest_19: -4923841884694679395
+      PU-Rainforest_2: 623485243762646177
+      PU-Rainforest_20: -4676667924307703440
+      PU-Rainforest_21: 6241602833075484036
+      PU-Rainforest_22: -1052541432892306860
+      PU-Rainforest_23: 5181678785169170980
+      PU-Rainforest_24: 1584357531208207153
+      PU-Rainforest_25: 3569091283844788380
+      PU-Rainforest_26: -7162205442755671310
+      PU-Rainforest_27: 4756575944429911095
+      PU-Rainforest_28: -1177915123948567404
+      PU-Rainforest_29: -8035579495022467309
+      PU-Rainforest_3: 39029508156063766
+      PU-Rainforest_30: -3919513558147573656
+      PU-Rainforest_31: -4585132701623771049
+      PU-Rainforest_32: -8324084212641632405
+      PU-Rainforest_33: 7352482379286184113
+      PU-Rainforest_34: 1794277122766855378
+      PU-Rainforest_35: -383995986000583460
+      PU-Rainforest_36: 598471431564562667
+      PU-Rainforest_37: -7713985590972673062
+      PU-Rainforest_38: -3046403548117182640
+      PU-Rainforest_39: -5571746883551356336
+      PU-Rainforest_4: 1033074405296212426
+      PU-Rainforest_40: -8359935923500537124
+      PU-Rainforest_41: 3910492230230942077
+      PU-Rainforest_42: 8728762780467334166
+      PU-Rainforest_43: -7745723733882730026
+      PU-Rainforest_44: -404066891909426861
+      PU-Rainforest_45: 7530173011590412256
+      PU-Rainforest_46: 5391906075326648754
+      PU-Rainforest_47: 9161961229744347688
+      PU-Rainforest_48: 7558194917902331238
+      PU-Rainforest_49: 1996422558871755050
+      PU-Rainforest_5: -8121568513774926847
+      PU-Rainforest_50: -2032232485846446590
+      PU-Rainforest_51: -2241606186048576785
+      PU-Rainforest_52: 2645970394619353668
+      PU-Rainforest_53: 4188372541173661450
+      PU-Rainforest_54: 4263865240435727158
+      PU-Rainforest_55: 3905675043479009062
+      PU-Rainforest_56: 6101052736133787698
+      PU-Rainforest_57: 7469997665259133638
+      PU-Rainforest_58: -1112752827425857275
+      PU-Rainforest_59: -8783862240940795945
+      PU-Rainforest_6: 5290953932428724144
+      PU-Rainforest_60: -1343662749493899088
+      PU-Rainforest_61: -1488424198937741192
+      PU-Rainforest_62: -3384244094477345461
+      PU-Rainforest_63: 1565614250242167874
+      PU-Rainforest_64: -1106601418735736656
+      PU-Rainforest_65: 8702852016445698391
+      PU-Rainforest_66: 2687293945245276940
+      PU-Rainforest_67: 4860684244263279279
+      PU-Rainforest_68: -6609445971425720036
+      PU-Rainforest_69: 8265539968572544959
+      PU-Rainforest_7: -690279206567701407
+      PU-Rainforest_70: -131676781691633447
+      PU-Rainforest_71: 1372008375968876639
+      PU-Rainforest_72: -1932134277746139158
+      PU-Rainforest_73: 6803920964038438245
+      PU-Rainforest_74: -7637465839493686880
+      PU-Rainforest_75: -5861942112781735198
+      PU-Rainforest_76: 2492719255125129245
+      PU-Rainforest_77: -5238437484983459015
+      PU-Rainforest_78: -1028111463399772747
+      PU-Rainforest_79: 5516700886636228254
+      PU-Rainforest_8: 4156325962693568217
+      PU-Rainforest_80: -6595892845093591817
+      PU-Rainforest_81: -3109880775182499604
+      PU-Rainforest_82: -297290177712768857
+      PU-Rainforest_83: -1329455482031789263
+      PU-Rainforest_84: -7374444970365509667
+      PU-Rainforest_85: -5874134709667114040
+      PU-Rainforest_86: 6175688426313103754
+      PU-Rainforest_87: -6389344548835798534
+      PU-Rainforest_88: 4235080873864813646
+      PU-Rainforest_89: -3458494102935113235
+      PU-Rainforest_9: 1940935353436385494
+      PU-Rainforest_90: -1966240566131159692
+      PU-Rainforest_91: 8547498349359778395
+      PU-Rainforest_92: 498504840398529019
+      PU-Rainforest_93: 3098660801547515562
+      PU-Rainforest_94: -4722026565299125190
+      PU-Rainforest_95: -1546520909065346713
+      PU-Rainforest_96: -6832643239290053145
+      PU-Rainforest_97: -7253227744043127207
+      PU-Rainforest_98: -4277196849748806519
+      PU-Rainforest_99: -6970899531869308658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

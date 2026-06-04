@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 8a4d83c3d65b73d4ba42468c351b31e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -534559291244976784
+    second: NPU-Silverport_0
+  - first:
+      213: 6181947462998895345
+    second: NPU-Silverport_1
+  - first:
+      213: 6429116993456314777
+    second: NPU-Silverport_2
+  - first:
+      213: 1006262074906626524
+    second: NPU-Silverport_3
+  - first:
+      213: 1800355629369262890
+    second: NPU-Silverport_4
+  - first:
+      213: 6001591042532262502
+    second: NPU-Silverport_5
+  - first:
+      213: 4408345495906795637
+    second: NPU-Silverport_6
+  - first:
+      213: 1602231842241625622
+    second: NPU-Silverport_7
+  - first:
+      213: -5463252768501400244
+    second: NPU-Silverport_8
+  - first:
+      213: -1887530564453193686
+    second: NPU-Silverport_9
+  - first:
+      213: -7191948285494949639
+    second: NPU-Silverport_10
+  - first:
+      213: 2023225921777945481
+    second: NPU-Silverport_11
+  - first:
+      213: 3819531822508820510
+    second: NPU-Silverport_12
+  - first:
+      213: -8607016049305032237
+    second: NPU-Silverport_13
+  - first:
+      213: -4337995860451889037
+    second: NPU-Silverport_14
+  - first:
+      213: 5283083761674292779
+    second: NPU-Silverport_15
+  - first:
+      213: 5308768731497728301
+    second: NPU-Silverport_16
+  - first:
+      213: 1710210640964518397
+    second: NPU-Silverport_17
+  - first:
+      213: 7887259639690967085
+    second: NPU-Silverport_18
+  - first:
+      213: 2048651364263497998
+    second: NPU-Silverport_19
+  - first:
+      213: 8312232112223538659
+    second: NPU-Silverport_20
+  - first:
+      213: -566713228531243194
+    second: NPU-Silverport_21
+  - first:
+      213: -6895965256688656024
+    second: NPU-Silverport_22
+  - first:
+      213: 3652956092295706450
+    second: NPU-Silverport_23
+  - first:
+      213: 1990504345311930325
+    second: NPU-Silverport_24
+  - first:
+      213: 863892636173548460
+    second: NPU-Silverport_25
+  - first:
+      213: -9102862992856667644
+    second: NPU-Silverport_26
+  - first:
+      213: -5458326317356442743
+    second: NPU-Silverport_27
+  - first:
+      213: 4004557213663109482
+    second: NPU-Silverport_28
+  - first:
+      213: 7123269729787815014
+    second: NPU-Silverport_29
+  - first:
+      213: 2082499410026755324
+    second: NPU-Silverport_30
+  - first:
+      213: 8688877993340846799
+    second: NPU-Silverport_31
+  - first:
+      213: -1860833269678692770
+    second: NPU-Silverport_32
+  - first:
+      213: 5983083938397838044
+    second: NPU-Silverport_33
+  - first:
+      213: 4322638069528379823
+    second: NPU-Silverport_34
+  - first:
+      213: -1018010135957559712
+    second: NPU-Silverport_35
+  - first:
+      213: -7243609937322315321
+    second: NPU-Silverport_36
+  - first:
+      213: 2638857267832874607
+    second: NPU-Silverport_37
+  - first:
+      213: -1914379951967720964
+    second: NPU-Silverport_38
+  - first:
+      213: 8039558040172835441
+    second: NPU-Silverport_39
+  - first:
+      213: 7999500436431372493
+    second: NPU-Silverport_40
+  - first:
+      213: 5345473435654736539
+    second: NPU-Silverport_41
+  - first:
+      213: -7738729295222131925
+    second: NPU-Silverport_42
+  - first:
+      213: 5449559426154619619
+    second: NPU-Silverport_43
+  - first:
+      213: 8019822495559244934
+    second: NPU-Silverport_44
+  - first:
+      213: 5868299735672655600
+    second: NPU-Silverport_45
+  - first:
+      213: -7610417477728994690
+    second: NPU-Silverport_46
+  - first:
+      213: 6958153523736807240
+    second: NPU-Silverport_47
+  - first:
+      213: -7723915406600470545
+    second: NPU-Silverport_48
+  - first:
+      213: -8936488574702495738
+    second: NPU-Silverport_49
+  - first:
+      213: -3934886182084743106
+    second: NPU-Silverport_50
+  - first:
+      213: 1919873902213387976
+    second: NPU-Silverport_51
+  - first:
+      213: -5710576596085981234
+    second: NPU-Silverport_52
+  - first:
+      213: -4822364660417317377
+    second: NPU-Silverport_53
+  - first:
+      213: 5194425594145960470
+    second: NPU-Silverport_54
+  - first:
+      213: 8969724123217726543
+    second: NPU-Silverport_55
+  - first:
+      213: 7940259251832860750
+    second: NPU-Silverport_56
+  - first:
+      213: -3142841934118706477
+    second: NPU-Silverport_57
+  - first:
+      213: -5288593871899388208
+    second: NPU-Silverport_58
+  - first:
+      213: 8586875050694583345
+    second: NPU-Silverport_59
+  - first:
+      213: -1702600617941314664
+    second: NPU-Silverport_60
+  - first:
+      213: -9193508184393306102
+    second: NPU-Silverport_61
+  - first:
+      213: 7258698059241398951
+    second: NPU-Silverport_62
+  - first:
+      213: 4790105503451641239
+    second: NPU-Silverport_63
+  - first:
+      213: -1305053448209206351
+    second: NPU-Silverport_64
+  - first:
+      213: 8356792772523871141
+    second: NPU-Silverport_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPU-Silverport_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2975
+        width: 256
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07565f5282dd498f0800000000000000
+      internalID: -534559291244976784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2527
+        width: 256
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa2d28d670bac550800000000000000
+      internalID: 6181947462998895345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2944
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9991466b7dfc83950800000000000000
+      internalID: 6429116993456314777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2944
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9c1c59606f6fd00800000000000000
+      internalID: 1006262074906626524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2973
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a230eedf7e52cf810800000000000000
+      internalID: 1800355629369262890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2963
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6624d41614fe94350800000000000000
+      internalID: 6001591042532262502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2435
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570c7b24fd69d2d30800000000000000
+      internalID: 4408345495906795637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2399
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eb1ac1f554c3610800000000000000
+      internalID: 1602231842241625622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2371
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dfd477d80ae24b0800000000000000
+      internalID: -5463252768501400244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2431
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a282313c3f42ec5e0800000000000000
+      internalID: -1887530564453193686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2111
+        width: 256
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f808109321113c90800000000000000
+      internalID: -7191948285494949639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2079
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bcfef9141f31c10800000000000000
+      internalID: 2023225921777945481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1840f0b4f3b10530800000000000000
+      internalID: 3819531822508820510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9661d418cbd8880800000000000000
+      internalID: -8607016049305032237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2079
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37076a4afb75cc3c0800000000000000
+      internalID: -4337995860451889037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1055
+        width: 256
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e0b35b0b8415940800000000000000
+      internalID: 5283083761674292779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 239
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d298f93c8098ca940800000000000000
+      internalID: 5308768731497728301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 623
+        width: 154
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df188c15483ebb710800000000000000
+      internalID: 1710210640964518397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 735
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d283e039adc257d60800000000000000
+      internalID: 7887259639690967085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 703
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e019b83cf854e6c10800000000000000
+      internalID: 2048651364263497998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 671
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edcda3e01bfa5370800000000000000
+      internalID: 8312232112223538659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 639
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64761eb3251a228f0800000000000000
+      internalID: -566713228531243194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 607
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86123aba22c9c40a0800000000000000
+      internalID: -6895965256688656024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 575
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25772653638e1b230800000000000000
+      internalID: 3652956092295706450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 161
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7603ae721bf9b10800000000000000
+      internalID: 1990504345311930325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 511
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab333786c92dfb00800000000000000
+      internalID: 863892636173548460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 511
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aaab746522ca180800000000000000
+      internalID: -9102862992856667644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 543
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b9dc142212044b0800000000000000
+      internalID: -5458326317356442743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 511
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a612e1b919b039730800000000000000
+      internalID: 4004557213663109482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 447
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664ab4b1410fad260800000000000000
+      internalID: 7123269729787815014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 479
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4fa9b0e2686ec10800000000000000
+      internalID: 2082499410026755324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc24ac1df78159870800000000000000
+      internalID: 8688877993340846799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 447
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56a296100efc26e0800000000000000
+      internalID: -1860833269678692770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 415
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda5c89642f280350800000000000000
+      internalID: 5983083938397838044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1c1d20c681dfb30800000000000000
+      internalID: 4322638069528379823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066a08ccc2d4fd1f0800000000000000
+      internalID: -1018010135957559712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1f96ae327897b90800000000000000
+      internalID: -7243609937322315321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e22e24ba1f9420800000000000000
+      internalID: 2638857267832874607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9a5d59391ce65e0800000000000000
+      internalID: -1914379951967720964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17233af217f329f60800000000000000
+      internalID: 8039558040172835441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc00316834fe30f60800000000000000
+      internalID: 7999500436431372493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9acc78a4cfee2a40800000000000000
+      internalID: 5345473435654736539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23306125b28a9490800000000000000
+      internalID: -7738729295222131925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2e352dc69b0ab40800000000000000
+      internalID: 5449559426154619619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cde71a1122c4f60800000000000000
+      internalID: 8019822495559244934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe894c9483607150800000000000000
+      internalID: 5868299735672655600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7af98f20ad526690800000000000000
+      internalID: -7610417477728994690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84707f293c3509060800000000000000
+      internalID: 6958153523736807240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef796a5cd32fc490800000000000000
+      internalID: -7723915406600470545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60855852df63bf380800000000000000
+      internalID: -8936488574702495738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30fe358dd97469c0800000000000000
+      internalID: -3934886182084743106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6d8f26423c4aa10800000000000000
+      internalID: 1919873902213387976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfb2af77d4ffb0b0800000000000000
+      internalID: -5710576596085981234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5bd6e24e4831db0800000000000000
+      internalID: -4822364660417317377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612744f7e8e461840800000000000000
+      internalID: 5194425594145960470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c05a1019cda7c70800000000000000
+      internalID: 8969724123217726543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40b10268b7713e60800000000000000
+      internalID: 7940259251832860750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_57
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d227a399e16264d0800000000000000
+      internalID: -3142841934118706477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d61128c4e32b96b0800000000000000
+      internalID: -5288593871899388208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134a0570d55ba2770800000000000000
+      internalID: 8586875050694583345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8935f3d32c52f58e0800000000000000
+      internalID: -1702600617941314664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 63
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00379df3091a6080800000000000000
+      internalID: -9193508184393306102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_62
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 19
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a6e83d631cb460800000000000000
+      internalID: 7258698059241398951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795f0e9839fd97240800000000000000
+      internalID: 4790105503451641239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b37796adc483ede0800000000000000
+      internalID: -1305053448209206351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Silverport_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab46db10ca49f370800000000000000
+      internalID: 8356792772523871141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPU-Silverport_0: -534559291244976784
+      NPU-Silverport_1: 6181947462998895345
+      NPU-Silverport_10: -7191948285494949639
+      NPU-Silverport_11: 2023225921777945481
+      NPU-Silverport_12: 3819531822508820510
+      NPU-Silverport_13: -8607016049305032237
+      NPU-Silverport_14: -4337995860451889037
+      NPU-Silverport_15: 5283083761674292779
+      NPU-Silverport_16: 5308768731497728301
+      NPU-Silverport_17: 1710210640964518397
+      NPU-Silverport_18: 7887259639690967085
+      NPU-Silverport_19: 2048651364263497998
+      NPU-Silverport_2: 6429116993456314777
+      NPU-Silverport_20: 8312232112223538659
+      NPU-Silverport_21: -566713228531243194
+      NPU-Silverport_22: -6895965256688656024
+      NPU-Silverport_23: 3652956092295706450
+      NPU-Silverport_24: 1990504345311930325
+      NPU-Silverport_25: 863892636173548460
+      NPU-Silverport_26: -9102862992856667644
+      NPU-Silverport_27: -5458326317356442743
+      NPU-Silverport_28: 4004557213663109482
+      NPU-Silverport_29: 7123269729787815014
+      NPU-Silverport_3: 1006262074906626524
+      NPU-Silverport_30: 2082499410026755324
+      NPU-Silverport_31: 8688877993340846799
+      NPU-Silverport_32: -1860833269678692770
+      NPU-Silverport_33: 5983083938397838044
+      NPU-Silverport_34: 4322638069528379823
+      NPU-Silverport_35: -1018010135957559712
+      NPU-Silverport_36: -7243609937322315321
+      NPU-Silverport_37: 2638857267832874607
+      NPU-Silverport_38: -1914379951967720964
+      NPU-Silverport_39: 8039558040172835441
+      NPU-Silverport_4: 1800355629369262890
+      NPU-Silverport_40: 7999500436431372493
+      NPU-Silverport_41: 5345473435654736539
+      NPU-Silverport_42: -7738729295222131925
+      NPU-Silverport_43: 5449559426154619619
+      NPU-Silverport_44: 8019822495559244934
+      NPU-Silverport_45: 5868299735672655600
+      NPU-Silverport_46: -7610417477728994690
+      NPU-Silverport_47: 6958153523736807240
+      NPU-Silverport_48: -7723915406600470545
+      NPU-Silverport_49: -8936488574702495738
+      NPU-Silverport_5: 6001591042532262502
+      NPU-Silverport_50: -3934886182084743106
+      NPU-Silverport_51: 1919873902213387976
+      NPU-Silverport_52: -5710576596085981234
+      NPU-Silverport_53: -4822364660417317377
+      NPU-Silverport_54: 5194425594145960470
+      NPU-Silverport_55: 8969724123217726543
+      NPU-Silverport_56: 7940259251832860750
+      NPU-Silverport_57: -3142841934118706477
+      NPU-Silverport_58: -5288593871899388208
+      NPU-Silverport_59: 8586875050694583345
+      NPU-Silverport_6: 4408345495906795637
+      NPU-Silverport_60: -1702600617941314664
+      NPU-Silverport_61: -9193508184393306102
+      NPU-Silverport_62: 7258698059241398951
+      NPU-Silverport_63: 4790105503451641239
+      NPU-Silverport_64: -1305053448209206351
+      NPU-Silverport_65: 8356792772523871141
+      NPU-Silverport_7: 1602231842241625622
+      NPU-Silverport_8: -5463252768501400244
+      NPU-Silverport_9: -1887530564453193686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

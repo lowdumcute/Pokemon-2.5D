@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 2d4b46850c7ab5948920b2b349ea2549
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7739265482904026234
+    second: OLDPU-Victory Road_0
+  - first:
+      213: 4468928176789752677
+    second: OLDPU-Victory Road_1
+  - first:
+      213: 2578876958987835906
+    second: OLDPU-Victory Road_2
+  - first:
+      213: -8011340130694853791
+    second: OLDPU-Victory Road_3
+  - first:
+      213: 5655862717960997248
+    second: OLDPU-Victory Road_4
+  - first:
+      213: -6444566073391552059
+    second: OLDPU-Victory Road_5
+  - first:
+      213: -7085141154156392505
+    second: OLDPU-Victory Road_6
+  - first:
+      213: -5257023507037022755
+    second: OLDPU-Victory Road_7
+  - first:
+      213: -6855851864188232414
+    second: OLDPU-Victory Road_8
+  - first:
+      213: 3162268991485203608
+    second: OLDPU-Victory Road_9
+  - first:
+      213: 3958547807608726469
+    second: OLDPU-Victory Road_10
+  - first:
+      213: 2667587063114467659
+    second: OLDPU-Victory Road_11
+  - first:
+      213: -5725237856200155306
+    second: OLDPU-Victory Road_12
+  - first:
+      213: -6107099709547494899
+    second: OLDPU-Victory Road_13
+  - first:
+      213: -2802664546560349346
+    second: OLDPU-Victory Road_14
+  - first:
+      213: -3562011135415554840
+    second: OLDPU-Victory Road_15
+  - first:
+      213: -2467341398499217657
+    second: OLDPU-Victory Road_16
+  - first:
+      213: -1247618243280305733
+    second: OLDPU-Victory Road_17
+  - first:
+      213: 5471958782416390071
+    second: OLDPU-Victory Road_18
+  - first:
+      213: 7480014411776020879
+    second: OLDPU-Victory Road_19
+  - first:
+      213: 6229843586024485637
+    second: OLDPU-Victory Road_20
+  - first:
+      213: 7730620283375836557
+    second: OLDPU-Victory Road_21
+  - first:
+      213: 6356311903816336888
+    second: OLDPU-Victory Road_22
+  - first:
+      213: 8092370817582927716
+    second: OLDPU-Victory Road_23
+  - first:
+      213: 403387761328753324
+    second: OLDPU-Victory Road_24
+  - first:
+      213: -7536028868553878143
+    second: OLDPU-Victory Road_25
+  - first:
+      213: -4163175332087671036
+    second: OLDPU-Victory Road_26
+  - first:
+      213: -2223305472519063139
+    second: OLDPU-Victory Road_27
+  - first:
+      213: 6790333116472274201
+    second: OLDPU-Victory Road_28
+  - first:
+      213: -8498315434801021994
+    second: OLDPU-Victory Road_29
+  - first:
+      213: 2388172329225417326
+    second: OLDPU-Victory Road_30
+  - first:
+      213: 5702605164413353074
+    second: OLDPU-Victory Road_31
+  - first:
+      213: -3470241696090985193
+    second: OLDPU-Victory Road_32
+  - first:
+      213: 439606602416982412
+    second: OLDPU-Victory Road_33
+  - first:
+      213: 1199462188461074306
+    second: OLDPU-Victory Road_34
+  - first:
+      213: -4508351249564855560
+    second: OLDPU-Victory Road_35
+  - first:
+      213: 2303160803624970202
+    second: OLDPU-Victory Road_36
+  - first:
+      213: -1202760535077506704
+    second: OLDPU-Victory Road_37
+  - first:
+      213: 6758279480595580947
+    second: OLDPU-Victory Road_38
+  - first:
+      213: -1768046538006156697
+    second: OLDPU-Victory Road_39
+  - first:
+      213: -2390966405265438502
+    second: OLDPU-Victory Road_40
+  - first:
+      213: -4563852513381432967
+    second: OLDPU-Victory Road_41
+  - first:
+      213: 3055211322617507963
+    second: OLDPU-Victory Road_42
+  - first:
+      213: -3779927349732834537
+    second: OLDPU-Victory Road_43
+  - first:
+      213: -8414483204274752224
+    second: OLDPU-Victory Road_44
+  - first:
+      213: -5573063861269284985
+    second: OLDPU-Victory Road_45
+  - first:
+      213: -6223077560450227469
+    second: OLDPU-Victory Road_46
+  - first:
+      213: -1523921814080080043
+    second: OLDPU-Victory Road_47
+  - first:
+      213: -8285031124369423277
+    second: OLDPU-Victory Road_48
+  - first:
+      213: 5647000783381662137
+    second: OLDPU-Victory Road_49
+  - first:
+      213: -7896367646860922441
+    second: OLDPU-Victory Road_50
+  - first:
+      213: -5939165067306516055
+    second: OLDPU-Victory Road_51
+  - first:
+      213: 4090177104483775794
+    second: OLDPU-Victory Road_52
+  - first:
+      213: 2875406635311406154
+    second: OLDPU-Victory Road_53
+  - first:
+      213: -8649904892777219934
+    second: OLDPU-Victory Road_54
+  - first:
+      213: -2676881614666501949
+    second: OLDPU-Victory Road_55
+  - first:
+      213: 1261792722832922732
+    second: OLDPU-Victory Road_56
+  - first:
+      213: -6941919752980712226
+    second: OLDPU-Victory Road_57
+  - first:
+      213: 5708391437374007423
+    second: OLDPU-Victory Road_58
+  - first:
+      213: 319601610119416810
+    second: OLDPU-Victory Road_59
+  - first:
+      213: 5597344564489220941
+    second: OLDPU-Victory Road_60
+  - first:
+      213: -3938864509117941424
+    second: OLDPU-Victory Road_61
+  - first:
+      213: 7864468347404788636
+    second: OLDPU-Victory Road_62
+  - first:
+      213: -1136639954277506451
+    second: OLDPU-Victory Road_63
+  - first:
+      213: 7129496102552967266
+    second: OLDPU-Victory Road_64
+  - first:
+      213: -1785660991157246188
+    second: OLDPU-Victory Road_65
+  - first:
+      213: -152777140023079069
+    second: OLDPU-Victory Road_66
+  - first:
+      213: -5619953596629706488
+    second: OLDPU-Victory Road_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5889
+        width: 256
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68340153c0b989490800000000000000
+      internalID: -7739265482904026234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5877
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b8948df72d40e30800000000000000
+      internalID: 4468928176789752677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5887
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad8e34ee20ac320800000000000000
+      internalID: 2578876958987835906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5823
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b0a17d89002d090800000000000000
+      internalID: -8011340130694853791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5837
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089c07a0d29ad7e40800000000000000
+      internalID: 5655862717960997248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5823
+        width: 97
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c966ff0d4d4096a0800000000000000
+      internalID: -6444566073391552059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5685
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfc103b8a58cad90800000000000000
+      internalID: -7085141154156392505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5755
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd51e2729fc4b07b0800000000000000
+      internalID: -5257023507037022755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5791
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d5c5aad0f1bd0a0800000000000000
+      internalID: -6855851864188232414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5759
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89455b1b4e2a2eb20800000000000000
+      internalID: 3162268991485203608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5791
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c36beaf1469fe630800000000000000
+      internalID: 3958547807608726469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5759
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b498d58ec4c250520800000000000000
+      internalID: 2667587063114467659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5791
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f129ed08edb80b0800000000000000
+      internalID: -5725237856200155306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5759
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02c784cb293f3ba0800000000000000
+      internalID: -6107099709547494899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5311
+        width: 256
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b60bda17fea19d0800000000000000
+      internalID: -2802664546560349346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 5695
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ece193aeb1319ec0800000000000000
+      internalID: -3562011135415554840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5695
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fa6d2121e32cdd0800000000000000
+      internalID: -2467341398499217657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5727
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb10bf161d19faee0800000000000000
+      internalID: -1247618243280305733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5727
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7028b558d40fb40800000000000000
+      internalID: 5471958782416390071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5727
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8156b80a795ec760800000000000000
+      internalID: 7480014411776020879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5151
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5033c3ffbb9d47650800000000000000
+      internalID: 6229843586024485637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5279
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ddb0c603ea84b60800000000000000
+      internalID: 7730620283375836557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5279
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f54f84dff7263850800000000000000
+      internalID: 6356311903816336888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5279
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f84c42260ed4070800000000000000
+      internalID: 8092370817582927716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5279
+        width: 95
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa8dbc180f199500800000000000000
+      internalID: 403387761328753324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 5247
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185d1c0fba5aa6790800000000000000
+      internalID: -7536028868553878143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5247
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407de39c71e6936c0800000000000000
+      internalID: -4163175332087671036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4353
+        width: 256
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99b15bc37b3521e0800000000000000
+      internalID: -2223305472519063139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3759
+        width: 225
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91da6e12efb1c3e50800000000000000
+      internalID: 6790333116472274201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 4163
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db3777532bef0a80800000000000000
+      internalID: -8498315434801021994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4127
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62f5e1941e742120800000000000000
+      internalID: 2388172329225417326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4095
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c7a2fee29b32f40800000000000000
+      internalID: 5702605164413353074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4063
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d6fb3409937dfc0800000000000000
+      internalID: -3470241696090985193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4031
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c890bf130ebc91600800000000000000
+      internalID: 439606602416982412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3999
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2872cb0618855a010800000000000000
+      internalID: 1199462188461074306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3967
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f29ffebc6e1f61c0800000000000000
+      internalID: -4508351249564855560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3935
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad76ba85c8876ff10800000000000000
+      internalID: 2303160803624970202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3903
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071b8d47aafee4fe0800000000000000
+      internalID: -1202760535077506704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3871
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31806b5716b3acd50800000000000000
+      internalID: 6758279480595580947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3839
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa8cb8a03a677e0800000000000000
+      internalID: -1768046538006156697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3807
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8c248e8b491ded0800000000000000
+      internalID: -2390966405265438502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3775
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97140a4c150f9a0c0800000000000000
+      internalID: -4563852513381432967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3319
+        width: 256
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b703e5eb28a466a20800000000000000
+      internalID: 3055211322617507963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3743
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71304623a100b8bc0800000000000000
+      internalID: -3779927349732834537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3230
+        width: 225
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02576b88b10c93b80800000000000000
+      internalID: -8414483204274752224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3138
+        width: 256
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7873a7e02ff78a2b0800000000000000
+      internalID: -5573063861269284985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2847
+        width: 256
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2e8a71eef23a9a0800000000000000
+      internalID: -6223077560450227469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3039
+        width: 30
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557b9462f21f9dae0800000000000000
+      internalID: -1523921814080080043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_48
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 3039
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354c7ee9618a50d80800000000000000
+      internalID: -8285031124369423277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2657
+        width: 193
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b901db1b4d2e5e40800000000000000
+      internalID: 5647000783381662137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_50
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2839
+        width: 65
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1b7f046777a6290800000000000000
+      internalID: -7896367646860922441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2657
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a149cc96d8d39da0800000000000000
+      internalID: -5939165067306516055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2527
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235f035e76a33c830800000000000000
+      internalID: 4090177104483775794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2527
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c998aa91f77e720800000000000000
+      internalID: 2875406635311406154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_54
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2527
+        width: 18
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8b915445d55f780800000000000000
+      internalID: -8649904892777219934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2519
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0770caa5ec9dad0800000000000000
+      internalID: -2676881614666501949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_56
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2487
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6811a0dbc9c28110800000000000000
+      internalID: 1261792722832922732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_57
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2493
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed43158b3c859af90800000000000000
+      internalID: -6941919752980712226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_58
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2461
+        width: 122
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f782f8794c7483f40800000000000000
+      internalID: 5708391437374007423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2461
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb8fc898f37f6400800000000000000
+      internalID: 319601610119416810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_60
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2415
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43f7d3b933cdad40800000000000000
+      internalID: 5597344564489220941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2399
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059b1a319975659c0800000000000000
+      internalID: -3938864509117941424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2399
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93ad525b44342d60800000000000000
+      internalID: 7864468347404788636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_63
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2399
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62e5c7dbf7d930f0800000000000000
+      internalID: -1136639954277506451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_64
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2399
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268933c7eee01f260800000000000000
+      internalID: 7129496102552967266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_65
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2399
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417ecc41ace0837e0800000000000000
+      internalID: -1785660991157246188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1893
+        width: 255
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fcf17200a31edf0800000000000000
+      internalID: -152777140023079069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLDPU-Victory Road_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1375
+        width: 256
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80915bacaf9e102b0800000000000000
+      internalID: -5619953596629706488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OLDPU-Victory Road_0: -7739265482904026234
+      OLDPU-Victory Road_1: 4468928176789752677
+      OLDPU-Victory Road_10: 3958547807608726469
+      OLDPU-Victory Road_11: 2667587063114467659
+      OLDPU-Victory Road_12: -5725237856200155306
+      OLDPU-Victory Road_13: -6107099709547494899
+      OLDPU-Victory Road_14: -2802664546560349346
+      OLDPU-Victory Road_15: -3562011135415554840
+      OLDPU-Victory Road_16: -2467341398499217657
+      OLDPU-Victory Road_17: -1247618243280305733
+      OLDPU-Victory Road_18: 5471958782416390071
+      OLDPU-Victory Road_19: 7480014411776020879
+      OLDPU-Victory Road_2: 2578876958987835906
+      OLDPU-Victory Road_20: 6229843586024485637
+      OLDPU-Victory Road_21: 7730620283375836557
+      OLDPU-Victory Road_22: 6356311903816336888
+      OLDPU-Victory Road_23: 8092370817582927716
+      OLDPU-Victory Road_24: 403387761328753324
+      OLDPU-Victory Road_25: -7536028868553878143
+      OLDPU-Victory Road_26: -4163175332087671036
+      OLDPU-Victory Road_27: -2223305472519063139
+      OLDPU-Victory Road_28: 6790333116472274201
+      OLDPU-Victory Road_29: -8498315434801021994
+      OLDPU-Victory Road_3: -8011340130694853791
+      OLDPU-Victory Road_30: 2388172329225417326
+      OLDPU-Victory Road_31: 5702605164413353074
+      OLDPU-Victory Road_32: -3470241696090985193
+      OLDPU-Victory Road_33: 439606602416982412
+      OLDPU-Victory Road_34: 1199462188461074306
+      OLDPU-Victory Road_35: -4508351249564855560
+      OLDPU-Victory Road_36: 2303160803624970202
+      OLDPU-Victory Road_37: -1202760535077506704
+      OLDPU-Victory Road_38: 6758279480595580947
+      OLDPU-Victory Road_39: -1768046538006156697
+      OLDPU-Victory Road_4: 5655862717960997248
+      OLDPU-Victory Road_40: -2390966405265438502
+      OLDPU-Victory Road_41: -4563852513381432967
+      OLDPU-Victory Road_42: 3055211322617507963
+      OLDPU-Victory Road_43: -3779927349732834537
+      OLDPU-Victory Road_44: -8414483204274752224
+      OLDPU-Victory Road_45: -5573063861269284985
+      OLDPU-Victory Road_46: -6223077560450227469
+      OLDPU-Victory Road_47: -1523921814080080043
+      OLDPU-Victory Road_48: -8285031124369423277
+      OLDPU-Victory Road_49: 5647000783381662137
+      OLDPU-Victory Road_5: -6444566073391552059
+      OLDPU-Victory Road_50: -7896367646860922441
+      OLDPU-Victory Road_51: -5939165067306516055
+      OLDPU-Victory Road_52: 4090177104483775794
+      OLDPU-Victory Road_53: 2875406635311406154
+      OLDPU-Victory Road_54: -8649904892777219934
+      OLDPU-Victory Road_55: -2676881614666501949
+      OLDPU-Victory Road_56: 1261792722832922732
+      OLDPU-Victory Road_57: -6941919752980712226
+      OLDPU-Victory Road_58: 5708391437374007423
+      OLDPU-Victory Road_59: 319601610119416810
+      OLDPU-Victory Road_6: -7085141154156392505
+      OLDPU-Victory Road_60: 5597344564489220941
+      OLDPU-Victory Road_61: -3938864509117941424
+      OLDPU-Victory Road_62: 7864468347404788636
+      OLDPU-Victory Road_63: -1136639954277506451
+      OLDPU-Victory Road_64: 7129496102552967266
+      OLDPU-Victory Road_65: -1785660991157246188
+      OLDPU-Victory Road_66: -152777140023079069
+      OLDPU-Victory Road_67: -5619953596629706488
+      OLDPU-Victory Road_7: -5257023507037022755
+      OLDPU-Victory Road_8: -6855851864188232414
+      OLDPU-Victory Road_9: 3162268991485203608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

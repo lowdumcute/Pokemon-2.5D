@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9522a0e1d66639469d2b8c7485cf6cb, type: 3}
+  m_Name: Mega Flygon
+  m_EditorClassIdentifier: 
+  pokeName: Mega Flygon
+  description: 
+  frontSprite: {fileID: 21300000, guid: fe29a619d7fc11244aa91ceb37ff3cda, type: 3}
+  backSprite: {fileID: 21300000, guid: dbbca2c50ab38684bb267f4baa2e31c1, type: 3}
+  iconSprite: {fileID: 21300000, guid: fe29a619d7fc11244aa91ceb37ff3cda, type: 3}
+  type1: 12
+  type2: 15
+  maxHP: 90
+  attack: 130
+  defense: 90
+  spAttack: 90
+  spDefense: 90
+  speed: 130
+  learnableMoves: []
+  expYield: 313
+  growthRate: 2
+  evolution:
+    evolvedForm: {fileID: 0}
+    requiredLevel: 0
+  MegaEvolution:
+    megaForm: {fileID: 0}
+    requiredItem: 

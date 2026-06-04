@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 1470a7be268ab91409b507ab54f54696
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3419033560200370704
+    second: PU-Route03-Comet_0
+  - first:
+      213: 6008945502820814873
+    second: PU-Route03-Comet_1
+  - first:
+      213: 4154863919616372378
+    second: PU-Route03-Comet_2
+  - first:
+      213: 8962019551535151128
+    second: PU-Route03-Comet_3
+  - first:
+      213: -5286397691010874016
+    second: PU-Route03-Comet_4
+  - first:
+      213: 8148216479114534637
+    second: PU-Route03-Comet_5
+  - first:
+      213: 6056967933739688824
+    second: PU-Route03-Comet_6
+  - first:
+      213: -4415241108643030498
+    second: PU-Route03-Comet_7
+  - first:
+      213: 7843185448083166658
+    second: PU-Route03-Comet_8
+  - first:
+      213: -9038365948835923491
+    second: PU-Route03-Comet_9
+  - first:
+      213: 1463568447063739408
+    second: PU-Route03-Comet_10
+  - first:
+      213: 6336176639910797512
+    second: PU-Route03-Comet_11
+  - first:
+      213: -6094402582759623329
+    second: PU-Route03-Comet_12
+  - first:
+      213: 6037500224581112619
+    second: PU-Route03-Comet_13
+  - first:
+      213: -3370555065278789329
+    second: PU-Route03-Comet_14
+  - first:
+      213: 8165040661122289010
+    second: PU-Route03-Comet_15
+  - first:
+      213: -6382689053872556153
+    second: PU-Route03-Comet_16
+  - first:
+      213: -1322796422222037761
+    second: PU-Route03-Comet_17
+  - first:
+      213: 7852636477562117958
+    second: PU-Route03-Comet_18
+  - first:
+      213: -554980401774618261
+    second: PU-Route03-Comet_19
+  - first:
+      213: 7374333753651538535
+    second: PU-Route03-Comet_20
+  - first:
+      213: 527805177080603880
+    second: PU-Route03-Comet_21
+  - first:
+      213: -1271988282177863247
+    second: PU-Route03-Comet_22
+  - first:
+      213: 8713292295718491030
+    second: PU-Route03-Comet_23
+  - first:
+      213: -7091562500397105094
+    second: PU-Route03-Comet_24
+  - first:
+      213: 2646949878953669743
+    second: PU-Route03-Comet_25
+  - first:
+      213: 4563582292960554897
+    second: PU-Route03-Comet_26
+  - first:
+      213: 37751951417568637
+    second: PU-Route03-Comet_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-Route03-Comet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3811
+        width: 256
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f52e1187172d80d0800000000000000
+      internalID: -3419033560200370704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3651
+        width: 256
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910d05a1910146350800000000000000
+      internalID: 6008945502820814873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3363
+        width: 256
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e22d2b8ba09a930800000000000000
+      internalID: 4154863919616372378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3207
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818bb5f9c4d7f5c70800000000000000
+      internalID: 8962019551535151128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3267
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0650addfe41f2a6b0800000000000000
+      internalID: -5286397691010874016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3271
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee1b9677b7441170800000000000000
+      internalID: 8148216479114534637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3235
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8736c7a9e3cae0450800000000000000
+      internalID: 6056967933739688824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2947
+        width: 256
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a51a9ca99e9b2c0800000000000000
+      internalID: -4415241108643030498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2915
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5928c2c9798dc60800000000000000
+      internalID: 7843185448083166658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2915
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9f5ad8e06419280800000000000000
+      internalID: -9038365948835923491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2915
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c44bf8fb3af4410800000000000000
+      internalID: 1463568447063739408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1395
+        width: 256
+        height: 1522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0e200651f9ee750800000000000000
+      internalID: 6336176639910797512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1379
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55b368f3255c6ba0800000000000000
+      internalID: -6094402582759623329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1187
+        width: 129
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b239f79577289c350800000000000000
+      internalID: 6037500224581112619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1315
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f290a2ea6026931d0800000000000000
+      internalID: -3370555065278789329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1315
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d80d6983d005170800000000000000
+      internalID: 8165040661122289010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1243
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787f6285f122c67a0800000000000000
+      internalID: -6382689053872556153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 871
+        width: 256
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc3c4799ab74ade0800000000000000
+      internalID: -1322796422222037761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 161
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f5d53754b2afc60800000000000000
+      internalID: 7852636477562117958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 835
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b699be6d3405c48f0800000000000000
+      internalID: -554980401774618261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 835
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa2916a75e65660800000000000000
+      internalID: 7374333753651538535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 835
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4608a1304235700800000000000000
+      internalID: 527805177080603880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 739
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1445a856df85ee0800000000000000
+      internalID: -1271988282177863247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 739
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693d27e8d25dbe870800000000000000
+      internalID: 8713292295718491030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 563
+        width: 154
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3089558a75b59d90800000000000000
+      internalID: -7091562500397105094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 595
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64fb4904eadbb420800000000000000
+      internalID: 2646949878953669743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f2d23aae9155f30800000000000000
+      internalID: 4563582292960554897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route03-Comet_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 483
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d62d5233f168000800000000000000
+      internalID: 37751951417568637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-Route03-Comet_0: -3419033560200370704
+      PU-Route03-Comet_1: 6008945502820814873
+      PU-Route03-Comet_10: 1463568447063739408
+      PU-Route03-Comet_11: 6336176639910797512
+      PU-Route03-Comet_12: -6094402582759623329
+      PU-Route03-Comet_13: 6037500224581112619
+      PU-Route03-Comet_14: -3370555065278789329
+      PU-Route03-Comet_15: 8165040661122289010
+      PU-Route03-Comet_16: -6382689053872556153
+      PU-Route03-Comet_17: -1322796422222037761
+      PU-Route03-Comet_18: 7852636477562117958
+      PU-Route03-Comet_19: -554980401774618261
+      PU-Route03-Comet_2: 4154863919616372378
+      PU-Route03-Comet_20: 7374333753651538535
+      PU-Route03-Comet_21: 527805177080603880
+      PU-Route03-Comet_22: -1271988282177863247
+      PU-Route03-Comet_23: 8713292295718491030
+      PU-Route03-Comet_24: -7091562500397105094
+      PU-Route03-Comet_25: 2646949878953669743
+      PU-Route03-Comet_26: 4563582292960554897
+      PU-Route03-Comet_27: 37751951417568637
+      PU-Route03-Comet_3: 8962019551535151128
+      PU-Route03-Comet_4: -5286397691010874016
+      PU-Route03-Comet_5: 8148216479114534637
+      PU-Route03-Comet_6: 6056967933739688824
+      PU-Route03-Comet_7: -4415241108643030498
+      PU-Route03-Comet_8: 7843185448083166658
+      PU-Route03-Comet_9: -9038365948835923491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

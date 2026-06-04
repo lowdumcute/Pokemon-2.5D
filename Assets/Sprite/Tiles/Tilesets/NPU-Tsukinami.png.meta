@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 1474e65805ff49f418a1418a0a1e931c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8520685270358062846
+    second: NPU-Tsukinami_0
+  - first:
+      213: -4730104903007861866
+    second: NPU-Tsukinami_1
+  - first:
+      213: 2496490607999744448
+    second: NPU-Tsukinami_2
+  - first:
+      213: -4667566924655521226
+    second: NPU-Tsukinami_3
+  - first:
+      213: -876572446557908221
+    second: NPU-Tsukinami_4
+  - first:
+      213: -6344948173385638081
+    second: NPU-Tsukinami_5
+  - first:
+      213: -8221569498356470300
+    second: NPU-Tsukinami_6
+  - first:
+      213: -2064109686562363933
+    second: NPU-Tsukinami_7
+  - first:
+      213: 1247327305820177970
+    second: NPU-Tsukinami_8
+  - first:
+      213: -2322333664615276774
+    second: NPU-Tsukinami_9
+  - first:
+      213: -793530261002028828
+    second: NPU-Tsukinami_10
+  - first:
+      213: -4062159986393688843
+    second: NPU-Tsukinami_11
+  - first:
+      213: 9153747044151165819
+    second: NPU-Tsukinami_12
+  - first:
+      213: 5615146797449151422
+    second: NPU-Tsukinami_13
+  - first:
+      213: -1930086629983441869
+    second: NPU-Tsukinami_14
+  - first:
+      213: 2855168100864302211
+    second: NPU-Tsukinami_15
+  - first:
+      213: -7801600262077719235
+    second: NPU-Tsukinami_16
+  - first:
+      213: 105304645192964243
+    second: NPU-Tsukinami_17
+  - first:
+      213: -7266549254710544062
+    second: NPU-Tsukinami_18
+  - first:
+      213: 5149138636127889161
+    second: NPU-Tsukinami_19
+  - first:
+      213: -643414617939688727
+    second: NPU-Tsukinami_20
+  - first:
+      213: -2046211992538284930
+    second: NPU-Tsukinami_21
+  - first:
+      213: 1396924247918933279
+    second: NPU-Tsukinami_22
+  - first:
+      213: -190781559164945023
+    second: NPU-Tsukinami_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPU-Tsukinami_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4545
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209876124e170c980800000000000000
+      internalID: -8520685270358062846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4339
+        width: 256
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69302e1e6aa4b5eb0800000000000000
+      internalID: -4730104903007861866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4333
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c97ce22bf055a220800000000000000
+      internalID: 2496490607999744448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4333
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6329b82ac98793fb0800000000000000
+      internalID: -4667566924655521226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4333
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303550f010ac5d3f0800000000000000
+      internalID: -876572446557908221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4277
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fd517d04732f7a0800000000000000
+      internalID: -6344948173385638081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 4175
+        width: 173
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eda64ad91e17ed80800000000000000
+      internalID: -8221569498356470300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4287
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5e10b1d2fca53e0800000000000000
+      internalID: -2064109686562363933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4223
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2368e0673956f4110800000000000000
+      internalID: 1247327305820177970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4085
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fdca616d965cfd0800000000000000
+      internalID: -2322333664615276774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3519
+        width: 256
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e873729e60dcf4f0800000000000000
+      internalID: -793530261002028828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4111
+        width: 157
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4d23eb30f40a7c0800000000000000
+      internalID: -4062159986393688843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3373
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7389622074a80f70800000000000000
+      internalID: 9153747044151165819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3407
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb301af03420ded40800000000000000
+      internalID: 5615146797449151422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2591
+        width: 256
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c2b12af64f635e0800000000000000
+      internalID: -1930086629983441869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2015
+        width: 256
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c1b0aa2489f9720800000000000000
+      internalID: 2855168100864302211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1663
+        width: 256
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d534375e52bb390800000000000000
+      internalID: -7801600262077719235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1599
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398dce1540e167100800000000000000
+      internalID: 105304645192964243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1577
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2493912e3f7082b90800000000000000
+      internalID: -7266549254710544062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1575
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90764a9ee4a657740800000000000000
+      internalID: 5149138636127889161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1567
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2496e50d12217f0800000000000000
+      internalID: -643414617939688727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1129
+        width: 256
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c7c99b8056a93e0800000000000000
+      internalID: -2046211992538284930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 256
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f157657c33fd26310800000000000000
+      internalID: 1396924247918933279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Tsukinami_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d3748ce253a5df0800000000000000
+      internalID: -190781559164945023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPU-Tsukinami_0: -8520685270358062846
+      NPU-Tsukinami_1: -4730104903007861866
+      NPU-Tsukinami_10: -793530261002028828
+      NPU-Tsukinami_11: -4062159986393688843
+      NPU-Tsukinami_12: 9153747044151165819
+      NPU-Tsukinami_13: 5615146797449151422
+      NPU-Tsukinami_14: -1930086629983441869
+      NPU-Tsukinami_15: 2855168100864302211
+      NPU-Tsukinami_16: -7801600262077719235
+      NPU-Tsukinami_17: 105304645192964243
+      NPU-Tsukinami_18: -7266549254710544062
+      NPU-Tsukinami_19: 5149138636127889161
+      NPU-Tsukinami_2: 2496490607999744448
+      NPU-Tsukinami_20: -643414617939688727
+      NPU-Tsukinami_21: -2046211992538284930
+      NPU-Tsukinami_22: 1396924247918933279
+      NPU-Tsukinami_23: -190781559164945023
+      NPU-Tsukinami_3: -4667566924655521226
+      NPU-Tsukinami_4: -876572446557908221
+      NPU-Tsukinami_5: -6344948173385638081
+      NPU-Tsukinami_6: -8221569498356470300
+      NPU-Tsukinami_7: -2064109686562363933
+      NPU-Tsukinami_8: 1247327305820177970
+      NPU-Tsukinami_9: -2322333664615276774
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: a11c993f57704ef4b8e43af7b87c190f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5297372787662782861
+    second: NPU-Nowtoch_0
+  - first:
+      213: 2251982801664815523
+    second: NPU-Nowtoch_1
+  - first:
+      213: 5355300552965939200
+    second: NPU-Nowtoch_2
+  - first:
+      213: -3496115937989654327
+    second: NPU-Nowtoch_3
+  - first:
+      213: -4783686754899165405
+    second: NPU-Nowtoch_4
+  - first:
+      213: -3335455653960116703
+    second: NPU-Nowtoch_5
+  - first:
+      213: -2574376607386176845
+    second: NPU-Nowtoch_6
+  - first:
+      213: 7966549600432752577
+    second: NPU-Nowtoch_7
+  - first:
+      213: 3418870916343450851
+    second: NPU-Nowtoch_8
+  - first:
+      213: 6027706502555674011
+    second: NPU-Nowtoch_9
+  - first:
+      213: 1140307717219153744
+    second: NPU-Nowtoch_10
+  - first:
+      213: -5915577395960336682
+    second: NPU-Nowtoch_11
+  - first:
+      213: 1656515904681014157
+    second: NPU-Nowtoch_12
+  - first:
+      213: 1572001136106977724
+    second: NPU-Nowtoch_13
+  - first:
+      213: -8202479009990697876
+    second: NPU-Nowtoch_14
+  - first:
+      213: 5659106811590936978
+    second: NPU-Nowtoch_15
+  - first:
+      213: -7948964505686008768
+    second: NPU-Nowtoch_16
+  - first:
+      213: 1680251810383695717
+    second: NPU-Nowtoch_17
+  - first:
+      213: -8772336170186241508
+    second: NPU-Nowtoch_18
+  - first:
+      213: -929117845554361685
+    second: NPU-Nowtoch_19
+  - first:
+      213: 6080308580297135032
+    second: NPU-Nowtoch_20
+  - first:
+      213: -8760680198561160043
+    second: NPU-Nowtoch_21
+  - first:
+      213: -8045332498047953518
+    second: NPU-Nowtoch_22
+  - first:
+      213: -4312569104153945035
+    second: NPU-Nowtoch_23
+  - first:
+      213: -6950562523170650154
+    second: NPU-Nowtoch_24
+  - first:
+      213: -5968678326761492104
+    second: NPU-Nowtoch_25
+  - first:
+      213: 3262331627168349578
+    second: NPU-Nowtoch_26
+  - first:
+      213: -8245433771782362190
+    second: NPU-Nowtoch_27
+  - first:
+      213: 1699761419544142125
+    second: NPU-Nowtoch_28
+  - first:
+      213: 7595539248042958442
+    second: NPU-Nowtoch_29
+  - first:
+      213: 7990093302192038008
+    second: NPU-Nowtoch_30
+  - first:
+      213: -7645064122256645707
+    second: NPU-Nowtoch_31
+  - first:
+      213: -6097094169388665559
+    second: NPU-Nowtoch_32
+  - first:
+      213: 2774163633657820252
+    second: NPU-Nowtoch_33
+  - first:
+      213: -6779179066873819969
+    second: NPU-Nowtoch_34
+  - first:
+      213: -1053373459846365810
+    second: NPU-Nowtoch_35
+  - first:
+      213: 3110547304026669006
+    second: NPU-Nowtoch_36
+  - first:
+      213: 8722657870572225755
+    second: NPU-Nowtoch_37
+  - first:
+      213: -4586267215691605457
+    second: NPU-Nowtoch_38
+  - first:
+      213: 6629794173527201848
+    second: NPU-Nowtoch_39
+  - first:
+      213: -5727269207677470
+    second: NPU-Nowtoch_40
+  - first:
+      213: -6030449006575319276
+    second: NPU-Nowtoch_41
+  - first:
+      213: -3763470016304747287
+    second: NPU-Nowtoch_42
+  - first:
+      213: 1549951516804997392
+    second: NPU-Nowtoch_43
+  - first:
+      213: 921535456991667601
+    second: NPU-Nowtoch_44
+  - first:
+      213: -4307988771145861113
+    second: NPU-Nowtoch_45
+  - first:
+      213: 2639546905230030187
+    second: NPU-Nowtoch_46
+  - first:
+      213: 7729763153023082089
+    second: NPU-Nowtoch_47
+  - first:
+      213: -7014608930170222831
+    second: NPU-Nowtoch_48
+  - first:
+      213: -8478725205124608495
+    second: NPU-Nowtoch_49
+  - first:
+      213: 6123192804250976012
+    second: NPU-Nowtoch_50
+  - first:
+      213: -7647472335331352302
+    second: NPU-Nowtoch_51
+  - first:
+      213: -2229251278150404940
+    second: NPU-Nowtoch_52
+  - first:
+      213: 18369691930164358
+    second: NPU-Nowtoch_53
+  - first:
+      213: -2443523063443460844
+    second: NPU-Nowtoch_54
+  - first:
+      213: -6635110641044628212
+    second: NPU-Nowtoch_55
+  - first:
+      213: -1075823198205171305
+    second: NPU-Nowtoch_56
+  - first:
+      213: 6702867491820843772
+    second: NPU-Nowtoch_57
+  - first:
+      213: 3537388927736672808
+    second: NPU-Nowtoch_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPU-Nowtoch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3423
+        width: 256
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ef98c2483fb76b0800000000000000
+      internalID: -5297372787662782861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3393
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a135853d66a04f10800000000000000
+      internalID: 2251982801664815523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3391
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000ecf4ba79d15a40800000000000000
+      internalID: 5355300552965939200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c88b8ed31d4b7fc0800000000000000
+      internalID: -3496115937989654327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3387
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f7e71dd3eec9db0800000000000000
+      internalID: -4783686754899165405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3359
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12693a531c416b1d0800000000000000
+      internalID: -3335455653960116703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3395
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2fbae7d1af54cd0800000000000000
+      internalID: -2574376607386176845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3361
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7035b27aede8e60800000000000000
+      internalID: 7966549600432752577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecc0950cf4427f20800000000000000
+      internalID: 3418870916343450851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95a42fb027b6a350800000000000000
+      internalID: 6027706502555674011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057fb73c3df23df00800000000000000
+      internalID: 1140307717219153744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de247053b5a7eda0800000000000000
+      internalID: -5915577395960336682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83fb4f40702df610800000000000000
+      internalID: 1656515904681014157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9ba2854bed0d510800000000000000
+      internalID: 1572001136106977724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3359
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c18eb8cc0fa2e80800000000000000
+      internalID: -8202479009990697876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 3353
+        width: 5
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2990fd279af298e40800000000000000
+      internalID: 5659106811590936978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3265
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c9562c5ea9fa190800000000000000
+      internalID: -7948964505686008768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3297
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f80238e14715710800000000000000
+      internalID: 1680251810383695717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_18
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3309
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a0db52bb6624680800000000000000
+      internalID: -8772336170186241508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3323
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa814dfd3c1b13f0800000000000000
+      internalID: -929117845554361685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3309
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3de5d5078916450800000000000000
+      internalID: 6080308580297135032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3135
+        width: 256
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594a6f586cfcb6680800000000000000
+      internalID: -8760680198561160043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3289
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29512f118bc395090800000000000000
+      internalID: -8045332498047953518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3007
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c549daf3da624c0800000000000000
+      internalID: -4312569104153945035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2927
+        width: 154
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d74549f534aa8f90800000000000000
+      internalID: -6950562523170650154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2847
+        width: 65
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871feca6faefa2da0800000000000000
+      internalID: -5968678326761492104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2879
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d34e09451264d20800000000000000
+      internalID: 3262331627168349578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2879
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb27e5bba5529d80800000000000000
+      internalID: -8245433771782362190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2879
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21a7de5104c69710800000000000000
+      internalID: 1699761419544142125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2881
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e532504b6c86960800000000000000
+      internalID: 7595539248042958442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2861
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8706267668382ee60800000000000000
+      internalID: 7990093302192038008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2879
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b12fc3afa647e590800000000000000
+      internalID: -7645064122256645707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2879
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925bb7f1825c26ba0800000000000000
+      internalID: -6097094169388665559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2861
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c543bfc602fcf7620800000000000000
+      internalID: 2774163633657820252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2847
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcc83a6e848be1a0800000000000000
+      internalID: -6779179066873819969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2691
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d78065b6aa161f0800000000000000
+      internalID: -1053373459846365810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_36
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2751
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecffe89ea42ea2b20800000000000000
+      internalID: 3110547304026669006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2755
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd409b06e1b1d0970800000000000000
+      internalID: 8722657870572225755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2719
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a9ea3344e4a50c0800000000000000
+      internalID: -4586267215691605457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2399
+        width: 256
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8381b07bca2c10c50800000000000000
+      internalID: 6629794173527201848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1561
+        width: 256
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5e7593417abeff0800000000000000
+      internalID: -5727269207677470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 991
+        width: 256
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41788f6449a8f4ca0800000000000000
+      internalID: -6030449006575319276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1503
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec625bb5f775cbc0800000000000000
+      internalID: -3763470016304747287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0116d3a41b8828510800000000000000
+      internalID: 1549951516804997392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 899
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1956ae99d93f9cc00800000000000000
+      internalID: 921535456991667601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 975
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708ba7f8903f634c0800000000000000
+      internalID: -4307988771145861113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 945
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65b736eced81a420800000000000000
+      internalID: 2639546905230030187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_47
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 947
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e18d532a2a54b60800000000000000
+      internalID: 7729763153023082089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_48
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 953
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117cbeec75a17ae90800000000000000
+      internalID: -7014608930170222831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_49
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 943
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e85602954855a80800000000000000
+      internalID: -8478725205124608495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_50
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 933
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f7b94d963f9f450800000000000000
+      internalID: 6123192804250976012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 913
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211a2f6dd68bed590800000000000000
+      internalID: -7647472335331352302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_52
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 913
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b472ca06cb1011e0800000000000000
+      internalID: -2229251278150404940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 917
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c71223323414000800000000000000
+      internalID: 18369691930164358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 841
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d6afa58bcd61ed0800000000000000
+      internalID: -2443523063443460844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 256
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dde1bb60a5be3a0800000000000000
+      internalID: -6635110641044628212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 841
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7992bdd4088e111f0800000000000000
+      internalID: -1075823198205171305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 225
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2be72787e550d50800000000000000
+      internalID: 6702867491820843772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Nowtoch_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 225
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822f426ec74571130800000000000000
+      internalID: 3537388927736672808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPU-Nowtoch_0: -5297372787662782861
+      NPU-Nowtoch_1: 2251982801664815523
+      NPU-Nowtoch_10: 1140307717219153744
+      NPU-Nowtoch_11: -5915577395960336682
+      NPU-Nowtoch_12: 1656515904681014157
+      NPU-Nowtoch_13: 1572001136106977724
+      NPU-Nowtoch_14: -8202479009990697876
+      NPU-Nowtoch_15: 5659106811590936978
+      NPU-Nowtoch_16: -7948964505686008768
+      NPU-Nowtoch_17: 1680251810383695717
+      NPU-Nowtoch_18: -8772336170186241508
+      NPU-Nowtoch_19: -929117845554361685
+      NPU-Nowtoch_2: 5355300552965939200
+      NPU-Nowtoch_20: 6080308580297135032
+      NPU-Nowtoch_21: -8760680198561160043
+      NPU-Nowtoch_22: -8045332498047953518
+      NPU-Nowtoch_23: -4312569104153945035
+      NPU-Nowtoch_24: -6950562523170650154
+      NPU-Nowtoch_25: -5968678326761492104
+      NPU-Nowtoch_26: 3262331627168349578
+      NPU-Nowtoch_27: -8245433771782362190
+      NPU-Nowtoch_28: 1699761419544142125
+      NPU-Nowtoch_29: 7595539248042958442
+      NPU-Nowtoch_3: -3496115937989654327
+      NPU-Nowtoch_30: 7990093302192038008
+      NPU-Nowtoch_31: -7645064122256645707
+      NPU-Nowtoch_32: -6097094169388665559
+      NPU-Nowtoch_33: 2774163633657820252
+      NPU-Nowtoch_34: -6779179066873819969
+      NPU-Nowtoch_35: -1053373459846365810
+      NPU-Nowtoch_36: 3110547304026669006
+      NPU-Nowtoch_37: 8722657870572225755
+      NPU-Nowtoch_38: -4586267215691605457
+      NPU-Nowtoch_39: 6629794173527201848
+      NPU-Nowtoch_4: -4783686754899165405
+      NPU-Nowtoch_40: -5727269207677470
+      NPU-Nowtoch_41: -6030449006575319276
+      NPU-Nowtoch_42: -3763470016304747287
+      NPU-Nowtoch_43: 1549951516804997392
+      NPU-Nowtoch_44: 921535456991667601
+      NPU-Nowtoch_45: -4307988771145861113
+      NPU-Nowtoch_46: 2639546905230030187
+      NPU-Nowtoch_47: 7729763153023082089
+      NPU-Nowtoch_48: -7014608930170222831
+      NPU-Nowtoch_49: -8478725205124608495
+      NPU-Nowtoch_5: -3335455653960116703
+      NPU-Nowtoch_50: 6123192804250976012
+      NPU-Nowtoch_51: -7647472335331352302
+      NPU-Nowtoch_52: -2229251278150404940
+      NPU-Nowtoch_53: 18369691930164358
+      NPU-Nowtoch_54: -2443523063443460844
+      NPU-Nowtoch_55: -6635110641044628212
+      NPU-Nowtoch_56: -1075823198205171305
+      NPU-Nowtoch_57: 6702867491820843772
+      NPU-Nowtoch_58: 3537388927736672808
+      NPU-Nowtoch_6: -2574376607386176845
+      NPU-Nowtoch_7: 7966549600432752577
+      NPU-Nowtoch_8: 3418870916343450851
+      NPU-Nowtoch_9: 6027706502555674011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5291 @@
+fileFormatVersion: 2
+guid: 19e9b27725cb34e44a3d734bd452ae9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 898790435043910446
+    second: Asset Pokemon Tile 7_0
+  - first:
+      213: 6240009625830664188
+    second: Asset Pokemon Tile 7_1
+  - first:
+      213: 3209031861828353863
+    second: Asset Pokemon Tile 7_2
+  - first:
+      213: 2788609941199393011
+    second: Asset Pokemon Tile 7_3
+  - first:
+      213: -3713493851247247278
+    second: Asset Pokemon Tile 7_4
+  - first:
+      213: -933967083776852268
+    second: Asset Pokemon Tile 7_5
+  - first:
+      213: 3932805946967036402
+    second: Asset Pokemon Tile 7_6
+  - first:
+      213: -812261267522782204
+    second: Asset Pokemon Tile 7_7
+  - first:
+      213: -1338801339893143842
+    second: Asset Pokemon Tile 7_8
+  - first:
+      213: -1616387734110658243
+    second: Asset Pokemon Tile 7_9
+  - first:
+      213: 6950899103574796360
+    second: Asset Pokemon Tile 7_10
+  - first:
+      213: 7272437215007124883
+    second: Asset Pokemon Tile 7_11
+  - first:
+      213: 5532028349695247122
+    second: Asset Pokemon Tile 7_12
+  - first:
+      213: -3971512501814421042
+    second: Asset Pokemon Tile 7_13
+  - first:
+      213: -949113991697837134
+    second: Asset Pokemon Tile 7_14
+  - first:
+      213: -4380826952587791878
+    second: Asset Pokemon Tile 7_15
+  - first:
+      213: 3341326250147072849
+    second: Asset Pokemon Tile 7_16
+  - first:
+      213: -3049365340879055341
+    second: Asset Pokemon Tile 7_17
+  - first:
+      213: 1684949103826277184
+    second: Asset Pokemon Tile 7_18
+  - first:
+      213: 2526694254204675403
+    second: Asset Pokemon Tile 7_19
+  - first:
+      213: 8409389550528823364
+    second: Asset Pokemon Tile 7_20
+  - first:
+      213: 8124664220259348770
+    second: Asset Pokemon Tile 7_21
+  - first:
+      213: 339905243891211006
+    second: Asset Pokemon Tile 7_22
+  - first:
+      213: 7232720386069308222
+    second: Asset Pokemon Tile 7_23
+  - first:
+      213: 4547834682483994468
+    second: Asset Pokemon Tile 7_24
+  - first:
+      213: -5203676392916530248
+    second: Asset Pokemon Tile 7_25
+  - first:
+      213: 4767451604057960148
+    second: Asset Pokemon Tile 7_26
+  - first:
+      213: 4249908779695042495
+    second: Asset Pokemon Tile 7_27
+  - first:
+      213: 8021188716137135892
+    second: Asset Pokemon Tile 7_28
+  - first:
+      213: -7905226459797184980
+    second: Asset Pokemon Tile 7_29
+  - first:
+      213: -358489037668026928
+    second: Asset Pokemon Tile 7_30
+  - first:
+      213: 7068814915238637573
+    second: Asset Pokemon Tile 7_31
+  - first:
+      213: -2697930677893641349
+    second: Asset Pokemon Tile 7_32
+  - first:
+      213: 2573340711033523851
+    second: Asset Pokemon Tile 7_33
+  - first:
+      213: 5403259859107248216
+    second: Asset Pokemon Tile 7_34
+  - first:
+      213: -56903902698524411
+    second: Asset Pokemon Tile 7_35
+  - first:
+      213: 7037806162764402574
+    second: Asset Pokemon Tile 7_36
+  - first:
+      213: 866213479245677315
+    second: Asset Pokemon Tile 7_37
+  - first:
+      213: 1719472386207318460
+    second: Asset Pokemon Tile 7_38
+  - first:
+      213: 4102025719043617582
+    second: Asset Pokemon Tile 7_39
+  - first:
+      213: 8611669287741514726
+    second: Asset Pokemon Tile 7_40
+  - first:
+      213: 8500608256332346559
+    second: Asset Pokemon Tile 7_41
+  - first:
+      213: 2185403270121255052
+    second: Asset Pokemon Tile 7_42
+  - first:
+      213: -6088392627242089693
+    second: Asset Pokemon Tile 7_43
+  - first:
+      213: 1456933652354132173
+    second: Asset Pokemon Tile 7_44
+  - first:
+      213: -780983795184011967
+    second: Asset Pokemon Tile 7_45
+  - first:
+      213: 1918185993237233412
+    second: Asset Pokemon Tile 7_46
+  - first:
+      213: -369836870313471231
+    second: Asset Pokemon Tile 7_47
+  - first:
+      213: 6370330636110582469
+    second: Asset Pokemon Tile 7_48
+  - first:
+      213: -435177435539013098
+    second: Asset Pokemon Tile 7_49
+  - first:
+      213: 5717000492388300554
+    second: Asset Pokemon Tile 7_50
+  - first:
+      213: -4368800161475483155
+    second: Asset Pokemon Tile 7_51
+  - first:
+      213: -4134153499226632957
+    second: Asset Pokemon Tile 7_52
+  - first:
+      213: -2120054920875233692
+    second: Asset Pokemon Tile 7_53
+  - first:
+      213: -4543150349688877522
+    second: Asset Pokemon Tile 7_54
+  - first:
+      213: 8733127305607312960
+    second: Asset Pokemon Tile 7_55
+  - first:
+      213: -8953226325449952250
+    second: Asset Pokemon Tile 7_56
+  - first:
+      213: -4396343083392546548
+    second: Asset Pokemon Tile 7_57
+  - first:
+      213: -2184648311293720192
+    second: Asset Pokemon Tile 7_58
+  - first:
+      213: 934249457883008006
+    second: Asset Pokemon Tile 7_59
+  - first:
+      213: 2844386928926553615
+    second: Asset Pokemon Tile 7_60
+  - first:
+      213: 2244307604952438093
+    second: Asset Pokemon Tile 7_61
+  - first:
+      213: -2883283019814927878
+    second: Asset Pokemon Tile 7_62
+  - first:
+      213: -4644249779520364024
+    second: Asset Pokemon Tile 7_63
+  - first:
+      213: 3971882187012286079
+    second: Asset Pokemon Tile 7_64
+  - first:
+      213: 2146579526538576037
+    second: Asset Pokemon Tile 7_65
+  - first:
+      213: 5581580747801900844
+    second: Asset Pokemon Tile 7_66
+  - first:
+      213: 2927083793112187491
+    second: Asset Pokemon Tile 7_67
+  - first:
+      213: 3748837526570844975
+    second: Asset Pokemon Tile 7_68
+  - first:
+      213: -7141294561756974679
+    second: Asset Pokemon Tile 7_69
+  - first:
+      213: -2979436307208875362
+    second: Asset Pokemon Tile 7_70
+  - first:
+      213: 5690247195220197207
+    second: Asset Pokemon Tile 7_71
+  - first:
+      213: -8306430305465381095
+    second: Asset Pokemon Tile 7_72
+  - first:
+      213: 5771895644178905287
+    second: Asset Pokemon Tile 7_73
+  - first:
+      213: -5179191854824857975
+    second: Asset Pokemon Tile 7_74
+  - first:
+      213: -7751155563648507330
+    second: Asset Pokemon Tile 7_75
+  - first:
+      213: 1373730262241977470
+    second: Asset Pokemon Tile 7_76
+  - first:
+      213: -4337066455095007790
+    second: Asset Pokemon Tile 7_77
+  - first:
+      213: -1084518777627926107
+    second: Asset Pokemon Tile 7_78
+  - first:
+      213: -2899132315584689509
+    second: Asset Pokemon Tile 7_79
+  - first:
+      213: 8411793039247104530
+    second: Asset Pokemon Tile 7_80
+  - first:
+      213: -346688305197752890
+    second: Asset Pokemon Tile 7_81
+  - first:
+      213: -3576618843827987460
+    second: Asset Pokemon Tile 7_82
+  - first:
+      213: -8975902641807037532
+    second: Asset Pokemon Tile 7_83
+  - first:
+      213: -2044380972648167181
+    second: Asset Pokemon Tile 7_84
+  - first:
+      213: 7061651491368527904
+    second: Asset Pokemon Tile 7_85
+  - first:
+      213: -4053778632579945586
+    second: Asset Pokemon Tile 7_86
+  - first:
+      213: -1776369601580428881
+    second: Asset Pokemon Tile 7_87
+  - first:
+      213: 5895210066782279196
+    second: Asset Pokemon Tile 7_88
+  - first:
+      213: 5968748732448936918
+    second: Asset Pokemon Tile 7_89
+  - first:
+      213: 4554045165167373510
+    second: Asset Pokemon Tile 7_90
+  - first:
+      213: 2631280831760191306
+    second: Asset Pokemon Tile 7_91
+  - first:
+      213: 4387627510241462782
+    second: Asset Pokemon Tile 7_92
+  - first:
+      213: -1288657115440649176
+    second: Asset Pokemon Tile 7_93
+  - first:
+      213: 403503050563574392
+    second: Asset Pokemon Tile 7_94
+  - first:
+      213: 2509573980582957722
+    second: Asset Pokemon Tile 7_95
+  - first:
+      213: 5783473273188221654
+    second: Asset Pokemon Tile 7_96
+  - first:
+      213: -6248773519781121340
+    second: Asset Pokemon Tile 7_97
+  - first:
+      213: -5337447815883795304
+    second: Asset Pokemon Tile 7_98
+  - first:
+      213: -455798860850241035
+    second: Asset Pokemon Tile 7_99
+  - first:
+      213: -5472058957398797958
+    second: Asset Pokemon Tile 7_100
+  - first:
+      213: -7764675835835615018
+    second: Asset Pokemon Tile 7_101
+  - first:
+      213: -5287101093388309955
+    second: Asset Pokemon Tile 7_102
+  - first:
+      213: -8839152240464228770
+    second: Asset Pokemon Tile 7_103
+  - first:
+      213: -3272833850847594303
+    second: Asset Pokemon Tile 7_104
+  - first:
+      213: -4827173607459954070
+    second: Asset Pokemon Tile 7_105
+  - first:
+      213: 5540591256751264327
+    second: Asset Pokemon Tile 7_106
+  - first:
+      213: 6909289401501195249
+    second: Asset Pokemon Tile 7_107
+  - first:
+      213: -4355712095063283880
+    second: Asset Pokemon Tile 7_108
+  - first:
+      213: -7250439641665323757
+    second: Asset Pokemon Tile 7_109
+  - first:
+      213: 5930403657688040359
+    second: Asset Pokemon Tile 7_110
+  - first:
+      213: 5516732225839704288
+    second: Asset Pokemon Tile 7_111
+  - first:
+      213: -7946224303468515775
+    second: Asset Pokemon Tile 7_112
+  - first:
+      213: -8005765540908557017
+    second: Asset Pokemon Tile 7_113
+  - first:
+      213: 7516858554311693669
+    second: Asset Pokemon Tile 7_114
+  - first:
+      213: -5644617986237810639
+    second: Asset Pokemon Tile 7_115
+  - first:
+      213: -5378850421077558922
+    second: Asset Pokemon Tile 7_116
+  - first:
+      213: 1950040553422443721
+    second: Asset Pokemon Tile 7_117
+  - first:
+      213: -8003133411277355420
+    second: Asset Pokemon Tile 7_118
+  - first:
+      213: 7031148973791377831
+    second: Asset Pokemon Tile 7_119
+  - first:
+      213: -8660673706036682789
+    second: Asset Pokemon Tile 7_120
+  - first:
+      213: -3651678217504270106
+    second: Asset Pokemon Tile 7_121
+  - first:
+      213: -9007051440623119223
+    second: Asset Pokemon Tile 7_122
+  - first:
+      213: 6680231452539346166
+    second: Asset Pokemon Tile 7_123
+  - first:
+      213: -1329729628222901849
+    second: Asset Pokemon Tile 7_124
+  - first:
+      213: 4591320589937543246
+    second: Asset Pokemon Tile 7_125
+  - first:
+      213: -7560095659353012512
+    second: Asset Pokemon Tile 7_126
+  - first:
+      213: 4150233564089803050
+    second: Asset Pokemon Tile 7_127
+  - first:
+      213: -3828965841825614804
+    second: Asset Pokemon Tile 7_128
+  - first:
+      213: -3599222537594918526
+    second: Asset Pokemon Tile 7_129
+  - first:
+      213: -4829026559305980409
+    second: Asset Pokemon Tile 7_130
+  - first:
+      213: -3061993068142817980
+    second: Asset Pokemon Tile 7_131
+  - first:
+      213: -2806171627837993246
+    second: Asset Pokemon Tile 7_132
+  - first:
+      213: -1787563824173901626
+    second: Asset Pokemon Tile 7_133
+  - first:
+      213: 2236175279039948600
+    second: Asset Pokemon Tile 7_134
+  - first:
+      213: -2387550296672189676
+    second: Asset Pokemon Tile 7_135
+  - first:
+      213: 1269729476974506782
+    second: Asset Pokemon Tile 7_136
+  - first:
+      213: 5316000138945598707
+    second: Asset Pokemon Tile 7_137
+  - first:
+      213: -6721914525703367235
+    second: Asset Pokemon Tile 7_138
+  - first:
+      213: 3107772123986563933
+    second: Asset Pokemon Tile 7_139
+  - first:
+      213: 603136839234083399
+    second: Asset Pokemon Tile 7_140
+  - first:
+      213: 179105720454021650
+    second: Asset Pokemon Tile 7_141
+  - first:
+      213: -8612248510037467593
+    second: Asset Pokemon Tile 7_142
+  - first:
+      213: -7403879144647747362
+    second: Asset Pokemon Tile 7_143
+  - first:
+      213: -1287533730224906039
+    second: Asset Pokemon Tile 7_144
+  - first:
+      213: -6335331090490996146
+    second: Asset Pokemon Tile 7_145
+  - first:
+      213: -4698342328794668744
+    second: Asset Pokemon Tile 7_146
+  - first:
+      213: -3809575610035204319
+    second: Asset Pokemon Tile 7_147
+  - first:
+      213: 959991499764802216
+    second: Asset Pokemon Tile 7_148
+  - first:
+      213: 2839931159414275501
+    second: Asset Pokemon Tile 7_149
+  - first:
+      213: -5294772528491034030
+    second: Asset Pokemon Tile 7_150
+  - first:
+      213: 1688949444347408595
+    second: Asset Pokemon Tile 7_151
+  - first:
+      213: 6520572786527647347
+    second: Asset Pokemon Tile 7_152
+  - first:
+      213: -7594621664382182476
+    second: Asset Pokemon Tile 7_153
+  - first:
+      213: 3943563985096233221
+    second: Asset Pokemon Tile 7_154
+  - first:
+      213: 3320796998669528461
+    second: Asset Pokemon Tile 7_155
+  - first:
+      213: 2384489134007580833
+    second: Asset Pokemon Tile 7_156
+  - first:
+      213: -5776181526115723519
+    second: Asset Pokemon Tile 7_157
+  - first:
+      213: -4165501032568812760
+    second: Asset Pokemon Tile 7_158
+  - first:
+      213: 5076915991204974041
+    second: Asset Pokemon Tile 7_159
+  - first:
+      213: 8251504184046706979
+    second: Asset Pokemon Tile 7_160
+  - first:
+      213: 2727284360714062080
+    second: Asset Pokemon Tile 7_161
+  - first:
+      213: -2635455410172854541
+    second: Asset Pokemon Tile 7_162
+  - first:
+      213: -4037454396373434349
+    second: Asset Pokemon Tile 7_163
+  - first:
+      213: 7344569185861269061
+    second: Asset Pokemon Tile 7_164
+  - first:
+      213: 6654300478459968867
+    second: Asset Pokemon Tile 7_165
+  - first:
+      213: -5079216853185928502
+    second: Asset Pokemon Tile 7_166
+  - first:
+      213: -413934801972810781
+    second: Asset Pokemon Tile 7_167
+  - first:
+      213: 3494730221238528465
+    second: Asset Pokemon Tile 7_168
+  - first:
+      213: 1281515435370469683
+    second: Asset Pokemon Tile 7_169
+  - first:
+      213: -6754921566888041506
+    second: Asset Pokemon Tile 7_170
+  - first:
+      213: -1396445386309391931
+    second: Asset Pokemon Tile 7_171
+  - first:
+      213: -7214625579210706137
+    second: Asset Pokemon Tile 7_172
+  - first:
+      213: 4659545707080579895
+    second: Asset Pokemon Tile 7_173
+  - first:
+      213: 5508715157428196768
+    second: Asset Pokemon Tile 7_174
+  - first:
+      213: -6099775231674433776
+    second: Asset Pokemon Tile 7_175
+  - first:
+      213: 623566241317538572
+    second: Asset Pokemon Tile 7_176
+  - first:
+      213: -8980124663151658327
+    second: Asset Pokemon Tile 7_177
+  - first:
+      213: 6151756578435932667
+    second: Asset Pokemon Tile 7_178
+  - first:
+      213: -4027398030404791571
+    second: Asset Pokemon Tile 7_179
+  - first:
+      213: 5226326541165174349
+    second: Asset Pokemon Tile 7_180
+  - first:
+      213: 4395021862172476559
+    second: Asset Pokemon Tile 7_181
+  - first:
+      213: -9194893376344364756
+    second: Asset Pokemon Tile 7_182
+  - first:
+      213: -7194573153527631966
+    second: Asset Pokemon Tile 7_183
+  - first:
+      213: -2158991433640592042
+    second: Asset Pokemon Tile 7_184
+  - first:
+      213: 1163009450355089624
+    second: Asset Pokemon Tile 7_185
+  - first:
+      213: -8743996914348210833
+    second: Asset Pokemon Tile 7_186
+  - first:
+      213: -1402081129273046653
+    second: Asset Pokemon Tile 7_187
+  - first:
+      213: 6107191877746983955
+    second: Asset Pokemon Tile 7_188
+  - first:
+      213: 5823107543296319501
+    second: Asset Pokemon Tile 7_189
+  - first:
+      213: -7192946548649827811
+    second: Asset Pokemon Tile 7_190
+  - first:
+      213: 8873794653438760173
+    second: Asset Pokemon Tile 7_191
+  - first:
+      213: 3893384358447621103
+    second: Asset Pokemon Tile 7_192
+  - first:
+      213: -4656885169630677815
+    second: Asset Pokemon Tile 7_193
+  - first:
+      213: -980175945756980427
+    second: Asset Pokemon Tile 7_194
+  - first:
+      213: 6708769742755872276
+    second: Asset Pokemon Tile 7_195
+  - first:
+      213: -1888486249559027451
+    second: Asset Pokemon Tile 7_196
+  - first:
+      213: -1807688248228365816
+    second: Asset Pokemon Tile 7_197
+  - first:
+      213: -3815451177366119082
+    second: Asset Pokemon Tile 7_198
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 659
+        width: 157
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23af408325297c00800000000000000
+      internalID: 898790435043910446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 659
+        width: 126
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7a7a691b7f89650800000000000000
+      internalID: 6240009625830664188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 659
+        width: 126
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f7035e975c88c20800000000000000
+      internalID: 3209031861828353863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 659
+        width: 94
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0105287f123b620800000000000000
+      internalID: 2788609941199393011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 703
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2508fc86405077cc0800000000000000
+      internalID: -3713493851247247278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_5
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 753
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deb29bb2e1e903f0800000000000000
+      internalID: -933967083776852268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 753
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1938ffb22249630800000000000000
+      internalID: 3932805946967036402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 769
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cfe744ea44ab4f0800000000000000
+      internalID: -812261267522782204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_8
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 767
+        width: 178
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed62ade464f9b6de0800000000000000
+      internalID: -1338801339893143842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_9
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 769
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3129097bef6199e0800000000000000
+      internalID: -1616387734110658243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_10
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 735
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848282248ed867060800000000000000
+      internalID: 6950899103574796360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_11
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 705
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39da4d3bd13ece460800000000000000
+      internalID: 7272437215007124883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_12
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 687
+        width: 22
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213c9fe5976b5cc40800000000000000
+      internalID: 5532028349695247122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_13
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 767
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9145ceb6a52e8c0800000000000000
+      internalID: -3971512501814421042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_14
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 771
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b35f796ad114d2f0800000000000000
+      internalID: -949113991697837134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_15
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 771
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af13c84e81d2433c0800000000000000
+      internalID: -4380826952587791878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_16
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 771
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b44ba7586ce5e20800000000000000
+      internalID: 3341326250147072849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_17
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 769
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3161482f06a7ea5d0800000000000000
+      internalID: -3049365340879055341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 721
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0439d2e5844226710800000000000000
+      internalID: 1684949103826277184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_19
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 721
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45e3e5890f901320800000000000000
+      internalID: 2526694254204675403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_20
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 703
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4400729cd3724b470800000000000000
+      internalID: 8409389550528823364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_21
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 687
+        width: 338
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22172efdf0b90c070800000000000000
+      internalID: 8124664220259348770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_22
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 739
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa9d67b40697b400800000000000000
+      internalID: 339905243891211006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_23
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 739
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33236bded8cf5460800000000000000
+      internalID: 7232720386069308222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_24
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 739
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fe8aa5c872d1f30800000000000000
+      internalID: 4547834682483994468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_25
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 737
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbcf1214e3d8c7b0800000000000000
+      internalID: -5203676392916530248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_26
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 655
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deadbf89f3692240800000000000000
+      internalID: 4767451604057960148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_27
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 655
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf6985a485bafa30800000000000000
+      internalID: 4249908779695042495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_28
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 655
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fb9b5a3acf05f60800000000000000
+      internalID: 8021188716137135892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_29
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 655
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e15c22b6efa4290800000000000000
+      internalID: -7905226459797184980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_30
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 667
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5fced9e14660bf0800000000000000
+      internalID: -358489037668026928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_31
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 607
+        width: 338
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50038c596b9791260800000000000000
+      internalID: 7068814915238637573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_32
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 679
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b458bb7560f8ad0800000000000000
+      internalID: -2697930677893641349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_33
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 687
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e44371eb756b320800000000000000
+      internalID: 2573340711033523851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 145
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858f633d63c3cfa40800000000000000
+      internalID: 5403259859107248216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 591
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5013255b336d53ff0800000000000000
+      internalID: -56903902698524411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_36
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 639
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f80a9ca6f4ba160800000000000000
+      internalID: 7037806162764402574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_37
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 639
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303081ae198650c00800000000000000
+      internalID: 866213479245677315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_38
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 559
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb10bfc660bccd710800000000000000
+      internalID: 1719472386207318460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_39
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 607
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e237c1378a25de830800000000000000
+      internalID: 4102025719043617582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_40
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 639
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e369f2379bc28770800000000000000
+      internalID: 8611669287741514726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_41
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 655
+        width: 98
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb43175cb2a38f570800000000000000
+      internalID: 8500608256332346559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_42
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 640
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80fd8602bc145e10800000000000000
+      internalID: 2185403270121255052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_43
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 640
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323c028c92fa18ba0800000000000000
+      internalID: -6088392627242089693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_44
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 591
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc861e90071183410800000000000000
+      internalID: 1456933652354132173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 591
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14578b840636925f0800000000000000
+      internalID: -780983795184011967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_46
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 559
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ff8047ff3ce9a10800000000000000
+      internalID: 1918185993237233412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_47
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 607
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1039f1073531edaf0800000000000000
+      internalID: -369836870313471231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_48
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 607
+        width: 98
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2d82b46f5f76850800000000000000
+      internalID: 6370330636110582469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_49
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 641
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6128e649d60f5f9f0800000000000000
+      internalID: -435177435539013098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_50
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 640
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07b98968add65f40800000000000000
+      internalID: 5717000492388300554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 145
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9a5986667ee53c0800000000000000
+      internalID: -4368800161475483155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 511
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d88afcb4980a6c0800000000000000
+      internalID: -4134153499226632957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_53
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 511
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ea9e0384d0492e0800000000000000
+      internalID: -2120054920875233692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_54
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 511
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e4a9dd3dc73f0c0800000000000000
+      internalID: -4543150349688877522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_55
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 503
+        width: 61
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046fcfca30d423970800000000000000
+      internalID: 8733127305607312960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_56
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 559
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60431edd710cfb380800000000000000
+      internalID: -8953226325449952250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_57
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 559
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0944ab224d0df2c0800000000000000
+      internalID: -4396343083392546548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_58
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 511
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0894e268fe19ea1e0800000000000000
+      internalID: -2184648311293720192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_59
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 511
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cc7bc9eee17fc00800000000000000
+      internalID: 934249457883008006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_60
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 495
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f067e6677da497720800000000000000
+      internalID: 2844386928926553615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_61
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 495
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45d5e730e1652f10800000000000000
+      internalID: 2244307604952438093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_62
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 499
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af10409ae558cf7d0800000000000000
+      internalID: -2883283019814927878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_63
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 499
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802a08b8e6f4c8fb0800000000000000
+      internalID: -4644249779520364024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_64
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 447
+        width: 82
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76a19e1ec5fe1730800000000000000
+      internalID: 3971882187012286079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_65
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 447
+        width: 82
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a04571d4be2acd10800000000000000
+      internalID: 2146579526538576037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_66
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 447
+        width: 81
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2734ed1e12c57d40800000000000000
+      internalID: 5581580747801900844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_67
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 511
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362414493371f9820800000000000000
+      internalID: 2927083793112187491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_68
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 367
+        width: 70
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23c8e34edb860430800000000000000
+      internalID: 3748837526570844975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_69
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 511
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1fb0aae6605ec90800000000000000
+      internalID: -7141294561756974679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_70
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 529
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92d9edd67ae6a6d0800000000000000
+      internalID: -2979436307208875362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 145
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f33430da1d7fe40800000000000000
+      internalID: 5690247195220197207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 431
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f423385a1a9bc80800000000000000
+      internalID: -8306430305465381095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_73
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 431
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c878efe184e91050800000000000000
+      internalID: 5771895644178905287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_74
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 431
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e5195d270df18b0800000000000000
+      internalID: -5179191854824857975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_75
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 419
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3220fd051d5e6490800000000000000
+      internalID: -7751155563648507330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_76
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 479
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74232a2568701310800000000000000
+      internalID: 1373730262241977470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_77
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 419
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5acc0b905afc3c0800000000000000
+      internalID: -4337066455095007790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_78
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 479
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a12f33fae303f0f0800000000000000
+      internalID: -1084518777627926107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_79
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 447
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a08bce48634c7d0800000000000000
+      internalID: -2899132315584689509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_80
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 367
+        width: 50
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a5d6c9331bcb470800000000000000
+      internalID: 8411793039247104530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_81
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 415
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdd7e0c2d0503bf0800000000000000
+      internalID: -346688305197752890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_82
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 415
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb1aac7c1c4d5ec0800000000000000
+      internalID: -3576618843827987460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_83
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 463
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abe9988a103f6380800000000000000
+      internalID: -8975902641807037532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_84
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 447
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f80db34656e0a3e0800000000000000
+      internalID: -2044380972648167181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_85
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 463
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028e0aefd96000260800000000000000
+      internalID: 7061651491368527904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_86
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 431
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8be00fbfc51eb7c0800000000000000
+      internalID: -4053778632579945586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_87
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 431
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa11ffb42411957e0800000000000000
+      internalID: -1776369601580428881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_88
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 431
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c165dd2525effc150800000000000000
+      internalID: 5895210066782279196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_89
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 448
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d39e2f295145d250800000000000000
+      internalID: 5968748732448936918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_90
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 431
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cce2e803f7333f30800000000000000
+      internalID: 4554045165167373510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 149
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f4c51b9ff248420800000000000000
+      internalID: 2631280831760191306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 367
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef98ca259fbf3ec30800000000000000
+      internalID: 4387627510241462782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_93
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 367
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c61ec5e25cd1ee0800000000000000
+      internalID: -1288657115440649176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_94
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 367
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ad0aaf2e7899500800000000000000
+      internalID: 403503050563574392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_95
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 400
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92d5323d3cc3d220800000000000000
+      internalID: 2509573980582957722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_96
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 368
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d28950cc46034050800000000000000
+      internalID: 5783473273188221654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_97
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c234975795e749a0800000000000000
+      internalID: -6248773519781121340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_98
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 384
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894df0f8d739de5b0800000000000000
+      internalID: -5337447815883795304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_99
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 384
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f16ef9d95daca9f0800000000000000
+      internalID: -455798860850241035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_100
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 384
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a711046de575f04b0800000000000000
+      internalID: -5472058957398797958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_101
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d875f067745e3490800000000000000
+      internalID: -7764675835835615018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_102
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 383
+        width: 94
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aa20d519170a6b0800000000000000
+      internalID: -5287101093388309955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_103
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 367
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e088f7ed5055580800000000000000
+      internalID: -8839152240464228770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_104
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 374
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8fa5fe3fe8492d0800000000000000
+      internalID: -3272833850847594303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_105
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 227
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a626532fd2f620db0800000000000000
+      internalID: -4827173607459954070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_106
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 303
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7425b48846224ec40800000000000000
+      internalID: 5540591256751264327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_107
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 303
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb99da8a1ab2ef50800000000000000
+      internalID: 6909289401501195249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_108
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 287
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85761e55de66d83c0800000000000000
+      internalID: -4355712095063283880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_109
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 287
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31db0257f83416b90800000000000000
+      internalID: -7250439641665323757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_110
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 287
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a34c2fb4b60d4250800000000000000
+      internalID: 5930403657688040359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_111
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 287
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e820220bbe5f8c40800000000000000
+      internalID: 5516732225839704288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_112
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 352
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eee2ec81759b190800000000000000
+      internalID: -7946224303468515775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_113
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 352
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d151b28aec5e090800000000000000
+      internalID: -8005765540908557017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_114
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 352
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565da94770f315860800000000000000
+      internalID: 7516858554311693669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_115
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 287
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138b38519d94aa1b0800000000000000
+      internalID: -5644617986237810639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_116
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 352
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67936b75a0c7a55b0800000000000000
+      internalID: -5378850421077558922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_117
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 352
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4d9543d8fef0b10800000000000000
+      internalID: 1950040553422443721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_118
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 319
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466c0ca90982fe090800000000000000
+      internalID: -8003133411277355420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_119
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 303
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9ffa13db8a39160800000000000000
+      internalID: 7031148973791377831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_120
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 303
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf1e1c862b1fc780800000000000000
+      internalID: -8660673706036682789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_121
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 303
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e850a33202a25dc0800000000000000
+      internalID: -3651678217504270106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_122
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 303
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9841df7af66800380800000000000000
+      internalID: -9007051440623119223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_123
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 239
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcdff9dc13f4bc50800000000000000
+      internalID: 6680231452539346166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_124
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 239
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a13676c2f9db8de0800000000000000
+      internalID: -1329729628222901849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_125
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 255
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e480a2d20c5a7bf30800000000000000
+      internalID: 4591320589937543246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_126
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 226
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e68a4c8d05251790800000000000000
+      internalID: -7560095659353012512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_127
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 225
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21e97a0077989930800000000000000
+      internalID: 4150233564089803050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_128
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 223
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2431e48ad7ccdac0800000000000000
+      internalID: -3828965841825614804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_129
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 229
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289231beb2efc0ec0800000000000000
+      internalID: -3599222537594918526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_130
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 225
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706e3a9fde9dbfcb0800000000000000
+      internalID: -4829026559305980409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_131
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 225
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d83a4178d9185d0800000000000000
+      internalID: -3061993068142817980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_132
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 226
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eecfefa5c97e09d0800000000000000
+      internalID: -2806171627837993246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_133
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 225
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c896ce3c2c4137e0800000000000000
+      internalID: -1787563824173901626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_134
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 223
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837afaa819d780f10800000000000000
+      internalID: 2236175279039948600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_135
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 229
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413c97ba7a7bdded0800000000000000
+      internalID: -2387550296672189676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_136
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 225
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1378e36b3cfe9110800000000000000
+      internalID: 1269729476974506782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_137
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 225
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f497c306f936c940800000000000000
+      internalID: 5316000138945598707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_138
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 185
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db599e46a56f6b2a0800000000000000
+      internalID: -6721914525703367235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_139
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 185
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d539415f746012b20800000000000000
+      internalID: 3107772123986563933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_140
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 185
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74adf7d72c5ce5800800000000000000
+      internalID: 603136839234083399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 149
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21207ec24bf4c7200800000000000000
+      internalID: 179105720454021650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_142
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e54d91c952b7880800000000000000
+      internalID: -8612248510037467593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_143
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 159
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed819573523204990800000000000000
+      internalID: -7403879144647747362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_144
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 159
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c06c9dd4e2c12ee0800000000000000
+      internalID: -1287533730224906039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_145
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 178
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4acbc070f16418a0800000000000000
+      internalID: -6335331090490996146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_146
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 177
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831230b7b822cceb0800000000000000
+      internalID: -4698342328794668744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_147
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 175
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f0cdaaa2ba12bc0800000000000000
+      internalID: -3809575610035204319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_148
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 181
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a220eace23925d00800000000000000
+      internalID: 959991499764802216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_149
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 177
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad7377c756796720800000000000000
+      internalID: 2839931159414275501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_150
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 177
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a8bc030703586b0800000000000000
+      internalID: -5294772528491034030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_151
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 178
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0bbe9329a507710800000000000000
+      internalID: 1688949444347408595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_152
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 177
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3763f01e66abd7a50800000000000000
+      internalID: 6520572786527647347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_153
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 175
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb930395db7a9690800000000000000
+      internalID: -7594621664382182476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_154
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 181
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5015fa0fc8a5ab630800000000000000
+      internalID: 3943563985096233221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_155
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 177
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d61e4a647d51e20800000000000000
+      internalID: 3320796998669528461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_156
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 177
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8fc4bdb38671120800000000000000
+      internalID: 2384489134007580833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_157
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 19
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107d2b96181e6dfa0800000000000000
+      internalID: -5776181526115723519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_158
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b863271ea2136c0800000000000000
+      internalID: -4165501032568812760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_159
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 95
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddc5420234d47640800000000000000
+      internalID: 5076915991204974041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_160
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 130
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321e0c8465b338270800000000000000
+      internalID: 8251504184046706979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_161
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 129
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00907d12da249d520800000000000000
+      internalID: 2727284360714062080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_162
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 127
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fef347844bfc6bd0800000000000000
+      internalID: -2635455410172854541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_163
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 133
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310825b2e9418f7c0800000000000000
+      internalID: -4037454396373434349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_164
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 129
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5467a87e2c62de560800000000000000
+      internalID: 7344569185861269061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_165
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 129
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d71577703d85c50800000000000000
+      internalID: 6654300478459968867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_166
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 130
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2eca0de2ff289b0800000000000000
+      internalID: -5079216853185928502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_167
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 129
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb2d30ad78614af0800000000000000
+      internalID: -413934801972810781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_168
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 127
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9aebece96cf7030800000000000000
+      internalID: 3494730221238528465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_169
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 133
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339df6baf7bd8c110800000000000000
+      internalID: 1281515435370469683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_170
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 129
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed36300cf92b142a0800000000000000
+      internalID: -6754921566888041506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_171
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 129
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9abc0e154de9ce0800000000000000
+      internalID: -1396445386309391931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_172
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 82
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723f2bba24080eb90800000000000000
+      internalID: -7214625579210706137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_173
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 81
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bfb3d12280aa040800000000000000
+      internalID: 4659545707080579895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_174
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 79
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5515fcf33e27c40800000000000000
+      internalID: 5508715157428196768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_175
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 85
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fb15aaebe395ba0800000000000000
+      internalID: -6099775231674433776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_176
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 81
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b48a3513a57a800800000000000000
+      internalID: 623566241317538572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_177
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 81
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aafe169230306380800000000000000
+      internalID: -8980124663151658327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_178
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 82
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1a852c30e6f5550800000000000000
+      internalID: 6151756578435932667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_179
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 81
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de25d9454decb18c0800000000000000
+      internalID: -4027398030404791571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_180
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 79
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e98568c44a78840800000000000000
+      internalID: 5226326541165174349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_181
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 85
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84cdda09114efc30800000000000000
+      internalID: 4395021862172476559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_182
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 81
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29e66bd03d256080800000000000000
+      internalID: -9194893376344364756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_183
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 81
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af6c69d5ddb72c90800000000000000
+      internalID: -7194573153527631966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_184
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dbdbcdab8b902e0800000000000000
+      internalID: -2158991433640592042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_185
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 31
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d066d6eee6d32010800000000000000
+      internalID: 1163009450355089624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_186
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 47
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65c923522517a680800000000000000
+      internalID: -8743996914348210833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_187
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 34
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389c66734aeca8ce0800000000000000
+      internalID: -1402081129273046653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_188
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 34
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3148240d7aa11c450800000000000000
+      internalID: 6107191877746983955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_189
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 31
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00231f5575dfc050800000000000000
+      internalID: 5823107543296319501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_190
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 37
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12ea5f49358d2c90800000000000000
+      internalID: -7192946548649827811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_191
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 33
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de45affc83d062b70800000000000000
+      internalID: 8873794653438760173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_192
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 33
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3255b2274180630800000000000000
+      internalID: 3893384358447621103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_193
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 34
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4f0688c9b6f5fb0800000000000000
+      internalID: -4656885169630677815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_194
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 34
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bc5c7ab27b562f0800000000000000
+      internalID: -980175945756980427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_195
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 31
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e3ad459865a1d50800000000000000
+      internalID: 6708769742755872276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_196
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 37
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50113dbf2cfbac5e0800000000000000
+      internalID: -1888486249559027451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_197
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 33
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a33b3ad1dc9e6e0800000000000000
+      internalID: -1807688248228365816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Pokemon Tile 7_198
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 33
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d1f3b8e5bcc0bc0800000000000000
+      internalID: -3815451177366119082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Asset Pokemon Tile 7_0: 898790435043910446
+      Asset Pokemon Tile 7_1: 6240009625830664188
+      Asset Pokemon Tile 7_10: 6950899103574796360
+      Asset Pokemon Tile 7_100: -5472058957398797958
+      Asset Pokemon Tile 7_101: -7764675835835615018
+      Asset Pokemon Tile 7_102: -5287101093388309955
+      Asset Pokemon Tile 7_103: -8839152240464228770
+      Asset Pokemon Tile 7_104: -3272833850847594303
+      Asset Pokemon Tile 7_105: -4827173607459954070
+      Asset Pokemon Tile 7_106: 5540591256751264327
+      Asset Pokemon Tile 7_107: 6909289401501195249
+      Asset Pokemon Tile 7_108: -4355712095063283880
+      Asset Pokemon Tile 7_109: -7250439641665323757
+      Asset Pokemon Tile 7_11: 7272437215007124883
+      Asset Pokemon Tile 7_110: 5930403657688040359
+      Asset Pokemon Tile 7_111: 5516732225839704288
+      Asset Pokemon Tile 7_112: -7946224303468515775
+      Asset Pokemon Tile 7_113: -8005765540908557017
+      Asset Pokemon Tile 7_114: 7516858554311693669
+      Asset Pokemon Tile 7_115: -5644617986237810639
+      Asset Pokemon Tile 7_116: -5378850421077558922
+      Asset Pokemon Tile 7_117: 1950040553422443721
+      Asset Pokemon Tile 7_118: -8003133411277355420
+      Asset Pokemon Tile 7_119: 7031148973791377831
+      Asset Pokemon Tile 7_12: 5532028349695247122
+      Asset Pokemon Tile 7_120: -8660673706036682789
+      Asset Pokemon Tile 7_121: -3651678217504270106
+      Asset Pokemon Tile 7_122: -9007051440623119223
+      Asset Pokemon Tile 7_123: 6680231452539346166
+      Asset Pokemon Tile 7_124: -1329729628222901849
+      Asset Pokemon Tile 7_125: 4591320589937543246
+      Asset Pokemon Tile 7_126: -7560095659353012512
+      Asset Pokemon Tile 7_127: 4150233564089803050
+      Asset Pokemon Tile 7_128: -3828965841825614804
+      Asset Pokemon Tile 7_129: -3599222537594918526
+      Asset Pokemon Tile 7_13: -3971512501814421042
+      Asset Pokemon Tile 7_130: -4829026559305980409
+      Asset Pokemon Tile 7_131: -3061993068142817980
+      Asset Pokemon Tile 7_132: -2806171627837993246
+      Asset Pokemon Tile 7_133: -1787563824173901626
+      Asset Pokemon Tile 7_134: 2236175279039948600
+      Asset Pokemon Tile 7_135: -2387550296672189676
+      Asset Pokemon Tile 7_136: 1269729476974506782
+      Asset Pokemon Tile 7_137: 5316000138945598707
+      Asset Pokemon Tile 7_138: -6721914525703367235
+      Asset Pokemon Tile 7_139: 3107772123986563933
+      Asset Pokemon Tile 7_14: -949113991697837134
+      Asset Pokemon Tile 7_140: 603136839234083399
+      Asset Pokemon Tile 7_141: 179105720454021650
+      Asset Pokemon Tile 7_142: -8612248510037467593
+      Asset Pokemon Tile 7_143: -7403879144647747362
+      Asset Pokemon Tile 7_144: -1287533730224906039
+      Asset Pokemon Tile 7_145: -6335331090490996146
+      Asset Pokemon Tile 7_146: -4698342328794668744
+      Asset Pokemon Tile 7_147: -3809575610035204319
+      Asset Pokemon Tile 7_148: 959991499764802216
+      Asset Pokemon Tile 7_149: 2839931159414275501
+      Asset Pokemon Tile 7_15: -4380826952587791878
+      Asset Pokemon Tile 7_150: -5294772528491034030
+      Asset Pokemon Tile 7_151: 1688949444347408595
+      Asset Pokemon Tile 7_152: 6520572786527647347
+      Asset Pokemon Tile 7_153: -7594621664382182476
+      Asset Pokemon Tile 7_154: 3943563985096233221
+      Asset Pokemon Tile 7_155: 3320796998669528461
+      Asset Pokemon Tile 7_156: 2384489134007580833
+      Asset Pokemon Tile 7_157: -5776181526115723519
+      Asset Pokemon Tile 7_158: -4165501032568812760
+      Asset Pokemon Tile 7_159: 5076915991204974041
+      Asset Pokemon Tile 7_16: 3341326250147072849
+      Asset Pokemon Tile 7_160: 8251504184046706979
+      Asset Pokemon Tile 7_161: 2727284360714062080
+      Asset Pokemon Tile 7_162: -2635455410172854541
+      Asset Pokemon Tile 7_163: -4037454396373434349
+      Asset Pokemon Tile 7_164: 7344569185861269061
+      Asset Pokemon Tile 7_165: 6654300478459968867
+      Asset Pokemon Tile 7_166: -5079216853185928502
+      Asset Pokemon Tile 7_167: -413934801972810781
+      Asset Pokemon Tile 7_168: 3494730221238528465
+      Asset Pokemon Tile 7_169: 1281515435370469683
+      Asset Pokemon Tile 7_17: -3049365340879055341
+      Asset Pokemon Tile 7_170: -6754921566888041506
+      Asset Pokemon Tile 7_171: -1396445386309391931
+      Asset Pokemon Tile 7_172: -7214625579210706137
+      Asset Pokemon Tile 7_173: 4659545707080579895
+      Asset Pokemon Tile 7_174: 5508715157428196768
+      Asset Pokemon Tile 7_175: -6099775231674433776
+      Asset Pokemon Tile 7_176: 623566241317538572
+      Asset Pokemon Tile 7_177: -8980124663151658327
+      Asset Pokemon Tile 7_178: 6151756578435932667
+      Asset Pokemon Tile 7_179: -4027398030404791571
+      Asset Pokemon Tile 7_18: 1684949103826277184
+      Asset Pokemon Tile 7_180: 5226326541165174349
+      Asset Pokemon Tile 7_181: 4395021862172476559
+      Asset Pokemon Tile 7_182: -9194893376344364756
+      Asset Pokemon Tile 7_183: -7194573153527631966
+      Asset Pokemon Tile 7_184: -2158991433640592042
+      Asset Pokemon Tile 7_185: 1163009450355089624
+      Asset Pokemon Tile 7_186: -8743996914348210833
+      Asset Pokemon Tile 7_187: -1402081129273046653
+      Asset Pokemon Tile 7_188: 6107191877746983955
+      Asset Pokemon Tile 7_189: 5823107543296319501
+      Asset Pokemon Tile 7_19: 2526694254204675403
+      Asset Pokemon Tile 7_190: -7192946548649827811
+      Asset Pokemon Tile 7_191: 8873794653438760173
+      Asset Pokemon Tile 7_192: 3893384358447621103
+      Asset Pokemon Tile 7_193: -4656885169630677815
+      Asset Pokemon Tile 7_194: -980175945756980427
+      Asset Pokemon Tile 7_195: 6708769742755872276
+      Asset Pokemon Tile 7_196: -1888486249559027451
+      Asset Pokemon Tile 7_197: -1807688248228365816
+      Asset Pokemon Tile 7_198: -3815451177366119082
+      Asset Pokemon Tile 7_2: 3209031861828353863
+      Asset Pokemon Tile 7_20: 8409389550528823364
+      Asset Pokemon Tile 7_21: 8124664220259348770
+      Asset Pokemon Tile 7_22: 339905243891211006
+      Asset Pokemon Tile 7_23: 7232720386069308222
+      Asset Pokemon Tile 7_24: 4547834682483994468
+      Asset Pokemon Tile 7_25: -5203676392916530248
+      Asset Pokemon Tile 7_26: 4767451604057960148
+      Asset Pokemon Tile 7_27: 4249908779695042495
+      Asset Pokemon Tile 7_28: 8021188716137135892
+      Asset Pokemon Tile 7_29: -7905226459797184980
+      Asset Pokemon Tile 7_3: 2788609941199393011
+      Asset Pokemon Tile 7_30: -358489037668026928
+      Asset Pokemon Tile 7_31: 7068814915238637573
+      Asset Pokemon Tile 7_32: -2697930677893641349
+      Asset Pokemon Tile 7_33: 2573340711033523851
+      Asset Pokemon Tile 7_34: 5403259859107248216
+      Asset Pokemon Tile 7_35: -56903902698524411
+      Asset Pokemon Tile 7_36: 7037806162764402574
+      Asset Pokemon Tile 7_37: 866213479245677315
+      Asset Pokemon Tile 7_38: 1719472386207318460
+      Asset Pokemon Tile 7_39: 4102025719043617582
+      Asset Pokemon Tile 7_4: -3713493851247247278
+      Asset Pokemon Tile 7_40: 8611669287741514726
+      Asset Pokemon Tile 7_41: 8500608256332346559
+      Asset Pokemon Tile 7_42: 2185403270121255052
+      Asset Pokemon Tile 7_43: -6088392627242089693
+      Asset Pokemon Tile 7_44: 1456933652354132173
+      Asset Pokemon Tile 7_45: -780983795184011967
+      Asset Pokemon Tile 7_46: 1918185993237233412
+      Asset Pokemon Tile 7_47: -369836870313471231
+      Asset Pokemon Tile 7_48: 6370330636110582469
+      Asset Pokemon Tile 7_49: -435177435539013098
+      Asset Pokemon Tile 7_5: -933967083776852268
+      Asset Pokemon Tile 7_50: 5717000492388300554
+      Asset Pokemon Tile 7_51: -4368800161475483155
+      Asset Pokemon Tile 7_52: -4134153499226632957
+      Asset Pokemon Tile 7_53: -2120054920875233692
+      Asset Pokemon Tile 7_54: -4543150349688877522
+      Asset Pokemon Tile 7_55: 8733127305607312960
+      Asset Pokemon Tile 7_56: -8953226325449952250
+      Asset Pokemon Tile 7_57: -4396343083392546548
+      Asset Pokemon Tile 7_58: -2184648311293720192
+      Asset Pokemon Tile 7_59: 934249457883008006
+      Asset Pokemon Tile 7_6: 3932805946967036402
+      Asset Pokemon Tile 7_60: 2844386928926553615
+      Asset Pokemon Tile 7_61: 2244307604952438093
+      Asset Pokemon Tile 7_62: -2883283019814927878
+      Asset Pokemon Tile 7_63: -4644249779520364024
+      Asset Pokemon Tile 7_64: 3971882187012286079
+      Asset Pokemon Tile 7_65: 2146579526538576037
+      Asset Pokemon Tile 7_66: 5581580747801900844
+      Asset Pokemon Tile 7_67: 2927083793112187491
+      Asset Pokemon Tile 7_68: 3748837526570844975
+      Asset Pokemon Tile 7_69: -7141294561756974679
+      Asset Pokemon Tile 7_7: -812261267522782204
+      Asset Pokemon Tile 7_70: -2979436307208875362
+      Asset Pokemon Tile 7_71: 5690247195220197207
+      Asset Pokemon Tile 7_72: -8306430305465381095
+      Asset Pokemon Tile 7_73: 5771895644178905287
+      Asset Pokemon Tile 7_74: -5179191854824857975
+      Asset Pokemon Tile 7_75: -7751155563648507330
+      Asset Pokemon Tile 7_76: 1373730262241977470
+      Asset Pokemon Tile 7_77: -4337066455095007790
+      Asset Pokemon Tile 7_78: -1084518777627926107
+      Asset Pokemon Tile 7_79: -2899132315584689509
+      Asset Pokemon Tile 7_8: -1338801339893143842
+      Asset Pokemon Tile 7_80: 8411793039247104530
+      Asset Pokemon Tile 7_81: -346688305197752890
+      Asset Pokemon Tile 7_82: -3576618843827987460
+      Asset Pokemon Tile 7_83: -8975902641807037532
+      Asset Pokemon Tile 7_84: -2044380972648167181
+      Asset Pokemon Tile 7_85: 7061651491368527904
+      Asset Pokemon Tile 7_86: -4053778632579945586
+      Asset Pokemon Tile 7_87: -1776369601580428881
+      Asset Pokemon Tile 7_88: 5895210066782279196
+      Asset Pokemon Tile 7_89: 5968748732448936918
+      Asset Pokemon Tile 7_9: -1616387734110658243
+      Asset Pokemon Tile 7_90: 4554045165167373510
+      Asset Pokemon Tile 7_91: 2631280831760191306
+      Asset Pokemon Tile 7_92: 4387627510241462782
+      Asset Pokemon Tile 7_93: -1288657115440649176
+      Asset Pokemon Tile 7_94: 403503050563574392
+      Asset Pokemon Tile 7_95: 2509573980582957722
+      Asset Pokemon Tile 7_96: 5783473273188221654
+      Asset Pokemon Tile 7_97: -6248773519781121340
+      Asset Pokemon Tile 7_98: -5337447815883795304
+      Asset Pokemon Tile 7_99: -455798860850241035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

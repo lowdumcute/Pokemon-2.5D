@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: c50a6ecccde5a30428a909b14fc07da4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7757680084257222008
+    second: Pokemon Center_0
+  - first:
+      213: -8352016364975486228
+    second: Pokemon Center_1
+  - first:
+      213: -9106287505428861966
+    second: Pokemon Center_2
+  - first:
+      213: -2226897453308125312
+    second: Pokemon Center_3
+  - first:
+      213: 5022476497882497859
+    second: Pokemon Center_4
+  - first:
+      213: 1385928185905304780
+    second: Pokemon Center_5
+  - first:
+      213: -4220058347568061511
+    second: Pokemon Center_6
+  - first:
+      213: -6804941465952313255
+    second: Pokemon Center_7
+  - first:
+      213: -6553503284634076477
+    second: Pokemon Center_8
+  - first:
+      213: -3029270329476060372
+    second: Pokemon Center_9
+  - first:
+      213: -45945039613932307
+    second: Pokemon Center_10
+  - first:
+      213: 8144368595122665760
+    second: Pokemon Center_11
+  - first:
+      213: 3387449174004962887
+    second: Pokemon Center_12
+  - first:
+      213: -7705882155944200760
+    second: Pokemon Center_13
+  - first:
+      213: 780583676490566001
+    second: Pokemon Center_14
+  - first:
+      213: 1609779728917049293
+    second: Pokemon Center_15
+  - first:
+      213: -8327440166876895526
+    second: Pokemon Center_16
+  - first:
+      213: -7803380287093507943
+    second: Pokemon Center_17
+  - first:
+      213: 4405556465408965235
+    second: Pokemon Center_18
+  - first:
+      213: -1981185947418915389
+    second: Pokemon Center_19
+  - first:
+      213: 1134406106900729041
+    second: Pokemon Center_20
+  - first:
+      213: -1831756729812501076
+    second: Pokemon Center_21
+  - first:
+      213: -7774672050475102934
+    second: Pokemon Center_22
+  - first:
+      213: 6634020821960150280
+    second: Pokemon Center_23
+  - first:
+      213: 9153706668052389242
+    second: Pokemon Center_24
+  - first:
+      213: -2280206486175950784
+    second: Pokemon Center_25
+  - first:
+      213: -8168071732144280677
+    second: Pokemon Center_26
+  - first:
+      213: 3406578749229468585
+    second: Pokemon Center_27
+  - first:
+      213: -5940301727528616636
+    second: Pokemon Center_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pokemon Center_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 751
+        width: 256
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882d9b8b01f275490800000000000000
+      internalID: -7757680084257222008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 671
+        width: 126
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea036fed5da71c80800000000000000
+      internalID: -8352016364975486228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fba550d2c7ff9180800000000000000
+      internalID: -9106287505428861966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 679
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fd85890987811e0800000000000000
+      internalID: -2226897453308125312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 193
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343c80db3cb63b540800000000000000
+      internalID: 5022476497882497859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 607
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc45615975ecb3310800000000000000
+      internalID: 1385928185905304780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 629
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3a8cdaa475f65c0800000000000000
+      internalID: -4220058347568061511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 511
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95026947acdff81a0800000000000000
+      internalID: -6804941465952313255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 447
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cab70d0c774d05a0800000000000000
+      internalID: -6553503284634076477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 426
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2be2f26faed5f5d0800000000000000
+      internalID: -3029270329476060372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 351
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decce9ada35cc5ff0800000000000000
+      internalID: -45945039613932307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 351
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0293228261c960170800000000000000
+      internalID: 8144368595122665760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 331
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74691478313a20f20800000000000000
+      internalID: 3387449174004962887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 333
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5bce5b1053f0590800000000000000
+      internalID: -7705882155944200760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17940b2d7b035da00800000000000000
+      internalID: 780583676490566001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 298
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfa9bc6226175610800000000000000
+      internalID: 1609779728917049293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 293
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6abf4f94dfe6c80800000000000000
+      internalID: -8327440166876895526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 265
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998718419f2d4b390800000000000000
+      internalID: -7803380287093507943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 264
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a70ae734ea32d30800000000000000
+      internalID: 4405556465408965235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 267
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd891aa0e96184e0800000000000000
+      internalID: -1981185947418915389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_20
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 269
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc0ad808583ebf00800000000000000
+      internalID: 1134406106900729041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 234
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad389495fa4496e0800000000000000
+      internalID: -1831756729812501076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 235
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d064a46f0da1490800000000000000
+      internalID: -7774672050475102934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 232
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dca7df9c6c01c50800000000000000
+      internalID: 6634020821960150280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 234
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d136757bf780f70800000000000000
+      internalID: 9153706668052389242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048d0f828441b50e0800000000000000
+      internalID: -2280206486175950784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b61a1390e25ae80800000000000000
+      internalID: -8168071732144280677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab8737d259964f20800000000000000
+      internalID: 3406578749229468585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Center_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d74084d0fcf8da0800000000000000
+      internalID: -5940301727528616636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pokemon Center_0: -7757680084257222008
+      Pokemon Center_1: -8352016364975486228
+      Pokemon Center_10: -45945039613932307
+      Pokemon Center_11: 8144368595122665760
+      Pokemon Center_12: 3387449174004962887
+      Pokemon Center_13: -7705882155944200760
+      Pokemon Center_14: 780583676490566001
+      Pokemon Center_15: 1609779728917049293
+      Pokemon Center_16: -8327440166876895526
+      Pokemon Center_17: -7803380287093507943
+      Pokemon Center_18: 4405556465408965235
+      Pokemon Center_19: -1981185947418915389
+      Pokemon Center_2: -9106287505428861966
+      Pokemon Center_20: 1134406106900729041
+      Pokemon Center_21: -1831756729812501076
+      Pokemon Center_22: -7774672050475102934
+      Pokemon Center_23: 6634020821960150280
+      Pokemon Center_24: 9153706668052389242
+      Pokemon Center_25: -2280206486175950784
+      Pokemon Center_26: -8168071732144280677
+      Pokemon Center_27: 3406578749229468585
+      Pokemon Center_28: -5940301727528616636
+      Pokemon Center_3: -2226897453308125312
+      Pokemon Center_4: 5022476497882497859
+      Pokemon Center_5: 1385928185905304780
+      Pokemon Center_6: -4220058347568061511
+      Pokemon Center_7: -6804941465952313255
+      Pokemon Center_8: -6553503284634076477
+      Pokemon Center_9: -3029270329476060372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

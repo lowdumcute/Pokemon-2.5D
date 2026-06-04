@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9522a0e1d66639469d2b8c7485cf6cb, type: 3}
+  m_Name: Chronosian Yamask
+  m_EditorClassIdentifier: 
+  pokeName: Chronosian Yamask
+  description: 
+  frontSprite: {fileID: 21300000, guid: dc5fc7d9e82fd8a478eb0d90ec3c2a70, type: 3}
+  backSprite: {fileID: 21300000, guid: 4d35d32efa0b43d4cb0e8caceeaf43eb, type: 3}
+  iconSprite: {fileID: 21300000, guid: dc5fc7d9e82fd8a478eb0d90ec3c2a70, type: 3}
+  type1: 14
+  type2: 17
+  maxHP: 40
+  attack: 55
+  defense: 70
+  spAttack: 50
+  spDefense: 85
+  speed: 3
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 5e081eeef7655f84bb2437c8897bb781, type: 2}
+    level: 1
+  expYield: 61
+  growthRate: 1
+  evolution:
+    evolvedForm: {fileID: 0}
+    requiredLevel: 0

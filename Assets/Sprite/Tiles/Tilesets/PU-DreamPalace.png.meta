@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: f142c6d85eb4e2247bbdc95bf0e43dec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9045849951301389234
+    second: PU-DreamPalace_0
+  - first:
+      213: 967141665787800115
+    second: PU-DreamPalace_1
+  - first:
+      213: 4720395840362974237
+    second: PU-DreamPalace_2
+  - first:
+      213: 6653717527042321438
+    second: PU-DreamPalace_3
+  - first:
+      213: -8620770919904950076
+    second: PU-DreamPalace_4
+  - first:
+      213: -2732665060354987135
+    second: PU-DreamPalace_5
+  - first:
+      213: -4432430763298452743
+    second: PU-DreamPalace_6
+  - first:
+      213: 4176234829882347597
+    second: PU-DreamPalace_7
+  - first:
+      213: 8494664986461170212
+    second: PU-DreamPalace_8
+  - first:
+      213: -1595422745233521232
+    second: PU-DreamPalace_9
+  - first:
+      213: -8093703769948760800
+    second: PU-DreamPalace_10
+  - first:
+      213: 7106037643205639191
+    second: PU-DreamPalace_11
+  - first:
+      213: -5178751405356863228
+    second: PU-DreamPalace_12
+  - first:
+      213: 4271487213294919257
+    second: PU-DreamPalace_13
+  - first:
+      213: 6001846394629421614
+    second: PU-DreamPalace_14
+  - first:
+      213: -1132690489035725836
+    second: PU-DreamPalace_15
+  - first:
+      213: 956488040297537808
+    second: PU-DreamPalace_16
+  - first:
+      213: 4219002941071851672
+    second: PU-DreamPalace_17
+  - first:
+      213: 959293048165329481
+    second: PU-DreamPalace_18
+  - first:
+      213: -6490930444517416840
+    second: PU-DreamPalace_19
+  - first:
+      213: -6031131846452321677
+    second: PU-DreamPalace_20
+  - first:
+      213: -731643501090138712
+    second: PU-DreamPalace_21
+  - first:
+      213: 5351813613491018832
+    second: PU-DreamPalace_22
+  - first:
+      213: 3449934399535253753
+    second: PU-DreamPalace_23
+  - first:
+      213: 768131908380681251
+    second: PU-DreamPalace_24
+  - first:
+      213: 4146387250870821049
+    second: PU-DreamPalace_25
+  - first:
+      213: 5711453064719611276
+    second: PU-DreamPalace_26
+  - first:
+      213: 7079861906667661393
+    second: PU-DreamPalace_27
+  - first:
+      213: -4725582009788058021
+    second: PU-DreamPalace_28
+  - first:
+      213: 4441930305729956988
+    second: PU-DreamPalace_29
+  - first:
+      213: 5428784907900490932
+    second: PU-DreamPalace_30
+  - first:
+      213: 2930648138119642561
+    second: PU-DreamPalace_31
+  - first:
+      213: -117430282090872920
+    second: PU-DreamPalace_32
+  - first:
+      213: -6467726606472424654
+    second: PU-DreamPalace_33
+  - first:
+      213: 4788499661435678057
+    second: PU-DreamPalace_34
+  - first:
+      213: -90945751541148488
+    second: PU-DreamPalace_35
+  - first:
+      213: 2932790944498949693
+    second: PU-DreamPalace_36
+  - first:
+      213: -3990985668408787472
+    second: PU-DreamPalace_37
+  - first:
+      213: -5536584688579056686
+    second: PU-DreamPalace_38
+  - first:
+      213: 2166256413618420903
+    second: PU-DreamPalace_39
+  - first:
+      213: -2033620085813144232
+    second: PU-DreamPalace_40
+  - first:
+      213: -2037072183472732290
+    second: PU-DreamPalace_41
+  - first:
+      213: -448570030269207003
+    second: PU-DreamPalace_42
+  - first:
+      213: 8963501252563752315
+    second: PU-DreamPalace_43
+  - first:
+      213: 7328847853110550308
+    second: PU-DreamPalace_44
+  - first:
+      213: -1677420322713959114
+    second: PU-DreamPalace_45
+  - first:
+      213: -3396519334144411771
+    second: PU-DreamPalace_46
+  - first:
+      213: -1972421290211802084
+    second: PU-DreamPalace_47
+  - first:
+      213: -7930719976526808461
+    second: PU-DreamPalace_48
+  - first:
+      213: 1535690202256037444
+    second: PU-DreamPalace_49
+  - first:
+      213: 2941290838936779250
+    second: PU-DreamPalace_50
+  - first:
+      213: -7821821296051332115
+    second: PU-DreamPalace_51
+  - first:
+      213: 4525743171178194084
+    second: PU-DreamPalace_52
+  - first:
+      213: -3301173434447671869
+    second: PU-DreamPalace_53
+  - first:
+      213: -4950367711529388844
+    second: PU-DreamPalace_54
+  - first:
+      213: 1980578735969744034
+    second: PU-DreamPalace_55
+  - first:
+      213: 7634231394750520371
+    second: PU-DreamPalace_56
+  - first:
+      213: 1634536888433460719
+    second: PU-DreamPalace_57
+  - first:
+      213: 4809555388855282050
+    second: PU-DreamPalace_58
+  - first:
+      213: 1390455123083236848
+    second: PU-DreamPalace_59
+  - first:
+      213: 7292824846475902078
+    second: PU-DreamPalace_60
+  - first:
+      213: -8529386728395924184
+    second: PU-DreamPalace_61
+  - first:
+      213: -4048418298927174406
+    second: PU-DreamPalace_62
+  - first:
+      213: 8772712948380282634
+    second: PU-DreamPalace_63
+  - first:
+      213: -7112619548635117386
+    second: PU-DreamPalace_64
+  - first:
+      213: -4555099226624708321
+    second: PU-DreamPalace_65
+  - first:
+      213: -9033298784025274648
+    second: PU-DreamPalace_66
+  - first:
+      213: -3259186869461180281
+    second: PU-DreamPalace_67
+  - first:
+      213: -1636279383559893777
+    second: PU-DreamPalace_68
+  - first:
+      213: -9007642993251490116
+    second: PU-DreamPalace_69
+  - first:
+      213: -8274407192655985715
+    second: PU-DreamPalace_70
+  - first:
+      213: 4294118336776781951
+    second: PU-DreamPalace_71
+  - first:
+      213: 7275630398985245030
+    second: PU-DreamPalace_72
+  - first:
+      213: 5067834148011877052
+    second: PU-DreamPalace_73
+  - first:
+      213: -8449060910079832772
+    second: PU-DreamPalace_74
+  - first:
+      213: -3488389665411786599
+    second: PU-DreamPalace_75
+  - first:
+      213: -4333124709175322356
+    second: PU-DreamPalace_76
+  - first:
+      213: -6515488707999304841
+    second: PU-DreamPalace_77
+  - first:
+      213: -1977018730616123183
+    second: PU-DreamPalace_78
+  - first:
+      213: 3799821791521864024
+    second: PU-DreamPalace_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-DreamPalace_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4115
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbcdce8a90598d70800000000000000
+      internalID: 9045849951301389234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4071
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ae2cc883afb6d00800000000000000
+      internalID: 967141665787800115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4071
+        width: 97
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c0110d107328140800000000000000
+      internalID: 4720395840362974237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4085
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ce52386d0c65c50800000000000000
+      internalID: 6653717527042321438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4057
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c84c0de58edc5880800000000000000
+      internalID: -8620770919904950076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3911
+        width: 116
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b6b6b1b9f931ad0800000000000000
+      internalID: -2732665060354987135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3973
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa051e64b7dc72c0800000000000000
+      internalID: -4432430763298452743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3975
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4050cd7377f4f930800000000000000
+      internalID: 4176234829882347597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3753
+        width: 61
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a67fb6ccc13e570800000000000000
+      internalID: 8494664986461170212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3977
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b507c3577bebd9e0800000000000000
+      internalID: -1595422745233521232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3951
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025d6f2bd436daf80800000000000000
+      internalID: -8093703769948760800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3943
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c73db4697bd9260800000000000000
+      internalID: 7106037643205639191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3847
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40136a7f8016128b0800000000000000
+      internalID: -5178751405356863228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3847
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e111b3dfe574b30800000000000000
+      internalID: 4271487213294919257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3847
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a785c2f77da4350800000000000000
+      internalID: 6001846394629421614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3847
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ef806000e740f0800000000000000
+      internalID: -1132690489035725836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3827
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01128d11ec0264d00800000000000000
+      internalID: 956488040297537808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3809
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8908ae852d8ec8a30800000000000000
+      internalID: 4219002941071851672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3823
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a656bd1f7105d00800000000000000
+      internalID: 959293048165329481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3821
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87065c0b6259be5a0800000000000000
+      internalID: -6490930444517416840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3785
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372e9aa3a8d1d4ca0800000000000000
+      internalID: -6031131846452321677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3789
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a59c47bc1ea8d5f0800000000000000
+      internalID: -731643501090138712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3783
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c5b385026754a40800000000000000
+      internalID: 5351813613491018832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3795
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f803bece01a0ef20800000000000000
+      internalID: 3449934399535253753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3785
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3246ca3a6e3f8aa00800000000000000
+      internalID: 768131908380681251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3791
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b02d557c3dea8930800000000000000
+      internalID: 4146387250870821049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3757
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85bde14d48234f40800000000000000
+      internalID: 5711453064719611276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3739
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158eeb5b4e8b04260800000000000000
+      internalID: 7079861906667661393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_28
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 3767
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b563b95033c5b6eb0800000000000000
+      internalID: -4725582009788058021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3761
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c83162418e4ad30800000000000000
+      internalID: 4441930305729956988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3737
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4196d5c1be65b40800000000000000
+      internalID: 5428784907900490932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3721
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdf74254f0cba820800000000000000
+      internalID: 2930648138119642561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3721
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af7916d7cdce5ef0800000000000000
+      internalID: -117430282090872920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3689
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2335edc3be40e36a0800000000000000
+      internalID: -6467726606472424654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3729
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96da3fe421b247240800000000000000
+      internalID: 4788499661435678057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3743
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b41f812255ecbef0800000000000000
+      internalID: -90945751541148488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_36
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3725
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e975f43dd53b820800000000000000
+      internalID: 2932790944498949693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3725
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdb1d20eab2d98c0800000000000000
+      internalID: -3990985668408787472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_38
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3693
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbe0605f891a23b0800000000000000
+      internalID: -5536584688579056686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3723
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac332a1bb6101e10800000000000000
+      internalID: 2166256413618420903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3177
+        width: 256
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85512097e4127c3e0800000000000000
+      internalID: -2033620085813144232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2887
+        width: 256
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77474a54addab3e0800000000000000
+      internalID: -2037072183472732290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_42
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3175
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eeae02feb56c9f0800000000000000
+      internalID: -448570030269207003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2311
+        width: 256
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75d4d606e0c46c70800000000000000
+      internalID: 8963501252563752315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2039
+        width: 256
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fd981ea4c45b560800000000000000
+      internalID: 7328847853110550308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2247
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6350d959a1b98b8e0800000000000000
+      internalID: -1677420322713959114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1945
+        width: 33
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587739f39a32dd0d0800000000000000
+      internalID: -3396519334144411771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1967
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c140281794d80a4e0800000000000000
+      internalID: -1972421290211802084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_48
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1767
+        width: 193
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a760a333c60f190800000000000000
+      internalID: -7930719976526808461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1823
+        width: 57
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446d48e3a1edf4510800000000000000
+      internalID: 1535690202256037444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1767
+        width: 107
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9ffe33f6091d820800000000000000
+      internalID: 2941290838936779250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1351
+        width: 256
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb564819fe437390800000000000000
+      internalID: -7821821296051332115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1191
+        width: 165
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4e9be8f6baece30800000000000000
+      internalID: 4525743171178194084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_53
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1297
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd4ac17040ef22d0800000000000000
+      internalID: -3301173434447671869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1287
+        width: 31
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d43ab66bc2cc4bb0800000000000000
+      internalID: -4950367711529388844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_55
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1031
+        width: 150
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a43b27eddd6c7b10800000000000000
+      internalID: 1980578735969744034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_56
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1241
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c5d31710d32f960800000000000000
+      internalID: 7634231394750520371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1077
+        width: 65
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5495fc3aa0fa610800000000000000
+      internalID: 1634536888433460719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_58
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1163
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289e840e429feb240800000000000000
+      internalID: 4809555388855282050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_59
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f59f774193eb4310800000000000000
+      internalID: 1390455123083236848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_60
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1127
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cb65f0f81553560800000000000000
+      internalID: 7292824846475902078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 987
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d970e06f781a980800000000000000
+      internalID: -8529386728395924184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 983
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc214ea10121d7c0800000000000000
+      internalID: -4048418298927174406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 853
+        width: 97
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f2dac52ffeeb970800000000000000
+      internalID: 8772712948380282634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_64
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1031
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8ca1d6436ea4d90800000000000000
+      internalID: -7112619548635117386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 991
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11b068236909c0c0800000000000000
+      internalID: -4555099226624708321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 256
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6943ccd9643a280800000000000000
+      internalID: -9033298784025274648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78026256fca05c2d0800000000000000
+      internalID: -3259186869461180281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_68
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 615
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec0e9de194ca49e0800000000000000
+      internalID: -1636279383559893777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb665b31c6c6ef280800000000000000
+      internalID: -9007642993251490116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 511
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc38dca7f766b2d80800000000000000
+      internalID: -8274407192655985715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_71
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 511
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70421740e5c79b30800000000000000
+      internalID: 4294118336776781951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 527
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6619c88cc4b38f460800000000000000
+      internalID: 7275630398985245030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_73
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 527
+        width: 9
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2a7dc9e40945640800000000000000
+      internalID: 5067834148011877052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_74
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 399
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d8d090ed7eeba80800000000000000
+      internalID: -8449060910079832772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 439
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9989cf2e410c69fc0800000000000000
+      internalID: -3488389665411786599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_76
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 439
+        width: 7
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09132ee806add3c0800000000000000
+      internalID: -4333124709175322356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_77
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 359
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773f1a56a855495a0800000000000000
+      internalID: -6515488707999304841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 151
+        width: 96
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0155f60f73094e0800000000000000
+      internalID: -1977018730616123183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-DreamPalace_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 7
+        width: 207
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859f27d79cdabb430800000000000000
+      internalID: 3799821791521864024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-DreamPalace_0: 9045849951301389234
+      PU-DreamPalace_1: 967141665787800115
+      PU-DreamPalace_10: -8093703769948760800
+      PU-DreamPalace_11: 7106037643205639191
+      PU-DreamPalace_12: -5178751405356863228
+      PU-DreamPalace_13: 4271487213294919257
+      PU-DreamPalace_14: 6001846394629421614
+      PU-DreamPalace_15: -1132690489035725836
+      PU-DreamPalace_16: 956488040297537808
+      PU-DreamPalace_17: 4219002941071851672
+      PU-DreamPalace_18: 959293048165329481
+      PU-DreamPalace_19: -6490930444517416840
+      PU-DreamPalace_2: 4720395840362974237
+      PU-DreamPalace_20: -6031131846452321677
+      PU-DreamPalace_21: -731643501090138712
+      PU-DreamPalace_22: 5351813613491018832
+      PU-DreamPalace_23: 3449934399535253753
+      PU-DreamPalace_24: 768131908380681251
+      PU-DreamPalace_25: 4146387250870821049
+      PU-DreamPalace_26: 5711453064719611276
+      PU-DreamPalace_27: 7079861906667661393
+      PU-DreamPalace_28: -4725582009788058021
+      PU-DreamPalace_29: 4441930305729956988
+      PU-DreamPalace_3: 6653717527042321438
+      PU-DreamPalace_30: 5428784907900490932
+      PU-DreamPalace_31: 2930648138119642561
+      PU-DreamPalace_32: -117430282090872920
+      PU-DreamPalace_33: -6467726606472424654
+      PU-DreamPalace_34: 4788499661435678057
+      PU-DreamPalace_35: -90945751541148488
+      PU-DreamPalace_36: 2932790944498949693
+      PU-DreamPalace_37: -3990985668408787472
+      PU-DreamPalace_38: -5536584688579056686
+      PU-DreamPalace_39: 2166256413618420903
+      PU-DreamPalace_4: -8620770919904950076
+      PU-DreamPalace_40: -2033620085813144232
+      PU-DreamPalace_41: -2037072183472732290
+      PU-DreamPalace_42: -448570030269207003
+      PU-DreamPalace_43: 8963501252563752315
+      PU-DreamPalace_44: 7328847853110550308
+      PU-DreamPalace_45: -1677420322713959114
+      PU-DreamPalace_46: -3396519334144411771
+      PU-DreamPalace_47: -1972421290211802084
+      PU-DreamPalace_48: -7930719976526808461
+      PU-DreamPalace_49: 1535690202256037444
+      PU-DreamPalace_5: -2732665060354987135
+      PU-DreamPalace_50: 2941290838936779250
+      PU-DreamPalace_51: -7821821296051332115
+      PU-DreamPalace_52: 4525743171178194084
+      PU-DreamPalace_53: -3301173434447671869
+      PU-DreamPalace_54: -4950367711529388844
+      PU-DreamPalace_55: 1980578735969744034
+      PU-DreamPalace_56: 7634231394750520371
+      PU-DreamPalace_57: 1634536888433460719
+      PU-DreamPalace_58: 4809555388855282050
+      PU-DreamPalace_59: 1390455123083236848
+      PU-DreamPalace_6: -4432430763298452743
+      PU-DreamPalace_60: 7292824846475902078
+      PU-DreamPalace_61: -8529386728395924184
+      PU-DreamPalace_62: -4048418298927174406
+      PU-DreamPalace_63: 8772712948380282634
+      PU-DreamPalace_64: -7112619548635117386
+      PU-DreamPalace_65: -4555099226624708321
+      PU-DreamPalace_66: -9033298784025274648
+      PU-DreamPalace_67: -3259186869461180281
+      PU-DreamPalace_68: -1636279383559893777
+      PU-DreamPalace_69: -9007642993251490116
+      PU-DreamPalace_7: 4176234829882347597
+      PU-DreamPalace_70: -8274407192655985715
+      PU-DreamPalace_71: 4294118336776781951
+      PU-DreamPalace_72: 7275630398985245030
+      PU-DreamPalace_73: 5067834148011877052
+      PU-DreamPalace_74: -8449060910079832772
+      PU-DreamPalace_75: -3488389665411786599
+      PU-DreamPalace_76: -4333124709175322356
+      PU-DreamPalace_77: -6515488707999304841
+      PU-DreamPalace_78: -1977018730616123183
+      PU-DreamPalace_79: 3799821791521864024
+      PU-DreamPalace_8: 8494664986461170212
+      PU-DreamPalace_9: -1595422745233521232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

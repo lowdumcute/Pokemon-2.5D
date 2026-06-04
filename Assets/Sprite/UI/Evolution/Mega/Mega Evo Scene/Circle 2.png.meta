@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: a98dd922d6b511241ac8a43cdb9a4ac4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 933882201416384754
+    second: Circle 2_0
+  - first:
+      213: 8935608949127370854
+    second: Circle 2_1
+  - first:
+      213: -7272011523362561538
+    second: Circle 2_2
+  - first:
+      213: 8306280446851551414
+    second: Circle 2_3
+  - first:
+      213: -2985993595798804023
+    second: Circle 2_4
+  - first:
+      213: 5799950899133089389
+    second: Circle 2_5
+  - first:
+      213: 5981587992929951509
+    second: Circle 2_6
+  - first:
+      213: -9183152424300713928
+    second: Circle 2_7
+  - first:
+      213: -21789156815784374
+    second: Circle 2_8
+  - first:
+      213: 8021942897742284873
+    second: Circle 2_9
+  - first:
+      213: -5760054600916484960
+    second: Circle 2_10
+  - first:
+      213: -6372228821109469386
+    second: Circle 2_11
+  - first:
+      213: -1766514604590208744
+    second: Circle 2_12
+  - first:
+      213: 8969908414739452389
+    second: Circle 2_13
+  - first:
+      213: -4551398357136140219
+    second: Circle 2_14
+  - first:
+      213: -8710835916589962217
+    second: Circle 2_15
+  - first:
+      213: 3153156110652776333
+    second: Circle 2_16
+  - first:
+      213: -2390324296033894459
+    second: Circle 2_17
+  - first:
+      213: 4428025105945906564
+    second: Circle 2_18
+  - first:
+      213: 2509719991933347382
+    second: Circle 2_19
+  - first:
+      213: -8863219531014720274
+    second: Circle 2_20
+  - first:
+      213: 2733254021554408708
+    second: Circle 2_21
+  - first:
+      213: 5166361426058798402
+    second: Circle 2_22
+  - first:
+      213: 5081532961488913336
+    second: Circle 2_23
+  - first:
+      213: 5090092379606532363
+    second: Circle 2_24
+  - first:
+      213: 8173233278654723987
+    second: Circle 2_25
+  - first:
+      213: 8816201471329668054
+    second: Circle 2_26
+  - first:
+      213: 8924519931157924944
+    second: Circle 2_27
+  - first:
+      213: 7610492664693631627
+    second: Circle 2_28
+  - first:
+      213: 2418573750116498632
+    second: Circle 2_29
+  - first:
+      213: 5684760717593371113
+    second: Circle 2_30
+  - first:
+      213: -10630200083818054
+    second: Circle 2_31
+  - first:
+      213: -693548675337478582
+    second: Circle 2_32
+  - first:
+      213: -786181722246125340
+    second: Circle 2_33
+  - first:
+      213: -5354971457002310608
+    second: Circle 2_34
+  - first:
+      213: 8887486954598667242
+    second: Circle 2_35
+  - first:
+      213: -3485755178336522637
+    second: Circle 2_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Circle 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0cb7d0ae0d5fc00800000000000000
+      internalID: 933882201416384754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle 2_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668d9801ff8a10c70800000000000000
+      internalID: 8935608949127370854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle 2_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef16d6b5c00a41b90800000000000000
+      internalID: -7272011523362561538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":1.0},"gridSpriteSize":{"x":400.0,"y":400.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Circle 2_0: 933882201416384754
+      Circle 2_1: 8935608949127370854
+      Circle 2_2: -7272011523362561538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

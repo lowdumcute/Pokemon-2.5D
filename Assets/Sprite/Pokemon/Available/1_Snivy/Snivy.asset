@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9522a0e1d66639469d2b8c7485cf6cb, type: 3}
+  m_Name: Snivy
+  m_EditorClassIdentifier: 
+  pokeName: Snivy
+  description: 
+  frontSprite: {fileID: 21300000, guid: 8f826ca10e5d62e4ea8a45918b0a43a8, type: 3}
+  backSprite: {fileID: 21300000, guid: bd5a99c9c6be3b6468ba2b39fc7b6d70, type: 3}
+  iconSprite: {fileID: 21300000, guid: 8f826ca10e5d62e4ea8a45918b0a43a8, type: 3}
+  type1: 5
+  type2: 0
+  maxHP: 45
+  attack: 45
+  defense: 55
+  spAttack: 45
+  spDefense: 55
+  speed: 63
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 663c0b3fc1e2cd34ba3bcdf868aef082, type: 2}
+    level: 1
+  expYield: 62
+  growthRate: 2
+  evolution:
+    evolvedForm: {fileID: 11400000, guid: 231f998497ca51c47b2ddfaf56aafe18, type: 2}
+    requiredLevel: 16

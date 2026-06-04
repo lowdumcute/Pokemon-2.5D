@@ -1,0 +1,3107 @@
+fileFormatVersion: 2
+guid: 4e70f005f58ed004bb1d40475d613028
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7588988674577522338
+    second: NPU-Rainforest_0
+  - first:
+      213: 497782453455633099
+    second: NPU-Rainforest_1
+  - first:
+      213: 4253892090681417263
+    second: NPU-Rainforest_2
+  - first:
+      213: -5916194087208871408
+    second: NPU-Rainforest_3
+  - first:
+      213: -2852689375661803477
+    second: NPU-Rainforest_4
+  - first:
+      213: -7935037544513830977
+    second: NPU-Rainforest_5
+  - first:
+      213: 3504558728887779933
+    second: NPU-Rainforest_6
+  - first:
+      213: -3421857203424036573
+    second: NPU-Rainforest_7
+  - first:
+      213: 4978172353497266528
+    second: NPU-Rainforest_8
+  - first:
+      213: -1387410305349639584
+    second: NPU-Rainforest_9
+  - first:
+      213: -3579365855669255275
+    second: NPU-Rainforest_10
+  - first:
+      213: 4130262415134832649
+    second: NPU-Rainforest_11
+  - first:
+      213: -5203809676782634027
+    second: NPU-Rainforest_12
+  - first:
+      213: 1137081244946400932
+    second: NPU-Rainforest_13
+  - first:
+      213: -6440641960501291115
+    second: NPU-Rainforest_14
+  - first:
+      213: -2855622574139339205
+    second: NPU-Rainforest_15
+  - first:
+      213: 8046654287315688594
+    second: NPU-Rainforest_16
+  - first:
+      213: -7328544327123766657
+    second: NPU-Rainforest_17
+  - first:
+      213: -305258440371145719
+    second: NPU-Rainforest_18
+  - first:
+      213: -1883676031902755797
+    second: NPU-Rainforest_19
+  - first:
+      213: 2108664623425607456
+    second: NPU-Rainforest_20
+  - first:
+      213: -9060865189791664393
+    second: NPU-Rainforest_21
+  - first:
+      213: -2658567207229575649
+    second: NPU-Rainforest_22
+  - first:
+      213: -3002705503397399954
+    second: NPU-Rainforest_23
+  - first:
+      213: 51072090775055278
+    second: NPU-Rainforest_24
+  - first:
+      213: -6532894262314337431
+    second: NPU-Rainforest_25
+  - first:
+      213: 5748595934379634581
+    second: NPU-Rainforest_26
+  - first:
+      213: 5199631039660261830
+    second: NPU-Rainforest_27
+  - first:
+      213: -3612869861282394182
+    second: NPU-Rainforest_28
+  - first:
+      213: -2296568024024086614
+    second: NPU-Rainforest_29
+  - first:
+      213: 7948353252899698960
+    second: NPU-Rainforest_30
+  - first:
+      213: -4596055548547356679
+    second: NPU-Rainforest_31
+  - first:
+      213: -2968603194033098289
+    second: NPU-Rainforest_32
+  - first:
+      213: -1952902584281638751
+    second: NPU-Rainforest_33
+  - first:
+      213: 3025189885617059529
+    second: NPU-Rainforest_34
+  - first:
+      213: -3654866676712473122
+    second: NPU-Rainforest_35
+  - first:
+      213: 1653595837506631036
+    second: NPU-Rainforest_36
+  - first:
+      213: 3404502646399615720
+    second: NPU-Rainforest_37
+  - first:
+      213: -3089961925661436559
+    second: NPU-Rainforest_38
+  - first:
+      213: -5085213466222271911
+    second: NPU-Rainforest_39
+  - first:
+      213: -4126366825256841115
+    second: NPU-Rainforest_40
+  - first:
+      213: -8427388992308771487
+    second: NPU-Rainforest_41
+  - first:
+      213: -3201816024181072256
+    second: NPU-Rainforest_42
+  - first:
+      213: -2255059498858846264
+    second: NPU-Rainforest_43
+  - first:
+      213: -407384407492341241
+    second: NPU-Rainforest_44
+  - first:
+      213: -6634584632031818476
+    second: NPU-Rainforest_45
+  - first:
+      213: -4826040849132021341
+    second: NPU-Rainforest_46
+  - first:
+      213: 8181540522002141267
+    second: NPU-Rainforest_47
+  - first:
+      213: -7502328324545073965
+    second: NPU-Rainforest_48
+  - first:
+      213: 827973734366927696
+    second: NPU-Rainforest_49
+  - first:
+      213: 6343767837849354327
+    second: NPU-Rainforest_50
+  - first:
+      213: -2576575934618348073
+    second: NPU-Rainforest_51
+  - first:
+      213: -2344521304744181553
+    second: NPU-Rainforest_52
+  - first:
+      213: 3067078597704943739
+    second: NPU-Rainforest_53
+  - first:
+      213: -1563736135175423274
+    second: NPU-Rainforest_54
+  - first:
+      213: -1057217302242533440
+    second: NPU-Rainforest_55
+  - first:
+      213: -6779674226031403646
+    second: NPU-Rainforest_56
+  - first:
+      213: 2932814680590664246
+    second: NPU-Rainforest_57
+  - first:
+      213: 5709245778789248215
+    second: NPU-Rainforest_58
+  - first:
+      213: -8752809067821883998
+    second: NPU-Rainforest_59
+  - first:
+      213: 1965512641173321300
+    second: NPU-Rainforest_60
+  - first:
+      213: -7082218279062562679
+    second: NPU-Rainforest_61
+  - first:
+      213: 3784678688275752312
+    second: NPU-Rainforest_62
+  - first:
+      213: 1687630373415823918
+    second: NPU-Rainforest_63
+  - first:
+      213: 7524408367040166465
+    second: NPU-Rainforest_64
+  - first:
+      213: 6413044976039705029
+    second: NPU-Rainforest_65
+  - first:
+      213: -3429221702669193717
+    second: NPU-Rainforest_66
+  - first:
+      213: -4474683268051609087
+    second: NPU-Rainforest_67
+  - first:
+      213: -302293000239599652
+    second: NPU-Rainforest_68
+  - first:
+      213: 7265393314396499461
+    second: NPU-Rainforest_69
+  - first:
+      213: 6622873636624177986
+    second: NPU-Rainforest_70
+  - first:
+      213: 6281377382277126610
+    second: NPU-Rainforest_71
+  - first:
+      213: 1633386113019401916
+    second: NPU-Rainforest_72
+  - first:
+      213: 2656590934280433438
+    second: NPU-Rainforest_73
+  - first:
+      213: -9130347408340337937
+    second: NPU-Rainforest_74
+  - first:
+      213: 6528821619118140435
+    second: NPU-Rainforest_75
+  - first:
+      213: -8798711645418862275
+    second: NPU-Rainforest_76
+  - first:
+      213: -5418130979415711402
+    second: NPU-Rainforest_77
+  - first:
+      213: -7790808069239417421
+    second: NPU-Rainforest_78
+  - first:
+      213: 9040244370110345822
+    second: NPU-Rainforest_79
+  - first:
+      213: 2317600338113962596
+    second: NPU-Rainforest_80
+  - first:
+      213: -4025259003509815863
+    second: NPU-Rainforest_81
+  - first:
+      213: -8001248493031735792
+    second: NPU-Rainforest_82
+  - first:
+      213: -8101783573405618596
+    second: NPU-Rainforest_83
+  - first:
+      213: -3205358250526891434
+    second: NPU-Rainforest_84
+  - first:
+      213: -7206688464268244037
+    second: NPU-Rainforest_85
+  - first:
+      213: 2384871184531435839
+    second: NPU-Rainforest_86
+  - first:
+      213: 7340779121028073492
+    second: NPU-Rainforest_87
+  - first:
+      213: -62153194583014742
+    second: NPU-Rainforest_88
+  - first:
+      213: 1101311984556465633
+    second: NPU-Rainforest_89
+  - first:
+      213: -3333267310208106062
+    second: NPU-Rainforest_90
+  - first:
+      213: 7085578552418099344
+    second: NPU-Rainforest_91
+  - first:
+      213: 3923124675100179566
+    second: NPU-Rainforest_92
+  - first:
+      213: -2691260016306899732
+    second: NPU-Rainforest_93
+  - first:
+      213: -6797109870554745581
+    second: NPU-Rainforest_94
+  - first:
+      213: 4651305660642593810
+    second: NPU-Rainforest_95
+  - first:
+      213: -198212224361826346
+    second: NPU-Rainforest_96
+  - first:
+      213: -5252680875729032230
+    second: NPU-Rainforest_97
+  - first:
+      213: 8209022544393295340
+    second: NPU-Rainforest_98
+  - first:
+      213: 4985741801251596456
+    second: NPU-Rainforest_99
+  - first:
+      213: -6248321430664908307
+    second: NPU-Rainforest_100
+  - first:
+      213: 9173693505221112635
+    second: NPU-Rainforest_101
+  - first:
+      213: 929322935950137872
+    second: NPU-Rainforest_102
+  - first:
+      213: 7752785376274428653
+    second: NPU-Rainforest_103
+  - first:
+      213: 4861584500197446738
+    second: NPU-Rainforest_104
+  - first:
+      213: 4337661250840813735
+    second: NPU-Rainforest_105
+  - first:
+      213: 5379476878950537167
+    second: NPU-Rainforest_106
+  - first:
+      213: 5929677679549786221
+    second: NPU-Rainforest_107
+  - first:
+      213: 2313310531421792624
+    second: NPU-Rainforest_108
+  - first:
+      213: 237840936850195883
+    second: NPU-Rainforest_109
+  - first:
+      213: -4759058050579967366
+    second: NPU-Rainforest_110
+  - first:
+      213: -1408917375614729540
+    second: NPU-Rainforest_111
+  - first:
+      213: -7013079965664526049
+    second: NPU-Rainforest_112
+  - first:
+      213: -2287615970710588127
+    second: NPU-Rainforest_113
+  - first:
+      213: 502468122929307157
+    second: NPU-Rainforest_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPU-Rainforest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4223
+        width: 256
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aed7a8cdf0815960800000000000000
+      internalID: 7588988674577522338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4193
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca35a9018a78e600800000000000000
+      internalID: 497782453455633099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4191
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ed8e1815cd80b30800000000000000
+      internalID: 4253892090681417263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a16a1b2d475eda0800000000000000
+      internalID: -5916194087208871408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4159
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28b52580263968d0800000000000000
+      internalID: -2852689375661803477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4195
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf7dd7156511e190800000000000000
+      internalID: -7935037544513830977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4161
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52c9d19891b2a030800000000000000
+      internalID: 3504558728887779933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4179
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3297cc5d00f1380d0800000000000000
+      internalID: -3421857203424036573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4183
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069ffd84165061540800000000000000
+      internalID: 4978172353497266528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4159
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0622be79dadeebce0800000000000000
+      internalID: -1387410305349639584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 4153
+        width: 5
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5930ca3f7b9835ec0800000000000000
+      internalID: -3579365855669255275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908324398c3a15930800000000000000
+      internalID: 4130262415134832649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db71a08baa58c7b0800000000000000
+      internalID: -5203809676782634027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a60ac52e59b7cf00800000000000000
+      internalID: 1137081244946400932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59758dac24e3e96a0800000000000000
+      internalID: -6440641960501291115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e86d7066ace58d0800000000000000
+      internalID: -2855622574139339205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c53d9f0757baf60800000000000000
+      internalID: 8046654287315688594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72751543c7cb4a90800000000000000
+      internalID: -7328544327123766657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4065
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904fcf8d01183cbf0800000000000000
+      internalID: -305258440371145719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4097
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24d48e01a6dbd5e0800000000000000
+      internalID: -1883676031902755797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_20
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 4098
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02757b58d4b734d10800000000000000
+      internalID: 2108664623425607456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4109
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6f3cccd17514280800000000000000
+      internalID: -9060865189791664393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3935
+        width: 256
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e2491f53fda1bd0800000000000000
+      internalID: -2658567207229575649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3807
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6233e0f04f3456d0800000000000000
+      internalID: -3002705503397399954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3647
+        width: 97
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab6594cbc175b000800000000000000
+      internalID: 51072090775055278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3775
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bf09bf74f7655a0800000000000000
+      internalID: -6532894262314337431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3743
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fe3f18b8d17cf40800000000000000
+      internalID: 5748595934379634581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3721
+        width: 129
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c18b0ab1ecc82840800000000000000
+      internalID: 5199631039660261830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3647
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf4c82c0028cddc0800000000000000
+      internalID: -3612869861282394182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3711
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa70685cc83f020e0800000000000000
+      internalID: -2296568024024086614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3681
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019386cdb293e4e60800000000000000
+      internalID: 7948353252899698960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3679
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f72fdc54d78730c0800000000000000
+      internalID: -4596055548547356679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3661
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc131949f176dc6d0800000000000000
+      internalID: -2968603194033098289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_33
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3679
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a853fe4275e5e4e0800000000000000
+      internalID: -1952902584281638751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_34
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3659
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c63f4e3c22abf920800000000000000
+      internalID: 3025189885617059529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3679
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddf3213f1e474dc0800000000000000
+      internalID: -3654866676712473122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3661
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75b5a037a0c2f610800000000000000
+      internalID: 1653595837506631036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3555
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2c68b7e193f3f20800000000000000
+      internalID: 3404502646399615720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3519
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175d77bffff3e15d0800000000000000
+      internalID: -3089961925661436559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_39
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3551
+        width: 114
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952e9ca8b41bd69b0800000000000000
+      internalID: -5085213466222271911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3551
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5601c9f1c333cb6c0800000000000000
+      internalID: -4126366825256841115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3263
+        width: 256
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16506699c56eb0b80800000000000000
+      internalID: -8427388992308771487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3199
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e988a3a4dd093d0800000000000000
+      internalID: -3201816024181072256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3239
+        width: 109
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7e527655b64b0e0800000000000000
+      internalID: -2255059498858846264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_44
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3231
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702d2603a0ea85af0800000000000000
+      internalID: -407384407492341241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2853
+        width: 243
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d4a7fbd683de3a0800000000000000
+      internalID: -6634584632031818476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a916fbca65760db0800000000000000
+      internalID: -4826040849132021341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350d661d1cbaa8170800000000000000
+      internalID: 8181540522002141267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3199
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dca32b432062e790800000000000000
+      internalID: -7502328324545073965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3071
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b5b4089bd8d7b00800000000000000
+      internalID: 827973734366927696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2431
+        width: 256
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7500f80ec37990850800000000000000
+      internalID: 6343767837849354327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2879
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5d048b6d92e3cd0800000000000000
+      internalID: -2576575934618348073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2267
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0436e8b46967fd0800000000000000
+      internalID: -2344521304744181553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2101
+        width: 129
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78086a0cb3709a20800000000000000
+      internalID: 3067078597704943739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da3d64254e7c4ae0800000000000000
+      internalID: -1563736135175423274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfdf6907720451f0800000000000000
+      internalID: -1057217302242533440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dd6803632c9e1a0800000000000000
+      internalID: -6779674226031403646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63248acc96373b820800000000000000
+      internalID: 2932814680590664246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dca12479c05b3f40800000000000000
+      internalID: 5709245778789248215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_59
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad98a5f686c78680800000000000000
+      internalID: -8752809067821883998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456fcaa5557e64b10800000000000000
+      internalID: 1965512641173321300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_61
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98892b69ff7e6bd90800000000000000
+      internalID: -7082218279062562679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_62
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2207
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875eaa30731e58430800000000000000
+      internalID: 3784678688275752312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_63
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2175
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a2c9712eaab6710800000000000000
+      internalID: 1687630373415823918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_64
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14af7663b811c6860800000000000000
+      internalID: 7524408367040166465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_65
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9337d8d66bff850800000000000000
+      internalID: 6413044976039705029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ea75cb705f860d0800000000000000
+      internalID: -3429221702669193717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a566d864bb6e1c0800000000000000
+      internalID: -4474683268051609087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfa1ae2e1a0ecbf0800000000000000
+      internalID: -302293000239599652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_69
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ee91ac9bcd3d460800000000000000
+      internalID: 7265393314396499461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_70
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2143
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b9847ab7c29eb50800000000000000
+      internalID: 6622873636624177986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_71
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2111
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d91dc2f27feb2750800000000000000
+      internalID: 6281377382277126610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6d3970404faa610800000000000000
+      internalID: 1633386113019401916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fee47216b1ed420800000000000000
+      internalID: 2656590934280433438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea37f1286d7a4180800000000000000
+      internalID: -9130347408340337937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_75
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c6d61eba80b9a50800000000000000
+      internalID: 6528821619118140435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3947b54062b4e580800000000000000
+      internalID: -8798711645418862275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_77
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6512369a49eeec4b0800000000000000
+      internalID: -5418130979415711402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_78
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5dcb7a65d71e390800000000000000
+      internalID: -7790808069239417421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_79
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52f62b7b56657d70800000000000000
+      internalID: 9040244370110345822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_80
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462ab947a35c92020800000000000000
+      internalID: 2317600338113962596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_81
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2047
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5cad653486328c0800000000000000
+      internalID: -4025259003509815863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_82
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2079
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eb63553ead5f090800000000000000
+      internalID: -8001248493031735792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_83
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2047
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e201cd3cea09f80800000000000000
+      internalID: -8101783573405618596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6522a7367a74483d0800000000000000
+      internalID: -3205358250526891434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1983
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbc2604603bcfb90800000000000000
+      internalID: -7206688464268244037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_86
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1743
+        width: 228
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31bf0de4b3c81120800000000000000
+      internalID: 2384871184531435839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_87
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4188b7ba7bfafd560800000000000000
+      internalID: 7340779121028073492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_88
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa24933bfff232ff0800000000000000
+      internalID: -62153194583014742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_89
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed5e5a3a65a84f00800000000000000
+      internalID: 1101311984556465633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_90
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1cf91ba0bddb1d0800000000000000
+      internalID: -3333267310208106062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_91
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090e1050728055260800000000000000
+      internalID: 7085578552418099344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_92
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1951
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c7aec3b1db17630800000000000000
+      internalID: 3923124675100179566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4b0d92649b6aad0800000000000000
+      internalID: -2691260016306899732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_94
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2015
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315784ad590dba1a0800000000000000
+      internalID: -6797109870554745581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1883
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c8d5ccad1cc8040800000000000000
+      internalID: 4651305660642593810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_96
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1922
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7f5c8380fcf3df0800000000000000
+      internalID: -198212224361826346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_97
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1890
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbeeabc29aba17b0800000000000000
+      internalID: -5252680875729032230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_98
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1858
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce55cb7c28e4ce170800000000000000
+      internalID: 8209022544393295340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_99
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1851
+        width: 58
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8ea6da0c9e03540800000000000000
+      internalID: 4985741801251596456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_100
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1825
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1f1ca83c08949a0800000000000000
+      internalID: -6248321430664908307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_101
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1793
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33330183a18f4f70800000000000000
+      internalID: 9173693505221112635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_102
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1761
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a5ee6594e95ec00800000000000000
+      internalID: 929322935950137872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_103
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1729
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de23ea4493d679b60800000000000000
+      internalID: 7752785376274428653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_104
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1697
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25450db5851d77340800000000000000
+      internalID: 4861584500197446738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 823
+        width: 256
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0e75cfce7723c30800000000000000
+      internalID: 4337661250840813735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_106
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1683
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7164f38bdb7aa40800000000000000
+      internalID: 5379476878950537167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_107
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1663
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68a02ace627a4250800000000000000
+      internalID: 5929677679549786221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_108
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1663
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079e0900ca78a1020800000000000000
+      internalID: 2313310531421792624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_109
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1663
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5800a621bfc4300800000000000000
+      internalID: 237840936850195883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 199
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72d7b5eaed64fdb0800000000000000
+      internalID: -4759058050579967366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 161
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2cb949c15827ce0800000000000000
+      internalID: -1408917375614729540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_112
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 159
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1148299de88cae90800000000000000
+      internalID: -7013079965664526049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_113
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 159
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125f84b1561c040e0800000000000000
+      internalID: -2287615970710588127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Rainforest_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e982a781029f600800000000000000
+      internalID: 502468122929307157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPU-Rainforest_0: 7588988674577522338
+      NPU-Rainforest_1: 497782453455633099
+      NPU-Rainforest_10: -3579365855669255275
+      NPU-Rainforest_100: -6248321430664908307
+      NPU-Rainforest_101: 9173693505221112635
+      NPU-Rainforest_102: 929322935950137872
+      NPU-Rainforest_103: 7752785376274428653
+      NPU-Rainforest_104: 4861584500197446738
+      NPU-Rainforest_105: 4337661250840813735
+      NPU-Rainforest_106: 5379476878950537167
+      NPU-Rainforest_107: 5929677679549786221
+      NPU-Rainforest_108: 2313310531421792624
+      NPU-Rainforest_109: 237840936850195883
+      NPU-Rainforest_11: 4130262415134832649
+      NPU-Rainforest_110: -4759058050579967366
+      NPU-Rainforest_111: -1408917375614729540
+      NPU-Rainforest_112: -7013079965664526049
+      NPU-Rainforest_113: -2287615970710588127
+      NPU-Rainforest_114: 502468122929307157
+      NPU-Rainforest_12: -5203809676782634027
+      NPU-Rainforest_13: 1137081244946400932
+      NPU-Rainforest_14: -6440641960501291115
+      NPU-Rainforest_15: -2855622574139339205
+      NPU-Rainforest_16: 8046654287315688594
+      NPU-Rainforest_17: -7328544327123766657
+      NPU-Rainforest_18: -305258440371145719
+      NPU-Rainforest_19: -1883676031902755797
+      NPU-Rainforest_2: 4253892090681417263
+      NPU-Rainforest_20: 2108664623425607456
+      NPU-Rainforest_21: -9060865189791664393
+      NPU-Rainforest_22: -2658567207229575649
+      NPU-Rainforest_23: -3002705503397399954
+      NPU-Rainforest_24: 51072090775055278
+      NPU-Rainforest_25: -6532894262314337431
+      NPU-Rainforest_26: 5748595934379634581
+      NPU-Rainforest_27: 5199631039660261830
+      NPU-Rainforest_28: -3612869861282394182
+      NPU-Rainforest_29: -2296568024024086614
+      NPU-Rainforest_3: -5916194087208871408
+      NPU-Rainforest_30: 7948353252899698960
+      NPU-Rainforest_31: -4596055548547356679
+      NPU-Rainforest_32: -2968603194033098289
+      NPU-Rainforest_33: -1952902584281638751
+      NPU-Rainforest_34: 3025189885617059529
+      NPU-Rainforest_35: -3654866676712473122
+      NPU-Rainforest_36: 1653595837506631036
+      NPU-Rainforest_37: 3404502646399615720
+      NPU-Rainforest_38: -3089961925661436559
+      NPU-Rainforest_39: -5085213466222271911
+      NPU-Rainforest_4: -2852689375661803477
+      NPU-Rainforest_40: -4126366825256841115
+      NPU-Rainforest_41: -8427388992308771487
+      NPU-Rainforest_42: -3201816024181072256
+      NPU-Rainforest_43: -2255059498858846264
+      NPU-Rainforest_44: -407384407492341241
+      NPU-Rainforest_45: -6634584632031818476
+      NPU-Rainforest_46: -4826040849132021341
+      NPU-Rainforest_47: 8181540522002141267
+      NPU-Rainforest_48: -7502328324545073965
+      NPU-Rainforest_49: 827973734366927696
+      NPU-Rainforest_5: -7935037544513830977
+      NPU-Rainforest_50: 6343767837849354327
+      NPU-Rainforest_51: -2576575934618348073
+      NPU-Rainforest_52: -2344521304744181553
+      NPU-Rainforest_53: 3067078597704943739
+      NPU-Rainforest_54: -1563736135175423274
+      NPU-Rainforest_55: -1057217302242533440
+      NPU-Rainforest_56: -6779674226031403646
+      NPU-Rainforest_57: 2932814680590664246
+      NPU-Rainforest_58: 5709245778789248215
+      NPU-Rainforest_59: -8752809067821883998
+      NPU-Rainforest_6: 3504558728887779933
+      NPU-Rainforest_60: 1965512641173321300
+      NPU-Rainforest_61: -7082218279062562679
+      NPU-Rainforest_62: 3784678688275752312
+      NPU-Rainforest_63: 1687630373415823918
+      NPU-Rainforest_64: 7524408367040166465
+      NPU-Rainforest_65: 6413044976039705029
+      NPU-Rainforest_66: -3429221702669193717
+      NPU-Rainforest_67: -4474683268051609087
+      NPU-Rainforest_68: -302293000239599652
+      NPU-Rainforest_69: 7265393314396499461
+      NPU-Rainforest_7: -3421857203424036573
+      NPU-Rainforest_70: 6622873636624177986
+      NPU-Rainforest_71: 6281377382277126610
+      NPU-Rainforest_72: 1633386113019401916
+      NPU-Rainforest_73: 2656590934280433438
+      NPU-Rainforest_74: -9130347408340337937
+      NPU-Rainforest_75: 6528821619118140435
+      NPU-Rainforest_76: -8798711645418862275
+      NPU-Rainforest_77: -5418130979415711402
+      NPU-Rainforest_78: -7790808069239417421
+      NPU-Rainforest_79: 9040244370110345822
+      NPU-Rainforest_8: 4978172353497266528
+      NPU-Rainforest_80: 2317600338113962596
+      NPU-Rainforest_81: -4025259003509815863
+      NPU-Rainforest_82: -8001248493031735792
+      NPU-Rainforest_83: -8101783573405618596
+      NPU-Rainforest_84: -3205358250526891434
+      NPU-Rainforest_85: -7206688464268244037
+      NPU-Rainforest_86: 2384871184531435839
+      NPU-Rainforest_87: 7340779121028073492
+      NPU-Rainforest_88: -62153194583014742
+      NPU-Rainforest_89: 1101311984556465633
+      NPU-Rainforest_9: -1387410305349639584
+      NPU-Rainforest_90: -3333267310208106062
+      NPU-Rainforest_91: 7085578552418099344
+      NPU-Rainforest_92: 3923124675100179566
+      NPU-Rainforest_93: -2691260016306899732
+      NPU-Rainforest_94: -6797109870554745581
+      NPU-Rainforest_95: 4651305660642593810
+      NPU-Rainforest_96: -198212224361826346
+      NPU-Rainforest_97: -5252680875729032230
+      NPU-Rainforest_98: 8209022544393295340
+      NPU-Rainforest_99: 4985741801251596456
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

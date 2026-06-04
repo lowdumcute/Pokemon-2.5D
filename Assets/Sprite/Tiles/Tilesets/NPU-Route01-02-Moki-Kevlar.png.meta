@@ -1,0 +1,2509 @@
+fileFormatVersion: 2
+guid: 37b704d865120514ea18fa786c4b365a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7041219522818373477
+    second: NPU-Route01-02-Moki-Kevlar_0
+  - first:
+      213: 7599043279387856076
+    second: NPU-Route01-02-Moki-Kevlar_1
+  - first:
+      213: 4199524783288950824
+    second: NPU-Route01-02-Moki-Kevlar_2
+  - first:
+      213: 2563918676840920495
+    second: NPU-Route01-02-Moki-Kevlar_3
+  - first:
+      213: -899338621084669834
+    second: NPU-Route01-02-Moki-Kevlar_4
+  - first:
+      213: -4708572233853601582
+    second: NPU-Route01-02-Moki-Kevlar_5
+  - first:
+      213: -4848638148068883944
+    second: NPU-Route01-02-Moki-Kevlar_6
+  - first:
+      213: -73351879221561051
+    second: NPU-Route01-02-Moki-Kevlar_7
+  - first:
+      213: -2340623614658906628
+    second: NPU-Route01-02-Moki-Kevlar_8
+  - first:
+      213: 2837020978033452066
+    second: NPU-Route01-02-Moki-Kevlar_9
+  - first:
+      213: 6863243569987812509
+    second: NPU-Route01-02-Moki-Kevlar_10
+  - first:
+      213: 10340432511704787
+    second: NPU-Route01-02-Moki-Kevlar_11
+  - first:
+      213: 2130114279503706421
+    second: NPU-Route01-02-Moki-Kevlar_12
+  - first:
+      213: 8520965684579707337
+    second: NPU-Route01-02-Moki-Kevlar_13
+  - first:
+      213: -4404394775751566742
+    second: NPU-Route01-02-Moki-Kevlar_14
+  - first:
+      213: 8189951335153959778
+    second: NPU-Route01-02-Moki-Kevlar_15
+  - first:
+      213: -9025060531058880280
+    second: NPU-Route01-02-Moki-Kevlar_16
+  - first:
+      213: -6850553518006281719
+    second: NPU-Route01-02-Moki-Kevlar_17
+  - first:
+      213: -1301848266829172266
+    second: NPU-Route01-02-Moki-Kevlar_18
+  - first:
+      213: 1900839743491455532
+    second: NPU-Route01-02-Moki-Kevlar_19
+  - first:
+      213: 8940827361599330577
+    second: NPU-Route01-02-Moki-Kevlar_20
+  - first:
+      213: -1265153263396577093
+    second: NPU-Route01-02-Moki-Kevlar_21
+  - first:
+      213: -252686580240625380
+    second: NPU-Route01-02-Moki-Kevlar_22
+  - first:
+      213: 3670783293202581439
+    second: NPU-Route01-02-Moki-Kevlar_23
+  - first:
+      213: -192377395574348520
+    second: NPU-Route01-02-Moki-Kevlar_24
+  - first:
+      213: 6350189614233862648
+    second: NPU-Route01-02-Moki-Kevlar_25
+  - first:
+      213: -6832189492628414971
+    second: NPU-Route01-02-Moki-Kevlar_26
+  - first:
+      213: -6292322539393319132
+    second: NPU-Route01-02-Moki-Kevlar_27
+  - first:
+      213: -8500142527171108175
+    second: NPU-Route01-02-Moki-Kevlar_28
+  - first:
+      213: -8416069889425892370
+    second: NPU-Route01-02-Moki-Kevlar_29
+  - first:
+      213: -7255413194900499750
+    second: NPU-Route01-02-Moki-Kevlar_30
+  - first:
+      213: 4769423162058859698
+    second: NPU-Route01-02-Moki-Kevlar_31
+  - first:
+      213: -7428402445266222215
+    second: NPU-Route01-02-Moki-Kevlar_32
+  - first:
+      213: 4378403660488582872
+    second: NPU-Route01-02-Moki-Kevlar_33
+  - first:
+      213: -6923168442492115601
+    second: NPU-Route01-02-Moki-Kevlar_34
+  - first:
+      213: -667347134170236619
+    second: NPU-Route01-02-Moki-Kevlar_35
+  - first:
+      213: 4354667049656335511
+    second: NPU-Route01-02-Moki-Kevlar_36
+  - first:
+      213: -1314069102190958515
+    second: NPU-Route01-02-Moki-Kevlar_37
+  - first:
+      213: -8274570151832814820
+    second: NPU-Route01-02-Moki-Kevlar_38
+  - first:
+      213: -8954089961258547948
+    second: NPU-Route01-02-Moki-Kevlar_39
+  - first:
+      213: -8616021031187725630
+    second: NPU-Route01-02-Moki-Kevlar_40
+  - first:
+      213: -1097685201945563495
+    second: NPU-Route01-02-Moki-Kevlar_41
+  - first:
+      213: 3395085241365085734
+    second: NPU-Route01-02-Moki-Kevlar_42
+  - first:
+      213: -7959337914161250132
+    second: NPU-Route01-02-Moki-Kevlar_43
+  - first:
+      213: 5335963004922381044
+    second: NPU-Route01-02-Moki-Kevlar_44
+  - first:
+      213: 2180206260246630452
+    second: NPU-Route01-02-Moki-Kevlar_45
+  - first:
+      213: 8910299672531260850
+    second: NPU-Route01-02-Moki-Kevlar_46
+  - first:
+      213: 2116245079712996675
+    second: NPU-Route01-02-Moki-Kevlar_47
+  - first:
+      213: -617347326053007472
+    second: NPU-Route01-02-Moki-Kevlar_48
+  - first:
+      213: -7058297406314145753
+    second: NPU-Route01-02-Moki-Kevlar_49
+  - first:
+      213: -3947744188254417488
+    second: NPU-Route01-02-Moki-Kevlar_50
+  - first:
+      213: -2741814349212107064
+    second: NPU-Route01-02-Moki-Kevlar_51
+  - first:
+      213: 1572571562742676066
+    second: NPU-Route01-02-Moki-Kevlar_52
+  - first:
+      213: 3077683200611827062
+    second: NPU-Route01-02-Moki-Kevlar_53
+  - first:
+      213: -2909291641843917067
+    second: NPU-Route01-02-Moki-Kevlar_54
+  - first:
+      213: -3630352746217201338
+    second: NPU-Route01-02-Moki-Kevlar_55
+  - first:
+      213: -4317998840734708107
+    second: NPU-Route01-02-Moki-Kevlar_56
+  - first:
+      213: -2770914933153069232
+    second: NPU-Route01-02-Moki-Kevlar_57
+  - first:
+      213: -7787717312077889419
+    second: NPU-Route01-02-Moki-Kevlar_58
+  - first:
+      213: -5496482830148849255
+    second: NPU-Route01-02-Moki-Kevlar_59
+  - first:
+      213: 2111283364210479931
+    second: NPU-Route01-02-Moki-Kevlar_60
+  - first:
+      213: -34720583695470866
+    second: NPU-Route01-02-Moki-Kevlar_61
+  - first:
+      213: -5244157383091574449
+    second: NPU-Route01-02-Moki-Kevlar_62
+  - first:
+      213: -1470365543309880672
+    second: NPU-Route01-02-Moki-Kevlar_63
+  - first:
+      213: -7130672505705673346
+    second: NPU-Route01-02-Moki-Kevlar_64
+  - first:
+      213: 2025536429498051460
+    second: NPU-Route01-02-Moki-Kevlar_65
+  - first:
+      213: -3140063687975058048
+    second: NPU-Route01-02-Moki-Kevlar_66
+  - first:
+      213: 2162739902074484501
+    second: NPU-Route01-02-Moki-Kevlar_67
+  - first:
+      213: 5565888307969717813
+    second: NPU-Route01-02-Moki-Kevlar_68
+  - first:
+      213: 21119350917645674
+    second: NPU-Route01-02-Moki-Kevlar_69
+  - first:
+      213: -8431976945713534715
+    second: NPU-Route01-02-Moki-Kevlar_70
+  - first:
+      213: 6091219813347550511
+    second: NPU-Route01-02-Moki-Kevlar_71
+  - first:
+      213: 3590903963107244347
+    second: NPU-Route01-02-Moki-Kevlar_72
+  - first:
+      213: 7193226040362782271
+    second: NPU-Route01-02-Moki-Kevlar_73
+  - first:
+      213: 2030223815657104312
+    second: NPU-Route01-02-Moki-Kevlar_74
+  - first:
+      213: 776164398277688815
+    second: NPU-Route01-02-Moki-Kevlar_75
+  - first:
+      213: -3346780538164688512
+    second: NPU-Route01-02-Moki-Kevlar_76
+  - first:
+      213: -4090385505399606196
+    second: NPU-Route01-02-Moki-Kevlar_77
+  - first:
+      213: 665472777662026502
+    second: NPU-Route01-02-Moki-Kevlar_78
+  - first:
+      213: 4085046140655474505
+    second: NPU-Route01-02-Moki-Kevlar_79
+  - first:
+      213: -3988760106699932284
+    second: NPU-Route01-02-Moki-Kevlar_80
+  - first:
+      213: -5451810603447382279
+    second: NPU-Route01-02-Moki-Kevlar_81
+  - first:
+      213: 4082920576139586993
+    second: NPU-Route01-02-Moki-Kevlar_82
+  - first:
+      213: 2584019152448915977
+    second: NPU-Route01-02-Moki-Kevlar_83
+  - first:
+      213: 8573954431345959692
+    second: NPU-Route01-02-Moki-Kevlar_84
+  - first:
+      213: 6056676860832420382
+    second: NPU-Route01-02-Moki-Kevlar_85
+  - first:
+      213: 1743137970155787294
+    second: NPU-Route01-02-Moki-Kevlar_86
+  - first:
+      213: 3236219083811970329
+    second: NPU-Route01-02-Moki-Kevlar_87
+  - first:
+      213: -3168919719774357957
+    second: NPU-Route01-02-Moki-Kevlar_88
+  - first:
+      213: 2379915043267527237
+    second: NPU-Route01-02-Moki-Kevlar_89
+  - first:
+      213: 6541164457767694865
+    second: NPU-Route01-02-Moki-Kevlar_90
+  - first:
+      213: -8680234609812512913
+    second: NPU-Route01-02-Moki-Kevlar_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3103
+        width: 256
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b988dd46620984e90800000000000000
+      internalID: -7041219522818373477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3073
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc8bb4e999357960800000000000000
+      internalID: 7599043279387856076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3071
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82023655a85b74a30800000000000000
+      internalID: 4199524783288950824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3071
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5b71ec37ed49320800000000000000
+      internalID: 2563918676840920495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3039
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678657df948e483f0800000000000000
+      internalID: -899338621084669834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3075
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d873e9108ac7aeb0800000000000000
+      internalID: -4708572233853601582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3041
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81242f32b4d26bcb0800000000000000
+      internalID: -4848638148068883944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3007
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529346fbad66bfef0800000000000000
+      internalID: -73351879221561051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3039
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf57d5f393f648fd0800000000000000
+      internalID: -2340623614658906628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3007
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224e3006c8f1f5720800000000000000
+      internalID: 2837020978033452066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3007
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c7b14f9a32f3f50800000000000000
+      internalID: 6863243569987812509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3007
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de1fae819cb42000800000000000000
+      internalID: 10340432511704787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3007
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5393ec0c6afaf8d10800000000000000
+      internalID: 2130114279503706421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3039
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9aaa4e42d804670800000000000000
+      internalID: 8520965684579707337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 3033
+        width: 5
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6addb4794270e2c0800000000000000
+      internalID: -4404394775751566742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2945
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263869bd85d88a170800000000000000
+      internalID: 8189951335153959778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2977
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e056d9834b80c280800000000000000
+      internalID: -9025060531058880280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2989
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ade640fd1fde0a0800000000000000
+      internalID: -6850553518006281719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_18
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3003
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1703816e7eeede0800000000000000
+      internalID: -1301848266829172266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2989
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ab0c5fca3216a10800000000000000
+      internalID: 1900839743491455532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2815
+        width: 227
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11998366d13341c70800000000000000
+      internalID: 8940827361599330577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2969
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb022dc5fc5417ee0800000000000000
+      internalID: -1265153263396577093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2911
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11df31e4e64e7cf0800000000000000
+      internalID: -252686580240625380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2879
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb747ced4fd31f230800000000000000
+      internalID: 3670783293202581439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2687
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815e9f927c9845df0800000000000000
+      internalID: -192377395574348520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2847
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1c8c43fc7602850800000000000000
+      internalID: 6350189614233862648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2677
+        width: 97
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e1abddadf2f21a0800000000000000
+      internalID: -6832189492628414971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2655
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ff6431dfd2da8a0800000000000000
+      internalID: -6292322539393319132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2601
+        width: 129
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b266cf386d690a80800000000000000
+      internalID: -8500142527171108175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2527
+        width: 65
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb98eb960d143b80800000000000000
+      internalID: -8416069889425892370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2623
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2164bd3289f4b90800000000000000
+      internalID: -7255413194900499750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2591
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4e90ea815603240800000000000000
+      internalID: 4769423162058859698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2623
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9738349555309e890800000000000000
+      internalID: -7428402445266222215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2591
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d621b27ee633cc30800000000000000
+      internalID: 4378403660488582872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6520196bf6fbef90800000000000000
+      internalID: -6923168442492115601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53978e5315b1db6f0800000000000000
+      internalID: -667347134170236619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2559
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c3dd11c92ee6c30800000000000000
+      internalID: 4354667049656335511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2561
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4867912d1d73cde0800000000000000
+      internalID: -1314069102190958515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2541
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b74f69942da2d80800000000000000
+      internalID: -8274570151832814820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2559
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4150b4cfe9eacb380800000000000000
+      internalID: -8954089961258547948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2559
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2c2c2958ebd6880800000000000000
+      internalID: -8616021031187725630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2541
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ee4d6ef1d34c0f0800000000000000
+      internalID: -1097685201945563495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ebcb10a04cd1f20800000000000000
+      internalID: 3395085241365085734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2371
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0ce136650ca8190800000000000000
+      internalID: -7959337914161250132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2431
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f24603f4162d0a40800000000000000
+      internalID: 5335963004922381044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2435
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430551fda06a14e10800000000000000
+      internalID: 2180206260246630452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2399
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b55187e75eb7ab70800000000000000
+      internalID: 8910299672531260850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2111
+        width: 256
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d16f900b96e5d10800000000000000
+      internalID: 2116245079712996675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2079
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fb297b0edbe67f0800000000000000
+      internalID: -617347326053007472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7289599c7e3eb0e90800000000000000
+      internalID: -7058297406314145753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd8bfaa39bc639c0800000000000000
+      internalID: -3947744188254417488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2079
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceb42b406e13f9d0800000000000000
+      internalID: -2741814349212107064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1733
+        width: 243
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a78252185e2d510800000000000000
+      internalID: 1572571562742676066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_53
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1951
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67db7af809026ba20800000000000000
+      internalID: 3077683200611827062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1343
+        width: 256
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe51e37aae10a7d0800000000000000
+      internalID: -2909291641843917067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1727
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6412c5869656e9dc0800000000000000
+      internalID: -3630352746217201338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1311
+        width: 97
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e857d9ee26314c0800000000000000
+      internalID: -4317998840734708107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057069a9c8bbb89d0800000000000000
+      internalID: -2770914933153069232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1311
+        width: 127
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5700072ad587ce390800000000000000
+      internalID: -7787717312077889419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1147
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991b1f2dcf198b3b0800000000000000
+      internalID: -5496482830148849255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 225
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3315ff9809cc4d10800000000000000
+      internalID: 2111283364210479931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1087
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeef6620d5a48ff0800000000000000
+      internalID: -34720583695470866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_62
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1055
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49a59215a20937b0800000000000000
+      internalID: -5244157383091574449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_63
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1023
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a25a052456389be0800000000000000
+      internalID: -1470365543309880672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_64
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 991
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dc4cfc223ca0d90800000000000000
+      internalID: -7130672505705673346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_65
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 959
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b28df96a62c1c10800000000000000
+      internalID: 2025536429498051460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 57
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085c42a66b04c64d0800000000000000
+      internalID: -3140063687975058048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 739
+        width: 255
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51776b47b78930e10800000000000000
+      internalID: 2162739902074484501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_68
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 731
+        width: 58
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536f8004de10e3d40800000000000000
+      internalID: 5565888307969717813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_69
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 623
+        width: 154
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65455110f70b4000800000000000000
+      internalID: 21119350917645674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_70
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 705
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509267474a99bfa80800000000000000
+      internalID: -8431976945713534715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 673
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25e667c52c588450800000000000000
+      internalID: 6091219813347550511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_72
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 641
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39bc87012475d130800000000000000
+      internalID: 3590903963107244347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_73
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 609
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ec9ece8f873d360800000000000000
+      internalID: 7193226040362782271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_74
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 577
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3a7c2cdcdcc2c10800000000000000
+      internalID: 2030223815657104312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 129
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed75ae686d75ca00800000000000000
+      internalID: 776164398277688815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_76
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 543
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089c08125d8dd81d0800000000000000
+      internalID: -3346780538164688512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_77
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 511
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44ff3cfd080c37c0800000000000000
+      internalID: -4090385505399606196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_78
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 543
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603dc3827fb3c3900800000000000000
+      internalID: 665472777662026502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_79
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 511
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94799d842dff0b830800000000000000
+      internalID: 4085046140655474505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_80
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 543
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48db6e9f0d315a8c0800000000000000
+      internalID: -3988760106699932284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_81
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 511
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe8fce14274754b0800000000000000
+      internalID: -5451810603447382279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdeeeab1a279a830800000000000000
+      internalID: 4082920576139586993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_83
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a068a7ab74cd320800000000000000
+      internalID: 2584019152448915977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_84
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0323c8e02eccf670800000000000000
+      internalID: 8573954431345959692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_85
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e129e39e383ad0450800000000000000
+      internalID: 6056676860832420382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_86
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 479
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1491a19fbed03810800000000000000
+      internalID: 1743137970155787294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_87
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 437
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dd3f94c1c59ec20800000000000000
+      internalID: 3236219083811970329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 256
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b367e15fd4cb504d0800000000000000
+      internalID: -3168919719774357957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 121
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542c19d5f18270120800000000000000
+      internalID: 2379915043267527237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_90
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11277a2fa62e6ca50800000000000000
+      internalID: 6541164457767694865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route01-02-Moki-Kevlar_91
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fd21bbc9c998780800000000000000
+      internalID: -8680234609812512913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPU-Route01-02-Moki-Kevlar_0: -7041219522818373477
+      NPU-Route01-02-Moki-Kevlar_1: 7599043279387856076
+      NPU-Route01-02-Moki-Kevlar_10: 6863243569987812509
+      NPU-Route01-02-Moki-Kevlar_11: 10340432511704787
+      NPU-Route01-02-Moki-Kevlar_12: 2130114279503706421
+      NPU-Route01-02-Moki-Kevlar_13: 8520965684579707337
+      NPU-Route01-02-Moki-Kevlar_14: -4404394775751566742
+      NPU-Route01-02-Moki-Kevlar_15: 8189951335153959778
+      NPU-Route01-02-Moki-Kevlar_16: -9025060531058880280
+      NPU-Route01-02-Moki-Kevlar_17: -6850553518006281719
+      NPU-Route01-02-Moki-Kevlar_18: -1301848266829172266
+      NPU-Route01-02-Moki-Kevlar_19: 1900839743491455532
+      NPU-Route01-02-Moki-Kevlar_2: 4199524783288950824
+      NPU-Route01-02-Moki-Kevlar_20: 8940827361599330577
+      NPU-Route01-02-Moki-Kevlar_21: -1265153263396577093
+      NPU-Route01-02-Moki-Kevlar_22: -252686580240625380
+      NPU-Route01-02-Moki-Kevlar_23: 3670783293202581439
+      NPU-Route01-02-Moki-Kevlar_24: -192377395574348520
+      NPU-Route01-02-Moki-Kevlar_25: 6350189614233862648
+      NPU-Route01-02-Moki-Kevlar_26: -6832189492628414971
+      NPU-Route01-02-Moki-Kevlar_27: -6292322539393319132
+      NPU-Route01-02-Moki-Kevlar_28: -8500142527171108175
+      NPU-Route01-02-Moki-Kevlar_29: -8416069889425892370
+      NPU-Route01-02-Moki-Kevlar_3: 2563918676840920495
+      NPU-Route01-02-Moki-Kevlar_30: -7255413194900499750
+      NPU-Route01-02-Moki-Kevlar_31: 4769423162058859698
+      NPU-Route01-02-Moki-Kevlar_32: -7428402445266222215
+      NPU-Route01-02-Moki-Kevlar_33: 4378403660488582872
+      NPU-Route01-02-Moki-Kevlar_34: -6923168442492115601
+      NPU-Route01-02-Moki-Kevlar_35: -667347134170236619
+      NPU-Route01-02-Moki-Kevlar_36: 4354667049656335511
+      NPU-Route01-02-Moki-Kevlar_37: -1314069102190958515
+      NPU-Route01-02-Moki-Kevlar_38: -8274570151832814820
+      NPU-Route01-02-Moki-Kevlar_39: -8954089961258547948
+      NPU-Route01-02-Moki-Kevlar_4: -899338621084669834
+      NPU-Route01-02-Moki-Kevlar_40: -8616021031187725630
+      NPU-Route01-02-Moki-Kevlar_41: -1097685201945563495
+      NPU-Route01-02-Moki-Kevlar_42: 3395085241365085734
+      NPU-Route01-02-Moki-Kevlar_43: -7959337914161250132
+      NPU-Route01-02-Moki-Kevlar_44: 5335963004922381044
+      NPU-Route01-02-Moki-Kevlar_45: 2180206260246630452
+      NPU-Route01-02-Moki-Kevlar_46: 8910299672531260850
+      NPU-Route01-02-Moki-Kevlar_47: 2116245079712996675
+      NPU-Route01-02-Moki-Kevlar_48: -617347326053007472
+      NPU-Route01-02-Moki-Kevlar_49: -7058297406314145753
+      NPU-Route01-02-Moki-Kevlar_5: -4708572233853601582
+      NPU-Route01-02-Moki-Kevlar_50: -3947744188254417488
+      NPU-Route01-02-Moki-Kevlar_51: -2741814349212107064
+      NPU-Route01-02-Moki-Kevlar_52: 1572571562742676066
+      NPU-Route01-02-Moki-Kevlar_53: 3077683200611827062
+      NPU-Route01-02-Moki-Kevlar_54: -2909291641843917067
+      NPU-Route01-02-Moki-Kevlar_55: -3630352746217201338
+      NPU-Route01-02-Moki-Kevlar_56: -4317998840734708107
+      NPU-Route01-02-Moki-Kevlar_57: -2770914933153069232
+      NPU-Route01-02-Moki-Kevlar_58: -7787717312077889419
+      NPU-Route01-02-Moki-Kevlar_59: -5496482830148849255
+      NPU-Route01-02-Moki-Kevlar_6: -4848638148068883944
+      NPU-Route01-02-Moki-Kevlar_60: 2111283364210479931
+      NPU-Route01-02-Moki-Kevlar_61: -34720583695470866
+      NPU-Route01-02-Moki-Kevlar_62: -5244157383091574449
+      NPU-Route01-02-Moki-Kevlar_63: -1470365543309880672
+      NPU-Route01-02-Moki-Kevlar_64: -7130672505705673346
+      NPU-Route01-02-Moki-Kevlar_65: 2025536429498051460
+      NPU-Route01-02-Moki-Kevlar_66: -3140063687975058048
+      NPU-Route01-02-Moki-Kevlar_67: 2162739902074484501
+      NPU-Route01-02-Moki-Kevlar_68: 5565888307969717813
+      NPU-Route01-02-Moki-Kevlar_69: 21119350917645674
+      NPU-Route01-02-Moki-Kevlar_7: -73351879221561051
+      NPU-Route01-02-Moki-Kevlar_70: -8431976945713534715
+      NPU-Route01-02-Moki-Kevlar_71: 6091219813347550511
+      NPU-Route01-02-Moki-Kevlar_72: 3590903963107244347
+      NPU-Route01-02-Moki-Kevlar_73: 7193226040362782271
+      NPU-Route01-02-Moki-Kevlar_74: 2030223815657104312
+      NPU-Route01-02-Moki-Kevlar_75: 776164398277688815
+      NPU-Route01-02-Moki-Kevlar_76: -3346780538164688512
+      NPU-Route01-02-Moki-Kevlar_77: -4090385505399606196
+      NPU-Route01-02-Moki-Kevlar_78: 665472777662026502
+      NPU-Route01-02-Moki-Kevlar_79: 4085046140655474505
+      NPU-Route01-02-Moki-Kevlar_8: -2340623614658906628
+      NPU-Route01-02-Moki-Kevlar_80: -3988760106699932284
+      NPU-Route01-02-Moki-Kevlar_81: -5451810603447382279
+      NPU-Route01-02-Moki-Kevlar_82: 4082920576139586993
+      NPU-Route01-02-Moki-Kevlar_83: 2584019152448915977
+      NPU-Route01-02-Moki-Kevlar_84: 8573954431345959692
+      NPU-Route01-02-Moki-Kevlar_85: 6056676860832420382
+      NPU-Route01-02-Moki-Kevlar_86: 1743137970155787294
+      NPU-Route01-02-Moki-Kevlar_87: 3236219083811970329
+      NPU-Route01-02-Moki-Kevlar_88: -3168919719774357957
+      NPU-Route01-02-Moki-Kevlar_89: 2379915043267527237
+      NPU-Route01-02-Moki-Kevlar_9: 2837020978033452066
+      NPU-Route01-02-Moki-Kevlar_90: 6541164457767694865
+      NPU-Route01-02-Moki-Kevlar_91: -8680234609812512913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

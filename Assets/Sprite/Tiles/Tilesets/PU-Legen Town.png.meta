@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: 9e99fefd5d23f324b87cffb0ead497c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -542643866374797200
+    second: PU-Legen Town_0
+  - first:
+      213: 7116026522784157119
+    second: PU-Legen Town_1
+  - first:
+      213: -2230474675106145465
+    second: PU-Legen Town_2
+  - first:
+      213: -1591212632448640121
+    second: PU-Legen Town_3
+  - first:
+      213: -7388819775865707723
+    second: PU-Legen Town_4
+  - first:
+      213: 4882647878423911444
+    second: PU-Legen Town_5
+  - first:
+      213: 4073382379457306197
+    second: PU-Legen Town_6
+  - first:
+      213: -9065718508401305247
+    second: PU-Legen Town_7
+  - first:
+      213: -3320773965242719499
+    second: PU-Legen Town_8
+  - first:
+      213: -3642067339554933220
+    second: PU-Legen Town_9
+  - first:
+      213: -2460227722476135858
+    second: PU-Legen Town_10
+  - first:
+      213: 953022654561561835
+    second: PU-Legen Town_11
+  - first:
+      213: -3051808758443624500
+    second: PU-Legen Town_12
+  - first:
+      213: 2668364791226716606
+    second: PU-Legen Town_13
+  - first:
+      213: 7238553536675795432
+    second: PU-Legen Town_14
+  - first:
+      213: 3668481431887592545
+    second: PU-Legen Town_15
+  - first:
+      213: 4039417473325408257
+    second: PU-Legen Town_16
+  - first:
+      213: 3387739955947362016
+    second: PU-Legen Town_17
+  - first:
+      213: 209202555091722286
+    second: PU-Legen Town_18
+  - first:
+      213: -1857762163464226103
+    second: PU-Legen Town_19
+  - first:
+      213: 4091006671433832692
+    second: PU-Legen Town_20
+  - first:
+      213: -5469180100081740095
+    second: PU-Legen Town_21
+  - first:
+      213: -1194964314464399635
+    second: PU-Legen Town_22
+  - first:
+      213: -3179072680025042615
+    second: PU-Legen Town_23
+  - first:
+      213: 846304777946348675
+    second: PU-Legen Town_24
+  - first:
+      213: -1671461412764983396
+    second: PU-Legen Town_25
+  - first:
+      213: -3774859462331153924
+    second: PU-Legen Town_26
+  - first:
+      213: 9017852116101522942
+    second: PU-Legen Town_27
+  - first:
+      213: 380051812202886872
+    second: PU-Legen Town_28
+  - first:
+      213: 5415954955944626732
+    second: PU-Legen Town_29
+  - first:
+      213: 1522941903272179224
+    second: PU-Legen Town_30
+  - first:
+      213: -7567204338238657985
+    second: PU-Legen Town_31
+  - first:
+      213: -2495877538559913998
+    second: PU-Legen Town_32
+  - first:
+      213: -8605837189699338335
+    second: PU-Legen Town_33
+  - first:
+      213: -6235783747247473569
+    second: PU-Legen Town_34
+  - first:
+      213: -3538512672649720047
+    second: PU-Legen Town_35
+  - first:
+      213: -1230453494646854296
+    second: PU-Legen Town_36
+  - first:
+      213: 5073736716971977293
+    second: PU-Legen Town_37
+  - first:
+      213: 4169889961222750312
+    second: PU-Legen Town_38
+  - first:
+      213: -436673191197104269
+    second: PU-Legen Town_39
+  - first:
+      213: 69306587109171497
+    second: PU-Legen Town_40
+  - first:
+      213: -9131610625645569720
+    second: PU-Legen Town_41
+  - first:
+      213: 613077114419483317
+    second: PU-Legen Town_42
+  - first:
+      213: -874500693501198469
+    second: PU-Legen Town_43
+  - first:
+      213: 3173145843521373716
+    second: PU-Legen Town_44
+  - first:
+      213: 6159105168562822374
+    second: PU-Legen Town_45
+  - first:
+      213: 2334315755811097879
+    second: PU-Legen Town_46
+  - first:
+      213: -6644434969678912643
+    second: PU-Legen Town_47
+  - first:
+      213: 1500073909415316544
+    second: PU-Legen Town_48
+  - first:
+      213: 698836713279576977
+    second: PU-Legen Town_49
+  - first:
+      213: 2201139866604057393
+    second: PU-Legen Town_50
+  - first:
+      213: 1502313913032747699
+    second: PU-Legen Town_51
+  - first:
+      213: 6067605249916271901
+    second: PU-Legen Town_52
+  - first:
+      213: 8946579024670869398
+    second: PU-Legen Town_53
+  - first:
+      213: 4256859824267023142
+    second: PU-Legen Town_54
+  - first:
+      213: 9202463844744375336
+    second: PU-Legen Town_55
+  - first:
+      213: 8618790427449939897
+    second: PU-Legen Town_56
+  - first:
+      213: -1789667703716591915
+    second: PU-Legen Town_57
+  - first:
+      213: 4867100879230045308
+    second: PU-Legen Town_58
+  - first:
+      213: -2676321588554287101
+    second: PU-Legen Town_59
+  - first:
+      213: 2506718271443962163
+    second: PU-Legen Town_60
+  - first:
+      213: 1097874876467406266
+    second: PU-Legen Town_61
+  - first:
+      213: 2767406410228718451
+    second: PU-Legen Town_62
+  - first:
+      213: 8816805705688928750
+    second: PU-Legen Town_63
+  - first:
+      213: -7634495611705174070
+    second: PU-Legen Town_64
+  - first:
+      213: 2823304035674775669
+    second: PU-Legen Town_65
+  - first:
+      213: 1731246357532742230
+    second: PU-Legen Town_66
+  - first:
+      213: -2013178293777549451
+    second: PU-Legen Town_67
+  - first:
+      213: 773896658625010966
+    second: PU-Legen Town_68
+  - first:
+      213: -2011006192648185541
+    second: PU-Legen Town_69
+  - first:
+      213: -7123860261905037178
+    second: PU-Legen Town_70
+  - first:
+      213: 8395250537398090420
+    second: PU-Legen Town_71
+  - first:
+      213: 6789138059704658219
+    second: PU-Legen Town_72
+  - first:
+      213: 695891424664900411
+    second: PU-Legen Town_73
+  - first:
+      213: 848208889768327133
+    second: PU-Legen Town_74
+  - first:
+      213: 748130095806449295
+    second: PU-Legen Town_75
+  - first:
+      213: 5049701092294045187
+    second: PU-Legen Town_76
+  - first:
+      213: 4222836196849734972
+    second: PU-Legen Town_77
+  - first:
+      213: -3201929305796626409
+    second: PU-Legen Town_78
+  - first:
+      213: 3963811799835346374
+    second: PU-Legen Town_79
+  - first:
+      213: 1762444622022584359
+    second: PU-Legen Town_80
+  - first:
+      213: -3005662124067895701
+    second: PU-Legen Town_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-Legen Town_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4543
+        width: 256
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0788f2157442878f0800000000000000
+      internalID: -542643866374797200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4513
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdcece8b6431c260800000000000000
+      internalID: 7116026522784157119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4511
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b1bcdb913cb01e0800000000000000
+      internalID: -2230474675106145465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4511
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bd8c89a80eae9e0800000000000000
+      internalID: -1591212632448640121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4479
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533a42ebf83a57990800000000000000
+      internalID: -7388819775865707723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4515
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c95c44066a2c340800000000000000
+      internalID: 4882647878423911444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4481
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e53e141bf878830800000000000000
+      internalID: 4073382379457306197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4499
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1695e018c09103280800000000000000
+      internalID: -9065718508401305247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4503
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2a75e3cad3ae1d0800000000000000
+      internalID: -3320773965242719499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4479
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16b6c91d07c47dc0800000000000000
+      internalID: -3642067339554933220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 4473
+        width: 5
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4add37dbe38bddd0800000000000000
+      internalID: -2460227722476135858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becaa041e01d93d00800000000000000
+      internalID: 953022654561561835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4487
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7ba867a1cc5a5d0800000000000000
+      internalID: -3051808758443624500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb15a38d3afe70520800000000000000
+      internalID: 2668364791226716606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4469
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e155311712847460800000000000000
+      internalID: 7238553536675795432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4469
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cb6c40d6019e230800000000000000
+      internalID: 3668481431887592545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100211d4ac4ee0830800000000000000
+      internalID: 4039417473325408257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6d3a97a8ba30f20800000000000000
+      internalID: 3387739955947362016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4385
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20a85e8d9c37e200800000000000000
+      internalID: 209202555091722286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4417
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cabd89b727e736e0800000000000000
+      internalID: -1857762163464226103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 4411
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8119084ec26c830800000000000000
+      internalID: 4091006671433832692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4429
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c61ef90da19914b0800000000000000
+      internalID: -5469180100081740095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4255
+        width: 256
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deec4158942aa6fe0800000000000000
+      internalID: -1194964314464399635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4117
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94155ffad3aa1e3d0800000000000000
+      internalID: -3179072680025042615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3967
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c353d26bdaebb00800000000000000
+      internalID: 846304777946348675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4095
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fde5c63b6cdc8e0800000000000000
+      internalID: -1671461412764983396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4063
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1cabea1510d9bc0800000000000000
+      internalID: -3774859462331153924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4041
+        width: 129
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef56c3198b8d52d70800000000000000
+      internalID: 9017852116101522942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4031
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6b89e0c17364500800000000000000
+      internalID: 380051812202886872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3999
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a88946656592b40800000000000000
+      internalID: 5415954955944626732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 4001
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81678169793922510800000000000000
+      internalID: 1522941903272179224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3811
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a6d744fb3ebf690800000000000000
+      internalID: -7567204338238657985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3999
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff82473a9cdc5dd0800000000000000
+      internalID: -2495877538559913998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3981
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afff11fbace19880800000000000000
+      internalID: -8605837189699338335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3999
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cf82178bb0679a0800000000000000
+      internalID: -6235783747247473569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3999
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fce79d87da4eec0800000000000000
+      internalID: -3538512672649720047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3981
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dafead01d8ceee0800000000000000
+      internalID: -1230453494646854296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3875
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4aa8fa89a8896640800000000000000
+      internalID: 5073736716971977293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3839
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8604623a3dc6ed930800000000000000
+      internalID: 4169889961222750312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_39
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3871
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377a2c3db00a0f9f0800000000000000
+      internalID: -436673191197104269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3551
+        width: 256
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921ac3949f936f000800000000000000
+      internalID: 69306587109171497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_41
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3519
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849963f6480064180800000000000000
+      internalID: -9131610625645569720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b215e82366128800800000000000000
+      internalID: 613077114419483317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3519
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f3708a0462dd3f0800000000000000
+      internalID: -874500693501198469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3199
+        width: 243
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41649972557490c20800000000000000
+      internalID: 3173145843521373716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3391
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec957ab489897550800000000000000
+      internalID: 6159105168562822374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_46
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3263
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dc7baefc7256020800000000000000
+      internalID: 2334315755811097879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3231
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73ea1b49993ac3a0800000000000000
+      internalID: -6644434969678912643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2593
+        width: 256
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c088bd54551d410800000000000000
+      internalID: 1500073909415316544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3199
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bd703c944c2b900800000000000000
+      internalID: 698836713279576977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1983
+        width: 256
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133b2e9eb050c8e10800000000000000
+      internalID: 2201139866604057393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1753
+        width: 256
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baa1775b8a49d410800000000000000
+      internalID: 1502313913032747699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1591
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dfd86c3d6743450800000000000000
+      internalID: 6067605249916271901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_53
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1559
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697c770d832a82c70800000000000000
+      internalID: 8946579024670869398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_54
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1567
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6235114d477631b30800000000000000
+      internalID: 4256859824267023142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1471
+        width: 225
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c2d5c2c18b5bf70800000000000000
+      internalID: 9202463844744375336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1379
+        width: 256
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7d0bdba381c9770800000000000000
+      internalID: 8618790427449939897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1087
+        width: 256
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6cbfd94b2d927e0800000000000000
+      internalID: -1789667703716591915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1279
+        width: 30
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c8f70767a6b8340800000000000000
+      internalID: 4867100879230045308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_59
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1279
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3083389e1bbcbdad0800000000000000
+      internalID: -2676321588554287101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 897
+        width: 193
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33906699cf6a9c220800000000000000
+      internalID: 2506718271443962163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_61
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1079
+        width: 65
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab56aa3226f6c3f00800000000000000
+      internalID: 1097874876467406266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_62
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 897
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b52deb77dc76620800000000000000
+      internalID: 2767406410228718451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 767
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1d93d63169b5a70800000000000000
+      internalID: 8816805705688928750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 767
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7d801c0b2dc0690800000000000000
+      internalID: -7634495611705174070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_65
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 767
+        width: 18
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570625bdf046e2720800000000000000
+      internalID: 2823304035674775669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 759
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6529d6fb36f960810800000000000000
+      internalID: 1731246357532742230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 727
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577bcd11201cf04e0800000000000000
+      internalID: -2013178293777549451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 733
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d943629ee6dba00800000000000000
+      internalID: 773896658625010966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_69
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 701
+        width: 122
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b391816c5887714e0800000000000000
+      internalID: -2011006192648185541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 701
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68801abe5d6f22d90800000000000000
+      internalID: -7123860261905037178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_71
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 655
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba350242ebe18470800000000000000
+      internalID: 8395250537398090420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 161
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29e7cb481dd73e50800000000000000
+      internalID: 6789138059704658219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 639
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b335461509d48a900800000000000000
+      internalID: 695891424664900411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 319
+        width: 159
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd738f1cd7175cb00800000000000000
+      internalID: 848208889768327133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 543
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86825ebb54e16a00800000000000000
+      internalID: 748130095806449295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 543
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ea6149364241640800000000000000
+      internalID: 5049701092294045187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 367
+        width: 154
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35d3e1c5278a9a30800000000000000
+      internalID: 4222836196849734972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718341cc2467093d0800000000000000
+      internalID: -3201929305796626409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c500bda4d9420730800000000000000
+      internalID: 3963811799835346374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_80
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72824ffbb06757810800000000000000
+      internalID: 1762444622022584359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Legen Town_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66461c093eb946d0800000000000000
+      internalID: -3005662124067895701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-Legen Town_0: -542643866374797200
+      PU-Legen Town_1: 7116026522784157119
+      PU-Legen Town_10: -2460227722476135858
+      PU-Legen Town_11: 953022654561561835
+      PU-Legen Town_12: -3051808758443624500
+      PU-Legen Town_13: 2668364791226716606
+      PU-Legen Town_14: 7238553536675795432
+      PU-Legen Town_15: 3668481431887592545
+      PU-Legen Town_16: 4039417473325408257
+      PU-Legen Town_17: 3387739955947362016
+      PU-Legen Town_18: 209202555091722286
+      PU-Legen Town_19: -1857762163464226103
+      PU-Legen Town_2: -2230474675106145465
+      PU-Legen Town_20: 4091006671433832692
+      PU-Legen Town_21: -5469180100081740095
+      PU-Legen Town_22: -1194964314464399635
+      PU-Legen Town_23: -3179072680025042615
+      PU-Legen Town_24: 846304777946348675
+      PU-Legen Town_25: -1671461412764983396
+      PU-Legen Town_26: -3774859462331153924
+      PU-Legen Town_27: 9017852116101522942
+      PU-Legen Town_28: 380051812202886872
+      PU-Legen Town_29: 5415954955944626732
+      PU-Legen Town_3: -1591212632448640121
+      PU-Legen Town_30: 1522941903272179224
+      PU-Legen Town_31: -7567204338238657985
+      PU-Legen Town_32: -2495877538559913998
+      PU-Legen Town_33: -8605837189699338335
+      PU-Legen Town_34: -6235783747247473569
+      PU-Legen Town_35: -3538512672649720047
+      PU-Legen Town_36: -1230453494646854296
+      PU-Legen Town_37: 5073736716971977293
+      PU-Legen Town_38: 4169889961222750312
+      PU-Legen Town_39: -436673191197104269
+      PU-Legen Town_4: -7388819775865707723
+      PU-Legen Town_40: 69306587109171497
+      PU-Legen Town_41: -9131610625645569720
+      PU-Legen Town_42: 613077114419483317
+      PU-Legen Town_43: -874500693501198469
+      PU-Legen Town_44: 3173145843521373716
+      PU-Legen Town_45: 6159105168562822374
+      PU-Legen Town_46: 2334315755811097879
+      PU-Legen Town_47: -6644434969678912643
+      PU-Legen Town_48: 1500073909415316544
+      PU-Legen Town_49: 698836713279576977
+      PU-Legen Town_5: 4882647878423911444
+      PU-Legen Town_50: 2201139866604057393
+      PU-Legen Town_51: 1502313913032747699
+      PU-Legen Town_52: 6067605249916271901
+      PU-Legen Town_53: 8946579024670869398
+      PU-Legen Town_54: 4256859824267023142
+      PU-Legen Town_55: 9202463844744375336
+      PU-Legen Town_56: 8618790427449939897
+      PU-Legen Town_57: -1789667703716591915
+      PU-Legen Town_58: 4867100879230045308
+      PU-Legen Town_59: -2676321588554287101
+      PU-Legen Town_6: 4073382379457306197
+      PU-Legen Town_60: 2506718271443962163
+      PU-Legen Town_61: 1097874876467406266
+      PU-Legen Town_62: 2767406410228718451
+      PU-Legen Town_63: 8816805705688928750
+      PU-Legen Town_64: -7634495611705174070
+      PU-Legen Town_65: 2823304035674775669
+      PU-Legen Town_66: 1731246357532742230
+      PU-Legen Town_67: -2013178293777549451
+      PU-Legen Town_68: 773896658625010966
+      PU-Legen Town_69: -2011006192648185541
+      PU-Legen Town_7: -9065718508401305247
+      PU-Legen Town_70: -7123860261905037178
+      PU-Legen Town_71: 8395250537398090420
+      PU-Legen Town_72: 6789138059704658219
+      PU-Legen Town_73: 695891424664900411
+      PU-Legen Town_74: 848208889768327133
+      PU-Legen Town_75: 748130095806449295
+      PU-Legen Town_76: 5049701092294045187
+      PU-Legen Town_77: 4222836196849734972
+      PU-Legen Town_78: -3201929305796626409
+      PU-Legen Town_79: 3963811799835346374
+      PU-Legen Town_8: -3320773965242719499
+      PU-Legen Town_80: 1762444622022584359
+      PU-Legen Town_81: -3005662124067895701
+      PU-Legen Town_9: -3642067339554933220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

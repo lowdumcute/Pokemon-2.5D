@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 11bced8254accec4fbd8b8d2fab033c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -364874548558797982
+    second: PU-PowerPlant_2_0
+  - first:
+      213: 2616806668558223999
+    second: PU-PowerPlant_2_1
+  - first:
+      213: -2483964032613548362
+    second: PU-PowerPlant_2_2
+  - first:
+      213: 1679788172447104308
+    second: PU-PowerPlant_2_3
+  - first:
+      213: 5235553653612843757
+    second: PU-PowerPlant_2_4
+  - first:
+      213: 9169140495308542999
+    second: PU-PowerPlant_2_5
+  - first:
+      213: -7394302122117043673
+    second: PU-PowerPlant_2_6
+  - first:
+      213: 2065419703047689783
+    second: PU-PowerPlant_2_7
+  - first:
+      213: -5847876701876465981
+    second: PU-PowerPlant_2_8
+  - first:
+      213: 6953380872453558644
+    second: PU-PowerPlant_2_9
+  - first:
+      213: -6673289570310499980
+    second: PU-PowerPlant_2_10
+  - first:
+      213: 2869944830961440155
+    second: PU-PowerPlant_2_11
+  - first:
+      213: -7456483642050420554
+    second: PU-PowerPlant_2_12
+  - first:
+      213: 7857258897038705507
+    second: PU-PowerPlant_2_13
+  - first:
+      213: -7870908917599545686
+    second: PU-PowerPlant_2_14
+  - first:
+      213: -8768962522442787180
+    second: PU-PowerPlant_2_15
+  - first:
+      213: 599827213759507654
+    second: PU-PowerPlant_2_16
+  - first:
+      213: 6694169383607355234
+    second: PU-PowerPlant_2_17
+  - first:
+      213: -1700585220375182251
+    second: PU-PowerPlant_2_18
+  - first:
+      213: -6423779304765538763
+    second: PU-PowerPlant_2_19
+  - first:
+      213: -4923071778719413892
+    second: PU-PowerPlant_2_20
+  - first:
+      213: 5194419757407030851
+    second: PU-PowerPlant_2_21
+  - first:
+      213: -5982932737074043228
+    second: PU-PowerPlant_2_22
+  - first:
+      213: -3186746849384588126
+    second: PU-PowerPlant_2_23
+  - first:
+      213: 7222542042705650235
+    second: PU-PowerPlant_2_24
+  - first:
+      213: -368725488554374598
+    second: PU-PowerPlant_2_25
+  - first:
+      213: -7362325754661486759
+    second: PU-PowerPlant_2_26
+  - first:
+      213: -2141393516418990343
+    second: PU-PowerPlant_2_27
+  - first:
+      213: 5483018388258304738
+    second: PU-PowerPlant_2_28
+  - first:
+      213: -2933964940986709525
+    second: PU-PowerPlant_2_29
+  - first:
+      213: -1351380954496955393
+    second: PU-PowerPlant_2_30
+  - first:
+      213: 1888978324168901140
+    second: PU-PowerPlant_2_31
+  - first:
+      213: -7381812813525132995
+    second: PU-PowerPlant_2_32
+  - first:
+      213: 8414237271953323793
+    second: PU-PowerPlant_2_33
+  - first:
+      213: -1882117862473846492
+    second: PU-PowerPlant_2_34
+  - first:
+      213: -396511097395903634
+    second: PU-PowerPlant_2_35
+  - first:
+      213: 8100911160748225306
+    second: PU-PowerPlant_2_36
+  - first:
+      213: -7569302506144909045
+    second: PU-PowerPlant_2_37
+  - first:
+      213: -5676073898489087
+    second: PU-PowerPlant_2_38
+  - first:
+      213: -2364947653091664576
+    second: PU-PowerPlant_2_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4627
+        width: 256
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26362910884bfeaf0800000000000000
+      internalID: -364874548558797982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4575
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a4945fcc3c05420800000000000000
+      internalID: 2616806668558223999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4575
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bef8397fdf278dd0800000000000000
+      internalID: -2483964032613548362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4627
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dbc94617ecf4710800000000000000
+      internalID: 1679788172447104308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 4575
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2971e0f4c68a840800000000000000
+      internalID: 5235553653612843757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4601
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714d38643b45f3f70800000000000000
+      internalID: 9169140495308542999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4563
+        width: 6
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aeb498569226990800000000000000
+      internalID: -7394302122117043673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 4583
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7361040e648d9ac10800000000000000
+      internalID: 2065419703047689783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4563
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cece5e7f1b28dea0800000000000000
+      internalID: -5847876701876465981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4447
+        width: 225
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471179a101f5f7060800000000000000
+      internalID: 6953380872453558644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4373
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471d25e0e76b363a0800000000000000
+      internalID: -6673289570310499980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4289
+        width: 129
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95dc6e3e9714d720800000000000000
+      internalID: 2869944830961440155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4171
+        width: 256
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0e21a32af358890800000000000000
+      internalID: -7456483642050420554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3711
+        width: 256
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363054a56579a0d60800000000000000
+      internalID: 7857258897038705507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3615
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa656039a0ae4c290800000000000000
+      internalID: -7870908917599545686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3679
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4969519bb036e4680800000000000000
+      internalID: -8768962522442787180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3615
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc6fb24ca3035800800000000000000
+      internalID: 599827213759507654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3679
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2674630569776ec50800000000000000
+      internalID: 6694169383607355234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3615
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554024d80ce4668e0800000000000000
+      internalID: -1700585220375182251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3519
+        width: 156
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eb1f7c1c62ad6a0800000000000000
+      internalID: -6423779304765538763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3373
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79cda10d4cbdabb0800000000000000
+      internalID: -4923071778719413892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3407
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e44868f39461840800000000000000
+      internalID: 5194419757407030851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2943
+        width: 256
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a665a3ef5a58fca0800000000000000
+      internalID: -5982932737074043228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2751
+        width: 129
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac1655ef9666c3d0800000000000000
+      internalID: -3186746849384588126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2815
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b326bce98bf9b3460800000000000000
+      internalID: 7222542042705650235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2559
+        width: 256
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a851b2f1602eaf0800000000000000
+      internalID: -368725488554374598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2367
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f31b0cbb3c3d990800000000000000
+      internalID: -7362325754661486759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2015
+        width: 225
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe758141fd3842e0800000000000000
+      internalID: -2141393516418990343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1923
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e232118c28971c40800000000000000
+      internalID: 5483018388258304738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1923
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be989055e667847d0800000000000000
+      internalID: -2933964940986709525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1891
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb0bfa8e2eee3de0800000000000000
+      internalID: -1351380954496955393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1759
+        width: 90
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412008017cff63a10800000000000000
+      internalID: 1888978324168901140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1759
+        width: 155
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39586b4b588e8990800000000000000
+      internalID: -7381812813525132995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1403
+        width: 254
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11731a2e73065c470800000000000000
+      internalID: 8414237271953323793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1101
+        width: 255
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42134d5a6cf51e5e0800000000000000
+      internalID: -1882117862473846492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 815
+        width: 95
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63873af14f4f7af0800000000000000
+      internalID: -396511097395903634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 815
+        width: 96
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13356db7c73c6070800000000000000
+      internalID: 8100911160748225306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 525
+        width: 255
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0932cb797f64f690800000000000000
+      internalID: -7569302506144909045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 254
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bcf8f04a5dbeff0800000000000000
+      internalID: -5676073898489087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-PowerPlant_2_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 220
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dd319b3a40e2fd0800000000000000
+      internalID: -2364947653091664576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-PowerPlant_2_0: -364874548558797982
+      PU-PowerPlant_2_1: 2616806668558223999
+      PU-PowerPlant_2_10: -6673289570310499980
+      PU-PowerPlant_2_11: 2869944830961440155
+      PU-PowerPlant_2_12: -7456483642050420554
+      PU-PowerPlant_2_13: 7857258897038705507
+      PU-PowerPlant_2_14: -7870908917599545686
+      PU-PowerPlant_2_15: -8768962522442787180
+      PU-PowerPlant_2_16: 599827213759507654
+      PU-PowerPlant_2_17: 6694169383607355234
+      PU-PowerPlant_2_18: -1700585220375182251
+      PU-PowerPlant_2_19: -6423779304765538763
+      PU-PowerPlant_2_2: -2483964032613548362
+      PU-PowerPlant_2_20: -4923071778719413892
+      PU-PowerPlant_2_21: 5194419757407030851
+      PU-PowerPlant_2_22: -5982932737074043228
+      PU-PowerPlant_2_23: -3186746849384588126
+      PU-PowerPlant_2_24: 7222542042705650235
+      PU-PowerPlant_2_25: -368725488554374598
+      PU-PowerPlant_2_26: -7362325754661486759
+      PU-PowerPlant_2_27: -2141393516418990343
+      PU-PowerPlant_2_28: 5483018388258304738
+      PU-PowerPlant_2_29: -2933964940986709525
+      PU-PowerPlant_2_3: 1679788172447104308
+      PU-PowerPlant_2_30: -1351380954496955393
+      PU-PowerPlant_2_31: 1888978324168901140
+      PU-PowerPlant_2_32: -7381812813525132995
+      PU-PowerPlant_2_33: 8414237271953323793
+      PU-PowerPlant_2_34: -1882117862473846492
+      PU-PowerPlant_2_35: -396511097395903634
+      PU-PowerPlant_2_36: 8100911160748225306
+      PU-PowerPlant_2_37: -7569302506144909045
+      PU-PowerPlant_2_38: -5676073898489087
+      PU-PowerPlant_2_39: -2364947653091664576
+      PU-PowerPlant_2_4: 5235553653612843757
+      PU-PowerPlant_2_5: 9169140495308542999
+      PU-PowerPlant_2_6: -7394302122117043673
+      PU-PowerPlant_2_7: 2065419703047689783
+      PU-PowerPlant_2_8: -5847876701876465981
+      PU-PowerPlant_2_9: 6953380872453558644
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 0b02287820810c54fb09cca502c70f8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6938830396070467560
+    second: PU-Bealbeach_0
+  - first:
+      213: 6517277235649135297
+    second: PU-Bealbeach_1
+  - first:
+      213: -6199418414306340907
+    second: PU-Bealbeach_2
+  - first:
+      213: -1817305342264412506
+    second: PU-Bealbeach_3
+  - first:
+      213: -4287718394939284891
+    second: PU-Bealbeach_4
+  - first:
+      213: 405964154432679971
+    second: PU-Bealbeach_5
+  - first:
+      213: -8798152679877679226
+    second: PU-Bealbeach_6
+  - first:
+      213: -4751168036275330370
+    second: PU-Bealbeach_7
+  - first:
+      213: 7784533475315658578
+    second: PU-Bealbeach_8
+  - first:
+      213: -386996736190381626
+    second: PU-Bealbeach_9
+  - first:
+      213: -8971578963037900064
+    second: PU-Bealbeach_10
+  - first:
+      213: -6547566485513068308
+    second: PU-Bealbeach_11
+  - first:
+      213: 8675679756319594109
+    second: PU-Bealbeach_12
+  - first:
+      213: -2828923555390494433
+    second: PU-Bealbeach_13
+  - first:
+      213: 7743503445213189464
+    second: PU-Bealbeach_14
+  - first:
+      213: 2594686713105866510
+    second: PU-Bealbeach_15
+  - first:
+      213: -1402611214070157103
+    second: PU-Bealbeach_16
+  - first:
+      213: -996120849666837831
+    second: PU-Bealbeach_17
+  - first:
+      213: 1441625631077820714
+    second: PU-Bealbeach_18
+  - first:
+      213: 3039266929557322445
+    second: PU-Bealbeach_19
+  - first:
+      213: 4775390316550850541
+    second: PU-Bealbeach_20
+  - first:
+      213: -7282269273716434064
+    second: PU-Bealbeach_21
+  - first:
+      213: -5838599916139503580
+    second: PU-Bealbeach_22
+  - first:
+      213: -6187107799540828732
+    second: PU-Bealbeach_23
+  - first:
+      213: -6716751053120905108
+    second: PU-Bealbeach_24
+  - first:
+      213: -5254067856217641029
+    second: PU-Bealbeach_25
+  - first:
+      213: -5152239307806455321
+    second: PU-Bealbeach_26
+  - first:
+      213: -1534991345363724590
+    second: PU-Bealbeach_27
+  - first:
+      213: -2495979046810587533
+    second: PU-Bealbeach_28
+  - first:
+      213: 2415084742298562995
+    second: PU-Bealbeach_29
+  - first:
+      213: 8173297970155615768
+    second: PU-Bealbeach_30
+  - first:
+      213: 6352991352114141328
+    second: PU-Bealbeach_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-Bealbeach_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4161
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818698da48254bf90800000000000000
+      internalID: -6938830396070467560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4031
+        width: 227
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c24b95ad15027a50800000000000000
+      internalID: 6517277235649135297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4127
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df41415ccd37f9a0800000000000000
+      internalID: -6199418414306340907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4095
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6f8e17b62a7c6e0800000000000000
+      internalID: -1817305342264412506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3587
+        width: 256
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5626cbc46d6fe74c0800000000000000
+      internalID: -4287718394939284891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4063
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32070806f3642a500800000000000000
+      internalID: 405964154432679971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3327
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6876d3490cea6e580800000000000000
+      internalID: -8798152679877679226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3295
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb26e9108d5701eb0800000000000000
+      internalID: -4751168036275330370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fa35a93f7380c60800000000000000
+      internalID: 7784533475315658578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c10322d48c11aaf0800000000000000
+      internalID: -386996736190381626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3295
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e232c1777c8e7380800000000000000
+      internalID: -8971578963037900064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1951
+        width: 256
+        height: 1344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0adbfc8fe5225a0800000000000000
+      internalID: -6547566485513068308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1919
+        width: 33
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d761a7cc5c4366870800000000000000
+      internalID: 8675679756319594109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1771
+        width: 90
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19e630c305adb8d0800000000000000
+      internalID: -2828923555390494433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1855
+        width: 126
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85512f84b53767b60800000000000000
+      internalID: 7743503445213189464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1823
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fd91e71dd220420800000000000000
+      internalID: 2594686713105866510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1823
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d07e5b388ce88ce0800000000000000
+      internalID: -1402611214070157103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1803
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b27f3a6d511d22f0800000000000000
+      internalID: -996120849666837831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1791
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29ed779fdea10410800000000000000
+      internalID: 1441625631077820714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1791
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca3bd17b25ad2a20800000000000000
+      internalID: 3039266929557322445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1567
+        width: 253
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de78ad91138954240800000000000000
+      internalID: 4775390316550850541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1375
+        width: 193
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bd36dbdae20fa90800000000000000
+      internalID: -7282269273716434064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1343
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42021ec7f4029fea0800000000000000
+      internalID: -5838599916139503580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 991
+        width: 214
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5f15dac3af22aa0800000000000000
+      internalID: -6187107799540828732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1151
+        width: 33
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c606ff9018e49c2a0800000000000000
+      internalID: -6716751053120905108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1057
+        width: 32
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf695c3f1dc517b0800000000000000
+      internalID: -5254067856217641029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783
+        width: 256
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e94464b5a19f78b0800000000000000
+      internalID: -5152239307806455321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 256
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6db4e018d92bae0800000000000000
+      internalID: -1534991345363724590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 161
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e690cf7408c5dd0800000000000000
+      internalID: -2495979046810587533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 223
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1fb2707ca148120800000000000000
+      internalID: 2415084742298562995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 223
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816fb8a23336d6170800000000000000
+      internalID: 8173297970155615768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Bealbeach_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 156
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09854e3a9fb5a2850800000000000000
+      internalID: 6352991352114141328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-Bealbeach_0: -6938830396070467560
+      PU-Bealbeach_1: 6517277235649135297
+      PU-Bealbeach_10: -8971578963037900064
+      PU-Bealbeach_11: -6547566485513068308
+      PU-Bealbeach_12: 8675679756319594109
+      PU-Bealbeach_13: -2828923555390494433
+      PU-Bealbeach_14: 7743503445213189464
+      PU-Bealbeach_15: 2594686713105866510
+      PU-Bealbeach_16: -1402611214070157103
+      PU-Bealbeach_17: -996120849666837831
+      PU-Bealbeach_18: 1441625631077820714
+      PU-Bealbeach_19: 3039266929557322445
+      PU-Bealbeach_2: -6199418414306340907
+      PU-Bealbeach_20: 4775390316550850541
+      PU-Bealbeach_21: -7282269273716434064
+      PU-Bealbeach_22: -5838599916139503580
+      PU-Bealbeach_23: -6187107799540828732
+      PU-Bealbeach_24: -6716751053120905108
+      PU-Bealbeach_25: -5254067856217641029
+      PU-Bealbeach_26: -5152239307806455321
+      PU-Bealbeach_27: -1534991345363724590
+      PU-Bealbeach_28: -2495979046810587533
+      PU-Bealbeach_29: 2415084742298562995
+      PU-Bealbeach_3: -1817305342264412506
+      PU-Bealbeach_30: 8173297970155615768
+      PU-Bealbeach_31: 6352991352114141328
+      PU-Bealbeach_4: -4287718394939284891
+      PU-Bealbeach_5: 405964154432679971
+      PU-Bealbeach_6: -8798152679877679226
+      PU-Bealbeach_7: -4751168036275330370
+      PU-Bealbeach_8: 7784533475315658578
+      PU-Bealbeach_9: -386996736190381626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 2d46586decacbd24bade38771ff889aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7308517908565741060
+    second: NPU-Route05-06_0
+  - first:
+      213: 8335408319189867951
+    second: NPU-Route05-06_1
+  - first:
+      213: -7895851738542236322
+    second: NPU-Route05-06_2
+  - first:
+      213: -466386690892800739
+    second: NPU-Route05-06_3
+  - first:
+      213: 428498824343044322
+    second: NPU-Route05-06_4
+  - first:
+      213: 7953589553801021124
+    second: NPU-Route05-06_5
+  - first:
+      213: 7617697849769119718
+    second: NPU-Route05-06_6
+  - first:
+      213: 6856200841762196067
+    second: NPU-Route05-06_7
+  - first:
+      213: 7680693972491801380
+    second: NPU-Route05-06_8
+  - first:
+      213: -4165199162054345202
+    second: NPU-Route05-06_9
+  - first:
+      213: 1638759755687427764
+    second: NPU-Route05-06_10
+  - first:
+      213: -2421951827552131898
+    second: NPU-Route05-06_11
+  - first:
+      213: -5376599895721542050
+    second: NPU-Route05-06_12
+  - first:
+      213: -3222005654843724098
+    second: NPU-Route05-06_13
+  - first:
+      213: 3008316612026473707
+    second: NPU-Route05-06_14
+  - first:
+      213: -3987661584581776938
+    second: NPU-Route05-06_15
+  - first:
+      213: -9179491075337989935
+    second: NPU-Route05-06_16
+  - first:
+      213: -7189468105047233092
+    second: NPU-Route05-06_17
+  - first:
+      213: -4745886514913367411
+    second: NPU-Route05-06_18
+  - first:
+      213: -4315364772157712801
+    second: NPU-Route05-06_19
+  - first:
+      213: 2535872089085146187
+    second: NPU-Route05-06_20
+  - first:
+      213: -8926755953780192599
+    second: NPU-Route05-06_21
+  - first:
+      213: 3675148456385173607
+    second: NPU-Route05-06_22
+  - first:
+      213: -7932983819811936216
+    second: NPU-Route05-06_23
+  - first:
+      213: -8294231916269019458
+    second: NPU-Route05-06_24
+  - first:
+      213: 6899149439545513612
+    second: NPU-Route05-06_25
+  - first:
+      213: 2857701970512639856
+    second: NPU-Route05-06_26
+  - first:
+      213: -6246297921857083274
+    second: NPU-Route05-06_27
+  - first:
+      213: 946753800456692777
+    second: NPU-Route05-06_28
+  - first:
+      213: -161758914572640896
+    second: NPU-Route05-06_29
+  - first:
+      213: -5503463979486046140
+    second: NPU-Route05-06_30
+  - first:
+      213: -1027022790970841002
+    second: NPU-Route05-06_31
+  - first:
+      213: 1975595324334906331
+    second: NPU-Route05-06_32
+  - first:
+      213: 2935020443431052062
+    second: NPU-Route05-06_33
+  - first:
+      213: 2717144117484001417
+    second: NPU-Route05-06_34
+  - first:
+      213: 7094176190200490148
+    second: NPU-Route05-06_35
+  - first:
+      213: -1889176810346809156
+    second: NPU-Route05-06_36
+  - first:
+      213: -4156778998025195061
+    second: NPU-Route05-06_37
+  - first:
+      213: 6641613685195867357
+    second: NPU-Route05-06_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPU-Route05-06_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3067
+        width: 256
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e44aec0521d6560800000000000000
+      internalID: 7308517908565741060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3003
+        width: 256
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadd52314b15da370800000000000000
+      internalID: 8335408319189867951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2945
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d1a058dac4c6290800000000000000
+      internalID: -7895851738542236322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2977
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d5d5196cf0789f0800000000000000
+      internalID: -466386690892800739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2975
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c3a3196552f500800000000000000
+      internalID: 428498824343044322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2989
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6419b2f83d06e60800000000000000
+      internalID: 7953589553801021124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2815
+        width: 256
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efceb585df77b960800000000000000
+      internalID: 7617697849769119718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2527
+        width: 256
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a48f1075e162f50800000000000000
+      internalID: 6856200841762196067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2435
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4239bd2597e479a60800000000000000
+      internalID: 7680693972491801380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2399
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0efef62e6d3236c0800000000000000
+      internalID: -4165199162054345202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2371
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be74f5b05b0eb610800000000000000
+      internalID: 1638759755687427764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2431
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4a5a715af736ed0800000000000000
+      internalID: -2421951827552131898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2111
+        width: 256
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e7d1c91ea7265b0800000000000000
+      internalID: -5376599895721542050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2079
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe6db68de22943d0800000000000000
+      internalID: -3222005654843724098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec9eb71500bfb920800000000000000
+      internalID: 3008316612026473707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d928869aeaf8a8c0800000000000000
+      internalID: -3987661584581776938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2079
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d05c938085eb9080800000000000000
+      internalID: -9179491075337989935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1727
+        width: 256
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbda8a299d0e93c90800000000000000
+      internalID: -7189468105047233092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1343
+        width: 256
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8aa5460c59332eb0800000000000000
+      internalID: -4745886514913367411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 256
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f561e4f7a9ebc14c0800000000000000
+      internalID: -4315364772157712801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 543
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b447fb9ba3a313320800000000000000
+      internalID: 2535872089085146187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 225
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa045a81cacd1480800000000000000
+      internalID: -8926755953780192599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 319
+        width: 129
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768d9af9c00c00330800000000000000
+      internalID: 3675148456385173607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 47
+        width: 154
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82820332f3168e190800000000000000
+      internalID: -7932983819811936216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebed3125408f4ec80800000000000000
+      internalID: -8294231916269019458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86127cacd3bebf50800000000000000
+      internalID: 6899149439545513612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077f65a2dc898a720800000000000000
+      internalID: 2857701970512639856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a2766221b059a0800000000000000
+      internalID: -6246297921857083274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924e8fdb09b832d00800000000000000
+      internalID: 946753800456692777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 63
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d15adcf1151cdf0800000000000000
+      internalID: -161758914572640896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44893945ba4cf93b0800000000000000
+      internalID: -5503463979486046140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658e3f786384fb1f0800000000000000
+      internalID: -1027022790970841002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb97e6fa79ba6b10800000000000000
+      internalID: 1975595324334906331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13a73bfa894bb820800000000000000
+      internalID: 2935020443431052062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9881d26cd2c35b520800000000000000
+      internalID: 2717144117484001417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a82fee88a3937260800000000000000
+      internalID: 7094176190200490148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb87f5543bb48c5e0800000000000000
+      internalID: -1889176810346809156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc177ec56872056c0800000000000000
+      internalID: -4156778998025195061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route05-06_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd409793570cb2c50800000000000000
+      internalID: 6641613685195867357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPU-Route05-06_0: 7308517908565741060
+      NPU-Route05-06_1: 8335408319189867951
+      NPU-Route05-06_10: 1638759755687427764
+      NPU-Route05-06_11: -2421951827552131898
+      NPU-Route05-06_12: -5376599895721542050
+      NPU-Route05-06_13: -3222005654843724098
+      NPU-Route05-06_14: 3008316612026473707
+      NPU-Route05-06_15: -3987661584581776938
+      NPU-Route05-06_16: -9179491075337989935
+      NPU-Route05-06_17: -7189468105047233092
+      NPU-Route05-06_18: -4745886514913367411
+      NPU-Route05-06_19: -4315364772157712801
+      NPU-Route05-06_2: -7895851738542236322
+      NPU-Route05-06_20: 2535872089085146187
+      NPU-Route05-06_21: -8926755953780192599
+      NPU-Route05-06_22: 3675148456385173607
+      NPU-Route05-06_23: -7932983819811936216
+      NPU-Route05-06_24: -8294231916269019458
+      NPU-Route05-06_25: 6899149439545513612
+      NPU-Route05-06_26: 2857701970512639856
+      NPU-Route05-06_27: -6246297921857083274
+      NPU-Route05-06_28: 946753800456692777
+      NPU-Route05-06_29: -161758914572640896
+      NPU-Route05-06_3: -466386690892800739
+      NPU-Route05-06_30: -5503463979486046140
+      NPU-Route05-06_31: -1027022790970841002
+      NPU-Route05-06_32: 1975595324334906331
+      NPU-Route05-06_33: 2935020443431052062
+      NPU-Route05-06_34: 2717144117484001417
+      NPU-Route05-06_35: 7094176190200490148
+      NPU-Route05-06_36: -1889176810346809156
+      NPU-Route05-06_37: -4156778998025195061
+      NPU-Route05-06_38: 6641613685195867357
+      NPU-Route05-06_4: 428498824343044322
+      NPU-Route05-06_5: 7953589553801021124
+      NPU-Route05-06_6: 7617697849769119718
+      NPU-Route05-06_7: 6856200841762196067
+      NPU-Route05-06_8: 7680693972491801380
+      NPU-Route05-06_9: -4165199162054345202
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

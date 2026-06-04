@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9522a0e1d66639469d2b8c7485cf6cb, type: 3}
+  m_Name: Servine
+  m_EditorClassIdentifier: 
+  pokeName: Servine
+  description: 
+  frontSprite: {fileID: 21300000, guid: 679b68848216f4b46aafbe545bbee673, type: 3}
+  backSprite: {fileID: 21300000, guid: cfc119bfca4f1aa42b61452a1c709feb, type: 3}
+  iconSprite: {fileID: 21300000, guid: 679b68848216f4b46aafbe545bbee673, type: 3}
+  type1: 5
+  type2: 0
+  maxHP: 60
+  attack: 60
+  defense: 75
+  spAttack: 60
+  spDefense: 75
+  speed: 83
+  learnableMoves: []
+  expYield: 145
+  growthRate: 2
+  evolution:
+    evolvedForm: {fileID: 11400000, guid: 8440bc2ec00fea54c8042ee92a85667e, type: 2}
+    requiredLevel: 35

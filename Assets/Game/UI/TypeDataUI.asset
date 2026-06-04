@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a721dafd68316d3448b5a66d2c603988, type: 3}
+  m_Name: TypeDataUI
+  m_EditorClassIdentifier: 
+  NormalSprite: {fileID: -1563755754937662979, guid: 9b5c75a19db5e2c42af3eea115e73175,
+    type: 3}
+  FireSprite: {fileID: -1794821818, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  WaterSprite: {fileID: 1757682996, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  ElectricSprite: {fileID: 2034251262, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  GrassSprite: {fileID: -1009682865, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  IceSprite: {fileID: 1214577767, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  FightingSprite: {fileID: 1658164834, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  PoisonSprite: {fileID: -148368916, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  GroundSprite: {fileID: -1023021879, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  FlyingSprite: {fileID: 1311142885, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  PsychicSprite: {fileID: -1815533503, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  BugSprite: {fileID: -941369024, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  RockSprite: {fileID: 719351357, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  GhostSprite: {fileID: -1013345912, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  DragonSprite: {fileID: -1062018634, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  DarkSprite: {fileID: -2009505844, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  SteelSprite: {fileID: -1938296512, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  FairySprite: {fileID: -2001682733, guid: 9b5c75a19db5e2c42af3eea115e73175, type: 3}
+  NormalMoveSprite: {fileID: -8498129341813511105, guid: d5def014e1b05e1429edc5a5a01b15bf,
+    type: 3}
+  FireMoveSprite: {fileID: 1631868843, guid: d5def014e1b05e1429edc5a5a01b15bf, type: 3}
+  WaterMoveSprite: {fileID: -1415855799, guid: d5def014e1b05e1429edc5a5a01b15bf, type: 3}
+  ElectricMoveSprite: {fileID: -1444580537, guid: d5def014e1b05e1429edc5a5a01b15bf,
+    type: 3}
+  GrassMoveSprite: {fileID: 1548262809, guid: d5def014e1b05e1429edc5a5a01b15bf, type: 3}
+  IceMoveSprite: {fileID: -521055508, guid: d5def014e1b05e1429edc5a5a01b15bf, type: 3}
+  FightingMoveSprite: {fileID: 1157357075, guid: d5def014e1b05e1429edc5a5a01b15bf,
+    type: 3}
+  PoisonMoveSprite: {fileID: 1775462110, guid: d5def014e1b05e1429edc5a5a01b15bf, type: 3}
+  GroundMoveSprite: {fileID: -1231682046, guid: d5def014e1b05e1429edc5a5a01b15bf,
+    type: 3}
+  FlyingMoveSprite: {fileID: -1874950701, guid: d5def014e1b05e1429edc5a5a01b15bf,
+    type: 3}
+  PsychicMoveSprite: {fileID: 1541884070, guid: d5def014e1b05e1429edc5a5a01b15bf,
+    type: 3}
+  BugMoveSprite: {fileID: 97584124, guid: d5def014e1b05e1429edc5a5a01b15bf, type: 3}
+  RockMoveSprite: {fileID: -1623816795, guid: d5def014e1b05e1429edc5a5a01b15bf, type: 3}
+  GhostMoveSprite: {fileID: 173529158, guid: d5def014e1b05e1429edc5a5a01b15bf, type: 3}
+  DragonMoveSprite: {fileID: 1602200964, guid: d5def014e1b05e1429edc5a5a01b15bf, type: 3}
+  DarkMoveSprite: {fileID: 1904589465, guid: d5def014e1b05e1429edc5a5a01b15bf, type: 3}
+  SteelMoveSprite: {fileID: 1216612330, guid: d5def014e1b05e1429edc5a5a01b15bf, type: 3}
+  FairyMoveSprite: {fileID: 895338453, guid: d5def014e1b05e1429edc5a5a01b15bf, type: 3}
+  BurnStatusSprite: {fileID: 748894663, guid: f3a127641672d604b8285ed471184122, type: 3}
+  FreezeStatusSprite: {fileID: 1439750005, guid: f3a127641672d604b8285ed471184122,
+    type: 3}
+  ParalysisStatusSprite: {fileID: 920262520, guid: f3a127641672d604b8285ed471184122,
+    type: 3}
+  PoisonStatusSprite: {fileID: 1036513613, guid: f3a127641672d604b8285ed471184122,
+    type: 3}
+  SleepStatusSprite: {fileID: 3281078317848846127, guid: f3a127641672d604b8285ed471184122,
+    type: 3}

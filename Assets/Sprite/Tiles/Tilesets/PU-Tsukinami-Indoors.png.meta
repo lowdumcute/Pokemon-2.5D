@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: a1049bf143c5e3a4593d51f0470f45bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 630474867328637220
+    second: PU-Tsukinami-Indoors_0
+  - first:
+      213: 253799477592307494
+    second: PU-Tsukinami-Indoors_1
+  - first:
+      213: 5273887271748113942
+    second: PU-Tsukinami-Indoors_2
+  - first:
+      213: 3740231636256707230
+    second: PU-Tsukinami-Indoors_3
+  - first:
+      213: -6505656187448705701
+    second: PU-Tsukinami-Indoors_4
+  - first:
+      213: 4938112732606039049
+    second: PU-Tsukinami-Indoors_5
+  - first:
+      213: 1663848561421041125
+    second: PU-Tsukinami-Indoors_6
+  - first:
+      213: 7984243432343290818
+    second: PU-Tsukinami-Indoors_7
+  - first:
+      213: 2338391944035773466
+    second: PU-Tsukinami-Indoors_8
+  - first:
+      213: -1766960642813030666
+    second: PU-Tsukinami-Indoors_9
+  - first:
+      213: 6603600760362629853
+    second: PU-Tsukinami-Indoors_10
+  - first:
+      213: -4092378285639026610
+    second: PU-Tsukinami-Indoors_11
+  - first:
+      213: -3398991835037471620
+    second: PU-Tsukinami-Indoors_12
+  - first:
+      213: -6736242356942518628
+    second: PU-Tsukinami-Indoors_13
+  - first:
+      213: 5443064292074414286
+    second: PU-Tsukinami-Indoors_14
+  - first:
+      213: 1229088354468082290
+    second: PU-Tsukinami-Indoors_15
+  - first:
+      213: -665928217759361041
+    second: PU-Tsukinami-Indoors_16
+  - first:
+      213: 6488774677155674017
+    second: PU-Tsukinami-Indoors_17
+  - first:
+      213: -165845943112603489
+    second: PU-Tsukinami-Indoors_18
+  - first:
+      213: -8225472202934053610
+    second: PU-Tsukinami-Indoors_19
+  - first:
+      213: -2146064377200444061
+    second: PU-Tsukinami-Indoors_20
+  - first:
+      213: 3274604615650720245
+    second: PU-Tsukinami-Indoors_21
+  - first:
+      213: 8972429276469806105
+    second: PU-Tsukinami-Indoors_22
+  - first:
+      213: 7539130635940100898
+    second: PU-Tsukinami-Indoors_23
+  - first:
+      213: -4257578949086589474
+    second: PU-Tsukinami-Indoors_24
+  - first:
+      213: -3676200197312297620
+    second: PU-Tsukinami-Indoors_25
+  - first:
+      213: 1160314946925756048
+    second: PU-Tsukinami-Indoors_26
+  - first:
+      213: 7853556927719293557
+    second: PU-Tsukinami-Indoors_27
+  - first:
+      213: 1461917048862003331
+    second: PU-Tsukinami-Indoors_28
+  - first:
+      213: 2599393204255862508
+    second: PU-Tsukinami-Indoors_29
+  - first:
+      213: 8770183234530937623
+    second: PU-Tsukinami-Indoors_30
+  - first:
+      213: -3598906919228017391
+    second: PU-Tsukinami-Indoors_31
+  - first:
+      213: 6764178260079384936
+    second: PU-Tsukinami-Indoors_32
+  - first:
+      213: -4236144431789377369
+    second: PU-Tsukinami-Indoors_33
+  - first:
+      213: 2588086798837437475
+    second: PU-Tsukinami-Indoors_34
+  - first:
+      213: -4340572907221283192
+    second: PU-Tsukinami-Indoors_35
+  - first:
+      213: -8219062055640381292
+    second: PU-Tsukinami-Indoors_36
+  - first:
+      213: -1818663529489773962
+    second: PU-Tsukinami-Indoors_37
+  - first:
+      213: -7161297053884797541
+    second: PU-Tsukinami-Indoors_38
+  - first:
+      213: -4368910268552124510
+    second: PU-Tsukinami-Indoors_39
+  - first:
+      213: -5862094766203292938
+    second: PU-Tsukinami-Indoors_40
+  - first:
+      213: -4847262627166991040
+    second: PU-Tsukinami-Indoors_41
+  - first:
+      213: -5720947404990945750
+    second: PU-Tsukinami-Indoors_42
+  - first:
+      213: 3622916801460400544
+    second: PU-Tsukinami-Indoors_43
+  - first:
+      213: -8988548783645941376
+    second: PU-Tsukinami-Indoors_44
+  - first:
+      213: -3738760988406451957
+    second: PU-Tsukinami-Indoors_45
+  - first:
+      213: -827116543976333917
+    second: PU-Tsukinami-Indoors_46
+  - first:
+      213: -1494682432779784396
+    second: PU-Tsukinami-Indoors_47
+  - first:
+      213: 3854450965495550608
+    second: PU-Tsukinami-Indoors_48
+  - first:
+      213: -5174523554426857598
+    second: PU-Tsukinami-Indoors_49
+  - first:
+      213: 8520968028130644107
+    second: PU-Tsukinami-Indoors_50
+  - first:
+      213: 7740435962375442962
+    second: PU-Tsukinami-Indoors_51
+  - first:
+      213: -6075104270520423433
+    second: PU-Tsukinami-Indoors_52
+  - first:
+      213: -4169660830788548144
+    second: PU-Tsukinami-Indoors_53
+  - first:
+      213: -1739866007352298132
+    second: PU-Tsukinami-Indoors_54
+  - first:
+      213: -6836944563493958451
+    second: PU-Tsukinami-Indoors_55
+  - first:
+      213: 3074902101819870083
+    second: PU-Tsukinami-Indoors_56
+  - first:
+      213: -4678065373226831160
+    second: PU-Tsukinami-Indoors_57
+  - first:
+      213: -806896345248741959
+    second: PU-Tsukinami-Indoors_58
+  - first:
+      213: 4117296733565473024
+    second: PU-Tsukinami-Indoors_59
+  - first:
+      213: 224338398660346440
+    second: PU-Tsukinami-Indoors_60
+  - first:
+      213: -7639359137876206664
+    second: PU-Tsukinami-Indoors_61
+  - first:
+      213: -1207571089311427985
+    second: PU-Tsukinami-Indoors_62
+  - first:
+      213: 3508674002622128533
+    second: PU-Tsukinami-Indoors_63
+  - first:
+      213: 8330268929078395309
+    second: PU-Tsukinami-Indoors_64
+  - first:
+      213: 647972120877892062
+    second: PU-Tsukinami-Indoors_65
+  - first:
+      213: 6775205968690940884
+    second: PU-Tsukinami-Indoors_66
+  - first:
+      213: 4471705729275568397
+    second: PU-Tsukinami-Indoors_67
+  - first:
+      213: 8225186901132354199
+    second: PU-Tsukinami-Indoors_68
+  - first:
+      213: 8666374184144133682
+    second: PU-Tsukinami-Indoors_69
+  - first:
+      213: -6539094139264391904
+    second: PU-Tsukinami-Indoors_70
+  - first:
+      213: 3220741112694517707
+    second: PU-Tsukinami-Indoors_71
+  - first:
+      213: -7648244715885058187
+    second: PU-Tsukinami-Indoors_72
+  - first:
+      213: -3647936896679901753
+    second: PU-Tsukinami-Indoors_73
+  - first:
+      213: -3526010137255513272
+    second: PU-Tsukinami-Indoors_74
+  - first:
+      213: 6671236448671997359
+    second: PU-Tsukinami-Indoors_75
+  - first:
+      213: 629259379143009454
+    second: PU-Tsukinami-Indoors_76
+  - first:
+      213: 6733882239133523652
+    second: PU-Tsukinami-Indoors_77
+  - first:
+      213: -2856365306578917308
+    second: PU-Tsukinami-Indoors_78
+  - first:
+      213: 9045331819310395447
+    second: PU-Tsukinami-Indoors_79
+  - first:
+      213: 6035077019566471799
+    second: PU-Tsukinami-Indoors_80
+  - first:
+      213: 8109109337070406955
+    second: PU-Tsukinami-Indoors_81
+  - first:
+      213: -4090715490880799288
+    second: PU-Tsukinami-Indoors_82
+  - first:
+      213: 7720887335423953444
+    second: PU-Tsukinami-Indoors_83
+  - first:
+      213: 7270831817848081084
+    second: PU-Tsukinami-Indoors_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5471
+        width: 256
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4295fea2d85efb800800000000000000
+      internalID: 630474867328637220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5343
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627b11ab74da58300800000000000000
+      internalID: 253799477592307494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5295
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616100a088c903940800000000000000
+      internalID: 5273887271748113942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5301
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9252c84bd8f7e330800000000000000
+      internalID: 3740231636256707230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5279
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d3c4c7a2447b5a0800000000000000
+      internalID: -6505656187448705701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5283
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90401d7fd53b78440800000000000000
+      internalID: 4938112732606039049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5279
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edbb8f737d271710800000000000000
+      internalID: 1663848561421041125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5189
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c34111791bbdce60800000000000000
+      internalID: 7984243432343290818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5189
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c23e17513a37020800000000000000
+      internalID: 2338391944035773466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5185
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe880938ae7a77e0800000000000000
+      internalID: -1766960642813030666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5089
+        width: 31
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaf9e777e3b4ab50800000000000000
+      internalID: 6603600760362629853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 5087
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48b6fda1a3f437c0800000000000000
+      internalID: -4092378285639026610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5153
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c63264fea54d0d0800000000000000
+      internalID: -3398991835037471620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5087
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c964089344f0482a0800000000000000
+      internalID: -6736242356942518628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5143
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec065b29226a98b40800000000000000
+      internalID: 5443064292074414286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5143
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272b3ada8599e0110800000000000000
+      internalID: 1229088354468082290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5123
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe75b8e60d522c6f0800000000000000
+      internalID: -665928217759361041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5091
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7f96b9032cc0a50800000000000000
+      internalID: 6488774677155674017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5087
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9865515efbc2bdf0800000000000000
+      internalID: -165845943112603489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4671
+        width: 256
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6151442ac9049dd80800000000000000
+      internalID: -8225472202934053610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4607
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36df8dbb1d5a732e0800000000000000
+      internalID: -2146064377200444061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4595
+        width: 128
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f937bf5c8bb17d20800000000000000
+      internalID: 3274604615650720245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4207
+        width: 256
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9144c4493e8748c70800000000000000
+      internalID: 8972429276469806105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4555
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b797e8e5f50a860800000000000000
+      internalID: 7539130635940100898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4159
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd4380e08a0ae4c0800000000000000
+      internalID: -4257578949086589474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4135
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65cafbd5638bfcc0800000000000000
+      internalID: -3676200197312297620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4127
+        width: 126
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ef51feb444a1010800000000000000
+      internalID: 1160314946925756048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3739
+        width: 193
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57244047a607dfc60800000000000000
+      internalID: 7853556927719293557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4063
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380d1847fc5c94410800000000000000
+      internalID: 1461917048862003331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4085
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee2c3bd856e21420800000000000000
+      internalID: 2599393204255862508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3967
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b8d457f23f5b970800000000000000
+      internalID: 8770183234530937623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3903
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115f7bb893d1e0ec0800000000000000
+      internalID: -3598906919228017391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 3882
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86993751a403fdd50800000000000000
+      internalID: 6764178260079384936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3807
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8f1f555113635c0800000000000000
+      internalID: -4236144431789377369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_34
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3807
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32455943b3bbae320800000000000000
+      internalID: 2588086798837437475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_35
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3787
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e046f20ff23c3c0800000000000000
+      internalID: -4340572907221283192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_36
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3789
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498c9aa5b9600fd80800000000000000
+      internalID: -8219062055640381292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3721
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67acdc6d72fc2c6e0800000000000000
+      internalID: -1818663529489773962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3720
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d252c8546fd9c90800000000000000
+      internalID: -7161297053884797541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3713
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7e46b12438e53c0800000000000000
+      internalID: -4368910268552124510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3679
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2b6cc6ed7a5aea0800000000000000
+      internalID: -5862094766203292938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3690
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d4fae82501bbcb0800000000000000
+      internalID: -4847262627166991040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_42
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3691
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2662d265ac1b90b0800000000000000
+      internalID: -5720947404990945750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3688
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a177d9c2af274230800000000000000
+      internalID: 3622916801460400544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3690
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081a3803182424380800000000000000
+      internalID: -8988548783645941376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_45
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3692
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01f1f990b04d1cc0800000000000000
+      internalID: -3738760988406451957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_46
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3692
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad1170b2ed7584f0800000000000000
+      internalID: -827116543976333917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3583
+        width: 189
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fe42e1f32d14be0800000000000000
+      internalID: -1494682432779784396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3559
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092168a3bb2cd7530800000000000000
+      internalID: 3854450965495550608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_49
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3553
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287de783e366038b0800000000000000
+      internalID: -5174523554426857598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3455
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80103b864f804670800000000000000
+      internalID: 8520968028130644107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_51
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3263
+        width: 232
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2121c084f7d8b6b60800000000000000
+      internalID: 7740435962375442962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_52
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3423
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbeb2e6ad4e0bba0800000000000000
+      internalID: -6075104270520423433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3363
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d90df2f0936226c0800000000000000
+      internalID: -4169660830788548144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_54
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3295
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c653df2a511cad7e0800000000000000
+      internalID: -1739866007352298132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_55
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3235
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc87e7a42b4e11a0800000000000000
+      internalID: -6836944563493958451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2975
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b431a8b2f3caa20800000000000000
+      internalID: 3074902101819870083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_57
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2993
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c272c8145c241fb0800000000000000
+      internalID: -4678065373226831160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2847
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b543e29c045dc4f0800000000000000
+      internalID: -806896345248741959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_59
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2911
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001db079093932930800000000000000
+      internalID: 4117296733565473024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2855
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84241a1c5920d1300800000000000000
+      internalID: 224338398660346440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2783
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb1143d65b8bf590800000000000000
+      internalID: -7639359137876206664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_62
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2815
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f629f840e78dd3fe0800000000000000
+      internalID: -1207571089311427985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_63
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2783
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591a0f66a6051b030800000000000000
+      internalID: 3508674002622128533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_64
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2783
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da10131947f0b9370800000000000000
+      internalID: 8330268929078395309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_65
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2625
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed18849f53f0ef800800000000000000
+      internalID: 647972120877892062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_66
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2645
+        width: 129
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db0ee39eed560e50800000000000000
+      internalID: 6775205968690940884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_67
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2751
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01ac8d2ba0be0e30800000000000000
+      internalID: 4471705729275568397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2497
+        width: 106
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792a03d58ebb52270800000000000000
+      internalID: 8225186901132354199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_69
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2497
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ed6807765254870800000000000000
+      internalID: 8666374184144133682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2047
+        width: 256
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025ae44a6887045a0800000000000000
+      internalID: -6539094139264391904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1855
+        width: 256
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf27af4afe52bc20800000000000000
+      internalID: 3220741112694517707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1663
+        width: 256
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577a96af3f9fbd590800000000000000
+      internalID: -7648244715885058187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_73
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1639
+        width: 72
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c58a5658bcef5dc0800000000000000
+      internalID: -3647936896679901753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1603
+        width: 129
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84375763678111fc0800000000000000
+      internalID: -3526010137255513272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1567
+        width: 98
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad9bbf443ef49c50800000000000000
+      internalID: 6671236448671997359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_76
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1619
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4e66542149bb800800000000000000
+      internalID: 629259379143009454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1519
+        width: 113
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce9dd6083e837d50800000000000000
+      internalID: 6733882239133523652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_78
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1547
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4482d9823e62c58d0800000000000000
+      internalID: -2856365306578917308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_79
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1523
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730b88d8d59778d70800000000000000
+      internalID: 9045331819310395447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 256
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77af167f296e0c350800000000000000
+      internalID: 6035077019566471799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 959
+        width: 129
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d82e86af7598070800000000000000
+      internalID: 8109109337070406955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 256
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdbcd04febda37c0800000000000000
+      internalID: -4090715490880799288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_83
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 945
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ac1c2ef1a162b60800000000000000
+      internalID: 7720887335423953444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Tsukinami-Indoors_84
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 959
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba417c040f27e460800000000000000
+      internalID: 7270831817848081084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-Tsukinami-Indoors_0: 630474867328637220
+      PU-Tsukinami-Indoors_1: 253799477592307494
+      PU-Tsukinami-Indoors_10: 6603600760362629853
+      PU-Tsukinami-Indoors_11: -4092378285639026610
+      PU-Tsukinami-Indoors_12: -3398991835037471620
+      PU-Tsukinami-Indoors_13: -6736242356942518628
+      PU-Tsukinami-Indoors_14: 5443064292074414286
+      PU-Tsukinami-Indoors_15: 1229088354468082290
+      PU-Tsukinami-Indoors_16: -665928217759361041
+      PU-Tsukinami-Indoors_17: 6488774677155674017
+      PU-Tsukinami-Indoors_18: -165845943112603489
+      PU-Tsukinami-Indoors_19: -8225472202934053610
+      PU-Tsukinami-Indoors_2: 5273887271748113942
+      PU-Tsukinami-Indoors_20: -2146064377200444061
+      PU-Tsukinami-Indoors_21: 3274604615650720245
+      PU-Tsukinami-Indoors_22: 8972429276469806105
+      PU-Tsukinami-Indoors_23: 7539130635940100898
+      PU-Tsukinami-Indoors_24: -4257578949086589474
+      PU-Tsukinami-Indoors_25: -3676200197312297620
+      PU-Tsukinami-Indoors_26: 1160314946925756048
+      PU-Tsukinami-Indoors_27: 7853556927719293557
+      PU-Tsukinami-Indoors_28: 1461917048862003331
+      PU-Tsukinami-Indoors_29: 2599393204255862508
+      PU-Tsukinami-Indoors_3: 3740231636256707230
+      PU-Tsukinami-Indoors_30: 8770183234530937623
+      PU-Tsukinami-Indoors_31: -3598906919228017391
+      PU-Tsukinami-Indoors_32: 6764178260079384936
+      PU-Tsukinami-Indoors_33: -4236144431789377369
+      PU-Tsukinami-Indoors_34: 2588086798837437475
+      PU-Tsukinami-Indoors_35: -4340572907221283192
+      PU-Tsukinami-Indoors_36: -8219062055640381292
+      PU-Tsukinami-Indoors_37: -1818663529489773962
+      PU-Tsukinami-Indoors_38: -7161297053884797541
+      PU-Tsukinami-Indoors_39: -4368910268552124510
+      PU-Tsukinami-Indoors_4: -6505656187448705701
+      PU-Tsukinami-Indoors_40: -5862094766203292938
+      PU-Tsukinami-Indoors_41: -4847262627166991040
+      PU-Tsukinami-Indoors_42: -5720947404990945750
+      PU-Tsukinami-Indoors_43: 3622916801460400544
+      PU-Tsukinami-Indoors_44: -8988548783645941376
+      PU-Tsukinami-Indoors_45: -3738760988406451957
+      PU-Tsukinami-Indoors_46: -827116543976333917
+      PU-Tsukinami-Indoors_47: -1494682432779784396
+      PU-Tsukinami-Indoors_48: 3854450965495550608
+      PU-Tsukinami-Indoors_49: -5174523554426857598
+      PU-Tsukinami-Indoors_5: 4938112732606039049
+      PU-Tsukinami-Indoors_50: 8520968028130644107
+      PU-Tsukinami-Indoors_51: 7740435962375442962
+      PU-Tsukinami-Indoors_52: -6075104270520423433
+      PU-Tsukinami-Indoors_53: -4169660830788548144
+      PU-Tsukinami-Indoors_54: -1739866007352298132
+      PU-Tsukinami-Indoors_55: -6836944563493958451
+      PU-Tsukinami-Indoors_56: 3074902101819870083
+      PU-Tsukinami-Indoors_57: -4678065373226831160
+      PU-Tsukinami-Indoors_58: -806896345248741959
+      PU-Tsukinami-Indoors_59: 4117296733565473024
+      PU-Tsukinami-Indoors_6: 1663848561421041125
+      PU-Tsukinami-Indoors_60: 224338398660346440
+      PU-Tsukinami-Indoors_61: -7639359137876206664
+      PU-Tsukinami-Indoors_62: -1207571089311427985
+      PU-Tsukinami-Indoors_63: 3508674002622128533
+      PU-Tsukinami-Indoors_64: 8330268929078395309
+      PU-Tsukinami-Indoors_65: 647972120877892062
+      PU-Tsukinami-Indoors_66: 6775205968690940884
+      PU-Tsukinami-Indoors_67: 4471705729275568397
+      PU-Tsukinami-Indoors_68: 8225186901132354199
+      PU-Tsukinami-Indoors_69: 8666374184144133682
+      PU-Tsukinami-Indoors_7: 7984243432343290818
+      PU-Tsukinami-Indoors_70: -6539094139264391904
+      PU-Tsukinami-Indoors_71: 3220741112694517707
+      PU-Tsukinami-Indoors_72: -7648244715885058187
+      PU-Tsukinami-Indoors_73: -3647936896679901753
+      PU-Tsukinami-Indoors_74: -3526010137255513272
+      PU-Tsukinami-Indoors_75: 6671236448671997359
+      PU-Tsukinami-Indoors_76: 629259379143009454
+      PU-Tsukinami-Indoors_77: 6733882239133523652
+      PU-Tsukinami-Indoors_78: -2856365306578917308
+      PU-Tsukinami-Indoors_79: 9045331819310395447
+      PU-Tsukinami-Indoors_8: 2338391944035773466
+      PU-Tsukinami-Indoors_80: 6035077019566471799
+      PU-Tsukinami-Indoors_81: 8109109337070406955
+      PU-Tsukinami-Indoors_82: -4090715490880799288
+      PU-Tsukinami-Indoors_83: 7720887335423953444
+      PU-Tsukinami-Indoors_84: 7270831817848081084
+      PU-Tsukinami-Indoors_9: -1766960642813030666
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

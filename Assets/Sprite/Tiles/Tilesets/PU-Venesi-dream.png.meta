@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: b765feb7c2ebaee48ba77966412dbd2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3194147697092076050
+    second: PU-Venesi-dream_0
+  - first:
+      213: -4700081900334903577
+    second: PU-Venesi-dream_1
+  - first:
+      213: 826074713696473868
+    second: PU-Venesi-dream_2
+  - first:
+      213: -3480215240834505824
+    second: PU-Venesi-dream_3
+  - first:
+      213: 3315283022218864522
+    second: PU-Venesi-dream_4
+  - first:
+      213: -2306491240297664410
+    second: PU-Venesi-dream_5
+  - first:
+      213: 9115793919555299089
+    second: PU-Venesi-dream_6
+  - first:
+      213: 2751861214347254984
+    second: PU-Venesi-dream_7
+  - first:
+      213: 1547495402966768715
+    second: PU-Venesi-dream_8
+  - first:
+      213: -8576423849758517796
+    second: PU-Venesi-dream_9
+  - first:
+      213: 3844170878786029063
+    second: PU-Venesi-dream_10
+  - first:
+      213: -8791228232092194392
+    second: PU-Venesi-dream_11
+  - first:
+      213: 9039516128930665794
+    second: PU-Venesi-dream_12
+  - first:
+      213: -7624456015924991714
+    second: PU-Venesi-dream_13
+  - first:
+      213: 2871028322577315489
+    second: PU-Venesi-dream_14
+  - first:
+      213: 2721672006437039220
+    second: PU-Venesi-dream_15
+  - first:
+      213: 420547677914051862
+    second: PU-Venesi-dream_16
+  - first:
+      213: -50166221390463203
+    second: PU-Venesi-dream_17
+  - first:
+      213: 7535935703928045521
+    second: PU-Venesi-dream_18
+  - first:
+      213: 6193441638156976631
+    second: PU-Venesi-dream_19
+  - first:
+      213: -6809930699005958826
+    second: PU-Venesi-dream_20
+  - first:
+      213: 8646181606478260502
+    second: PU-Venesi-dream_21
+  - first:
+      213: -366617309723654662
+    second: PU-Venesi-dream_22
+  - first:
+      213: -8128864808976219166
+    second: PU-Venesi-dream_23
+  - first:
+      213: -3268834127298094679
+    second: PU-Venesi-dream_24
+  - first:
+      213: 4479667412416327232
+    second: PU-Venesi-dream_25
+  - first:
+      213: -7125263543269173006
+    second: PU-Venesi-dream_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-Venesi-dream_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3679
+        width: 97
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedd1b2c79b1ca3d0800000000000000
+      internalID: -3194147697092076050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3295
+        width: 256
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee8b4be964f5ceb0800000000000000
+      internalID: -4700081900334903577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3153
+        width: 256
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c039fcb439ec67b00800000000000000
+      internalID: 826074713696473868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3135
+        width: 130
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3a82c6daac3bfc0800000000000000
+      internalID: -3480215240834505824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2719
+        width: 256
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a872d35f750420e20800000000000000
+      internalID: 3315283022218864522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3049
+        width: 254
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660f180ff62bdffd0800000000000000
+      internalID: -2306491240297664410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2641
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11762c4b54ec18e70800000000000000
+      internalID: 9115793919555299089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2687
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccd758c133903620800000000000000
+      internalID: 2751861214347254984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2559
+        width: 78
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c5269bedec97510800000000000000
+      internalID: 1547495402966768715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2687
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd594ffc2fb6af880800000000000000
+      internalID: -8576423849758517796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2693
+        width: 32
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70641f50c0d395530800000000000000
+      internalID: 3844170878786029063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2693
+        width: 28
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a962c630884ff580800000000000000
+      internalID: -8791228232092194392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2541
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245935e9600d27d70800000000000000
+      internalID: 9039516128930665794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2623
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19633d46ad703690800000000000000
+      internalID: -7624456015924991714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2571
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a67e4b4c01f7d720800000000000000
+      internalID: 2871028322577315489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2507
+        width: 17
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cedc2154255c520800000000000000
+      internalID: 2721672006437039220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2431
+        width: 209
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615be2982e516d500800000000000000
+      internalID: 420547677914051862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2467
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f3c426616cd4ff0800000000000000
+      internalID: -50166221390463203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2471
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df70da7895059860800000000000000
+      internalID: 7535935703928045521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1955
+        width: 256
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1c57b0b5683f550800000000000000
+      internalID: 6193441638156976631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2431
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655e8bc1c144e71a0800000000000000
+      internalID: -6809930699005958826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1887
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61927a59c586df770800000000000000
+      internalID: 8646181606478260502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1377
+        width: 256
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5896dcf7389eaf0800000000000000
+      internalID: -366617309723654662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1951
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e38cc95688703f80800000000000000
+      internalID: -8128864808976219166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 1313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a919b42ea4c2a2d0800000000000000
+      internalID: -3268834127298094679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1313
+        width: 158
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ee7fcf6c9fa2e30800000000000000
+      internalID: 4479667412416327232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Venesi-dream_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1275
+        width: 97
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f856640f8afd1d90800000000000000
+      internalID: -7125263543269173006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-Venesi-dream_0: -3194147697092076050
+      PU-Venesi-dream_1: -4700081900334903577
+      PU-Venesi-dream_10: 3844170878786029063
+      PU-Venesi-dream_11: -8791228232092194392
+      PU-Venesi-dream_12: 9039516128930665794
+      PU-Venesi-dream_13: -7624456015924991714
+      PU-Venesi-dream_14: 2871028322577315489
+      PU-Venesi-dream_15: 2721672006437039220
+      PU-Venesi-dream_16: 420547677914051862
+      PU-Venesi-dream_17: -50166221390463203
+      PU-Venesi-dream_18: 7535935703928045521
+      PU-Venesi-dream_19: 6193441638156976631
+      PU-Venesi-dream_2: 826074713696473868
+      PU-Venesi-dream_20: -6809930699005958826
+      PU-Venesi-dream_21: 8646181606478260502
+      PU-Venesi-dream_22: -366617309723654662
+      PU-Venesi-dream_23: -8128864808976219166
+      PU-Venesi-dream_24: -3268834127298094679
+      PU-Venesi-dream_25: 4479667412416327232
+      PU-Venesi-dream_26: -7125263543269173006
+      PU-Venesi-dream_3: -3480215240834505824
+      PU-Venesi-dream_4: 3315283022218864522
+      PU-Venesi-dream_5: -2306491240297664410
+      PU-Venesi-dream_6: 9115793919555299089
+      PU-Venesi-dream_7: 2751861214347254984
+      PU-Venesi-dream_8: 1547495402966768715
+      PU-Venesi-dream_9: -8576423849758517796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

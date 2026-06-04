@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: 16d4a142a47281349a9a0c67a8b03a2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 361400522630544757
+    second: NPU-Legen Town_0
+  - first:
+      213: -7521143843110931011
+    second: NPU-Legen Town_1
+  - first:
+      213: -297570437194057212
+    second: NPU-Legen Town_2
+  - first:
+      213: -1325506904173626666
+    second: NPU-Legen Town_3
+  - first:
+      213: 2658954791090508101
+    second: NPU-Legen Town_4
+  - first:
+      213: 4523635081829649586
+    second: NPU-Legen Town_5
+  - first:
+      213: 2295340886622251299
+    second: NPU-Legen Town_6
+  - first:
+      213: -8047978170774509551
+    second: NPU-Legen Town_7
+  - first:
+      213: 7831401573217615364
+    second: NPU-Legen Town_8
+  - first:
+      213: -9177015895174601911
+    second: NPU-Legen Town_9
+  - first:
+      213: -8302351636489148504
+    second: NPU-Legen Town_10
+  - first:
+      213: -6867261560680621389
+    second: NPU-Legen Town_11
+  - first:
+      213: -9171474566928214034
+    second: NPU-Legen Town_12
+  - first:
+      213: -6528972357065955041
+    second: NPU-Legen Town_13
+  - first:
+      213: -1955363731381832262
+    second: NPU-Legen Town_14
+  - first:
+      213: -7903828969944676664
+    second: NPU-Legen Town_15
+  - first:
+      213: 2641408157908966437
+    second: NPU-Legen Town_16
+  - first:
+      213: 3066103886005293697
+    second: NPU-Legen Town_17
+  - first:
+      213: -8174158032005409045
+    second: NPU-Legen Town_18
+  - first:
+      213: -4564485619061099301
+    second: NPU-Legen Town_19
+  - first:
+      213: 4561273659487129617
+    second: NPU-Legen Town_20
+  - first:
+      213: -4789335030787860697
+    second: NPU-Legen Town_21
+  - first:
+      213: -5966174504381067961
+    second: NPU-Legen Town_22
+  - first:
+      213: -6494599915536939469
+    second: NPU-Legen Town_23
+  - first:
+      213: -6774200673820627306
+    second: NPU-Legen Town_24
+  - first:
+      213: 5324248500363837894
+    second: NPU-Legen Town_25
+  - first:
+      213: -1476893855120286785
+    second: NPU-Legen Town_26
+  - first:
+      213: -4176036072732808662
+    second: NPU-Legen Town_27
+  - first:
+      213: -3446187328232353459
+    second: NPU-Legen Town_28
+  - first:
+      213: -1111909877360451665
+    second: NPU-Legen Town_29
+  - first:
+      213: -3358950194129975056
+    second: NPU-Legen Town_30
+  - first:
+      213: 7679739245174935193
+    second: NPU-Legen Town_31
+  - first:
+      213: 3926409511434639955
+    second: NPU-Legen Town_32
+  - first:
+      213: -4128928961843407317
+    second: NPU-Legen Town_33
+  - first:
+      213: -2761359565501921207
+    second: NPU-Legen Town_34
+  - first:
+      213: -2609432044814013363
+    second: NPU-Legen Town_35
+  - first:
+      213: 4982644444032341990
+    second: NPU-Legen Town_36
+  - first:
+      213: 3245423708010560285
+    second: NPU-Legen Town_37
+  - first:
+      213: -134538529178279758
+    second: NPU-Legen Town_38
+  - first:
+      213: -240092651288508854
+    second: NPU-Legen Town_39
+  - first:
+      213: 4394571149033800646
+    second: NPU-Legen Town_40
+  - first:
+      213: -904662902842669981
+    second: NPU-Legen Town_41
+  - first:
+      213: 968270851233135437
+    second: NPU-Legen Town_42
+  - first:
+      213: -8515912316528258891
+    second: NPU-Legen Town_43
+  - first:
+      213: -3805149757942221940
+    second: NPU-Legen Town_44
+  - first:
+      213: 1920929698894545508
+    second: NPU-Legen Town_45
+  - first:
+      213: -4230933928121873720
+    second: NPU-Legen Town_46
+  - first:
+      213: 4694997754386583273
+    second: NPU-Legen Town_47
+  - first:
+      213: -7964658871210826407
+    second: NPU-Legen Town_48
+  - first:
+      213: 6303916813681741186
+    second: NPU-Legen Town_49
+  - first:
+      213: 1368975317879399865
+    second: NPU-Legen Town_50
+  - first:
+      213: -5000862369696844140
+    second: NPU-Legen Town_51
+  - first:
+      213: 251749416696730076
+    second: NPU-Legen Town_52
+  - first:
+      213: 4132655742282667004
+    second: NPU-Legen Town_53
+  - first:
+      213: -5586228367297328680
+    second: NPU-Legen Town_54
+  - first:
+      213: 2165421702974931666
+    second: NPU-Legen Town_55
+  - first:
+      213: 6328226422996738059
+    second: NPU-Legen Town_56
+  - first:
+      213: -3422115557327385823
+    second: NPU-Legen Town_57
+  - first:
+      213: 788274399930764954
+    second: NPU-Legen Town_58
+  - first:
+      213: -4737771394608017792
+    second: NPU-Legen Town_59
+  - first:
+      213: 5762014368016592840
+    second: NPU-Legen Town_60
+  - first:
+      213: 6741404342338067091
+    second: NPU-Legen Town_61
+  - first:
+      213: 2786337759657684612
+    second: NPU-Legen Town_62
+  - first:
+      213: 5229247601566704544
+    second: NPU-Legen Town_63
+  - first:
+      213: 5062325076817059204
+    second: NPU-Legen Town_64
+  - first:
+      213: -1508820734874307092
+    second: NPU-Legen Town_65
+  - first:
+      213: -3045880053222013360
+    second: NPU-Legen Town_66
+  - first:
+      213: -756780470665045228
+    second: NPU-Legen Town_67
+  - first:
+      213: -3557212623591283659
+    second: NPU-Legen Town_68
+  - first:
+      213: -1866134310754324099
+    second: NPU-Legen Town_69
+  - first:
+      213: -4066796115198140839
+    second: NPU-Legen Town_70
+  - first:
+      213: -103807687840598537
+    second: NPU-Legen Town_71
+  - first:
+      213: 2357196156178616341
+    second: NPU-Legen Town_72
+  - first:
+      213: 5220645903855140762
+    second: NPU-Legen Town_73
+  - first:
+      213: 5367709519705387123
+    second: NPU-Legen Town_74
+  - first:
+      213: -7388636881554070130
+    second: NPU-Legen Town_75
+  - first:
+      213: 8398990115849069358
+    second: NPU-Legen Town_76
+  - first:
+      213: -7729222249286600059
+    second: NPU-Legen Town_77
+  - first:
+      213: -823187001584766377
+    second: NPU-Legen Town_78
+  - first:
+      213: -273102915358999061
+    second: NPU-Legen Town_79
+  - first:
+      213: 8789852551858406613
+    second: NPU-Legen Town_80
+  - first:
+      213: -7229894558066790687
+    second: NPU-Legen Town_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPU-Legen Town_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4543
+        width: 256
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57db80d4cd3f30500800000000000000
+      internalID: 361400522630544757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4513
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5b1cef5878f9790800000000000000
+      internalID: -7521143843110931011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4511
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40af3639341dedbf0800000000000000
+      internalID: -297570437194057212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4511
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da37655e7ada9de0800000000000000
+      internalID: -1325506904173626666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4479
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541d5c47b4186e420800000000000000
+      internalID: 2658954791090508101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4515
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc83f1c32e27ce30800000000000000
+      internalID: 4523635081829649586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4481
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329ac890060badf10800000000000000
+      internalID: 2295340886622251299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4499
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11823e26e76df4090800000000000000
+      internalID: -8047978170774509551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4503
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e32110d3abeac60800000000000000
+      internalID: 7831401573217615364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4479
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943210e4aa0b4a080800000000000000
+      internalID: -9177015895174601911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 4473
+        width: 5
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a76ea2ac2f18cc80800000000000000
+      internalID: -8302351636489148504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3badfefaef592b0a0800000000000000
+      internalID: -6867261560680621389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4487
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7d6b3597068b080800000000000000
+      internalID: -9171474566928214034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f192db4bb3e6465a0800000000000000
+      internalID: -6528972357065955041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4469
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5bd48db072dd4e0800000000000000
+      internalID: -1955363731381832262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4469
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c681099d65ff4290800000000000000
+      internalID: -7903828969944676664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c9bfe89ba28a420800000000000000
+      internalID: 2641408157908966437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1825ac94d3dfc8a20800000000000000
+      internalID: 3066103886005293697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4385
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be65964149e8f8e80800000000000000
+      internalID: -8174158032005409045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4417
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4fb7d5380b7a0c0800000000000000
+      internalID: -4564485619061099301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 4411
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11093150a36ec4f30800000000000000
+      internalID: 4561273659487129617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4429
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7271e8b1a2dd88db0800000000000000
+      internalID: -4789335030787860697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4255
+        width: 256
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dcf5ef5e3e33da0800000000000000
+      internalID: -5966174504381067961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4117
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336832469cb8ed5a0800000000000000
+      internalID: -6494599915536939469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3967
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ea5bfd0643df1a0800000000000000
+      internalID: -6774200673820627306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4095
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1c7105dc783e940800000000000000
+      internalID: 5324248500363837894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4063
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb199a1dd4018be0800000000000000
+      internalID: -1476893855120286785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4041
+        width: 129
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a2b83415dbb06c0800000000000000
+      internalID: -4176036072732808662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4031
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41124732eeac20d0800000000000000
+      internalID: -3446187328232353459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3999
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf9ea19bd3b190f0800000000000000
+      internalID: -1111909877360451665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 4001
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f847ac489c9261d0800000000000000
+      internalID: -3358950194129975056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3811
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e474c872ae39a60800000000000000
+      internalID: 7679739245174935193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3999
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ad6cbc5a86d7630800000000000000
+      internalID: 3926409511434639955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3981
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2650863cf813b6c0800000000000000
+      internalID: -4128928961843407317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3999
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94881210b1eada9d0800000000000000
+      internalID: -2761359565501921207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3999
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ce65f616f69cbd0800000000000000
+      internalID: -2609432044814013363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3981
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e71f9009b8e52540800000000000000
+      internalID: 4982644444032341990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3875
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bb99ddaaf0a0d20800000000000000
+      internalID: 3245423708010560285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3839
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0a9b7abe5022ef0800000000000000
+      internalID: -134538529178279758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_39
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3871
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4644c671050bacf0800000000000000
+      internalID: -240092651288508854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3551
+        width: 256
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c307563d27acfc30800000000000000
+      internalID: 4394571149033800646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_41
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3519
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364c69a02edf173f0800000000000000
+      internalID: -904662902842669981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bbd16853dff6d00800000000000000
+      internalID: 968270851233135437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3519
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b095fa0ed661d980800000000000000
+      internalID: -8515912316528258891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3199
+        width: 243
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83b0b8a474613bc0800000000000000
+      internalID: -3805149757942221940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3391
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4628b15326388aa10800000000000000
+      internalID: 1920929698894545508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_46
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3263
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cac5224204b845c0800000000000000
+      internalID: -4230933928121873720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3231
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee087b159bf72140800000000000000
+      internalID: 4694997754386583273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2593
+        width: 256
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955a05884f8d77190800000000000000
+      internalID: -7964658871210826407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3199
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dcc1541f20c7750800000000000000
+      internalID: 6303916813681741186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1983
+        width: 256
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5aa786cc39ff210800000000000000
+      internalID: 1368975317879399865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1753
+        width: 256
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496f993ab2e599ab0800000000000000
+      internalID: -5000862369696844140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1591
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1de9ab2c46e7300800000000000000
+      internalID: 251749416696730076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_53
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1559
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf39cb970842a5930800000000000000
+      internalID: 4132655742282667004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_54
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1567
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d94805a5eab972b0800000000000000
+      internalID: -5586228367297328680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1471
+        width: 225
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d20eb2e09f1d0e10800000000000000
+      internalID: 2165421702974931666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1379
+        width: 256
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0026f0476062d750800000000000000
+      internalID: 6328226422996738059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1087
+        width: 256
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bc92128043280d0800000000000000
+      internalID: -3422115557327385823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1279
+        width: 30
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e4869e36380fa00800000000000000
+      internalID: 788274399930764954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_59
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1279
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ec165b40e004eb0800000000000000
+      internalID: -4737771394608017792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 897
+        width: 193
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf635c0a89c6ff40800000000000000
+      internalID: 5762014368016592840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_61
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1079
+        width: 65
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a165828874e8d50800000000000000
+      internalID: 6741404342338067091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_62
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 897
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e67a40e6f0ba620800000000000000
+      internalID: 2786337759657684612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 767
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a362f5ecf4029840800000000000000
+      internalID: 5229247601566704544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 767
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d9b3506ddf04640800000000000000
+      internalID: 5062325076817059204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_65
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 767
+        width: 18
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b21429879f0be0800000000000000
+      internalID: -1508820734874307092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 759
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0560147ba3cdab5d0800000000000000
+      internalID: -3045880053222013360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 727
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b9e09eb206f75f0800000000000000
+      internalID: -756780470665045228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 733
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5346e4c37fd32aec0800000000000000
+      internalID: -3557212623591283659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_69
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 701
+        width: 122
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71f1584bb82a16e0800000000000000
+      internalID: -1866134310754324099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 701
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e1da3ea76df87c0800000000000000
+      internalID: -4066796115198140839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_71
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 655
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f57e4935733f8ef0800000000000000
+      internalID: -103807687840598537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 161
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51051f24a6176b020800000000000000
+      internalID: 2357196156178616341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 639
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f32651ac5737840800000000000000
+      internalID: 5220645903855140762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 319
+        width: 159
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370b58b6e5fed7a40800000000000000
+      internalID: 5367709519705387123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 543
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85ae9427e9467990800000000000000
+      internalID: -7388636881554070130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 543
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e236337b2053f8470800000000000000
+      internalID: 8398990115849069358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 367
+        width: 154
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58af931c0594cb490800000000000000
+      internalID: -7729222249286600059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75232d298c37394f0800000000000000
+      internalID: -823187001584766377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed37ee685eb53cf0800000000000000
+      internalID: -273102915358999061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_80
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4c4954354dbf970800000000000000
+      internalID: 8789852551858406613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Legen Town_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee26ee74314aab90800000000000000
+      internalID: -7229894558066790687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPU-Legen Town_0: 361400522630544757
+      NPU-Legen Town_1: -7521143843110931011
+      NPU-Legen Town_10: -8302351636489148504
+      NPU-Legen Town_11: -6867261560680621389
+      NPU-Legen Town_12: -9171474566928214034
+      NPU-Legen Town_13: -6528972357065955041
+      NPU-Legen Town_14: -1955363731381832262
+      NPU-Legen Town_15: -7903828969944676664
+      NPU-Legen Town_16: 2641408157908966437
+      NPU-Legen Town_17: 3066103886005293697
+      NPU-Legen Town_18: -8174158032005409045
+      NPU-Legen Town_19: -4564485619061099301
+      NPU-Legen Town_2: -297570437194057212
+      NPU-Legen Town_20: 4561273659487129617
+      NPU-Legen Town_21: -4789335030787860697
+      NPU-Legen Town_22: -5966174504381067961
+      NPU-Legen Town_23: -6494599915536939469
+      NPU-Legen Town_24: -6774200673820627306
+      NPU-Legen Town_25: 5324248500363837894
+      NPU-Legen Town_26: -1476893855120286785
+      NPU-Legen Town_27: -4176036072732808662
+      NPU-Legen Town_28: -3446187328232353459
+      NPU-Legen Town_29: -1111909877360451665
+      NPU-Legen Town_3: -1325506904173626666
+      NPU-Legen Town_30: -3358950194129975056
+      NPU-Legen Town_31: 7679739245174935193
+      NPU-Legen Town_32: 3926409511434639955
+      NPU-Legen Town_33: -4128928961843407317
+      NPU-Legen Town_34: -2761359565501921207
+      NPU-Legen Town_35: -2609432044814013363
+      NPU-Legen Town_36: 4982644444032341990
+      NPU-Legen Town_37: 3245423708010560285
+      NPU-Legen Town_38: -134538529178279758
+      NPU-Legen Town_39: -240092651288508854
+      NPU-Legen Town_4: 2658954791090508101
+      NPU-Legen Town_40: 4394571149033800646
+      NPU-Legen Town_41: -904662902842669981
+      NPU-Legen Town_42: 968270851233135437
+      NPU-Legen Town_43: -8515912316528258891
+      NPU-Legen Town_44: -3805149757942221940
+      NPU-Legen Town_45: 1920929698894545508
+      NPU-Legen Town_46: -4230933928121873720
+      NPU-Legen Town_47: 4694997754386583273
+      NPU-Legen Town_48: -7964658871210826407
+      NPU-Legen Town_49: 6303916813681741186
+      NPU-Legen Town_5: 4523635081829649586
+      NPU-Legen Town_50: 1368975317879399865
+      NPU-Legen Town_51: -5000862369696844140
+      NPU-Legen Town_52: 251749416696730076
+      NPU-Legen Town_53: 4132655742282667004
+      NPU-Legen Town_54: -5586228367297328680
+      NPU-Legen Town_55: 2165421702974931666
+      NPU-Legen Town_56: 6328226422996738059
+      NPU-Legen Town_57: -3422115557327385823
+      NPU-Legen Town_58: 788274399930764954
+      NPU-Legen Town_59: -4737771394608017792
+      NPU-Legen Town_6: 2295340886622251299
+      NPU-Legen Town_60: 5762014368016592840
+      NPU-Legen Town_61: 6741404342338067091
+      NPU-Legen Town_62: 2786337759657684612
+      NPU-Legen Town_63: 5229247601566704544
+      NPU-Legen Town_64: 5062325076817059204
+      NPU-Legen Town_65: -1508820734874307092
+      NPU-Legen Town_66: -3045880053222013360
+      NPU-Legen Town_67: -756780470665045228
+      NPU-Legen Town_68: -3557212623591283659
+      NPU-Legen Town_69: -1866134310754324099
+      NPU-Legen Town_7: -8047978170774509551
+      NPU-Legen Town_70: -4066796115198140839
+      NPU-Legen Town_71: -103807687840598537
+      NPU-Legen Town_72: 2357196156178616341
+      NPU-Legen Town_73: 5220645903855140762
+      NPU-Legen Town_74: 5367709519705387123
+      NPU-Legen Town_75: -7388636881554070130
+      NPU-Legen Town_76: 8398990115849069358
+      NPU-Legen Town_77: -7729222249286600059
+      NPU-Legen Town_78: -823187001584766377
+      NPU-Legen Town_79: -273102915358999061
+      NPU-Legen Town_8: 7831401573217615364
+      NPU-Legen Town_80: 8789852551858406613
+      NPU-Legen Town_81: -7229894558066790687
+      NPU-Legen Town_9: -9177015895174601911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

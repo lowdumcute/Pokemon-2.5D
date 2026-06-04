@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 19d4676354aef304e9055b819628890d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2004157264079401943
+    second: PU-VictoryRoad_0
+  - first:
+      213: -4531672136445097037
+    second: PU-VictoryRoad_1
+  - first:
+      213: -2764162942296535335
+    second: PU-VictoryRoad_2
+  - first:
+      213: 5109864626693413940
+    second: PU-VictoryRoad_3
+  - first:
+      213: 3285037799688167255
+    second: PU-VictoryRoad_4
+  - first:
+      213: 5734723216676242679
+    second: PU-VictoryRoad_5
+  - first:
+      213: 1823944011153460565
+    second: PU-VictoryRoad_6
+  - first:
+      213: -1260470741094079019
+    second: PU-VictoryRoad_7
+  - first:
+      213: 9070529037530986611
+    second: PU-VictoryRoad_8
+  - first:
+      213: -1699976981925128728
+    second: PU-VictoryRoad_9
+  - first:
+      213: 838295782751039710
+    second: PU-VictoryRoad_10
+  - first:
+      213: 4598918304693002052
+    second: PU-VictoryRoad_11
+  - first:
+      213: -6641520138414875241
+    second: PU-VictoryRoad_12
+  - first:
+      213: 5741081339984671933
+    second: PU-VictoryRoad_13
+  - first:
+      213: -1034747296498379861
+    second: PU-VictoryRoad_14
+  - first:
+      213: 6998012652789495758
+    second: PU-VictoryRoad_15
+  - first:
+      213: 6897206589830487283
+    second: PU-VictoryRoad_16
+  - first:
+      213: -182643323573579670
+    second: PU-VictoryRoad_17
+  - first:
+      213: 7234150112080100111
+    second: PU-VictoryRoad_18
+  - first:
+      213: -862464463029255394
+    second: PU-VictoryRoad_19
+  - first:
+      213: -6331818967546003130
+    second: PU-VictoryRoad_20
+  - first:
+      213: -4232736041430624545
+    second: PU-VictoryRoad_21
+  - first:
+      213: 9202464965119773828
+    second: PU-VictoryRoad_22
+  - first:
+      213: -3956228526427384926
+    second: PU-VictoryRoad_23
+  - first:
+      213: 3055658513558173849
+    second: PU-VictoryRoad_24
+  - first:
+      213: 2418308752608601435
+    second: PU-VictoryRoad_25
+  - first:
+      213: -256743408821878280
+    second: PU-VictoryRoad_26
+  - first:
+      213: 4886556944613213023
+    second: PU-VictoryRoad_27
+  - first:
+      213: -2427494105803745948
+    second: PU-VictoryRoad_28
+  - first:
+      213: 462668827693073167
+    second: PU-VictoryRoad_29
+  - first:
+      213: -8225469021949377505
+    second: PU-VictoryRoad_30
+  - first:
+      213: 5385074662823784328
+    second: PU-VictoryRoad_31
+  - first:
+      213: 5104706077280244201
+    second: PU-VictoryRoad_32
+  - first:
+      213: 895057542376230438
+    second: PU-VictoryRoad_33
+  - first:
+      213: 9078649969904790360
+    second: PU-VictoryRoad_34
+  - first:
+      213: -6975952884837944132
+    second: PU-VictoryRoad_35
+  - first:
+      213: -4050436802780818817
+    second: PU-VictoryRoad_36
+  - first:
+      213: 3795360896479002378
+    second: PU-VictoryRoad_37
+  - first:
+      213: 4733919083509198424
+    second: PU-VictoryRoad_38
+  - first:
+      213: 5729282595699958506
+    second: PU-VictoryRoad_39
+  - first:
+      213: 8302758465145395743
+    second: PU-VictoryRoad_40
+  - first:
+      213: -7242101064481565227
+    second: PU-VictoryRoad_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-VictoryRoad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4891
+        width: 256
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c4788369dcf24e0800000000000000
+      internalID: -2004157264079401943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4865
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb87a4a3344c11c0800000000000000
+      internalID: -4531672136445097037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4883
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9decd1bf278b3a9d0800000000000000
+      internalID: -2764162942296535335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4887
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c15640ec2e9e640800000000000000
+      internalID: 5109864626693413940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4863
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fd424597cc69d20800000000000000
+      internalID: 3285037799688167255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4851
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f44c27b164d59f40800000000000000
+      internalID: 5734723216676242679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 4857
+        width: 5
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dc00b1a63ff4910800000000000000
+      internalID: 1823944011153460565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4863
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5605b0a88e18ee0800000000000000
+      internalID: -1260470741094079019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4871
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37876e61a1ef0ed70800000000000000
+      internalID: 9070529037530986611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4831
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5130a11f77868e0800000000000000
+      internalID: -1699976981925128728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4853
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0759ba29932ab00800000000000000
+      internalID: 838295782751039710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4853
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f944ef4d3a2df30800000000000000
+      internalID: 4598918304693002052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4831
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d9d255f9494d3a0800000000000000
+      internalID: -6641520138414875241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4831
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4f868af0b6caf40800000000000000
+      internalID: 5741081339984671933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4769
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba31befe0d6d3a1f0800000000000000
+      internalID: -1034747296498379861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4801
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7f43f3e6fed1160800000000000000
+      internalID: 6998012652789495758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 4795
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc5459b9dcc7bf50800000000000000
+      internalID: 6897206589830487283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4813
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60dcc96dde177df0800000000000000
+      internalID: -182643323573579670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4639
+        width: 256
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bf262e23dd46460800000000000000
+      internalID: 7234150112080100111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4351
+        width: 256
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e134eb1f329e704f0800000000000000
+      internalID: -862464463029255394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4259
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6410759423cd028a0800000000000000
+      internalID: -6331818967546003130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4223
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6d88e0ffc4245c0800000000000000
+      internalID: -4232736041430624545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4195
+        width: 152
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c01f70129b5bf70800000000000000
+      internalID: 9202464965119773828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4255
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a35700cd17a819c0800000000000000
+      internalID: -3956228526427384926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3903
+        width: 256
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998788f7a31e76a20800000000000000
+      internalID: 3055658513558173849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2783
+        width: 256
+        height: 1122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55247c6ffe8f8120800000000000000
+      internalID: 2418308752608601435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2563
+        width: 256
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1cfbeda3ddf6cf0800000000000000
+      internalID: -256743408821878280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2555
+        width: 58
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53836aa6a980d340800000000000000
+      internalID: 4886556944613213023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2447
+        width: 154
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4659631e8fecf4ed0800000000000000
+      internalID: -2427494105803745948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2529
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ca43f8dabb6600800000000000000
+      internalID: 462668827693073167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2497
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f144ab3418349dd80800000000000000
+      internalID: -8225469021949377505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_31
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2465
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f619edfd0abba40800000000000000
+      internalID: 5385074662823784328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2433
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e11113a12f87d640800000000000000
+      internalID: 5104706077280244201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_33
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2401
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e8ed2b712eb6c00800000000000000
+      internalID: 895057542376230438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2111
+        width: 256
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b29400c08ddfd70800000000000000
+      internalID: 9078649969904790360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb47f59bfcf603f90800000000000000
+      internalID: -6975952884837944132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7294112035f9c7c0800000000000000
+      internalID: -4050436802780818817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ff90d60a4dba430800000000000000
+      internalID: 3795360896479002378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2367
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e2208335242b140800000000000000
+      internalID: 4733919083509198424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1079
+        width: 256
+        height: 1032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2268e6a20828f40800000000000000
+      internalID: 5729282595699958506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2015
+        width: 129
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1adbda85d2593370800000000000000
+      internalID: 8302758465145395743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-VictoryRoad_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 729
+        width: 256
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d51910c373ee7b90800000000000000
+      internalID: -7242101064481565227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-VictoryRoad_0: -2004157264079401943
+      PU-VictoryRoad_1: -4531672136445097037
+      PU-VictoryRoad_10: 838295782751039710
+      PU-VictoryRoad_11: 4598918304693002052
+      PU-VictoryRoad_12: -6641520138414875241
+      PU-VictoryRoad_13: 5741081339984671933
+      PU-VictoryRoad_14: -1034747296498379861
+      PU-VictoryRoad_15: 6998012652789495758
+      PU-VictoryRoad_16: 6897206589830487283
+      PU-VictoryRoad_17: -182643323573579670
+      PU-VictoryRoad_18: 7234150112080100111
+      PU-VictoryRoad_19: -862464463029255394
+      PU-VictoryRoad_2: -2764162942296535335
+      PU-VictoryRoad_20: -6331818967546003130
+      PU-VictoryRoad_21: -4232736041430624545
+      PU-VictoryRoad_22: 9202464965119773828
+      PU-VictoryRoad_23: -3956228526427384926
+      PU-VictoryRoad_24: 3055658513558173849
+      PU-VictoryRoad_25: 2418308752608601435
+      PU-VictoryRoad_26: -256743408821878280
+      PU-VictoryRoad_27: 4886556944613213023
+      PU-VictoryRoad_28: -2427494105803745948
+      PU-VictoryRoad_29: 462668827693073167
+      PU-VictoryRoad_3: 5109864626693413940
+      PU-VictoryRoad_30: -8225469021949377505
+      PU-VictoryRoad_31: 5385074662823784328
+      PU-VictoryRoad_32: 5104706077280244201
+      PU-VictoryRoad_33: 895057542376230438
+      PU-VictoryRoad_34: 9078649969904790360
+      PU-VictoryRoad_35: -6975952884837944132
+      PU-VictoryRoad_36: -4050436802780818817
+      PU-VictoryRoad_37: 3795360896479002378
+      PU-VictoryRoad_38: 4733919083509198424
+      PU-VictoryRoad_39: 5729282595699958506
+      PU-VictoryRoad_4: 3285037799688167255
+      PU-VictoryRoad_40: 8302758465145395743
+      PU-VictoryRoad_41: -7242101064481565227
+      PU-VictoryRoad_5: 5734723216676242679
+      PU-VictoryRoad_6: 1823944011153460565
+      PU-VictoryRoad_7: -1260470741094079019
+      PU-VictoryRoad_8: 9070529037530986611
+      PU-VictoryRoad_9: -1699976981925128728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

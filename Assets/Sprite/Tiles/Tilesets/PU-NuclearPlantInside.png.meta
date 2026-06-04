@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: f02baeadc3174e94d97211813df92415
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5406137095517641161
+    second: PU-NuclearPlantInside_0
+  - first:
+      213: -4395123413333107574
+    second: PU-NuclearPlantInside_1
+  - first:
+      213: -6029928510698367565
+    second: PU-NuclearPlantInside_2
+  - first:
+      213: -2092305317781360778
+    second: PU-NuclearPlantInside_3
+  - first:
+      213: -8302349316805400152
+    second: PU-NuclearPlantInside_4
+  - first:
+      213: -7009940804857354807
+    second: PU-NuclearPlantInside_5
+  - first:
+      213: 2399178795851661800
+    second: PU-NuclearPlantInside_6
+  - first:
+      213: 7217305181002545879
+    second: PU-NuclearPlantInside_7
+  - first:
+      213: 3875720091561843910
+    second: PU-NuclearPlantInside_8
+  - first:
+      213: 304451897600904426
+    second: PU-NuclearPlantInside_9
+  - first:
+      213: -7538664382792421106
+    second: PU-NuclearPlantInside_10
+  - first:
+      213: -3710996593414310226
+    second: PU-NuclearPlantInside_11
+  - first:
+      213: 4784619827795778389
+    second: PU-NuclearPlantInside_12
+  - first:
+      213: -2197225046161939928
+    second: PU-NuclearPlantInside_13
+  - first:
+      213: -7198951695111143625
+    second: PU-NuclearPlantInside_14
+  - first:
+      213: -7681268414349108342
+    second: PU-NuclearPlantInside_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503
+        width: 256
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736eb9e54fa89f4b0800000000000000
+      internalID: -5406137095517641161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1431
+        width: 129
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c174cba826103c0800000000000000
+      internalID: -4395123413333107574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1151
+        width: 225
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5d2daa7f3615ca0800000000000000
+      internalID: -6029928510698367565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1345
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f2bf32663a6f2e0800000000000000
+      internalID: -2092305317781360778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1311
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a96b9ab84128cc80800000000000000
+      internalID: -8302349316805400152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 256
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c526fd6affa7be90800000000000000
+      internalID: -7009940804857354807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 511
+        width: 162
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1436747689b4120800000000000000
+      internalID: 2399178795851661800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 511
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da3e3db2d4092460800000000000000
+      internalID: 7217305181002545879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 487
+        width: 94
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc536a83e259c530800000000000000
+      internalID: 3875720091561843910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 449
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec02b74361a93400800000000000000
+      internalID: 304451897600904426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 27
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01b4c67fa8416790800000000000000
+      internalID: -7538664382792421106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 447
+        width: 70
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6fade8244ef7cc0800000000000000
+      internalID: -3710996593414310226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 351
+        width: 28
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bde052262666240800000000000000
+      internalID: 4784619827795778389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 335
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8222def3673e181e0800000000000000
+      internalID: -2197225046161939928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 98
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f34b1339f281c90800000000000000
+      internalID: -7198951695111143625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-NuclearPlantInside_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b1b420317a66590800000000000000
+      internalID: -7681268414349108342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-NuclearPlantInside_0: -5406137095517641161
+      PU-NuclearPlantInside_1: -4395123413333107574
+      PU-NuclearPlantInside_10: -7538664382792421106
+      PU-NuclearPlantInside_11: -3710996593414310226
+      PU-NuclearPlantInside_12: 4784619827795778389
+      PU-NuclearPlantInside_13: -2197225046161939928
+      PU-NuclearPlantInside_14: -7198951695111143625
+      PU-NuclearPlantInside_15: -7681268414349108342
+      PU-NuclearPlantInside_2: -6029928510698367565
+      PU-NuclearPlantInside_3: -2092305317781360778
+      PU-NuclearPlantInside_4: -8302349316805400152
+      PU-NuclearPlantInside_5: -7009940804857354807
+      PU-NuclearPlantInside_6: 2399178795851661800
+      PU-NuclearPlantInside_7: 7217305181002545879
+      PU-NuclearPlantInside_8: 3875720091561843910
+      PU-NuclearPlantInside_9: 304451897600904426
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

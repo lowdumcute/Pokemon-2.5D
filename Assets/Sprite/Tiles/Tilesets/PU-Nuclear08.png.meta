@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: ec8b5c9a17f8c8d4db10c3cd36bca8d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4504022163472548295
+    second: PU-Nuclear08_0
+  - first:
+      213: 8875212436595065740
+    second: PU-Nuclear08_1
+  - first:
+      213: -4235346621533662656
+    second: PU-Nuclear08_2
+  - first:
+      213: 4011534029334669790
+    second: PU-Nuclear08_3
+  - first:
+      213: -6886160603013429880
+    second: PU-Nuclear08_4
+  - first:
+      213: -2739819128962103748
+    second: PU-Nuclear08_5
+  - first:
+      213: 6902278975654120243
+    second: PU-Nuclear08_6
+  - first:
+      213: -344795904649768494
+    second: PU-Nuclear08_7
+  - first:
+      213: 426234563593588486
+    second: PU-Nuclear08_8
+  - first:
+      213: 6074884661936033069
+    second: PU-Nuclear08_9
+  - first:
+      213: -7616177257490195759
+    second: PU-Nuclear08_10
+  - first:
+      213: -1515103473164014838
+    second: PU-Nuclear08_11
+  - first:
+      213: -4852896782404311442
+    second: PU-Nuclear08_12
+  - first:
+      213: -3006099664610139624
+    second: PU-Nuclear08_13
+  - first:
+      213: -7528692373305486466
+    second: PU-Nuclear08_14
+  - first:
+      213: -4102575356253330805
+    second: PU-Nuclear08_15
+  - first:
+      213: -5243553304620932176
+    second: PU-Nuclear08_16
+  - first:
+      213: -193851526095388800
+    second: PU-Nuclear08_17
+  - first:
+      213: 4343945840303006841
+    second: PU-Nuclear08_18
+  - first:
+      213: -4805108434325673491
+    second: PU-Nuclear08_19
+  - first:
+      213: -8341105958286973470
+    second: PU-Nuclear08_20
+  - first:
+      213: -4668391211172519757
+    second: PU-Nuclear08_21
+  - first:
+      213: -7424405459332317301
+    second: PU-Nuclear08_22
+  - first:
+      213: 2513152478051098332
+    second: PU-Nuclear08_23
+  - first:
+      213: 6280588238837202256
+    second: PU-Nuclear08_24
+  - first:
+      213: -7074835520452815036
+    second: PU-Nuclear08_25
+  - first:
+      213: 5840621226582483955
+    second: PU-Nuclear08_26
+  - first:
+      213: -7071763407359060840
+    second: PU-Nuclear08_27
+  - first:
+      213: 4214978255710330590
+    second: PU-Nuclear08_28
+  - first:
+      213: 7442240211530465418
+    second: PU-Nuclear08_29
+  - first:
+      213: -8325718423378916062
+    second: PU-Nuclear08_30
+  - first:
+      213: -6530362788882962424
+    second: PU-Nuclear08_31
+  - first:
+      213: -2000900887554973380
+    second: PU-Nuclear08_32
+  - first:
+      213: 1298425419262943159
+    second: PU-Nuclear08_33
+  - first:
+      213: -7151844386516771717
+    second: PU-Nuclear08_34
+  - first:
+      213: 222311097384422841
+    second: PU-Nuclear08_35
+  - first:
+      213: -7571811058352717469
+    second: PU-Nuclear08_36
+  - first:
+      213: 3657909208385514865
+    second: PU-Nuclear08_37
+  - first:
+      213: -6984398791573872552
+    second: PU-Nuclear08_38
+  - first:
+      213: -3459706083013574935
+    second: PU-Nuclear08_39
+  - first:
+      213: 4268449677217159558
+    second: PU-Nuclear08_40
+  - first:
+      213: 9096569209645309378
+    second: PU-Nuclear08_41
+  - first:
+      213: 5266921431906850634
+    second: PU-Nuclear08_42
+  - first:
+      213: 6037847398125684947
+    second: PU-Nuclear08_43
+  - first:
+      213: -3684481047690398645
+    second: PU-Nuclear08_44
+  - first:
+      213: -4411386257982576464
+    second: PU-Nuclear08_45
+  - first:
+      213: 4951807954975633700
+    second: PU-Nuclear08_46
+  - first:
+      213: 7352358824146249632
+    second: PU-Nuclear08_47
+  - first:
+      213: 4133316564119198398
+    second: PU-Nuclear08_48
+  - first:
+      213: -1998993635681849144
+    second: PU-Nuclear08_49
+  - first:
+      213: -6513499611221880605
+    second: PU-Nuclear08_50
+  - first:
+      213: 3297590136198147706
+    second: PU-Nuclear08_51
+  - first:
+      213: -5695868183065224233
+    second: PU-Nuclear08_52
+  - first:
+      213: 3304442857382504199
+    second: PU-Nuclear08_53
+  - first:
+      213: -7840854660172776552
+    second: PU-Nuclear08_54
+  - first:
+      213: 4596093261306945939
+    second: PU-Nuclear08_55
+  - first:
+      213: 2096703626016898287
+    second: PU-Nuclear08_56
+  - first:
+      213: -5544560435531140063
+    second: PU-Nuclear08_57
+  - first:
+      213: -4255473720699873812
+    second: PU-Nuclear08_58
+  - first:
+      213: 5607549316714064343
+    second: PU-Nuclear08_59
+  - first:
+      213: 952848178114211333
+    second: PU-Nuclear08_60
+  - first:
+      213: 8945023112782839982
+    second: PU-Nuclear08_61
+  - first:
+      213: -3658703919626081237
+    second: PU-Nuclear08_62
+  - first:
+      213: 6316198327059685513
+    second: PU-Nuclear08_63
+  - first:
+      213: 6886410377911210608
+    second: PU-Nuclear08_64
+  - first:
+      213: -8696197094772895165
+    second: PU-Nuclear08_65
+  - first:
+      213: 4532618480931111281
+    second: PU-Nuclear08_66
+  - first:
+      213: -6536180364804133241
+    second: PU-Nuclear08_67
+  - first:
+      213: 965426996222952933
+    second: PU-Nuclear08_68
+  - first:
+      213: 2205952636724759986
+    second: PU-Nuclear08_69
+  - first:
+      213: 1100317403966593464
+    second: PU-Nuclear08_70
+  - first:
+      213: 884904014940732318
+    second: PU-Nuclear08_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-Nuclear08_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4863
+        width: 256
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1844a5b40818e30800000000000000
+      internalID: 4504022163472548295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4833
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83c06d20b61b2b70800000000000000
+      internalID: 8875212436595065740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4831
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042d5d200b60935c0800000000000000
+      internalID: -4235346621533662656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4831
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed962e612f4dba730800000000000000
+      internalID: 4011534029334669790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4827
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885481f7a617f60a0800000000000000
+      internalID: -6886160603013429880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4767
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36c465b4053af9d0800000000000000
+      internalID: -2739819128962103748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4835
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bc2849822d9cf50800000000000000
+      internalID: 6902278975654120243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4801
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1575793f9073bf0800000000000000
+      internalID: -344795904649768494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4819
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f4df9c31a4ae500800000000000000
+      internalID: 426234563593588486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4821
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d8a26f9635e4450800000000000000
+      internalID: 6074884661936033069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 4817
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da53e4f227ed4690800000000000000
+      internalID: -7616177257490195759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 4793
+        width: 5
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b29142b6549fae0800000000000000
+      internalID: -1515103473164014838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4799
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66a721961c07acb0800000000000000
+      internalID: -4852896782404311442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4807
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812ed7338403846d0800000000000000
+      internalID: -3006099664610139624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 4807
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e731fe9dc26b48790800000000000000
+      internalID: -7528692373305486466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4767
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82af3a2379b017c0800000000000000
+      internalID: -4102575356253330805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4787
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b36e3d0d082b37b0800000000000000
+      internalID: -5243553304620932176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4789
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fbae7601d4f4df0800000000000000
+      internalID: -193851526095388800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4705
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974ebcef9bbc84c30800000000000000
+      internalID: 4343945840303006841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4737
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9e8c86653d05db0800000000000000
+      internalID: -4805108434325673491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 4731
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e52962f2507e3c80800000000000000
+      internalID: -8341105958286973470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4749
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0a1897dea863fb0800000000000000
+      internalID: -4668391211172519757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4577
+        width: 256
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fb608229637f890800000000000000
+      internalID: -7424405459332317301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4437
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cded0a01dd280e220800000000000000
+      internalID: 2513152478051098332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4287
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d336c2ab1292750800000000000000
+      internalID: 6280588238837202256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4415
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4471817049221dd90800000000000000
+      internalID: -7074835520452815036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4383
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f32e068f0e0e0150800000000000000
+      internalID: 5840621226582483955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4361
+        width: 129
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894d1c816ac0cdd90800000000000000
+      internalID: -7071763407359060840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4351
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede1c93446c9e7a30800000000000000
+      internalID: 4214978255710330590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80c66daa06284760800000000000000
+      internalID: 7442240211530465418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 4321
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d039a943b157c80800000000000000
+      internalID: -8325718423378916062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4321
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808a33294ad7f55a0800000000000000
+      internalID: -6530362788882962424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4295
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31a5867e3f5b34e0800000000000000
+      internalID: -2000900887554973380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4301
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf518a1a0fe40210800000000000000
+      internalID: 1298425419262943159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4319
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cdbcc2c6b8fbc90800000000000000
+      internalID: -7151844386516771717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 4319
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdc935e3cec51300800000000000000
+      internalID: 222311097384422841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4301
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3610388a5f58be690800000000000000
+      internalID: -7571811058352717469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17de27a6b0183c230800000000000000
+      internalID: 3657909208385514865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 4299
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8506292dd4e621f90800000000000000
+      internalID: -6984398791573872552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4195
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeb7b6d5a7acffc0800000000000000
+      internalID: -3459706083013574935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4159
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689d820cd549c3b30800000000000000
+      internalID: 4268449677217159558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4131
+        width: 152
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd1aaf10818d3e70800000000000000
+      internalID: 9096569209645309378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4191
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4713b0132dd71940800000000000000
+      internalID: 5266921431906850634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3871
+        width: 256
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d84c4df73ebac350800000000000000
+      internalID: 6037847398125684947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3839
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4431c222081edcc0800000000000000
+      internalID: -3684481047690398645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3839
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8a8e5229b97c2c0800000000000000
+      internalID: -4411386257982576464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_46
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3839
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421b648691b58b440800000000000000
+      internalID: 4951807954975633700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3839
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a722766563d80660800000000000000
+      internalID: 7352358824146249632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3493
+        width: 243
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba109c048d7c5930800000000000000
+      internalID: 4133316564119198398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3711
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0bae421e52244e0800000000000000
+      internalID: -1998993635681849144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3103
+        width: 256
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e099741d966b95a0800000000000000
+      internalID: -6513499611221880605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3519
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e2ceae1c463cd20800000000000000
+      internalID: 3297590136198147706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2719
+        width: 256
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db92f4c01634f0b0800000000000000
+      internalID: -5695868183065224233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2499
+        width: 256
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7076cd6654dbbdd20800000000000000
+      internalID: 3304442857382504199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2491
+        width: 58
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b7fecaa30bf2390800000000000000
+      internalID: -7840854660172776552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2383
+        width: 154
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39164c2587a98cf30800000000000000
+      internalID: 4596093261306945939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_56
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2465
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecb20cc6dcf81d10800000000000000
+      internalID: 2096703626016898287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_57
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2433
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1243b7409a3cd03b0800000000000000
+      internalID: -5544560435531140063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_58
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2401
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce59cae823581f4c0800000000000000
+      internalID: -4255473720699873812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_59
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2369
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9e93bb46402dd40800000000000000
+      internalID: 5607549316714064343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_60
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2337
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e206d9e52393d00800000000000000
+      internalID: 952848178114211333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2047
+        width: 256
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea08419d02b132c70800000000000000
+      internalID: 8945023112782839982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2323
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cab547b2ca93dc0800000000000000
+      internalID: -3658703919626081237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_63
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9802f4fe9e4a7a750800000000000000
+      internalID: 6316198327059685513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07216f0c0c1719f50800000000000000
+      internalID: 6886410377911210608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_65
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2303
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342174511d6e05780800000000000000
+      internalID: -8696197094772895165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 256
+        height: 1088
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171054a5e7817ee30800000000000000
+      internalID: 4532618480931111281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_67
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1951
+        width: 129
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e67ff9692da45a0800000000000000
+      internalID: -6536180364804133241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 95
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5017eecb2e56d00800000000000000
+      internalID: 965426996222952933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_69
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 687
+        width: 96
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdc0574c3e1d9e10800000000000000
+      internalID: 2205952636724759986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 397
+        width: 255
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9db9369dc154f00800000000000000
+      internalID: 1100317403966593464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nuclear08_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bfbde538fc74c00800000000000000
+      internalID: 884904014940732318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-Nuclear08_0: 4504022163472548295
+      PU-Nuclear08_1: 8875212436595065740
+      PU-Nuclear08_10: -7616177257490195759
+      PU-Nuclear08_11: -1515103473164014838
+      PU-Nuclear08_12: -4852896782404311442
+      PU-Nuclear08_13: -3006099664610139624
+      PU-Nuclear08_14: -7528692373305486466
+      PU-Nuclear08_15: -4102575356253330805
+      PU-Nuclear08_16: -5243553304620932176
+      PU-Nuclear08_17: -193851526095388800
+      PU-Nuclear08_18: 4343945840303006841
+      PU-Nuclear08_19: -4805108434325673491
+      PU-Nuclear08_2: -4235346621533662656
+      PU-Nuclear08_20: -8341105958286973470
+      PU-Nuclear08_21: -4668391211172519757
+      PU-Nuclear08_22: -7424405459332317301
+      PU-Nuclear08_23: 2513152478051098332
+      PU-Nuclear08_24: 6280588238837202256
+      PU-Nuclear08_25: -7074835520452815036
+      PU-Nuclear08_26: 5840621226582483955
+      PU-Nuclear08_27: -7071763407359060840
+      PU-Nuclear08_28: 4214978255710330590
+      PU-Nuclear08_29: 7442240211530465418
+      PU-Nuclear08_3: 4011534029334669790
+      PU-Nuclear08_30: -8325718423378916062
+      PU-Nuclear08_31: -6530362788882962424
+      PU-Nuclear08_32: -2000900887554973380
+      PU-Nuclear08_33: 1298425419262943159
+      PU-Nuclear08_34: -7151844386516771717
+      PU-Nuclear08_35: 222311097384422841
+      PU-Nuclear08_36: -7571811058352717469
+      PU-Nuclear08_37: 3657909208385514865
+      PU-Nuclear08_38: -6984398791573872552
+      PU-Nuclear08_39: -3459706083013574935
+      PU-Nuclear08_4: -6886160603013429880
+      PU-Nuclear08_40: 4268449677217159558
+      PU-Nuclear08_41: 9096569209645309378
+      PU-Nuclear08_42: 5266921431906850634
+      PU-Nuclear08_43: 6037847398125684947
+      PU-Nuclear08_44: -3684481047690398645
+      PU-Nuclear08_45: -4411386257982576464
+      PU-Nuclear08_46: 4951807954975633700
+      PU-Nuclear08_47: 7352358824146249632
+      PU-Nuclear08_48: 4133316564119198398
+      PU-Nuclear08_49: -1998993635681849144
+      PU-Nuclear08_5: -2739819128962103748
+      PU-Nuclear08_50: -6513499611221880605
+      PU-Nuclear08_51: 3297590136198147706
+      PU-Nuclear08_52: -5695868183065224233
+      PU-Nuclear08_53: 3304442857382504199
+      PU-Nuclear08_54: -7840854660172776552
+      PU-Nuclear08_55: 4596093261306945939
+      PU-Nuclear08_56: 2096703626016898287
+      PU-Nuclear08_57: -5544560435531140063
+      PU-Nuclear08_58: -4255473720699873812
+      PU-Nuclear08_59: 5607549316714064343
+      PU-Nuclear08_6: 6902278975654120243
+      PU-Nuclear08_60: 952848178114211333
+      PU-Nuclear08_61: 8945023112782839982
+      PU-Nuclear08_62: -3658703919626081237
+      PU-Nuclear08_63: 6316198327059685513
+      PU-Nuclear08_64: 6886410377911210608
+      PU-Nuclear08_65: -8696197094772895165
+      PU-Nuclear08_66: 4532618480931111281
+      PU-Nuclear08_67: -6536180364804133241
+      PU-Nuclear08_68: 965426996222952933
+      PU-Nuclear08_69: 2205952636724759986
+      PU-Nuclear08_7: -344795904649768494
+      PU-Nuclear08_70: 1100317403966593464
+      PU-Nuclear08_71: 884904014940732318
+      PU-Nuclear08_8: 426234563593588486
+      PU-Nuclear08_9: 6074884661936033069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

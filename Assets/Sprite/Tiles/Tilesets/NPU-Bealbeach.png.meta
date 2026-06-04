@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: ae96904f9e53a4e44a97abe1891d4b87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1131255551362383261
+    second: NPU-Bealbeach_0
+  - first:
+      213: -2928935268059183561
+    second: NPU-Bealbeach_1
+  - first:
+      213: 6983639249661610932
+    second: NPU-Bealbeach_2
+  - first:
+      213: -930953347853986440
+    second: NPU-Bealbeach_3
+  - first:
+      213: 9047894446142383460
+    second: NPU-Bealbeach_4
+  - first:
+      213: -2607105765767399538
+    second: NPU-Bealbeach_5
+  - first:
+      213: -8194075075380478887
+    second: NPU-Bealbeach_6
+  - first:
+      213: 5140084590649433446
+    second: NPU-Bealbeach_7
+  - first:
+      213: 7215174845354498308
+    second: NPU-Bealbeach_8
+  - first:
+      213: -1577642439183613122
+    second: NPU-Bealbeach_9
+  - first:
+      213: 8986728260392378622
+    second: NPU-Bealbeach_10
+  - first:
+      213: 2634450064557519335
+    second: NPU-Bealbeach_11
+  - first:
+      213: -8732600802787293832
+    second: NPU-Bealbeach_12
+  - first:
+      213: -5220371546635102976
+    second: NPU-Bealbeach_13
+  - first:
+      213: -5882559696254523976
+    second: NPU-Bealbeach_14
+  - first:
+      213: 8717882390789174779
+    second: NPU-Bealbeach_15
+  - first:
+      213: 994294841548285415
+    second: NPU-Bealbeach_16
+  - first:
+      213: -4568888174043123269
+    second: NPU-Bealbeach_17
+  - first:
+      213: 127675760537084097
+    second: NPU-Bealbeach_18
+  - first:
+      213: -6193818399151375628
+    second: NPU-Bealbeach_19
+  - first:
+      213: 6789394155185477880
+    second: NPU-Bealbeach_20
+  - first:
+      213: -3969337688154747646
+    second: NPU-Bealbeach_21
+  - first:
+      213: -7998821613021947266
+    second: NPU-Bealbeach_22
+  - first:
+      213: -4596084785075505847
+    second: NPU-Bealbeach_23
+  - first:
+      213: 1260974189556658694
+    second: NPU-Bealbeach_24
+  - first:
+      213: 2146797411569753279
+    second: NPU-Bealbeach_25
+  - first:
+      213: 1377928609927485666
+    second: NPU-Bealbeach_26
+  - first:
+      213: 2453212653982891660
+    second: NPU-Bealbeach_27
+  - first:
+      213: 7788489490662992071
+    second: NPU-Bealbeach_28
+  - first:
+      213: 6513569100184997469
+    second: NPU-Bealbeach_29
+  - first:
+      213: 6926180776891468670
+    second: NPU-Bealbeach_30
+  - first:
+      213: -7137023433314718509
+    second: NPU-Bealbeach_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPU-Bealbeach_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4161
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3624bd6d119fc40f0800000000000000
+      internalID: -1131255551362383261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4031
+        width: 227
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736083154e45a57d0800000000000000
+      internalID: -2928935268059183561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4127
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb4e8b85eedae060800000000000000
+      internalID: 6983639249661610932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4095
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875d3beccd69413f0800000000000000
+      internalID: -930953347853986440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3587
+        width: 256
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465eb8b9f04909d70800000000000000
+      internalID: 9047894446142383460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4063
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87bf8b7e13b1dbd0800000000000000
+      internalID: -2607105765767399538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3327
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c701d022cc84e80800000000000000
+      internalID: -8194075075380478887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3295
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d5e1da3bf355740800000000000000
+      internalID: 5140084590649433446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40950b15b43712460800000000000000
+      internalID: 7215174845354498308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3341ed6f861b1ae0800000000000000
+      internalID: -1577642439183613122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3295
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0e6a53db547bc70800000000000000
+      internalID: 8986728260392378622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1951
+        width: 256
+        height: 1344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1b47430627f8420800000000000000
+      internalID: 2634450064557519335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1919
+        width: 33
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875829056d19fc680800000000000000
+      internalID: -8732600802787293832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1771
+        width: 90
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005124facb38d87b0800000000000000
+      internalID: -5220371546635102976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1855
+        width: 126
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b528b69f13fc5ea0800000000000000
+      internalID: -5882559696254523976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1823
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf53f9858d32cf870800000000000000
+      internalID: 8717882390789174779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1823
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e52d70f3e17ccd00800000000000000
+      internalID: 994294841548285415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1803
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb13da7a96c0890c0800000000000000
+      internalID: -4568888174043123269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1791
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0ad318d6895c100800000000000000
+      internalID: 127675760537084097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1791
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fabd437bf22b0aa0800000000000000
+      internalID: -6193818399151375628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1567
+        width: 253
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f891fb2306c83e50800000000000000
+      internalID: 6789394155185477880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1375
+        width: 193
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d47ff27641ae8c0800000000000000
+      internalID: -3969337688154747646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1343
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a1c1e5f1a7ef090800000000000000
+      internalID: -7998821613021947266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 991
+        width: 214
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9453ff33d3d6730c0800000000000000
+      internalID: -4596084785075505847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1151
+        width: 33
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602f57f2851ef7110800000000000000
+      internalID: 1260974189556658694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1057
+        width: 32
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcd7512fd4facd10800000000000000
+      internalID: 2146797411569753279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783
+        width: 256
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8539825c26f1310800000000000000
+      internalID: 1377928609927485666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 256
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eb42f39ef8b0220800000000000000
+      internalID: 2453212653982891660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 161
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8a4d33de5461c60800000000000000
+      internalID: 7788489490662992071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 223
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ecc741698d46a50800000000000000
+      internalID: 6513569100184997469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 223
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b41c858bcbe1060800000000000000
+      internalID: 6926180776891468670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Bealbeach_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 156
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc23af300334fc90800000000000000
+      internalID: -7137023433314718509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPU-Bealbeach_0: -1131255551362383261
+      NPU-Bealbeach_1: -2928935268059183561
+      NPU-Bealbeach_10: 8986728260392378622
+      NPU-Bealbeach_11: 2634450064557519335
+      NPU-Bealbeach_12: -8732600802787293832
+      NPU-Bealbeach_13: -5220371546635102976
+      NPU-Bealbeach_14: -5882559696254523976
+      NPU-Bealbeach_15: 8717882390789174779
+      NPU-Bealbeach_16: 994294841548285415
+      NPU-Bealbeach_17: -4568888174043123269
+      NPU-Bealbeach_18: 127675760537084097
+      NPU-Bealbeach_19: -6193818399151375628
+      NPU-Bealbeach_2: 6983639249661610932
+      NPU-Bealbeach_20: 6789394155185477880
+      NPU-Bealbeach_21: -3969337688154747646
+      NPU-Bealbeach_22: -7998821613021947266
+      NPU-Bealbeach_23: -4596084785075505847
+      NPU-Bealbeach_24: 1260974189556658694
+      NPU-Bealbeach_25: 2146797411569753279
+      NPU-Bealbeach_26: 1377928609927485666
+      NPU-Bealbeach_27: 2453212653982891660
+      NPU-Bealbeach_28: 7788489490662992071
+      NPU-Bealbeach_29: 6513569100184997469
+      NPU-Bealbeach_3: -930953347853986440
+      NPU-Bealbeach_30: 6926180776891468670
+      NPU-Bealbeach_31: -7137023433314718509
+      NPU-Bealbeach_4: 9047894446142383460
+      NPU-Bealbeach_5: -2607105765767399538
+      NPU-Bealbeach_6: -8194075075380478887
+      NPU-Bealbeach_7: 5140084590649433446
+      NPU-Bealbeach_8: 7215174845354498308
+      NPU-Bealbeach_9: -1577642439183613122
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

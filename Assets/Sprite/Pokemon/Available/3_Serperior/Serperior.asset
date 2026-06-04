@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9522a0e1d66639469d2b8c7485cf6cb, type: 3}
+  m_Name: Serperior
+  m_EditorClassIdentifier: 
+  pokeName: Serperior
+  description: 
+  frontSprite: {fileID: 21300000, guid: d93236a8f4a44da40b6ffb6809d6df42, type: 3}
+  backSprite: {fileID: 21300000, guid: 8e4c1ab79b5a49f44b42b538d92f8798, type: 3}
+  iconSprite: {fileID: 21300000, guid: d93236a8f4a44da40b6ffb6809d6df42, type: 3}
+  type1: 5
+  type2: 16
+  maxHP: 75
+  attack: 75
+  defense: 70
+  spAttack: 100
+  spDefense: 92
+  speed: 115
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 663c0b3fc1e2cd34ba3bcdf868aef082, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 48695b4537b2de5489d8b1620be5341d, type: 2}
+    level: 1
+  expYield: 238
+  growthRate: 2
+  evolution:
+    evolvedForm: {fileID: 0}
+    requiredLevel: 0

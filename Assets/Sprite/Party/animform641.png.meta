@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: e99312585c73c084dbc6a60b2f79944d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -402846932627314610
+    second: animform641_0
+  - first:
+      213: -9215779218811704699
+    second: animform641_1
+  - first:
+      213: 739420728918224416
+    second: animform641_2
+  - first:
+      213: -8315093377400462504
+    second: animform641_3
+  - first:
+      213: -5267010918804518880
+    second: animform641_4
+  - first:
+      213: 1377015201369552909
+    second: animform641_5
+  - first:
+      213: -8342058018792105876
+    second: animform641_6
+  - first:
+      213: -3592464123659655311
+    second: animform641_7
+  - first:
+      213: -1988284466684818938
+    second: animform641_8
+  - first:
+      213: -5127934891821449791
+    second: animform641_9
+  - first:
+      213: -4338844704074146317
+    second: animform641_10
+  - first:
+      213: -6030762824014859805
+    second: animform641_11
+  - first:
+      213: -4758036605588459818
+    second: animform641_12
+  - first:
+      213: -2908441448040439170
+    second: animform641_13
+  - first:
+      213: -1179382499421598660
+    second: animform641_14
+  - first:
+      213: 1974761374954179772
+    second: animform641_15
+  - first:
+      213: -7045445035301113182
+    second: animform641_16
+  - first:
+      213: 8735422045919395465
+    second: animform641_17
+  - first:
+      213: 1006291094393078672
+    second: animform641_18
+  - first:
+      213: 6554662802594120474
+    second: animform641_19
+  - first:
+      213: -2032064999777553317
+    second: animform641_20
+  - first:
+      213: 7855472892573039511
+    second: animform641_21
+  - first:
+      213: -1775582602407583149
+    second: animform641_22
+  - first:
+      213: 2785425054122089872
+    second: animform641_23
+  - first:
+      213: 7232477062977924827
+    second: animform641_24
+  - first:
+      213: 6757572852475299152
+    second: animform641_25
+  - first:
+      213: -3376397273563284922
+    second: animform641_26
+  - first:
+      213: 2451555036875243485
+    second: animform641_27
+  - first:
+      213: 6935916860647513005
+    second: animform641_28
+  - first:
+      213: 878391727334355515
+    second: animform641_29
+  - first:
+      213: -3136377871872170108
+    second: animform641_30
+  - first:
+      213: 5329039696433692422
+    second: animform641_31
+  - first:
+      213: -998483709352130559
+    second: animform641_32
+  - first:
+      213: -828687606058433510
+    second: animform641_33
+  - first:
+      213: -7139697240000625569
+    second: animform641_34
+  - first:
+      213: 436902187708667115
+    second: animform641_35
+  - first:
+      213: 2832231418255203923
+    second: animform641_36
+  - first:
+      213: -1429598956833085904
+    second: animform641_37
+  - first:
+      213: 7511322496208356837
+    second: animform641_38
+  - first:
+      213: -2640137908059506908
+    second: animform641_39
+  - first:
+      213: -3376670832138461465
+    second: animform641_40
+  - first:
+      213: 6561699304992728752
+    second: animform641_41
+  - first:
+      213: 1640625235681627611
+    second: animform641_42
+  - first:
+      213: 6443195038243191153
+    second: animform641_43
+  - first:
+      213: 6762091106789845127
+    second: animform641_44
+  - first:
+      213: -2978146542616054863
+    second: animform641_45
+  - first:
+      213: 5745637388020569313
+    second: animform641_46
+  - first:
+      213: 6646863837390713952
+    second: animform641_47
+  - first:
+      213: -6951828460379181856
+    second: animform641_48
+  - first:
+      213: -7251844727029993004
+    second: animform641_49
+  - first:
+      213: -1274157306983281782
+    second: animform641_50
+  - first:
+      213: -3531268412189650910
+    second: animform641_51
+  - first:
+      213: 3390162536010276236
+    second: animform641_52
+  - first:
+      213: 6375113869754298056
+    second: animform641_53
+  - first:
+      213: 2034560744397790813
+    second: animform641_54
+  - first:
+      213: 739306574665571114
+    second: animform641_55
+  - first:
+      213: 4530534454021047467
+    second: animform641_56
+  - first:
+      213: -7164440401016655541
+    second: animform641_57
+  - first:
+      213: 6854458075831446028
+    second: animform641_58
+  - first:
+      213: -7563448603079786613
+    second: animform641_59
+  - first:
+      213: -7164336066448741916
+    second: animform641_60
+  - first:
+      213: 215266370090179005
+    second: animform641_61
+  - first:
+      213: 1403032030661289388
+    second: animform641_62
+  - first:
+      213: 762198474502749931
+    second: animform641_63
+  - first:
+      213: 5798737879481848018
+    second: animform641_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animform641_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 22
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48a4e169dcc86af0800000000000000
+      internalID: -402846932627314610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 16
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a2d46b0a9fa1080800000000000000
+      internalID: -9215779218811704699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 6
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e2bbe3c33f24a00800000000000000
+      internalID: 739420728918224416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 3
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853a7d5e0aada9c80800000000000000
+      internalID: -8315093377400462504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0288d84a971d7e6b0800000000000000
+      internalID: -5267010918804518880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08f1f7a7042c1310800000000000000
+      internalID: 1377015201369552909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_6
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6892361e6e0b3c80800000000000000
+      internalID: -8342058018792105876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_7
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 35
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1776ee8c9e0052ec0800000000000000
+      internalID: -3592464123659655311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_8
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 24
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a03dadfc13864e0800000000000000
+      internalID: -1988284466684818938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_9
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 36
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdb6a5826ae5d8b0800000000000000
+      internalID: -5127934891821449791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_10
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 26
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd5316dab359c3c0800000000000000
+      internalID: -4338844704074146317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 42
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e176f5f92d6e4ca0800000000000000
+      internalID: -6030762824014859805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_12
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 38
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de28979aee08fdb0800000000000000
+      internalID: -4758036605588459818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_13
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 42
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72e68f99e323a7d0800000000000000
+      internalID: -2908441448040439170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_14
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 67
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cc9ab8dddf1afe0800000000000000
+      internalID: -1179382499421598660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_15
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 68
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc4e4ef103c76b10800000000000000
+      internalID: 1974761374954179772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_16
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 87
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2765a911d893e90800000000000000
+      internalID: -7045445035301113182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_17
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 44
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e342a81147a3970800000000000000
+      internalID: 8735422045919395465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_18
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 57
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09340f53b6017fd00800000000000000
+      internalID: 1006291094393078672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_19
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 69
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13c6134717d6fa50800000000000000
+      internalID: 6554662802594120474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_20
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 87
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5431c726a7acc3e0800000000000000
+      internalID: -2032064999777553317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_21
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bb688c9fe340d60800000000000000
+      internalID: 7855472892573039511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_22
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 71
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352e122d70ddb57e0800000000000000
+      internalID: -1775582602407583149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_23
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 89
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d9b633451d7a620800000000000000
+      internalID: 2785425054122089872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_24
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 72
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdea5f8c19bee5460800000000000000
+      internalID: 7232477062977924827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_25
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 90
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0550d97c4b8b7cd50800000000000000
+      internalID: 6757572852475299152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_26
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ab9a09190a421d0800000000000000
+      internalID: -3376397273563284922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_27
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 75
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfb440315ca50220800000000000000
+      internalID: 2451555036875243485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 35
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab998ef2a3514060800000000000000
+      internalID: 6935916860647513005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_29
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 46
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32f7614f9ca03c00800000000000000
+      internalID: 878391727334355515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_30
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 59
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487e9a951f85974d0800000000000000
+      internalID: -3136377871872170108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_31
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 58
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fb2e39e5d84f940800000000000000
+      internalID: 5329039696433692422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_32
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1084d064b5ca422f0800000000000000
+      internalID: -998483709352130559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_33
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a144e1b4309ef74f0800000000000000
+      internalID: -828687606058433510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_34
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 60
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f540ded1033baec90800000000000000
+      internalID: -7139697240000625569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_35
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be457f39930301600800000000000000
+      internalID: 436902187708667115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_36
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e5dc6187b1e4720800000000000000
+      internalID: 2832231418255203923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_37
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036e1b6b25b092ce0800000000000000
+      internalID: -1429598956833085904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 41
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e546eb73049d3860800000000000000
+      internalID: 7511322496208356837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_39
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 51
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427f1188f885c5bd0800000000000000
+      internalID: -2640137908059506908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_40
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 39
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eed6feb4c7a321d0800000000000000
+      internalID: -3376670832138461465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_41
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 40
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6e405a0c6df0b50800000000000000
+      internalID: 6561699304992728752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_42
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd485e95fba4c610800000000000000
+      internalID: 1640625235681627611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_43
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 49
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1797b01ffb3da6950800000000000000
+      internalID: 6443195038243191153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_44
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7886907d806c7dd50800000000000000
+      internalID: 6762091106789845127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_45
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3ff469f7f7ba6d0800000000000000
+      internalID: -2978146542616054863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_46
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e45b2143ca9cbf40800000000000000
+      internalID: 5745637388020569313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_47
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064301a81776e3c50800000000000000
+      internalID: 6646863837390713952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_48
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ece5aff8d4268f90800000000000000
+      internalID: -6951828460379181856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_49
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 24
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1761784a54c5b90800000000000000
+      internalID: -7251844727029993004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_50
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b0b491ea8415ee0800000000000000
+      internalID: -1274157306983281782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_51
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 28
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220d0eca61a6efec0800000000000000
+      internalID: -3531268412189650910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_52
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 22
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ddab95dd64c0f20800000000000000
+      internalID: 3390162536010276236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_53
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceee59a944f87850800000000000000
+      internalID: 6375113869754298056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_54
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ed8cba7363c3c10800000000000000
+      internalID: 2034560744397790813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_55
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 9
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b5d03a96b824a00800000000000000
+      internalID: 739306574665571114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_56
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4c7960511bfde30800000000000000
+      internalID: 4530534454021047467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_57
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 6
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41f1f20a6bc29c90800000000000000
+      internalID: -7164440401016655541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_58
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 5
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0aadb1bd4def1f50800000000000000
+      internalID: 6854458075831446028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_59
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 4
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f3180819b390790800000000000000
+      internalID: -7563448603079786613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_60
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 5
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9adcb4e4a239c90800000000000000
+      internalID: -7164336066448741916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_61
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 5
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db910518f97ccf200800000000000000
+      internalID: 215266370090179005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_62
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 6
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5af04c232987310800000000000000
+      internalID: 1403032030661289388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_63
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 6
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeb419697fd39a00800000000000000
+      internalID: 762198474502749931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animform641_64
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d01e1cd061497050800000000000000
+      internalID: 5798737879481848018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      animform641_0: -402846932627314610
+      animform641_1: -9215779218811704699
+      animform641_10: -4338844704074146317
+      animform641_11: -6030762824014859805
+      animform641_12: -4758036605588459818
+      animform641_13: -2908441448040439170
+      animform641_14: -1179382499421598660
+      animform641_15: 1974761374954179772
+      animform641_16: -7045445035301113182
+      animform641_17: 8735422045919395465
+      animform641_18: 1006291094393078672
+      animform641_19: 6554662802594120474
+      animform641_2: 739420728918224416
+      animform641_20: -2032064999777553317
+      animform641_21: 7855472892573039511
+      animform641_22: -1775582602407583149
+      animform641_23: 2785425054122089872
+      animform641_24: 7232477062977924827
+      animform641_25: 6757572852475299152
+      animform641_26: -3376397273563284922
+      animform641_27: 2451555036875243485
+      animform641_28: 6935916860647513005
+      animform641_29: 878391727334355515
+      animform641_3: -8315093377400462504
+      animform641_30: -3136377871872170108
+      animform641_31: 5329039696433692422
+      animform641_32: -998483709352130559
+      animform641_33: -828687606058433510
+      animform641_34: -7139697240000625569
+      animform641_35: 436902187708667115
+      animform641_36: 2832231418255203923
+      animform641_37: -1429598956833085904
+      animform641_38: 7511322496208356837
+      animform641_39: -2640137908059506908
+      animform641_4: -5267010918804518880
+      animform641_40: -3376670832138461465
+      animform641_41: 6561699304992728752
+      animform641_42: 1640625235681627611
+      animform641_43: 6443195038243191153
+      animform641_44: 6762091106789845127
+      animform641_45: -2978146542616054863
+      animform641_46: 5745637388020569313
+      animform641_47: 6646863837390713952
+      animform641_48: -6951828460379181856
+      animform641_49: -7251844727029993004
+      animform641_5: 1377015201369552909
+      animform641_50: -1274157306983281782
+      animform641_51: -3531268412189650910
+      animform641_52: 3390162536010276236
+      animform641_53: 6375113869754298056
+      animform641_54: 2034560744397790813
+      animform641_55: 739306574665571114
+      animform641_56: 4530534454021047467
+      animform641_57: -7164440401016655541
+      animform641_58: 6854458075831446028
+      animform641_59: -7563448603079786613
+      animform641_6: -8342058018792105876
+      animform641_60: -7164336066448741916
+      animform641_61: 215266370090179005
+      animform641_62: 1403032030661289388
+      animform641_63: 762198474502749931
+      animform641_64: 5798737879481848018
+      animform641_7: -3592464123659655311
+      animform641_8: -1988284466684818938
+      animform641_9: -5127934891821449791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

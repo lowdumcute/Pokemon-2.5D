@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 353766a08b23a044d9c357ce796db7aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7829033379193399842
+    second: PU-Nowtoch_0
+  - first:
+      213: 573935384232737244
+    second: PU-Nowtoch_1
+  - first:
+      213: -8085583303757918799
+    second: PU-Nowtoch_2
+  - first:
+      213: -7256121344635519106
+    second: PU-Nowtoch_3
+  - first:
+      213: -4085358663220465449
+    second: PU-Nowtoch_4
+  - first:
+      213: 2514041714754549901
+    second: PU-Nowtoch_5
+  - first:
+      213: -8601277898019916921
+    second: PU-Nowtoch_6
+  - first:
+      213: 3252382866647797252
+    second: PU-Nowtoch_7
+  - first:
+      213: 3778734694648566950
+    second: PU-Nowtoch_8
+  - first:
+      213: -7406825385503522891
+    second: PU-Nowtoch_9
+  - first:
+      213: -7512279792880348374
+    second: PU-Nowtoch_10
+  - first:
+      213: 6832695501155350374
+    second: PU-Nowtoch_11
+  - first:
+      213: 5289154529704106416
+    second: PU-Nowtoch_12
+  - first:
+      213: 2969076629206938600
+    second: PU-Nowtoch_13
+  - first:
+      213: 9184527192285750245
+    second: PU-Nowtoch_14
+  - first:
+      213: -4548348858493141073
+    second: PU-Nowtoch_15
+  - first:
+      213: -189486900241088396
+    second: PU-Nowtoch_16
+  - first:
+      213: -404125715869714224
+    second: PU-Nowtoch_17
+  - first:
+      213: -5191476975925491309
+    second: PU-Nowtoch_18
+  - first:
+      213: -3808155509498893326
+    second: PU-Nowtoch_19
+  - first:
+      213: 703823908458287987
+    second: PU-Nowtoch_20
+  - first:
+      213: -6170565655192011777
+    second: PU-Nowtoch_21
+  - first:
+      213: 6489927820251036887
+    second: PU-Nowtoch_22
+  - first:
+      213: 2491797999033189662
+    second: PU-Nowtoch_23
+  - first:
+      213: -3648807924254148042
+    second: PU-Nowtoch_24
+  - first:
+      213: 6992403738523749280
+    second: PU-Nowtoch_25
+  - first:
+      213: -657646485988689256
+    second: PU-Nowtoch_26
+  - first:
+      213: 4626737414846629850
+    second: PU-Nowtoch_27
+  - first:
+      213: 3400369080299089369
+    second: PU-Nowtoch_28
+  - first:
+      213: -6716134245252772724
+    second: PU-Nowtoch_29
+  - first:
+      213: 373538040561689282
+    second: PU-Nowtoch_30
+  - first:
+      213: -3184701275581140458
+    second: PU-Nowtoch_31
+  - first:
+      213: 4154133982984985641
+    second: PU-Nowtoch_32
+  - first:
+      213: -3357885249789980366
+    second: PU-Nowtoch_33
+  - first:
+      213: -8326234718669562966
+    second: PU-Nowtoch_34
+  - first:
+      213: -5154534139939482953
+    second: PU-Nowtoch_35
+  - first:
+      213: 689136672369940788
+    second: PU-Nowtoch_36
+  - first:
+      213: -7512067670961800304
+    second: PU-Nowtoch_37
+  - first:
+      213: -5872025135094853216
+    second: PU-Nowtoch_38
+  - first:
+      213: -6329339172160563137
+    second: PU-Nowtoch_39
+  - first:
+      213: 1353472592731860567
+    second: PU-Nowtoch_40
+  - first:
+      213: -9075669093378963246
+    second: PU-Nowtoch_41
+  - first:
+      213: -5575188332066008662
+    second: PU-Nowtoch_42
+  - first:
+      213: -4639258489684455473
+    second: PU-Nowtoch_43
+  - first:
+      213: 5179252013693043897
+    second: PU-Nowtoch_44
+  - first:
+      213: 3230183199328125748
+    second: PU-Nowtoch_45
+  - first:
+      213: 1502079393206596355
+    second: PU-Nowtoch_46
+  - first:
+      213: 7722244653964784014
+    second: PU-Nowtoch_47
+  - first:
+      213: -3575085760132020032
+    second: PU-Nowtoch_48
+  - first:
+      213: -8516918537510913966
+    second: PU-Nowtoch_49
+  - first:
+      213: 3455586112937837734
+    second: PU-Nowtoch_50
+  - first:
+      213: 3053880027906263180
+    second: PU-Nowtoch_51
+  - first:
+      213: -509557419255165844
+    second: PU-Nowtoch_52
+  - first:
+      213: -8818784727376182024
+    second: PU-Nowtoch_53
+  - first:
+      213: -5974249379182867782
+    second: PU-Nowtoch_54
+  - first:
+      213: 8697071820620513400
+    second: PU-Nowtoch_55
+  - first:
+      213: 446792451597918099
+    second: PU-Nowtoch_56
+  - first:
+      213: 8662608443255540757
+    second: PU-Nowtoch_57
+  - first:
+      213: 8832251347126645949
+    second: PU-Nowtoch_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-Nowtoch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3423
+        width: 256
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed550822f9fa95390800000000000000
+      internalID: -7829033379193399842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3393
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9383de03707f700800000000000000
+      internalID: 573935384232737244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3391
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd0ea113dc3acf80800000000000000
+      internalID: -8085583303757918799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fbed5e4141d4b90800000000000000
+      internalID: -7256121344635519106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3387
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0fda2e0f3ed47c0800000000000000
+      internalID: -4085358663220465449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3359
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88757e9e9ba3e220800000000000000
+      internalID: 2514041714754549901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3395
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783ba12c25f12a880800000000000000
+      internalID: -8601277898019916921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3361
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ecb104cf8c22d20800000000000000
+      internalID: 3252382866647797252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4d8f62f23c07430800000000000000
+      internalID: 3778734694648566950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf77bf0e8ba53990800000000000000
+      internalID: -7406825385503522891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23950484550fb790800000000000000
+      internalID: -7512279792880348374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66736cc6b5c92de50800000000000000
+      internalID: 6832695501155350374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b95929850ad66940800000000000000
+      internalID: 5289154529704106416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e33bc2a677443920800000000000000
+      internalID: 2969076629206938600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3359
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3ab16d1def57f70800000000000000
+      internalID: 9184527192285750245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 3353
+        width: 5
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf76f6bfc401e0c0800000000000000
+      internalID: -4548348858493141073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3265
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4704a8d0baece5df0800000000000000
+      internalID: -189486900241088396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3297
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d83cf47dc1446af0800000000000000
+      internalID: -404125715869714224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_18
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3309
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399875e223b24f7b0800000000000000
+      internalID: -5191476975925491309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3323
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb2fd69db6b62bc0800000000000000
+      internalID: -3808155509498893326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3309
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3735510ad1c74c900800000000000000
+      internalID: 703823908458287987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3135
+        width: 256
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbfd0bca3fbd5aa0800000000000000
+      internalID: -6170565655192011777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3289
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcfcf7a7fad01a50800000000000000
+      internalID: 6489927820251036887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3007
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e150768f315a49220800000000000000
+      internalID: 2491797999033189662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2927
+        width: 154
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a733d6684dc5dc0800000000000000
+      internalID: -3648807924254148042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2847
+        width: 65
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab42d027220a0160800000000000000
+      internalID: 6992403738523749280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2879
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a3cde51029fd6f0800000000000000
+      internalID: -657646485988689256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2879
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad741f05a29753040800000000000000
+      internalID: 4626737414846629850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2879
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dde270a9a9803f20800000000000000
+      internalID: 3400369080299089369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2881
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c4fdfcc7f7bc2a0800000000000000
+      internalID: -6716134245252772724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2861
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c266c96ed21f2500800000000000000
+      internalID: 373538040561689282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2879
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612b049201badc3d0800000000000000
+      internalID: -3184701275581140458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2879
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cd23519d276a930800000000000000
+      internalID: 4154133982984985641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2861
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2319eb9f7256661d0800000000000000
+      internalID: -3357885249789980366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2847
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab1d2d33a5437c80800000000000000
+      internalID: -8326234718669562966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2691
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b29846728a6778b0800000000000000
+      internalID: -5154534139939482953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_36
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2751
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4391e4ef62e409900800000000000000
+      internalID: 689136672369940788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2755
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b30aff046cfb790800000000000000
+      internalID: -7512067670961800304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2719
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1918e3040628ea0800000000000000
+      internalID: -5872025135094853216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2399
+        width: 256
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f389764ae8ba928a0800000000000000
+      internalID: -6329339172160563137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1561
+        width: 256
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e620fe62088c210800000000000000
+      internalID: 1353472592731860567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 991
+        width: 256
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8c7266b0fbc0280800000000000000
+      internalID: -9075669093378963246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1503
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa19d4720c3f0a2b0800000000000000
+      internalID: -5575188332066008662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf8425cbfa0e9fb0800000000000000
+      internalID: -4639258489684455473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 899
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4866ef34660e740800000000000000
+      internalID: 5179252013693043897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 975
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433436b618ae3dc20800000000000000
+      internalID: 3230183199328125748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 945
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3037380ff3578d410800000000000000
+      internalID: 1502079393206596355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_47
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 947
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81fa3c399cea2b60800000000000000
+      internalID: 7722244653964784014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_48
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 953
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c806c9517eb26ec0800000000000000
+      internalID: -3575085760132020032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_49
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 943
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258f8b6f6b3ddc980800000000000000
+      internalID: -8516918537510913966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_50
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 933
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4ce60e245b4ff20800000000000000
+      internalID: 3455586112937837734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 913
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88430a84bf816a20800000000000000
+      internalID: 3053880027906263180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_52
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 913
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c81a81a30bde8f0800000000000000
+      internalID: -509557419255165844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 917
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f44a1ea3026d9580800000000000000
+      internalID: -8818784727376182024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 841
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba0532b7d3371da0800000000000000
+      internalID: -5974249379182867782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 256
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8704526edb432b870800000000000000
+      internalID: 8697071820620513400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 841
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fd1d51e53533600800000000000000
+      internalID: 446792451597918099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 225
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ccb809b74c73870800000000000000
+      internalID: 8662608443255540757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Nowtoch_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 225
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4f2701ec5729a70800000000000000
+      internalID: 8832251347126645949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-Nowtoch_0: -7829033379193399842
+      PU-Nowtoch_1: 573935384232737244
+      PU-Nowtoch_10: -7512279792880348374
+      PU-Nowtoch_11: 6832695501155350374
+      PU-Nowtoch_12: 5289154529704106416
+      PU-Nowtoch_13: 2969076629206938600
+      PU-Nowtoch_14: 9184527192285750245
+      PU-Nowtoch_15: -4548348858493141073
+      PU-Nowtoch_16: -189486900241088396
+      PU-Nowtoch_17: -404125715869714224
+      PU-Nowtoch_18: -5191476975925491309
+      PU-Nowtoch_19: -3808155509498893326
+      PU-Nowtoch_2: -8085583303757918799
+      PU-Nowtoch_20: 703823908458287987
+      PU-Nowtoch_21: -6170565655192011777
+      PU-Nowtoch_22: 6489927820251036887
+      PU-Nowtoch_23: 2491797999033189662
+      PU-Nowtoch_24: -3648807924254148042
+      PU-Nowtoch_25: 6992403738523749280
+      PU-Nowtoch_26: -657646485988689256
+      PU-Nowtoch_27: 4626737414846629850
+      PU-Nowtoch_28: 3400369080299089369
+      PU-Nowtoch_29: -6716134245252772724
+      PU-Nowtoch_3: -7256121344635519106
+      PU-Nowtoch_30: 373538040561689282
+      PU-Nowtoch_31: -3184701275581140458
+      PU-Nowtoch_32: 4154133982984985641
+      PU-Nowtoch_33: -3357885249789980366
+      PU-Nowtoch_34: -8326234718669562966
+      PU-Nowtoch_35: -5154534139939482953
+      PU-Nowtoch_36: 689136672369940788
+      PU-Nowtoch_37: -7512067670961800304
+      PU-Nowtoch_38: -5872025135094853216
+      PU-Nowtoch_39: -6329339172160563137
+      PU-Nowtoch_4: -4085358663220465449
+      PU-Nowtoch_40: 1353472592731860567
+      PU-Nowtoch_41: -9075669093378963246
+      PU-Nowtoch_42: -5575188332066008662
+      PU-Nowtoch_43: -4639258489684455473
+      PU-Nowtoch_44: 5179252013693043897
+      PU-Nowtoch_45: 3230183199328125748
+      PU-Nowtoch_46: 1502079393206596355
+      PU-Nowtoch_47: 7722244653964784014
+      PU-Nowtoch_48: -3575085760132020032
+      PU-Nowtoch_49: -8516918537510913966
+      PU-Nowtoch_5: 2514041714754549901
+      PU-Nowtoch_50: 3455586112937837734
+      PU-Nowtoch_51: 3053880027906263180
+      PU-Nowtoch_52: -509557419255165844
+      PU-Nowtoch_53: -8818784727376182024
+      PU-Nowtoch_54: -5974249379182867782
+      PU-Nowtoch_55: 8697071820620513400
+      PU-Nowtoch_56: 446792451597918099
+      PU-Nowtoch_57: 8662608443255540757
+      PU-Nowtoch_58: 8832251347126645949
+      PU-Nowtoch_6: -8601277898019916921
+      PU-Nowtoch_7: 3252382866647797252
+      PU-Nowtoch_8: 3778734694648566950
+      PU-Nowtoch_9: -7406825385503522891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

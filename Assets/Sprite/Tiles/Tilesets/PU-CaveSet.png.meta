@@ -1,0 +1,4251 @@
+fileFormatVersion: 2
+guid: ae9c2060f62479043965498ec0ee0d00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6112941104006591414
+    second: PU-CaveSet_0
+  - first:
+      213: -5945851219822458852
+    second: PU-CaveSet_1
+  - first:
+      213: -7403177616858852553
+    second: PU-CaveSet_2
+  - first:
+      213: -6311765587306407987
+    second: PU-CaveSet_3
+  - first:
+      213: 3313796606308447243
+    second: PU-CaveSet_4
+  - first:
+      213: -7519717718579843037
+    second: PU-CaveSet_5
+  - first:
+      213: -4236105245813510605
+    second: PU-CaveSet_6
+  - first:
+      213: -8217875333014352263
+    second: PU-CaveSet_7
+  - first:
+      213: -2460579360767034522
+    second: PU-CaveSet_8
+  - first:
+      213: -5239588861644018981
+    second: PU-CaveSet_9
+  - first:
+      213: -6074360307094317039
+    second: PU-CaveSet_10
+  - first:
+      213: 474728320914876023
+    second: PU-CaveSet_11
+  - first:
+      213: -5247940782448568310
+    second: PU-CaveSet_12
+  - first:
+      213: 5856039381153525136
+    second: PU-CaveSet_13
+  - first:
+      213: -7827188280225711496
+    second: PU-CaveSet_14
+  - first:
+      213: 6831772195474562073
+    second: PU-CaveSet_15
+  - first:
+      213: 2849405582879445589
+    second: PU-CaveSet_16
+  - first:
+      213: -4844888080995721065
+    second: PU-CaveSet_17
+  - first:
+      213: 2461381629997553354
+    second: PU-CaveSet_18
+  - first:
+      213: -8024798078143698088
+    second: PU-CaveSet_19
+  - first:
+      213: 4616891837200681113
+    second: PU-CaveSet_20
+  - first:
+      213: 4118035429478616630
+    second: PU-CaveSet_21
+  - first:
+      213: -1672999438245440151
+    second: PU-CaveSet_22
+  - first:
+      213: -2586383521917107866
+    second: PU-CaveSet_23
+  - first:
+      213: 7046309506394918277
+    second: PU-CaveSet_24
+  - first:
+      213: -4572795045494263552
+    second: PU-CaveSet_25
+  - first:
+      213: 7619261600335006293
+    second: PU-CaveSet_26
+  - first:
+      213: -8438389757953109434
+    second: PU-CaveSet_27
+  - first:
+      213: 643664536596029531
+    second: PU-CaveSet_28
+  - first:
+      213: -3273165401512798655
+    second: PU-CaveSet_29
+  - first:
+      213: 9096576434294856943
+    second: PU-CaveSet_30
+  - first:
+      213: -8145472809778173437
+    second: PU-CaveSet_31
+  - first:
+      213: 1555389559455262196
+    second: PU-CaveSet_32
+  - first:
+      213: -980948204469627367
+    second: PU-CaveSet_33
+  - first:
+      213: 1676693511461255306
+    second: PU-CaveSet_34
+  - first:
+      213: -6971324629257075669
+    second: PU-CaveSet_35
+  - first:
+      213: 336604599556083569
+    second: PU-CaveSet_36
+  - first:
+      213: -908095622483129856
+    second: PU-CaveSet_37
+  - first:
+      213: -1681994755027843887
+    second: PU-CaveSet_38
+  - first:
+      213: -6394512538418532957
+    second: PU-CaveSet_39
+  - first:
+      213: -7868012119714879412
+    second: PU-CaveSet_40
+  - first:
+      213: 8130144355287289371
+    second: PU-CaveSet_41
+  - first:
+      213: -5280208437143547553
+    second: PU-CaveSet_42
+  - first:
+      213: 4894902334663738895
+    second: PU-CaveSet_43
+  - first:
+      213: 1851257334234444699
+    second: PU-CaveSet_44
+  - first:
+      213: 6924745078835064320
+    second: PU-CaveSet_45
+  - first:
+      213: -2831756863616626796
+    second: PU-CaveSet_46
+  - first:
+      213: 5259462936987604627
+    second: PU-CaveSet_47
+  - first:
+      213: 2685036367741313089
+    second: PU-CaveSet_48
+  - first:
+      213: 7840610498762347181
+    second: PU-CaveSet_49
+  - first:
+      213: -5180928621793101513
+    second: PU-CaveSet_50
+  - first:
+      213: -4245601716041100551
+    second: PU-CaveSet_51
+  - first:
+      213: 3515478817526784242
+    second: PU-CaveSet_52
+  - first:
+      213: 6140168674995743429
+    second: PU-CaveSet_53
+  - first:
+      213: 3259131323316340797
+    second: PU-CaveSet_54
+  - first:
+      213: 4416826814855632569
+    second: PU-CaveSet_55
+  - first:
+      213: 5294626555833068923
+    second: PU-CaveSet_56
+  - first:
+      213: -5936682377113959916
+    second: PU-CaveSet_57
+  - first:
+      213: -3520301046687943785
+    second: PU-CaveSet_58
+  - first:
+      213: 1494709252960605291
+    second: PU-CaveSet_59
+  - first:
+      213: 6497964301676867726
+    second: PU-CaveSet_60
+  - first:
+      213: -1406705492493421001
+    second: PU-CaveSet_61
+  - first:
+      213: -1462079197378163532
+    second: PU-CaveSet_62
+  - first:
+      213: 3351986578757676120
+    second: PU-CaveSet_63
+  - first:
+      213: -5285878336156504048
+    second: PU-CaveSet_64
+  - first:
+      213: 3653341268104380940
+    second: PU-CaveSet_65
+  - first:
+      213: -7671338238298938952
+    second: PU-CaveSet_66
+  - first:
+      213: 2005314926808846446
+    second: PU-CaveSet_67
+  - first:
+      213: 2985995090968308060
+    second: PU-CaveSet_68
+  - first:
+      213: -3512739882957555353
+    second: PU-CaveSet_69
+  - first:
+      213: -4085208252647116332
+    second: PU-CaveSet_70
+  - first:
+      213: 5008990718008626526
+    second: PU-CaveSet_71
+  - first:
+      213: -3737081107277463561
+    second: PU-CaveSet_72
+  - first:
+      213: 7099563055318008130
+    second: PU-CaveSet_73
+  - first:
+      213: -6727876210253275190
+    second: PU-CaveSet_74
+  - first:
+      213: -1427934440485722508
+    second: PU-CaveSet_75
+  - first:
+      213: 5116300593005901666
+    second: PU-CaveSet_76
+  - first:
+      213: -5376594329242402491
+    second: PU-CaveSet_77
+  - first:
+      213: -1571492828324552520
+    second: PU-CaveSet_78
+  - first:
+      213: -2082542750405872134
+    second: PU-CaveSet_79
+  - first:
+      213: -7431579807987920904
+    second: PU-CaveSet_80
+  - first:
+      213: -1211791066897273794
+    second: PU-CaveSet_81
+  - first:
+      213: -8703139578721885853
+    second: PU-CaveSet_82
+  - first:
+      213: -3231587344827967222
+    second: PU-CaveSet_83
+  - first:
+      213: -4201537536744174205
+    second: PU-CaveSet_84
+  - first:
+      213: -3977176319536707748
+    second: PU-CaveSet_85
+  - first:
+      213: 1342566796749513066
+    second: PU-CaveSet_86
+  - first:
+      213: -616210274580247603
+    second: PU-CaveSet_87
+  - first:
+      213: 4812836889801940090
+    second: PU-CaveSet_88
+  - first:
+      213: -7427644079642216992
+    second: PU-CaveSet_89
+  - first:
+      213: 1870100264156118069
+    second: PU-CaveSet_90
+  - first:
+      213: 3421100661768429142
+    second: PU-CaveSet_91
+  - first:
+      213: -8588554772718495851
+    second: PU-CaveSet_92
+  - first:
+      213: -357295668659110001
+    second: PU-CaveSet_93
+  - first:
+      213: 8295989265425426613
+    second: PU-CaveSet_94
+  - first:
+      213: 4987916910254974943
+    second: PU-CaveSet_95
+  - first:
+      213: -8598788353535827740
+    second: PU-CaveSet_96
+  - first:
+      213: -1863724296463645163
+    second: PU-CaveSet_97
+  - first:
+      213: 6445568051737339298
+    second: PU-CaveSet_98
+  - first:
+      213: 3879343599532908856
+    second: PU-CaveSet_99
+  - first:
+      213: 6605911558185301732
+    second: PU-CaveSet_100
+  - first:
+      213: 2005443588295675272
+    second: PU-CaveSet_101
+  - first:
+      213: -1665811655928325830
+    second: PU-CaveSet_102
+  - first:
+      213: 309276309930645753
+    second: PU-CaveSet_103
+  - first:
+      213: -1935833847443401019
+    second: PU-CaveSet_104
+  - first:
+      213: -5811169899964989930
+    second: PU-CaveSet_105
+  - first:
+      213: -4304746851476995543
+    second: PU-CaveSet_106
+  - first:
+      213: -5413529249326891675
+    second: PU-CaveSet_107
+  - first:
+      213: -258135911850536728
+    second: PU-CaveSet_108
+  - first:
+      213: -1748320631855202209
+    second: PU-CaveSet_109
+  - first:
+      213: 1889775941957026026
+    second: PU-CaveSet_110
+  - first:
+      213: -5207519896783158747
+    second: PU-CaveSet_111
+  - first:
+      213: -8816061461871591099
+    second: PU-CaveSet_112
+  - first:
+      213: -2073842021647813580
+    second: PU-CaveSet_113
+  - first:
+      213: 3583534004645136086
+    second: PU-CaveSet_114
+  - first:
+      213: -3819010747196984897
+    second: PU-CaveSet_115
+  - first:
+      213: -3510974718135596494
+    second: PU-CaveSet_116
+  - first:
+      213: -4533766052036312599
+    second: PU-CaveSet_117
+  - first:
+      213: -915919744389926881
+    second: PU-CaveSet_118
+  - first:
+      213: 853823073074718552
+    second: PU-CaveSet_119
+  - first:
+      213: 8588356242374350959
+    second: PU-CaveSet_120
+  - first:
+      213: -1485973644522769110
+    second: PU-CaveSet_121
+  - first:
+      213: -140456278939683623
+    second: PU-CaveSet_122
+  - first:
+      213: -3881470622437834494
+    second: PU-CaveSet_123
+  - first:
+      213: 221522198891947360
+    second: PU-CaveSet_124
+  - first:
+      213: -4952175395653099015
+    second: PU-CaveSet_125
+  - first:
+      213: -4159719340658306685
+    second: PU-CaveSet_126
+  - first:
+      213: 5791122332141611305
+    second: PU-CaveSet_127
+  - first:
+      213: 3588133375329370139
+    second: PU-CaveSet_128
+  - first:
+      213: -7535238892777955207
+    second: PU-CaveSet_129
+  - first:
+      213: 5115981628088205391
+    second: PU-CaveSet_130
+  - first:
+      213: -196207992107078737
+    second: PU-CaveSet_131
+  - first:
+      213: -5536196176266514154
+    second: PU-CaveSet_132
+  - first:
+      213: 8785796661964846359
+    second: PU-CaveSet_133
+  - first:
+      213: -2793012447975448809
+    second: PU-CaveSet_134
+  - first:
+      213: -8052280817651598194
+    second: PU-CaveSet_135
+  - first:
+      213: -2416214146647660196
+    second: PU-CaveSet_136
+  - first:
+      213: 7313829854418198848
+    second: PU-CaveSet_137
+  - first:
+      213: -1445755572881892330
+    second: PU-CaveSet_138
+  - first:
+      213: -3826028287933183655
+    second: PU-CaveSet_139
+  - first:
+      213: 1750396983807228396
+    second: PU-CaveSet_140
+  - first:
+      213: 5811363228886834919
+    second: PU-CaveSet_141
+  - first:
+      213: -6319743823670666773
+    second: PU-CaveSet_142
+  - first:
+      213: 6770882249634687392
+    second: PU-CaveSet_143
+  - first:
+      213: 5036034384174162736
+    second: PU-CaveSet_144
+  - first:
+      213: -4178677051332145368
+    second: PU-CaveSet_145
+  - first:
+      213: 8794315293025310177
+    second: PU-CaveSet_146
+  - first:
+      213: -430891801905201174
+    second: PU-CaveSet_147
+  - first:
+      213: -7022204476092403222
+    second: PU-CaveSet_148
+  - first:
+      213: -1988319057287638665
+    second: PU-CaveSet_149
+  - first:
+      213: -3246558168048695481
+    second: PU-CaveSet_150
+  - first:
+      213: 3125383027278666896
+    second: PU-CaveSet_151
+  - first:
+      213: 2240094428800455305
+    second: PU-CaveSet_152
+  - first:
+      213: 3922278581381043050
+    second: PU-CaveSet_153
+  - first:
+      213: 8127129250962745944
+    second: PU-CaveSet_154
+  - first:
+      213: -4012956950922813644
+    second: PU-CaveSet_155
+  - first:
+      213: 8934243280764917915
+    second: PU-CaveSet_156
+  - first:
+      213: -2598131313945617381
+    second: PU-CaveSet_157
+  - first:
+      213: -6947783788089890917
+    second: PU-CaveSet_158
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-CaveSet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14729
+        width: 256
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c8dc224787a2ba0800000000000000
+      internalID: -6112941104006591414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13823
+        width: 256
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18c82b61d71c7da0800000000000000
+      internalID: -5945851219822458852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13407
+        width: 256
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73351026e21a24990800000000000000
+      internalID: -7403177616858852553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 13823
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc71117b3aa1868a0800000000000000
+      internalID: -6311765587306407987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12575
+        width: 256
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04f8e8c478fcfd20800000000000000
+      internalID: 3313796606308447243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 13375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32076dc739894a790800000000000000
+      internalID: -7519717718579843037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12511
+        width: 90
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eed1809b45635c0800000000000000
+      internalID: -4236105245813510605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12479
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e0c3fbced34fd80800000000000000
+      internalID: -8217875333014352263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 12481
+        width: 26
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bb2dbab144addd0800000000000000
+      internalID: -2460579360767034522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 12481
+        width: 26
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda6d9cd0bd3947b0800000000000000
+      internalID: -5239588861644018981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12415
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11819e9eb7983bba0800000000000000
+      internalID: -6074360307094317039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 12415
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776e2f484e2969600800000000000000
+      internalID: 474728320914876023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 12447
+        width: 97
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a081ed3c9a19b27b0800000000000000
+      internalID: -5247940782448568310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12287
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09daa506ac4d44150800000000000000
+      internalID: 5856039381153525136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 12325
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87abb07babd306390800000000000000
+      internalID: -7827188280225711496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12345
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cd6a19d945fce50800000000000000
+      internalID: 6831772195474562073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 12345
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5525b84e74f1b8720800000000000000
+      internalID: 2849405582879445589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 12287
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790e9bba5ff73ccb0800000000000000
+      internalID: -4844888080995721065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12197
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac61da03d85982220800000000000000
+      internalID: 2461381629997553354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12197
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85be1064aa032a090800000000000000
+      internalID: -8024798078143698088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12095
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9984fb22aae721040800000000000000
+      internalID: 4616891837200681113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12159
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ecb82a763362930800000000000000
+      internalID: 4118035429478616630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 12159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965d3f5ffdf48c8e0800000000000000
+      internalID: -1672999438245440151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11993
+        width: 182
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661053bd3e15b1cd0800000000000000
+      internalID: -2586383521917107866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 11999
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d8022c92589c160800000000000000
+      internalID: 7046309506394918277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11867
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001f5a2422b2a80c0800000000000000
+      internalID: -4572795045494263552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 11679
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a0eb29e0e0db960800000000000000
+      internalID: 7619261600335006293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 11745
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64219e04931d4ea80800000000000000
+      internalID: -8438389757953109434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 11719
+        width: 94
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50a25a5c71cee800800000000000000
+      internalID: 643664536596029531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11583
+        width: 27
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1461bb7c8616392d0800000000000000
+      internalID: -3273165401512798655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 11679
+        width: 70
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec955e32188d3e70800000000000000
+      internalID: 9096576434294856943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 11583
+        width: 28
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aa195d2a775fe80800000000000000
+      internalID: -8145472809778173437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 11585
+        width: 26
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5aea2409ad59510800000000000000
+      internalID: 1555389559455262196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_33
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 11585
+        width: 26
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916d7892ec8f262f0800000000000000
+      internalID: -980948204469627367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 11567
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88b9db7ddfc44710800000000000000
+      internalID: 1676693511461255306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 11551
+        width: 97
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2443337f21e04f90800000000000000
+      internalID: -6971324629257075669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11359
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f8d42991cdba400800000000000000
+      internalID: 336604599556083569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 11519
+        width: 98
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a4ec7b7dbc563f0800000000000000
+      internalID: -908095622483129856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 11327
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4ce709eaa58a8e0800000000000000
+      internalID: -1681994755027843887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 11295
+        width: 225
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad28c3d9b02247a0800000000000000
+      internalID: -6394512538418532957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11183
+        width: 256
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c482de3e9a43fc290800000000000000
+      internalID: -7868012119714879412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 11103
+        width: 193
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ecb8d373314d070800000000000000
+      internalID: 8130144355287289371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11039
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51d904f66ee8b6b0800000000000000
+      internalID: -5280208437143547553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10655
+        width: 225
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06ccd33dbf2ee340800000000000000
+      internalID: 4894902334663738895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 11039
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9371e2bcbcf0b910800000000000000
+      internalID: 1851257334234444699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 11039
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e2918d5f2a91060800000000000000
+      internalID: 6924745078835064320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10539
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f4bd5c22493b8d0800000000000000
+      internalID: -2831756863616626796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_47
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10527
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3969a74ecad5df840800000000000000
+      internalID: 5259462936987604627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 10539
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140e93cb95a234520800000000000000
+      internalID: 2685036367741313089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10411
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da29de015b17fcc60800000000000000
+      internalID: 7840610498762347181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_50
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10399
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7393e534ed4a918b0800000000000000
+      internalID: -5180928621793101513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 10411
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2d491cbb79415c0800000000000000
+      internalID: -4245601716041100551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10283
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f02816db5d79c030800000000000000
+      internalID: 3515478817526784242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10271
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca2a1eb0e2463550800000000000000
+      internalID: 6140168674995743429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 10283
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d388e92cba2ca3d20800000000000000
+      internalID: 3259131323316340797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10155
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6d3e53698bb4d30800000000000000
+      internalID: 4416826814855632569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_56
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10143
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7da7c6ecca4a7940800000000000000
+      internalID: 5294626555833068923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 10155
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4120dc7f4daac9da0800000000000000
+      internalID: -5936682377113959916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10027
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793bab179d0652fc0800000000000000
+      internalID: -3520301046687943785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_59
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10015
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64d43175264eb410800000000000000
+      internalID: 1494709252960605291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_60
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 10027
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e807e9cca186d2a50800000000000000
+      internalID: 6497964301676867726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9899
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736b650cec06a7ce0800000000000000
+      internalID: -1406705492493421001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9887
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc49c667b6a5bbe0800000000000000
+      internalID: -1462079197378163532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9899
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c6ab6a806a48e20800000000000000
+      internalID: 3351986578757676120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9771
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0107577b8a9c4a6b0800000000000000
+      internalID: -5285878336156504048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_65
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9759
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0203a0f68643b230800000000000000
+      internalID: 3653341268104380940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9771
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1225a448ee98590800000000000000
+      internalID: -7671338238298938952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9643
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60da332d4f44db10800000000000000
+      internalID: 2005314926808846446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_68
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9631
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59e93af6b2607920800000000000000
+      internalID: 2985995090968308060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_69
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9643
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769b7ff00bd304fc0800000000000000
+      internalID: -3512739882957555353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9515
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d179731dbc6e47c0800000000000000
+      internalID: -4085208252647116332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9503
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d022ee482838540800000000000000
+      internalID: 5008990718008626526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9515
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff37e76888332cc0800000000000000
+      internalID: -3737081107277463561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9387
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24187b4dbf6b68260800000000000000
+      internalID: 7099563055318008130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_74
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9375
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf5d0b8b38c1a2a0800000000000000
+      internalID: -6727876210253275190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9387
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4766d402135fe2ce0800000000000000
+      internalID: -1427934440485722508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9259
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267bc323840c00740800000000000000
+      internalID: 5116300593005901666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_77
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9247
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5418028a1ff7265b0800000000000000
+      internalID: -5376594329242402491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_78
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9259
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b024a8499fe03ae0800000000000000
+      internalID: -1571492828324552520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9131
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af53e7cf6625913e0800000000000000
+      internalID: -2082542750405872134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9119
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff0ae0f989bdd890800000000000000
+      internalID: -7431579807987920904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_81
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9131
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ca89be17ade2fe0800000000000000
+      internalID: -1211791066897273794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9003
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361a3a31aac383780800000000000000
+      internalID: -8703139578721885853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_83
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8991
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0991ea7e681723d0800000000000000
+      internalID: -3231587344827967222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_84
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9003
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dc4ebfed321b5c0800000000000000
+      internalID: -4201537536744174205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8875
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c574be8953b3ec8c0800000000000000
+      internalID: -3977176319536707748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_86
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8863
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a612d7f6361c1a210800000000000000
+      internalID: 1342566796749513066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8875
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbc2b42508c277f0800000000000000
+      internalID: -616210274580247603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_88
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8783
+        width: 241
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c5a8ad6a1aac240800000000000000
+      internalID: 4812836889801940090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_89
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 8583
+        width: 58
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e574ea1015bbe890800000000000000
+      internalID: -7427644079642216992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_90
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 8673
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cb363384ee3f910800000000000000
+      internalID: 1870100264156118069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_91
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 8675
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e9f851de03a7f20800000000000000
+      internalID: 3421100661768429142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8427
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597d02630f25fc880800000000000000
+      internalID: -8588554772718495851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_93
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8415
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fb9cd7b71aa0bf0800000000000000
+      internalID: -357295668659110001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_94
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8427
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8e22a6846412370800000000000000
+      internalID: 8295989265425426613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8299
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd769e4b004a83540800000000000000
+      internalID: 4987916910254974943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_96
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8287
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e02bb00d87faa880800000000000000
+      internalID: -8598788353535827740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_97
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8299
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516050670a8b226e0800000000000000
+      internalID: -1863724296463645163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8171
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a529633ef1437950800000000000000
+      internalID: 6445568051737339298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_99
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8159
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83128db337236d530800000000000000
+      internalID: 3879343599532908856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_100
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8171
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e638430099ecab50800000000000000
+      internalID: 6605911558185301732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8043
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dc2797154c4db10800000000000000
+      internalID: 2005443588295675272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_102
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8031
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39dfa1ff19d1e8e0800000000000000
+      internalID: -1665811655928325830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_103
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8043
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f81cde4a25ca4400800000000000000
+      internalID: 309276309930645753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7915
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c655fa4f598225e0800000000000000
+      internalID: -1935833847443401019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_105
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7903
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ef42fc3c39a5fa0800000000000000
+      internalID: -5811169899964989930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_106
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7915
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9228bbdcb877244c0800000000000000
+      internalID: -4304746851476995543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7787
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dfea074d74fd4b0800000000000000
+      internalID: -5413529249326891675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_108
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7775
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0906e71caea6cf0800000000000000
+      internalID: -258135911850536728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_109
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7787
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50c8c8f5a7bcb7e0800000000000000
+      internalID: -1748320631855202209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7659
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae08d6de435d93a10800000000000000
+      internalID: 1889775941957026026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_111
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7647
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52206779e3c2bb7b0800000000000000
+      internalID: -5207519896783158747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_112
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7659
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54102275fce07a580800000000000000
+      internalID: -8816061461871591099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7531
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43477634bab3833e0800000000000000
+      internalID: -2073842021647813580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_114
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7263
+        width: 90
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6086bd0354bb130800000000000000
+      internalID: 3583534004645136086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_115
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7531
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1bceb95f5200bc0800000000000000
+      internalID: -3819010747196984897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_116
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7431
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a86268813864fc0800000000000000
+      internalID: -3510974718135596494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7103
+        width: 129
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e186adebc3d411c0800000000000000
+      internalID: -4533766052036312599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_118
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7039
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f103fd068dff943f0800000000000000
+      internalID: -915919744389926881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_119
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 7103
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857a6abaf8369db00800000000000000
+      internalID: 853823073074718552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_120
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 7039
+        width: 62
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f685b37df78ff2770800000000000000
+      internalID: 8588356242374350959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_121
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 7039
+        width: 31
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25b0a4e7d2c06be0800000000000000
+      internalID: -1485973644522769110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7039
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4b35b22cffc0ef0800000000000000
+      internalID: -140456278939683623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_123
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 7039
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2018a77a80f322ac0800000000000000
+      internalID: -3881470622437834494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_124
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 7039
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06561d62441031300800000000000000
+      internalID: 221522198891947360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6945
+        width: 97
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1eaa427b6564bb0800000000000000
+      internalID: -4952175395653099015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_126
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 7007
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3815dbe7c45b546c0800000000000000
+      internalID: -4159719340658306685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_127
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 6947
+        width: 126
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929e12214133e5050800000000000000
+      internalID: 5791122332141611305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_128
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 6943
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b100b3b4b4c9bc130800000000000000
+      internalID: 3588133375329370139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_129
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 6947
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970234286247d6790800000000000000
+      internalID: -7535238892777955207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6367
+        width: 256
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f404f936f2e9ff640800000000000000
+      internalID: 5115981628088205391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_131
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6879
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab6d58eedde64df0800000000000000
+      internalID: -196207992107078737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6847
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61132c2e8ea7b23b0800000000000000
+      internalID: -5536196176266514154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_133
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6793
+        width: 26
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7153a31d38b6de970800000000000000
+      internalID: 8785796661964846359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_134
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 6847
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fdd210af93d39d0800000000000000
+      internalID: -2793012447975448809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_135
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 6357
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c3f28524d804090800000000000000
+      internalID: -8052280817651598194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6091
+        width: 256
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59eac70902e77ed0800000000000000
+      internalID: -2416214146647660196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5951
+        width: 256
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0416e349081ff7560800000000000000
+      internalID: 7313829854418198848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_138
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5855
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c555667f4afebe0800000000000000
+      internalID: -1445755572881892330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_139
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5887
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95985251b8737eac0800000000000000
+      internalID: -3826028287933183655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_140
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5893
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9beb368c8aa4810800000000000000
+      internalID: 1750396983807228396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5471
+        width: 256
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee1196111c16a050800000000000000
+      internalID: 5811363228886834919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5151
+        width: 256
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be914aec972cb48a0800000000000000
+      internalID: -6319743823670666773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_143
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5087
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a92979488107fd50800000000000000
+      internalID: 6770882249634687392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_144
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5119
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033aa51279693e540800000000000000
+      internalID: 5036034384174162736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_145
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5093
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f45448c5b5206c0800000000000000
+      internalID: -4178677051332145368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4767
+        width: 256
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e51f8b2a2fab0a70800000000000000
+      internalID: 8794315293025310177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_147
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4703
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefffca603a250af0800000000000000
+      internalID: -430891801905201174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_148
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4735
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1ba56fb3e1c8e90800000000000000
+      internalID: -7022204476092403222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4319
+        width: 256
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7711b3a1a521864e0800000000000000
+      internalID: -1988319057287638665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_150
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4709
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74780d21c88e1f2d0800000000000000
+      internalID: -3246558168048695481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4063
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cdaf7ed479f5b20800000000000000
+      internalID: 3125383027278666896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3947
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9829bf3b30a661f10800000000000000
+      internalID: 2240094428800455305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3807
+        width: 256
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a631751b69bbe6630800000000000000
+      internalID: 3922278581381043050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_154
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3947
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a225f8efc59c070800000000000000
+      internalID: 8127129250962745944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_155
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3711
+        width: 129
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f9f492aec1f48c0800000000000000
+      internalID: -4012956950922813644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_156
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3627
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98d9ee9deeccfb70800000000000000
+      internalID: 8934243280764917915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_157
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3625
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cd370e55591fbd0800000000000000
+      internalID: -2598131313945617381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-CaveSet_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3231
+        width: 225
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b972fa6a473849f90800000000000000
+      internalID: -6947783788089890917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-CaveSet_0: -6112941104006591414
+      PU-CaveSet_1: -5945851219822458852
+      PU-CaveSet_10: -6074360307094317039
+      PU-CaveSet_100: 6605911558185301732
+      PU-CaveSet_101: 2005443588295675272
+      PU-CaveSet_102: -1665811655928325830
+      PU-CaveSet_103: 309276309930645753
+      PU-CaveSet_104: -1935833847443401019
+      PU-CaveSet_105: -5811169899964989930
+      PU-CaveSet_106: -4304746851476995543
+      PU-CaveSet_107: -5413529249326891675
+      PU-CaveSet_108: -258135911850536728
+      PU-CaveSet_109: -1748320631855202209
+      PU-CaveSet_11: 474728320914876023
+      PU-CaveSet_110: 1889775941957026026
+      PU-CaveSet_111: -5207519896783158747
+      PU-CaveSet_112: -8816061461871591099
+      PU-CaveSet_113: -2073842021647813580
+      PU-CaveSet_114: 3583534004645136086
+      PU-CaveSet_115: -3819010747196984897
+      PU-CaveSet_116: -3510974718135596494
+      PU-CaveSet_117: -4533766052036312599
+      PU-CaveSet_118: -915919744389926881
+      PU-CaveSet_119: 853823073074718552
+      PU-CaveSet_12: -5247940782448568310
+      PU-CaveSet_120: 8588356242374350959
+      PU-CaveSet_121: -1485973644522769110
+      PU-CaveSet_122: -140456278939683623
+      PU-CaveSet_123: -3881470622437834494
+      PU-CaveSet_124: 221522198891947360
+      PU-CaveSet_125: -4952175395653099015
+      PU-CaveSet_126: -4159719340658306685
+      PU-CaveSet_127: 5791122332141611305
+      PU-CaveSet_128: 3588133375329370139
+      PU-CaveSet_129: -7535238892777955207
+      PU-CaveSet_13: 5856039381153525136
+      PU-CaveSet_130: 5115981628088205391
+      PU-CaveSet_131: -196207992107078737
+      PU-CaveSet_132: -5536196176266514154
+      PU-CaveSet_133: 8785796661964846359
+      PU-CaveSet_134: -2793012447975448809
+      PU-CaveSet_135: -8052280817651598194
+      PU-CaveSet_136: -2416214146647660196
+      PU-CaveSet_137: 7313829854418198848
+      PU-CaveSet_138: -1445755572881892330
+      PU-CaveSet_139: -3826028287933183655
+      PU-CaveSet_14: -7827188280225711496
+      PU-CaveSet_140: 1750396983807228396
+      PU-CaveSet_141: 5811363228886834919
+      PU-CaveSet_142: -6319743823670666773
+      PU-CaveSet_143: 6770882249634687392
+      PU-CaveSet_144: 5036034384174162736
+      PU-CaveSet_145: -4178677051332145368
+      PU-CaveSet_146: 8794315293025310177
+      PU-CaveSet_147: -430891801905201174
+      PU-CaveSet_148: -7022204476092403222
+      PU-CaveSet_149: -1988319057287638665
+      PU-CaveSet_15: 6831772195474562073
+      PU-CaveSet_150: -3246558168048695481
+      PU-CaveSet_151: 3125383027278666896
+      PU-CaveSet_152: 2240094428800455305
+      PU-CaveSet_153: 3922278581381043050
+      PU-CaveSet_154: 8127129250962745944
+      PU-CaveSet_155: -4012956950922813644
+      PU-CaveSet_156: 8934243280764917915
+      PU-CaveSet_157: -2598131313945617381
+      PU-CaveSet_158: -6947783788089890917
+      PU-CaveSet_16: 2849405582879445589
+      PU-CaveSet_17: -4844888080995721065
+      PU-CaveSet_18: 2461381629997553354
+      PU-CaveSet_19: -8024798078143698088
+      PU-CaveSet_2: -7403177616858852553
+      PU-CaveSet_20: 4616891837200681113
+      PU-CaveSet_21: 4118035429478616630
+      PU-CaveSet_22: -1672999438245440151
+      PU-CaveSet_23: -2586383521917107866
+      PU-CaveSet_24: 7046309506394918277
+      PU-CaveSet_25: -4572795045494263552
+      PU-CaveSet_26: 7619261600335006293
+      PU-CaveSet_27: -8438389757953109434
+      PU-CaveSet_28: 643664536596029531
+      PU-CaveSet_29: -3273165401512798655
+      PU-CaveSet_3: -6311765587306407987
+      PU-CaveSet_30: 9096576434294856943
+      PU-CaveSet_31: -8145472809778173437
+      PU-CaveSet_32: 1555389559455262196
+      PU-CaveSet_33: -980948204469627367
+      PU-CaveSet_34: 1676693511461255306
+      PU-CaveSet_35: -6971324629257075669
+      PU-CaveSet_36: 336604599556083569
+      PU-CaveSet_37: -908095622483129856
+      PU-CaveSet_38: -1681994755027843887
+      PU-CaveSet_39: -6394512538418532957
+      PU-CaveSet_4: 3313796606308447243
+      PU-CaveSet_40: -7868012119714879412
+      PU-CaveSet_41: 8130144355287289371
+      PU-CaveSet_42: -5280208437143547553
+      PU-CaveSet_43: 4894902334663738895
+      PU-CaveSet_44: 1851257334234444699
+      PU-CaveSet_45: 6924745078835064320
+      PU-CaveSet_46: -2831756863616626796
+      PU-CaveSet_47: 5259462936987604627
+      PU-CaveSet_48: 2685036367741313089
+      PU-CaveSet_49: 7840610498762347181
+      PU-CaveSet_5: -7519717718579843037
+      PU-CaveSet_50: -5180928621793101513
+      PU-CaveSet_51: -4245601716041100551
+      PU-CaveSet_52: 3515478817526784242
+      PU-CaveSet_53: 6140168674995743429
+      PU-CaveSet_54: 3259131323316340797
+      PU-CaveSet_55: 4416826814855632569
+      PU-CaveSet_56: 5294626555833068923
+      PU-CaveSet_57: -5936682377113959916
+      PU-CaveSet_58: -3520301046687943785
+      PU-CaveSet_59: 1494709252960605291
+      PU-CaveSet_6: -4236105245813510605
+      PU-CaveSet_60: 6497964301676867726
+      PU-CaveSet_61: -1406705492493421001
+      PU-CaveSet_62: -1462079197378163532
+      PU-CaveSet_63: 3351986578757676120
+      PU-CaveSet_64: -5285878336156504048
+      PU-CaveSet_65: 3653341268104380940
+      PU-CaveSet_66: -7671338238298938952
+      PU-CaveSet_67: 2005314926808846446
+      PU-CaveSet_68: 2985995090968308060
+      PU-CaveSet_69: -3512739882957555353
+      PU-CaveSet_7: -8217875333014352263
+      PU-CaveSet_70: -4085208252647116332
+      PU-CaveSet_71: 5008990718008626526
+      PU-CaveSet_72: -3737081107277463561
+      PU-CaveSet_73: 7099563055318008130
+      PU-CaveSet_74: -6727876210253275190
+      PU-CaveSet_75: -1427934440485722508
+      PU-CaveSet_76: 5116300593005901666
+      PU-CaveSet_77: -5376594329242402491
+      PU-CaveSet_78: -1571492828324552520
+      PU-CaveSet_79: -2082542750405872134
+      PU-CaveSet_8: -2460579360767034522
+      PU-CaveSet_80: -7431579807987920904
+      PU-CaveSet_81: -1211791066897273794
+      PU-CaveSet_82: -8703139578721885853
+      PU-CaveSet_83: -3231587344827967222
+      PU-CaveSet_84: -4201537536744174205
+      PU-CaveSet_85: -3977176319536707748
+      PU-CaveSet_86: 1342566796749513066
+      PU-CaveSet_87: -616210274580247603
+      PU-CaveSet_88: 4812836889801940090
+      PU-CaveSet_89: -7427644079642216992
+      PU-CaveSet_9: -5239588861644018981
+      PU-CaveSet_90: 1870100264156118069
+      PU-CaveSet_91: 3421100661768429142
+      PU-CaveSet_92: -8588554772718495851
+      PU-CaveSet_93: -357295668659110001
+      PU-CaveSet_94: 8295989265425426613
+      PU-CaveSet_95: 4987916910254974943
+      PU-CaveSet_96: -8598788353535827740
+      PU-CaveSet_97: -1863724296463645163
+      PU-CaveSet_98: 6445568051737339298
+      PU-CaveSet_99: 3879343599532908856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2457 @@
+fileFormatVersion: 2
+guid: 3119e80975e290c4d8c7ceeeac18cc27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6193696245989708247
+    second: PU-Championship_0
+  - first:
+      213: -6121353641837993725
+    second: PU-Championship_1
+  - first:
+      213: 284529791091435798
+    second: PU-Championship_2
+  - first:
+      213: -7707891545632830723
+    second: PU-Championship_3
+  - first:
+      213: -5307903443052549435
+    second: PU-Championship_4
+  - first:
+      213: -6145180539820116887
+    second: PU-Championship_5
+  - first:
+      213: 9011149444647136710
+    second: PU-Championship_6
+  - first:
+      213: 2469725692065298702
+    second: PU-Championship_7
+  - first:
+      213: -7704872355496709019
+    second: PU-Championship_8
+  - first:
+      213: -7946983538559918681
+    second: PU-Championship_9
+  - first:
+      213: -1331843288443108434
+    second: PU-Championship_10
+  - first:
+      213: 3826450704103364359
+    second: PU-Championship_11
+  - first:
+      213: -4906499497228185490
+    second: PU-Championship_12
+  - first:
+      213: 1977166020308852470
+    second: PU-Championship_13
+  - first:
+      213: 4650234325814345330
+    second: PU-Championship_14
+  - first:
+      213: 3768634605665449773
+    second: PU-Championship_15
+  - first:
+      213: -6255828689120891484
+    second: PU-Championship_16
+  - first:
+      213: -6283189933881081110
+    second: PU-Championship_17
+  - first:
+      213: -8463148670051185121
+    second: PU-Championship_18
+  - first:
+      213: 8965155571894066056
+    second: PU-Championship_19
+  - first:
+      213: -4826529174981443571
+    second: PU-Championship_20
+  - first:
+      213: 4352056119322240770
+    second: PU-Championship_21
+  - first:
+      213: 4579677393055680663
+    second: PU-Championship_22
+  - first:
+      213: 4988036882215914985
+    second: PU-Championship_23
+  - first:
+      213: -3478304415197274556
+    second: PU-Championship_24
+  - first:
+      213: 6656384233246232304
+    second: PU-Championship_25
+  - first:
+      213: 6283324748848703945
+    second: PU-Championship_26
+  - first:
+      213: -4664235569575497463
+    second: PU-Championship_27
+  - first:
+      213: 5223407065468626851
+    second: PU-Championship_28
+  - first:
+      213: 2948817475711557981
+    second: PU-Championship_29
+  - first:
+      213: -3359902645667420541
+    second: PU-Championship_30
+  - first:
+      213: -4955491937304169692
+    second: PU-Championship_31
+  - first:
+      213: -6905945746582366055
+    second: PU-Championship_32
+  - first:
+      213: 8339958219315893832
+    second: PU-Championship_33
+  - first:
+      213: -8411207212589101000
+    second: PU-Championship_34
+  - first:
+      213: -6294004610871905679
+    second: PU-Championship_35
+  - first:
+      213: -4148591702148476402
+    second: PU-Championship_36
+  - first:
+      213: -8036999290689692514
+    second: PU-Championship_37
+  - first:
+      213: 3470852837636964849
+    second: PU-Championship_38
+  - first:
+      213: 5210414580306804896
+    second: PU-Championship_39
+  - first:
+      213: 5074381036973928694
+    second: PU-Championship_40
+  - first:
+      213: 5017147027946673859
+    second: PU-Championship_41
+  - first:
+      213: -5165536863174492154
+    second: PU-Championship_42
+  - first:
+      213: -7414762242360271571
+    second: PU-Championship_43
+  - first:
+      213: 3926645375330806957
+    second: PU-Championship_44
+  - first:
+      213: 9170838213173838265
+    second: PU-Championship_45
+  - first:
+      213: -4831322786876956049
+    second: PU-Championship_46
+  - first:
+      213: -1030990985591896163
+    second: PU-Championship_47
+  - first:
+      213: 589551377128241961
+    second: PU-Championship_48
+  - first:
+      213: 1143249703019556131
+    second: PU-Championship_49
+  - first:
+      213: -5986427796707750005
+    second: PU-Championship_50
+  - first:
+      213: 7756749998465774305
+    second: PU-Championship_51
+  - first:
+      213: -6605113393151306299
+    second: PU-Championship_52
+  - first:
+      213: -2689356709326455510
+    second: PU-Championship_53
+  - first:
+      213: -8963133145003527215
+    second: PU-Championship_54
+  - first:
+      213: 2785280749924208965
+    second: PU-Championship_55
+  - first:
+      213: 7010264720051971066
+    second: PU-Championship_56
+  - first:
+      213: -7690041740819418017
+    second: PU-Championship_57
+  - first:
+      213: -345060875699515207
+    second: PU-Championship_58
+  - first:
+      213: -7319879459597865009
+    second: PU-Championship_59
+  - first:
+      213: -5598329242312655771
+    second: PU-Championship_60
+  - first:
+      213: -5498335234867589524
+    second: PU-Championship_61
+  - first:
+      213: -4210629421993609423
+    second: PU-Championship_62
+  - first:
+      213: -1261534484036016394
+    second: PU-Championship_63
+  - first:
+      213: -7337054278044483410
+    second: PU-Championship_64
+  - first:
+      213: -1401696604925734407
+    second: PU-Championship_65
+  - first:
+      213: 938840957596004292
+    second: PU-Championship_66
+  - first:
+      213: 7794977149103227298
+    second: PU-Championship_67
+  - first:
+      213: -2741616235490610429
+    second: PU-Championship_68
+  - first:
+      213: -1382371216595770937
+    second: PU-Championship_69
+  - first:
+      213: 7124964037844741403
+    second: PU-Championship_70
+  - first:
+      213: -4702470440167989365
+    second: PU-Championship_71
+  - first:
+      213: 3751868774922676967
+    second: PU-Championship_72
+  - first:
+      213: 8513440124111712024
+    second: PU-Championship_73
+  - first:
+      213: 793632713435829148
+    second: PU-Championship_74
+  - first:
+      213: 2042500899516235787
+    second: PU-Championship_75
+  - first:
+      213: 5002327691830126844
+    second: PU-Championship_76
+  - first:
+      213: 8626423551839774668
+    second: PU-Championship_77
+  - first:
+      213: 1367048021203294979
+    second: PU-Championship_78
+  - first:
+      213: -3314111696996313729
+    second: PU-Championship_79
+  - first:
+      213: 2867107700469375457
+    second: PU-Championship_80
+  - first:
+      213: -7014169986400968158
+    second: PU-Championship_81
+  - first:
+      213: 1480970487845404248
+    second: PU-Championship_82
+  - first:
+      213: 4831247385357755919
+    second: PU-Championship_83
+  - first:
+      213: -5507309183011234515
+    second: PU-Championship_84
+  - first:
+      213: -7287934088261390069
+    second: PU-Championship_85
+  - first:
+      213: -6614447817552168458
+    second: PU-Championship_86
+  - first:
+      213: -5317681225835921286
+    second: PU-Championship_87
+  - first:
+      213: 6578549275351476689
+    second: PU-Championship_88
+  - first:
+      213: 2720031333095282991
+    second: PU-Championship_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-Championship_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5471
+        width: 256
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d113ec8bed64f550800000000000000
+      internalID: 6193696245989708247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5343
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301e3b98b459c0ba0800000000000000
+      internalID: -6121353641837993725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5295
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6196506665ad2f300800000000000000
+      internalID: 284529791091435798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5301
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa81573a71180590800000000000000
+      internalID: -7707891545632830723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5279
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caa7c6e0f98656b0800000000000000
+      internalID: -5307903443052549435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5283
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964f06b8bdee7baa0800000000000000
+      internalID: -6145180539820116887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5279
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cda6224da80e0d70800000000000000
+      internalID: 9011149444647136710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5189
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0935388e6a364220800000000000000
+      internalID: 2469725692065298702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5189
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56434e23a6bc21590800000000000000
+      internalID: -7704872355496709019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5185
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad524c9394a6b190800000000000000
+      internalID: -7946983538559918681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5089
+        width: 31
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea34cd7e597548de0800000000000000
+      internalID: -1331843288443108434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 5087
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707df9854a84a1530800000000000000
+      internalID: 3826450704103364359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5153
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60d419f3bc98ebb0800000000000000
+      internalID: -4906499497228185490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5087
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe5b7e150e407b10800000000000000
+      internalID: 1977166020308852470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5143
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27efd783b73f88040800000000000000
+      internalID: 4650234325814345330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5143
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27feeee431ec4430800000000000000
+      internalID: 3768634605665449773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5123
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad6049b3f4de29a0800000000000000
+      internalID: -6255828689120891484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5091
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae245be7b00adc8a0800000000000000
+      internalID: -6283189933881081110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5087
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e8740df1bdc8a80800000000000000
+      internalID: -8463148670051185121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4671
+        width: 256
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b1cd24e71aa6c70800000000000000
+      internalID: 8965155571894066056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4607
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d000c239949b40db0800000000000000
+      internalID: -4826529174981443571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4595
+        width: 128
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20764ca7bfb956c30800000000000000
+      internalID: 4352056119322240770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4207
+        width: 256
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79888f623584e8f30800000000000000
+      internalID: 4579677393055680663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4555
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edc60bdd11193540800000000000000
+      internalID: 4988036882215914985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4159
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e5e7f20949abfc0800000000000000
+      internalID: -3478304415197274556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4135
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe072f613a306c50800000000000000
+      internalID: 6656384233246232304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4127
+        width: 126
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c92c8f819ad23750800000000000000
+      internalID: 6283324748848703945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3739
+        width: 193
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901f5be267e454fb0800000000000000
+      internalID: -4664235569575497463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4063
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7e58e1d054d7840800000000000000
+      internalID: 5223407065468626851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4085
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d516043eedd4ce820800000000000000
+      internalID: 2948817475711557981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3967
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3862915685a3f51d0800000000000000
+      internalID: -3359902645667420541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3903
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4233cad965e8a3bb0800000000000000
+      internalID: -4955491937304169692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 3882
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99896d8cee62920a0800000000000000
+      internalID: -6905945746582366055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3807
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8465cef30db7db370800000000000000
+      internalID: 8339958219315893832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_34
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3807
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8305c69ca93654b80800000000000000
+      internalID: -8411207212589101000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_35
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3787
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1723f4a472437a8a0800000000000000
+      internalID: -6294004610871905679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_36
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3789
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e029e4bb3dd3d66c0800000000000000
+      internalID: -4148591702148476402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3721
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cdf5a1ab7d67090800000000000000
+      internalID: -8036999290689692514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3720
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f102073442fa2030800000000000000
+      internalID: 3470852837636964849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3713
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a004bf647c1f4840800000000000000
+      internalID: 5210414580306804896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3679
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f03fcbfaa2db6640800000000000000
+      internalID: 5074381036973928694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3690
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c61ba2d3ac70a540800000000000000
+      internalID: 5017147027946673859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_42
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3691
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6008c4457935058b0800000000000000
+      internalID: -5165536863174492154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3688
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d13229609791990800000000000000
+      internalID: -7414762242360271571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3690
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dace5832a2f3e7630800000000000000
+      internalID: 3926645375330806957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_45
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3692
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b10ec404cc554f70800000000000000
+      internalID: 9170838213173838265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_46
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3692
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62e2f4d581b3fcb0800000000000000
+      internalID: -4831322786876956049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3583
+        width: 189
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d974a29392f21b1f0800000000000000
+      internalID: -1030990985591896163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3559
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b329a9ad18e2800800000000000000
+      internalID: 589551377128241961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_49
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3553
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d2d063c83addf00800000000000000
+      internalID: 1143249703019556131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3455
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fc5b7e2afebeca0800000000000000
+      internalID: -5986427796707750005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_51
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3263
+        width: 232
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2701ec60385ab60800000000000000
+      internalID: 7756749998465774305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_52
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3423
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c59a044d5ce554a0800000000000000
+      internalID: -6605113393151306299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3363
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d784a525c7daad0800000000000000
+      internalID: -2689356709326455510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_54
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3267
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3f881b4ed8c9380800000000000000
+      internalID: -8963133145003527215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3263
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54157f2c51e47a620800000000000000
+      internalID: 2785280749924208965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3235
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3a624fe96794160800000000000000
+      internalID: 7010264720051971066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2975
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f543882c7cb774590800000000000000
+      internalID: -7690041740819418017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_58
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2993
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b09b0636f8163bf0800000000000000
+      internalID: -345060875699515207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_59
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2847
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfadf3f9609a6a90800000000000000
+      internalID: -7319879459597865009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_60
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2911
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cb540273dbe42b0800000000000000
+      internalID: -5598329242312655771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2855
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e04bd3c3df1b3b0800000000000000
+      internalID: -5498335234867589524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2783
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137334d79d6d095c0800000000000000
+      internalID: -4210629421993609423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2815
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6a02712112e7ee0800000000000000
+      internalID: -1261534484036016394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_64
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2783
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0066be10c8d2a90800000000000000
+      internalID: -7337054278044483410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_65
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2783
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1d7844d5c2c8ce0800000000000000
+      internalID: -1401696604925734407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_66
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2645
+        width: 129
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfe81270ee670d00800000000000000
+      internalID: 938840957596004292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_67
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2751
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1c594ea625d2c60800000000000000
+      internalID: 7794977149103227298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2657
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303732d3f82d3f9d0800000000000000
+      internalID: -2741616235490610429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2481
+        width: 225
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1a51fd3b4d0dce0800000000000000
+      internalID: -1382371216595770937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2047
+        width: 256
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d2b21fa05f0e260800000000000000
+      internalID: 7124964037844741403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1855
+        width: 256
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f1307ac087dbeb0800000000000000
+      internalID: -4702470440167989365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1355
+        width: 256
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea6525c5c0511430800000000000000
+      internalID: 3751868774922676967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1055
+        width: 256
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f6c3ecfa0d52670800000000000000
+      internalID: 8513440124111712024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_74
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1035
+        width: 106
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93d87e7fbc830b00800000000000000
+      internalID: 793632713435829148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 256
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00c4191fbb685c10800000000000000
+      internalID: 2042500899516235787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 256
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf862a14886db6540800000000000000
+      internalID: 5002327691830126844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc72971048637b770800000000000000
+      internalID: 8626423551839774668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_78
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 409
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b19beaeeab8f210800000000000000
+      internalID: 1367048021203294979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_79
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 383
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75519278f8e102d0800000000000000
+      internalID: -3314111696996313729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 299
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1a34353430ac720800000000000000
+      internalID: 2867107700469375457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_81
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 297
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2222d5e5f89a8ae90800000000000000
+      internalID: -7014169986400968158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_82
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 337
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ebcdaefc67d8410800000000000000
+      internalID: 1480970487845404248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_83
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 191
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06a84266e90c0340800000000000000
+      internalID: 4831247385357755919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_84
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 255
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d5e5e1a7b1293b0800000000000000
+      internalID: -5507309183011234515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_85
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 287
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0138b25f8e0cda90800000000000000
+      internalID: -7287934088261390069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 203
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9f17931c2c434a0800000000000000
+      internalID: -6614447817552168458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_87
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a704941791dc336b0800000000000000
+      internalID: -5317681225835921286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 256
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d96ab616b3bb4b50800000000000000
+      internalID: 6578549275351476689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Championship_89
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29931b061e7fb520800000000000000
+      internalID: 2720031333095282991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-Championship_0: 6193696245989708247
+      PU-Championship_1: -6121353641837993725
+      PU-Championship_10: -1331843288443108434
+      PU-Championship_11: 3826450704103364359
+      PU-Championship_12: -4906499497228185490
+      PU-Championship_13: 1977166020308852470
+      PU-Championship_14: 4650234325814345330
+      PU-Championship_15: 3768634605665449773
+      PU-Championship_16: -6255828689120891484
+      PU-Championship_17: -6283189933881081110
+      PU-Championship_18: -8463148670051185121
+      PU-Championship_19: 8965155571894066056
+      PU-Championship_2: 284529791091435798
+      PU-Championship_20: -4826529174981443571
+      PU-Championship_21: 4352056119322240770
+      PU-Championship_22: 4579677393055680663
+      PU-Championship_23: 4988036882215914985
+      PU-Championship_24: -3478304415197274556
+      PU-Championship_25: 6656384233246232304
+      PU-Championship_26: 6283324748848703945
+      PU-Championship_27: -4664235569575497463
+      PU-Championship_28: 5223407065468626851
+      PU-Championship_29: 2948817475711557981
+      PU-Championship_3: -7707891545632830723
+      PU-Championship_30: -3359902645667420541
+      PU-Championship_31: -4955491937304169692
+      PU-Championship_32: -6905945746582366055
+      PU-Championship_33: 8339958219315893832
+      PU-Championship_34: -8411207212589101000
+      PU-Championship_35: -6294004610871905679
+      PU-Championship_36: -4148591702148476402
+      PU-Championship_37: -8036999290689692514
+      PU-Championship_38: 3470852837636964849
+      PU-Championship_39: 5210414580306804896
+      PU-Championship_4: -5307903443052549435
+      PU-Championship_40: 5074381036973928694
+      PU-Championship_41: 5017147027946673859
+      PU-Championship_42: -5165536863174492154
+      PU-Championship_43: -7414762242360271571
+      PU-Championship_44: 3926645375330806957
+      PU-Championship_45: 9170838213173838265
+      PU-Championship_46: -4831322786876956049
+      PU-Championship_47: -1030990985591896163
+      PU-Championship_48: 589551377128241961
+      PU-Championship_49: 1143249703019556131
+      PU-Championship_5: -6145180539820116887
+      PU-Championship_50: -5986427796707750005
+      PU-Championship_51: 7756749998465774305
+      PU-Championship_52: -6605113393151306299
+      PU-Championship_53: -2689356709326455510
+      PU-Championship_54: -8963133145003527215
+      PU-Championship_55: 2785280749924208965
+      PU-Championship_56: 7010264720051971066
+      PU-Championship_57: -7690041740819418017
+      PU-Championship_58: -345060875699515207
+      PU-Championship_59: -7319879459597865009
+      PU-Championship_6: 9011149444647136710
+      PU-Championship_60: -5598329242312655771
+      PU-Championship_61: -5498335234867589524
+      PU-Championship_62: -4210629421993609423
+      PU-Championship_63: -1261534484036016394
+      PU-Championship_64: -7337054278044483410
+      PU-Championship_65: -1401696604925734407
+      PU-Championship_66: 938840957596004292
+      PU-Championship_67: 7794977149103227298
+      PU-Championship_68: -2741616235490610429
+      PU-Championship_69: -1382371216595770937
+      PU-Championship_7: 2469725692065298702
+      PU-Championship_70: 7124964037844741403
+      PU-Championship_71: -4702470440167989365
+      PU-Championship_72: 3751868774922676967
+      PU-Championship_73: 8513440124111712024
+      PU-Championship_74: 793632713435829148
+      PU-Championship_75: 2042500899516235787
+      PU-Championship_76: 5002327691830126844
+      PU-Championship_77: 8626423551839774668
+      PU-Championship_78: 1367048021203294979
+      PU-Championship_79: -3314111696996313729
+      PU-Championship_8: -7704872355496709019
+      PU-Championship_80: 2867107700469375457
+      PU-Championship_81: -7014169986400968158
+      PU-Championship_82: 1480970487845404248
+      PU-Championship_83: 4831247385357755919
+      PU-Championship_84: -5507309183011234515
+      PU-Championship_85: -7287934088261390069
+      PU-Championship_86: -6614447817552168458
+      PU-Championship_87: -5317681225835921286
+      PU-Championship_88: 6578549275351476689
+      PU-Championship_89: 2720031333095282991
+      PU-Championship_9: -7946983538559918681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: e084c3d7196c8a542bd05b35a1583002
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1075071877919018625
+    second: NPU-Angelure_0
+  - first:
+      213: -3635712336195289919
+    second: NPU-Angelure_1
+  - first:
+      213: -8568204212584764240
+    second: NPU-Angelure_2
+  - first:
+      213: -3178225836182274451
+    second: NPU-Angelure_3
+  - first:
+      213: 737708933158025947
+    second: NPU-Angelure_4
+  - first:
+      213: -5852940957458591112
+    second: NPU-Angelure_5
+  - first:
+      213: -8718338440882467567
+    second: NPU-Angelure_6
+  - first:
+      213: -2903206353095637088
+    second: NPU-Angelure_7
+  - first:
+      213: -242278578971220326
+    second: NPU-Angelure_8
+  - first:
+      213: 6567817142236285427
+    second: NPU-Angelure_9
+  - first:
+      213: -2308094942041786326
+    second: NPU-Angelure_10
+  - first:
+      213: -5830497123824638560
+    second: NPU-Angelure_11
+  - first:
+      213: 8598817199167200591
+    second: NPU-Angelure_12
+  - first:
+      213: -1796485856689853793
+    second: NPU-Angelure_13
+  - first:
+      213: 83066697693737626
+    second: NPU-Angelure_14
+  - first:
+      213: -6979864403370253369
+    second: NPU-Angelure_15
+  - first:
+      213: 1524838061025703657
+    second: NPU-Angelure_16
+  - first:
+      213: -6389089260621904670
+    second: NPU-Angelure_17
+  - first:
+      213: 1214907753518649934
+    second: NPU-Angelure_18
+  - first:
+      213: -8086614916304668654
+    second: NPU-Angelure_19
+  - first:
+      213: -8144413870296979876
+    second: NPU-Angelure_20
+  - first:
+      213: -7716515212122478044
+    second: NPU-Angelure_21
+  - first:
+      213: 2074454101847397143
+    second: NPU-Angelure_22
+  - first:
+      213: 255817784993181560
+    second: NPU-Angelure_23
+  - first:
+      213: -1475175414535238585
+    second: NPU-Angelure_24
+  - first:
+      213: 117535702132476659
+    second: NPU-Angelure_25
+  - first:
+      213: 8706404332412071023
+    second: NPU-Angelure_26
+  - first:
+      213: 8488368519653673859
+    second: NPU-Angelure_27
+  - first:
+      213: 5509167096093322454
+    second: NPU-Angelure_28
+  - first:
+      213: -7933486644002767842
+    second: NPU-Angelure_29
+  - first:
+      213: 4621886857456153770
+    second: NPU-Angelure_30
+  - first:
+      213: 1981576490264771907
+    second: NPU-Angelure_31
+  - first:
+      213: -7539503753166274000
+    second: NPU-Angelure_32
+  - first:
+      213: 2714676214383737971
+    second: NPU-Angelure_33
+  - first:
+      213: 1257685437703579667
+    second: NPU-Angelure_34
+  - first:
+      213: -2561770813627147322
+    second: NPU-Angelure_35
+  - first:
+      213: 4765323408679749583
+    second: NPU-Angelure_36
+  - first:
+      213: 5865570209322126040
+    second: NPU-Angelure_37
+  - first:
+      213: -5365875455630257829
+    second: NPU-Angelure_38
+  - first:
+      213: 869201574573231999
+    second: NPU-Angelure_39
+  - first:
+      213: 4104819727822683383
+    second: NPU-Angelure_40
+  - first:
+      213: -4645855254649924984
+    second: NPU-Angelure_41
+  - first:
+      213: -5461915319663931057
+    second: NPU-Angelure_42
+  - first:
+      213: 3148229730496016013
+    second: NPU-Angelure_43
+  - first:
+      213: 2278651508324541678
+    second: NPU-Angelure_44
+  - first:
+      213: -5758889617358651870
+    second: NPU-Angelure_45
+  - first:
+      213: -8914419448005390344
+    second: NPU-Angelure_46
+  - first:
+      213: -37829742019355327
+    second: NPU-Angelure_47
+  - first:
+      213: 6731054194315320919
+    second: NPU-Angelure_48
+  - first:
+      213: -8780066030073817202
+    second: NPU-Angelure_49
+  - first:
+      213: -2368348007571796352
+    second: NPU-Angelure_50
+  - first:
+      213: 1646546583464096060
+    second: NPU-Angelure_51
+  - first:
+      213: 5857996119202167946
+    second: NPU-Angelure_52
+  - first:
+      213: 3573263833488095663
+    second: NPU-Angelure_53
+  - first:
+      213: 6308033279671392021
+    second: NPU-Angelure_54
+  - first:
+      213: 6705992877150994129
+    second: NPU-Angelure_55
+  - first:
+      213: 8298560840817778488
+    second: NPU-Angelure_56
+  - first:
+      213: -2434468557374062767
+    second: NPU-Angelure_57
+  - first:
+      213: 210212009439010890
+    second: NPU-Angelure_58
+  - first:
+      213: -164189838632431793
+    second: NPU-Angelure_59
+  - first:
+      213: -136930804766762107
+    second: NPU-Angelure_60
+  - first:
+      213: -4961709228522555587
+    second: NPU-Angelure_61
+  - first:
+      213: 5567903261019089637
+    second: NPU-Angelure_62
+  - first:
+      213: 8028100065812790720
+    second: NPU-Angelure_63
+  - first:
+      213: 8186031164716074248
+    second: NPU-Angelure_64
+  - first:
+      213: 8215353874617070431
+    second: NPU-Angelure_65
+  - first:
+      213: -4363416520698932223
+    second: NPU-Angelure_66
+  - first:
+      213: -2228816611126448663
+    second: NPU-Angelure_67
+  - first:
+      213: -1685772966667674463
+    second: NPU-Angelure_68
+  - first:
+      213: 6293286005618102290
+    second: NPU-Angelure_69
+  - first:
+      213: -8813233086895478812
+    second: NPU-Angelure_70
+  - first:
+      213: 7703573032995382356
+    second: NPU-Angelure_71
+  - first:
+      213: -4664740553242273300
+    second: NPU-Angelure_72
+  - first:
+      213: 8249992032907603030
+    second: NPU-Angelure_73
+  - first:
+      213: 8274534857977589637
+    second: NPU-Angelure_74
+  - first:
+      213: 7700960453734200985
+    second: NPU-Angelure_75
+  - first:
+      213: -6221366363817443292
+    second: NPU-Angelure_76
+  - first:
+      213: 4819127969827079386
+    second: NPU-Angelure_77
+  - first:
+      213: -558265678416809655
+    second: NPU-Angelure_78
+  - first:
+      213: 7431158036444497916
+    second: NPU-Angelure_79
+  - first:
+      213: -7933519375884116734
+    second: NPU-Angelure_80
+  - first:
+      213: 7519361907948450649
+    second: NPU-Angelure_81
+  - first:
+      213: -3996508483837405375
+    second: NPU-Angelure_82
+  - first:
+      213: 2364526020864495015
+    second: NPU-Angelure_83
+  - first:
+      213: -6179070115299983856
+    second: NPU-Angelure_84
+  - first:
+      213: 4890686437920319918
+    second: NPU-Angelure_85
+  - first:
+      213: -6828110875767617000
+    second: NPU-Angelure_86
+  - first:
+      213: 3795120989874111231
+    second: NPU-Angelure_87
+  - first:
+      213: -8639159000488526602
+    second: NPU-Angelure_88
+  - first:
+      213: 4000615319638927634
+    second: NPU-Angelure_89
+  - first:
+      213: 580297651107339371
+    second: NPU-Angelure_90
+  - first:
+      213: 2586316353307897047
+    second: NPU-Angelure_91
+  - first:
+      213: -8238105099524718070
+    second: NPU-Angelure_92
+  - first:
+      213: 8697343620618636437
+    second: NPU-Angelure_93
+  - first:
+      213: 7154020172014265583
+    second: NPU-Angelure_94
+  - first:
+      213: 409898513080870479
+    second: NPU-Angelure_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPU-Angelure_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2975
+        width: 256
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71ff90b2d39411f0800000000000000
+      internalID: -1075071877919018625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2739
+        width: 227
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccf29f94ea5b8dc0800000000000000
+      internalID: -3635712336195289919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2944
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc21e93aaf971980800000000000000
+      internalID: -8568204212584764240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2944
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ef262e07ca4e3d0800000000000000
+      internalID: -3178225836182274451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2973
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda348cbd5edc3a00800000000000000
+      internalID: 737708933158025947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2965
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872985b953d26cea0800000000000000
+      internalID: -5852940957458591112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2911
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d4197316d320780800000000000000
+      internalID: -8718338440882467567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2879
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7c316243db5b7d0800000000000000
+      internalID: -2903206353095637088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2687
+        width: 161
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96ebb38ae043acf0800000000000000
+      internalID: -242278578971220326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2847
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f907b0a4e2952b50800000000000000
+      internalID: 6567817142236285427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2677
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2839b701eff7ffd0800000000000000
+      internalID: -2308094942041786326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2655
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5ee76d1c9e51fa0800000000000000
+      internalID: -5830497123824638560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2655
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d51e42fa2255770800000000000000
+      internalID: 8598817199167200591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2655
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aecfba1a99117e0800000000000000
+      internalID: -1796485856689853793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2655
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9233b0b8bc172100800000000000000
+      internalID: 83066697693737626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2655
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3e8b85e4a822f90800000000000000
+      internalID: -6979864403370253369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2623
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6be673320592510800000000000000
+      internalID: 1524838061025703657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2623
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e44e561b256557a0800000000000000
+      internalID: -6389089260621904670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2575
+        width: 154
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42d85b3a283cd010800000000000000
+      internalID: 1214907753518649934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2485
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218f84e049296cf80800000000000000
+      internalID: -8086614916304668654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2111
+        width: 256
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c562f256cba39fe80800000000000000
+      internalID: -8144413870296979876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2527
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aaa856c4e69e490800000000000000
+      internalID: -7716515212122478044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2495
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7135773c301f9cc10800000000000000
+      internalID: 2074454101847397143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2527
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87feeb98be8dc8300800000000000000
+      internalID: 255817784993181560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2495
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ccc3bb6cf178be0800000000000000
+      internalID: -1475175414535238585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2527
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa480e291291a100800000000000000
+      internalID: 117535702132476659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2527
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ce750ac9c53d870800000000000000
+      internalID: 8706404332412071023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2527
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bc090023ebcc570800000000000000
+      internalID: 8488368519653673859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2527
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dca9eaf84e747c40800000000000000
+      internalID: 5509167096093322454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2015
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cb8e14ee796e190800000000000000
+      internalID: -7933486644002767842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2079
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa478baeb9d342040800000000000000
+      internalID: 4621886857456153770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2079
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d3f7da159ff7b10800000000000000
+      internalID: 1981576490264771907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2079
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032ccc1584d4e5790800000000000000
+      internalID: -7539503753166274000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2079
+        width: 95
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c7b8e42a77ca520800000000000000
+      internalID: 2714676214383737971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2015
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318e089fd32347110800000000000000
+      internalID: 1257685437703579667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2047
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb5ac19403c27cd0800000000000000
+      internalID: -2561770813627147322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2015
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7c5367464d12240800000000000000
+      internalID: 4765323408679749583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1983
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da42cb3701b66150800000000000000
+      internalID: 5865570209322126040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1983
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51db26e3b49885b0800000000000000
+      internalID: -5365875455630257829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2015
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fc5a21a36001c00800000000000000
+      internalID: 869201574573231999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1983
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcf2ef4bcf37f830800000000000000
+      internalID: 4104819727822683383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1919
+        width: 156
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88295bcb24b968fb0800000000000000
+      internalID: -4645855254649924984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1951
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41da2a84f06334b0800000000000000
+      internalID: -5461915319663931057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1919
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ee9858242c0bb20800000000000000
+      internalID: 3148229730496016013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1951
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4a79859756f9f10800000000000000
+      internalID: 2278651508324541678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1919
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ef6a8a7605410b0800000000000000
+      internalID: -5758889617358651870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1951
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff0ece1ebe994480800000000000000
+      internalID: -8914419448005390344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1919
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dddf0dc0a997ff0800000000000000
+      internalID: -37829742019355327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1773
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e51188022896d50800000000000000
+      internalID: 6731054194315320919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_49
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1807
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87d9f4e670f62680800000000000000
+      internalID: -8780066030073817202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1733
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ecd200900f12fd0800000000000000
+      internalID: -2368348007571796352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1365
+        width: 256
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31b285d465b9d610800000000000000
+      internalID: 1646546583464096060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1759
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c79a4fe68cb4150800000000000000
+      internalID: 5857996119202167946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1759
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9fecb4688c69130800000000000000
+      internalID: 3573263833488095663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1759
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517d722b8d2aa8750800000000000000
+      internalID: 6308033279671392021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1759
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de72ecedf8701d50800000000000000
+      internalID: 6705992877150994129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 991
+        width: 256
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f19e7fd196a2370800000000000000
+      internalID: 8298560840817778488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1343
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f7cd4deb7073ed0800000000000000
+      internalID: -2434468557374062767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_58
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1327
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40222675b2dae200800000000000000
+      internalID: 210212009439010890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_59
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1329
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fc590363ea8bdf0800000000000000
+      internalID: -164189838632431793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 256
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b91179826891ef0800000000000000
+      internalID: -136930804766762107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 543
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37b223beb7742bb0800000000000000
+      internalID: -4961709228522555587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 129
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea28c0148a254d40800000000000000
+      internalID: 5567903261019089637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 511
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdbf04a97a896f60800000000000000
+      internalID: 8028100065812790720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 511
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805cd2d09ff9a9170800000000000000
+      internalID: 8186031164716074248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 511
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53fda872dcc20270800000000000000
+      internalID: 8215353874617070431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 479
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1045ba4fac70273c0800000000000000
+      internalID: -4363416520698932223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed6158d917a111e0800000000000000
+      internalID: -2228816611126448663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 415
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac11dd1b6eea98e0800000000000000
+      internalID: -1685772966667674463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 193
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210ddc2674e365750800000000000000
+      internalID: 6293286005618102290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 161
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e720e4b33b11b580800000000000000
+      internalID: -8813233086895478812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454e7f4bbd698ea60800000000000000
+      internalID: 7703573032995382356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce992a28e23834fb0800000000000000
+      internalID: -4664740553242273300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca2492b0cdd7270800000000000000
+      internalID: 8249992032907603030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f675bec9d05d270800000000000000
+      internalID: 8274534857977589637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99678223bbe4fda60800000000000000
+      internalID: 7700960453734200985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420091b114449a9a0800000000000000
+      internalID: -6221366363817443292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad441b01b5bf0e240800000000000000
+      internalID: 4819127969827079386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9417ca3c254a048f0800000000000000
+      internalID: -558265678416809655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf74018bcd6c02760800000000000000
+      internalID: 7431158036444497916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d9fb5492a76e190800000000000000
+      internalID: -7933519375884116734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 63
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953fed4e0d32a5860800000000000000
+      internalID: 7519361907948450649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147590755bc8988c0800000000000000
+      internalID: -3996508483837405375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adcbcf53eb70d020800000000000000
+      internalID: 2364526020864495015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eff4fd7788f3aa0800000000000000
+      internalID: -6179070115299983856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9af0047653fd340800000000000000
+      internalID: 4890686437920319918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ac3ead55dad31a0800000000000000
+      internalID: -6828110875767617000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff24311de6afaa430800000000000000
+      internalID: 3795120989874111231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc33c949aa8b1880800000000000000
+      internalID: -8639159000488526602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2196012ef6a058730800000000000000
+      internalID: 4000615319638927634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c1f3e93a1ad0800800000000000000
+      internalID: 580297651107339371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc63bb350174e320800000000000000
+      internalID: 2586316353307897047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02ce703f0f5cad80800000000000000
+      internalID: -8238105099524718070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ccb7441fb23b870800000000000000
+      internalID: 8697343620618636437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4a3ec517f284360800000000000000
+      internalID: 7154020172014265583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Angelure_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f466522a68040b500800000000000000
+      internalID: 409898513080870479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPU-Angelure_0: -1075071877919018625
+      NPU-Angelure_1: -3635712336195289919
+      NPU-Angelure_10: -2308094942041786326
+      NPU-Angelure_11: -5830497123824638560
+      NPU-Angelure_12: 8598817199167200591
+      NPU-Angelure_13: -1796485856689853793
+      NPU-Angelure_14: 83066697693737626
+      NPU-Angelure_15: -6979864403370253369
+      NPU-Angelure_16: 1524838061025703657
+      NPU-Angelure_17: -6389089260621904670
+      NPU-Angelure_18: 1214907753518649934
+      NPU-Angelure_19: -8086614916304668654
+      NPU-Angelure_2: -8568204212584764240
+      NPU-Angelure_20: -8144413870296979876
+      NPU-Angelure_21: -7716515212122478044
+      NPU-Angelure_22: 2074454101847397143
+      NPU-Angelure_23: 255817784993181560
+      NPU-Angelure_24: -1475175414535238585
+      NPU-Angelure_25: 117535702132476659
+      NPU-Angelure_26: 8706404332412071023
+      NPU-Angelure_27: 8488368519653673859
+      NPU-Angelure_28: 5509167096093322454
+      NPU-Angelure_29: -7933486644002767842
+      NPU-Angelure_3: -3178225836182274451
+      NPU-Angelure_30: 4621886857456153770
+      NPU-Angelure_31: 1981576490264771907
+      NPU-Angelure_32: -7539503753166274000
+      NPU-Angelure_33: 2714676214383737971
+      NPU-Angelure_34: 1257685437703579667
+      NPU-Angelure_35: -2561770813627147322
+      NPU-Angelure_36: 4765323408679749583
+      NPU-Angelure_37: 5865570209322126040
+      NPU-Angelure_38: -5365875455630257829
+      NPU-Angelure_39: 869201574573231999
+      NPU-Angelure_4: 737708933158025947
+      NPU-Angelure_40: 4104819727822683383
+      NPU-Angelure_41: -4645855254649924984
+      NPU-Angelure_42: -5461915319663931057
+      NPU-Angelure_43: 3148229730496016013
+      NPU-Angelure_44: 2278651508324541678
+      NPU-Angelure_45: -5758889617358651870
+      NPU-Angelure_46: -8914419448005390344
+      NPU-Angelure_47: -37829742019355327
+      NPU-Angelure_48: 6731054194315320919
+      NPU-Angelure_49: -8780066030073817202
+      NPU-Angelure_5: -5852940957458591112
+      NPU-Angelure_50: -2368348007571796352
+      NPU-Angelure_51: 1646546583464096060
+      NPU-Angelure_52: 5857996119202167946
+      NPU-Angelure_53: 3573263833488095663
+      NPU-Angelure_54: 6308033279671392021
+      NPU-Angelure_55: 6705992877150994129
+      NPU-Angelure_56: 8298560840817778488
+      NPU-Angelure_57: -2434468557374062767
+      NPU-Angelure_58: 210212009439010890
+      NPU-Angelure_59: -164189838632431793
+      NPU-Angelure_6: -8718338440882467567
+      NPU-Angelure_60: -136930804766762107
+      NPU-Angelure_61: -4961709228522555587
+      NPU-Angelure_62: 5567903261019089637
+      NPU-Angelure_63: 8028100065812790720
+      NPU-Angelure_64: 8186031164716074248
+      NPU-Angelure_65: 8215353874617070431
+      NPU-Angelure_66: -4363416520698932223
+      NPU-Angelure_67: -2228816611126448663
+      NPU-Angelure_68: -1685772966667674463
+      NPU-Angelure_69: 6293286005618102290
+      NPU-Angelure_7: -2903206353095637088
+      NPU-Angelure_70: -8813233086895478812
+      NPU-Angelure_71: 7703573032995382356
+      NPU-Angelure_72: -4664740553242273300
+      NPU-Angelure_73: 8249992032907603030
+      NPU-Angelure_74: 8274534857977589637
+      NPU-Angelure_75: 7700960453734200985
+      NPU-Angelure_76: -6221366363817443292
+      NPU-Angelure_77: 4819127969827079386
+      NPU-Angelure_78: -558265678416809655
+      NPU-Angelure_79: 7431158036444497916
+      NPU-Angelure_8: -242278578971220326
+      NPU-Angelure_80: -7933519375884116734
+      NPU-Angelure_81: 7519361907948450649
+      NPU-Angelure_82: -3996508483837405375
+      NPU-Angelure_83: 2364526020864495015
+      NPU-Angelure_84: -6179070115299983856
+      NPU-Angelure_85: 4890686437920319918
+      NPU-Angelure_86: -6828110875767617000
+      NPU-Angelure_87: 3795120989874111231
+      NPU-Angelure_88: -8639159000488526602
+      NPU-Angelure_89: 4000615319638927634
+      NPU-Angelure_9: 6567817142236285427
+      NPU-Angelure_90: 580297651107339371
+      NPU-Angelure_91: 2586316353307897047
+      NPU-Angelure_92: -8238105099524718070
+      NPU-Angelure_93: 8697343620618636437
+      NPU-Angelure_94: 7154020172014265583
+      NPU-Angelure_95: 409898513080870479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

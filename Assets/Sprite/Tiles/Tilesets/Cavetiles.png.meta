@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 229fc730656c6d14486bdb4d596d5942
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1024547129885160383
+    second: Cavetiles_0
+  - first:
+      213: -8870071080115914176
+    second: Cavetiles_1
+  - first:
+      213: -8257796332983809548
+    second: Cavetiles_2
+  - first:
+      213: -2356439215404487394
+    second: Cavetiles_3
+  - first:
+      213: 888985259576143541
+    second: Cavetiles_4
+  - first:
+      213: -6054875584026593806
+    second: Cavetiles_5
+  - first:
+      213: 7374310841940144647
+    second: Cavetiles_6
+  - first:
+      213: 7874749821150032521
+    second: Cavetiles_7
+  - first:
+      213: -2245124569056517685
+    second: Cavetiles_8
+  - first:
+      213: -314181283988316152
+    second: Cavetiles_9
+  - first:
+      213: 8742964553702122235
+    second: Cavetiles_10
+  - first:
+      213: -4370336186219388055
+    second: Cavetiles_11
+  - first:
+      213: -5661029011057278963
+    second: Cavetiles_12
+  - first:
+      213: -1344845575134819579
+    second: Cavetiles_13
+  - first:
+      213: -3761655368334342382
+    second: Cavetiles_14
+  - first:
+      213: 8035887405530410608
+    second: Cavetiles_15
+  - first:
+      213: -6984822906910946009
+    second: Cavetiles_16
+  - first:
+      213: 4038406191202970091
+    second: Cavetiles_17
+  - first:
+      213: 8721113244946968190
+    second: Cavetiles_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cavetiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5711
+        width: 256
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c8c8b40d318c1f0800000000000000
+      internalID: -1024547129885160383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4751
+        width: 256
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ab939295d27e480800000000000000
+      internalID: -8870071080115914176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4367
+        width: 229
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f90af0acf9666d80800000000000000
+      internalID: -8257796332983809548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4751
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1de30fb40f3c4fd0800000000000000
+      internalID: -2356439215404487394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4655
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be289f226f465c00800000000000000
+      internalID: 888985259576143541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4559
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5b8e68cb2c8fba0800000000000000
+      internalID: -6054875584026593806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4495
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7027725d3a0d65660800000000000000
+      internalID: 7374310841940144647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4303
+        width: 256
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982f7b87d3bb84d60800000000000000
+      internalID: 7874749821150032521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4271
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc162e08917b7d0e0800000000000000
+      internalID: -2245124569056517685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 4285
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800eccc69cdc3abf0800000000000000
+      internalID: -314181283988316152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3439
+        width: 256
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf22f3b70ff355970800000000000000
+      internalID: 8742964553702122235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4243
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963ab57c4627953c0800000000000000
+      internalID: -4370336186219388055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4265
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0000cc9b1cff61b0800000000000000
+      internalID: -5661029011057278963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2671
+        width: 256
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b45502316265de0800000000000000
+      internalID: -1344845575134819579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2575
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2178df26f5aebcbc0800000000000000
+      internalID: -3761655368334342382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2127
+        width: 256
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eeca5f405358f60800000000000000
+      internalID: 8035887405530410608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1679
+        width: 256
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dcf86c29ce01f90800000000000000
+      internalID: -6984822906910946009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 256
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be92465d80d4b0830800000000000000
+      internalID: 4038406191202970091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavetiles_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1647
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ea4033a4e970970800000000000000
+      internalID: 8721113244946968190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cavetiles_0: -1024547129885160383
+      Cavetiles_1: -8870071080115914176
+      Cavetiles_10: 8742964553702122235
+      Cavetiles_11: -4370336186219388055
+      Cavetiles_12: -5661029011057278963
+      Cavetiles_13: -1344845575134819579
+      Cavetiles_14: -3761655368334342382
+      Cavetiles_15: 8035887405530410608
+      Cavetiles_16: -6984822906910946009
+      Cavetiles_17: 4038406191202970091
+      Cavetiles_18: 8721113244946968190
+      Cavetiles_2: -8257796332983809548
+      Cavetiles_3: -2356439215404487394
+      Cavetiles_4: 888985259576143541
+      Cavetiles_5: -6054875584026593806
+      Cavetiles_6: 7374310841940144647
+      Cavetiles_7: 7874749821150032521
+      Cavetiles_8: -2245124569056517685
+      Cavetiles_9: -314181283988316152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

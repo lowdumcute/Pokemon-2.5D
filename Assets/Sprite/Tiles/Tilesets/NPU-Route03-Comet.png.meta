@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 24dde4526efbce44395454b9c0243fe9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8755636241008364021
+    second: NPU-Route03-Comet_0
+  - first:
+      213: -4585541832195858335
+    second: NPU-Route03-Comet_1
+  - first:
+      213: -7794523470943357147
+    second: NPU-Route03-Comet_2
+  - first:
+      213: 1146374473138386858
+    second: NPU-Route03-Comet_3
+  - first:
+      213: -6043083704362152298
+    second: NPU-Route03-Comet_4
+  - first:
+      213: 8486483400211270873
+    second: NPU-Route03-Comet_5
+  - first:
+      213: 895495409853054152
+    second: NPU-Route03-Comet_6
+  - first:
+      213: 4639791231382081548
+    second: NPU-Route03-Comet_7
+  - first:
+      213: 580781156180635211
+    second: NPU-Route03-Comet_8
+  - first:
+      213: 4369319769092172383
+    second: NPU-Route03-Comet_9
+  - first:
+      213: 5595984315383398592
+    second: NPU-Route03-Comet_10
+  - first:
+      213: -5218621820806780325
+    second: NPU-Route03-Comet_11
+  - first:
+      213: -5052908676673355025
+    second: NPU-Route03-Comet_12
+  - first:
+      213: 501051876536156509
+    second: NPU-Route03-Comet_13
+  - first:
+      213: -4312546911963530912
+    second: NPU-Route03-Comet_14
+  - first:
+      213: 4992298267040520150
+    second: NPU-Route03-Comet_15
+  - first:
+      213: 4578755039881834098
+    second: NPU-Route03-Comet_16
+  - first:
+      213: -2029675075728513693
+    second: NPU-Route03-Comet_17
+  - first:
+      213: -7541420948544334536
+    second: NPU-Route03-Comet_18
+  - first:
+      213: -3397046862673382035
+    second: NPU-Route03-Comet_19
+  - first:
+      213: -8820137137591875085
+    second: NPU-Route03-Comet_20
+  - first:
+      213: 8781083918932302514
+    second: NPU-Route03-Comet_21
+  - first:
+      213: -1282541976034615592
+    second: NPU-Route03-Comet_22
+  - first:
+      213: -7987857472142667763
+    second: NPU-Route03-Comet_23
+  - first:
+      213: -3648876631009374917
+    second: NPU-Route03-Comet_24
+  - first:
+      213: -4671777653505033729
+    second: NPU-Route03-Comet_25
+  - first:
+      213: 1178151350804960130
+    second: NPU-Route03-Comet_26
+  - first:
+      213: 959549809886986645
+    second: NPU-Route03-Comet_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3811
+        width: 256
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f907d795c4428970800000000000000
+      internalID: 8755636241008364021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3651
+        width: 256
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160a545bff1ec50c0800000000000000
+      internalID: -4585541832195858335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3363
+        width: 256
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527f9f8433a44d390800000000000000
+      internalID: -7794523470943357147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3207
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa73df2728db8ef00800000000000000
+      internalID: 1146374473138386858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3267
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eca857367a22ca0800000000000000
+      internalID: -6043083704362152298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3271
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc87dd60bb06c570800000000000000
+      internalID: 8486483400211270873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3235
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccb84aa4507d6c00800000000000000
+      internalID: 895495409853054152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2947
+        width: 256
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c005082da89d36040800000000000000
+      internalID: 4639791231382081548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2915
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e236a62695f0800800000000000000
+      internalID: 580781156180635211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2915
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aa4da2e21f2ac30800000000000000
+      internalID: 4369319769092172383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2915
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0c517061ee8ad40800000000000000
+      internalID: 5595984315383398592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1395
+        width: 256
+        height: 1522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aa5b97a1bb397b0800000000000000
+      internalID: -5218621820806780325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1379
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2456c745670e9b0800000000000000
+      internalID: -5052908676673355025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1187
+        width: 129
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d510bfae60814f600800000000000000
+      internalID: 501051876536156509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1315
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069b433be61c624c0800000000000000
+      internalID: -4312546911963530912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1315
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d79fb3d2d4384540800000000000000
+      internalID: 4992298267040520150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1243
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27eafa113710b8f30800000000000000
+      internalID: 4578755039881834098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 871
+        width: 256
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365ecb5b54525d3e0800000000000000
+      internalID: -2029675075728513693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 161
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835535c7a9d775790800000000000000
+      internalID: -7541420948544334536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 835
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d657ff070e34bd0d0800000000000000
+      internalID: -3397046862673382035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 835
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f90b932104989580800000000000000
+      internalID: -8820137137591875085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 835
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2badad2dc4dacd970800000000000000
+      internalID: 8781083918932302514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 739
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dedde43ede733ee0800000000000000
+      internalID: -1282541976034615592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 739
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d009c7853fd652190800000000000000
+      internalID: -7987857472142667763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 563
+        width: 154
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d467369069c5dc0800000000000000
+      internalID: -3648876631009374917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 595
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9793de9f28a2fb0800000000000000
+      internalID: -4671777653505033729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28350645962a95010800000000000000
+      internalID: 1178151350804960130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPU-Route03-Comet_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 483
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5918b9ad771015d00800000000000000
+      internalID: 959549809886986645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPU-Route03-Comet_0: 8755636241008364021
+      NPU-Route03-Comet_1: -4585541832195858335
+      NPU-Route03-Comet_10: 5595984315383398592
+      NPU-Route03-Comet_11: -5218621820806780325
+      NPU-Route03-Comet_12: -5052908676673355025
+      NPU-Route03-Comet_13: 501051876536156509
+      NPU-Route03-Comet_14: -4312546911963530912
+      NPU-Route03-Comet_15: 4992298267040520150
+      NPU-Route03-Comet_16: 4578755039881834098
+      NPU-Route03-Comet_17: -2029675075728513693
+      NPU-Route03-Comet_18: -7541420948544334536
+      NPU-Route03-Comet_19: -3397046862673382035
+      NPU-Route03-Comet_2: -7794523470943357147
+      NPU-Route03-Comet_20: -8820137137591875085
+      NPU-Route03-Comet_21: 8781083918932302514
+      NPU-Route03-Comet_22: -1282541976034615592
+      NPU-Route03-Comet_23: -7987857472142667763
+      NPU-Route03-Comet_24: -3648876631009374917
+      NPU-Route03-Comet_25: -4671777653505033729
+      NPU-Route03-Comet_26: 1178151350804960130
+      NPU-Route03-Comet_27: 959549809886986645
+      NPU-Route03-Comet_3: 1146374473138386858
+      NPU-Route03-Comet_4: -6043083704362152298
+      NPU-Route03-Comet_5: 8486483400211270873
+      NPU-Route03-Comet_6: 895495409853054152
+      NPU-Route03-Comet_7: 4639791231382081548
+      NPU-Route03-Comet_8: 580781156180635211
+      NPU-Route03-Comet_9: 4369319769092172383
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

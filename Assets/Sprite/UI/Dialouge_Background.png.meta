@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 78a554438d15e384395e110a863d289e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2459690793928598591
+    second: Dialouge_Background_0
+  - first:
+      213: -5116445445955438028
+    second: Dialouge_Background_1
+  - first:
+      213: -2129057443028173442
+    second: Dialouge_Background_2
+  - first:
+      213: -8569954719209257872
+    second: Dialouge_Background_3
+  - first:
+      213: 8351472478084005477
+    second: Dialouge_Background_4
+  - first:
+      213: -1827349878060617102
+    second: Dialouge_Background_5
+  - first:
+      213: 5940567650475243575
+    second: Dialouge_Background_6
+  - first:
+      213: -5073896240254477648
+    second: Dialouge_Background_7
+  - first:
+      213: 4931869120410635670
+    second: Dialouge_Background_8
+  - first:
+      213: -4911443046286378501
+    second: Dialouge_Background_9
+  - first:
+      213: 1168631540458739146
+    second: Dialouge_Background_10
+  - first:
+      213: -6992562581069050087
+    second: Dialouge_Background_11
+  - first:
+      213: 1173103543983421641
+    second: Dialouge_Background_12
+  - first:
+      213: -2152367646827771262
+    second: Dialouge_Background_13
+  - first:
+      213: -4379710744454805492
+    second: Dialouge_Background_14
+  - first:
+      213: -3566764776149937949
+    second: Dialouge_Background_15
+  - first:
+      213: -7886349714699495847
+    second: Dialouge_Background_16
+  - first:
+      213: 3656935860019094954
+    second: Dialouge_Background_17
+  - first:
+      213: 5000626977376306412
+    second: Dialouge_Background_18
+  - first:
+      213: -712949808701257809
+    second: Dialouge_Background_19
+  - first:
+      213: 3579866851718143754
+    second: Dialouge_Background_20
+  - first:
+      213: 722094314871944523
+    second: Dialouge_Background_21
+  - first:
+      213: -4750185732465726392
+    second: Dialouge_Background_22
+  - first:
+      213: -324603963821040080
+    second: Dialouge_Background_23
+  - first:
+      213: -8807945540282906356
+    second: Dialouge_Background_24
+  - first:
+      213: 2886635942031443004
+    second: Dialouge_Background_25
+  - first:
+      213: 9149967148284804571
+    second: Dialouge_Background_26
+  - first:
+      213: 8575166576135526269
+    second: Dialouge_Background_27
+  - first:
+      213: -8951125358199993134
+    second: Dialouge_Background_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dialouge_Background_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 800
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a392999fbbef8b0800000000000000
+      internalID: -5116445445955438028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 800
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d77e929811472e0800000000000000
+      internalID: -2129057443028173442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 720
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ef5a788f366e370800000000000000
+      internalID: 8351472478084005477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 720
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272f7d5b7f2f3a6e0800000000000000
+      internalID: -1827349878060617102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 639
+        width: 318
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba117c8046e599b0800000000000000
+      internalID: -5073896240254477648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 640
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d4bc8b5d4817440800000000000000
+      internalID: 4931869120410635670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 559
+        width: 318
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac55c52c130d73010800000000000000
+      internalID: 1168631540458739146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 560
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fc0b5716d65fe90800000000000000
+      internalID: -6992562581069050087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 480
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a89c867014122e0800000000000000
+      internalID: -2152367646827771262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 480
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c084fc958442833c0800000000000000
+      internalID: -4379710744454805492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 400
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95655d8d7be0e8290800000000000000
+      internalID: -7886349714699495847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 400
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa563d61acb00c230800000000000000
+      internalID: 3656935860019094954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 320
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce400c0ddbbc56540800000000000000
+      internalID: 5000626977376306412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 320
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7cda52de71b16f0800000000000000
+      internalID: -712949808701257809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 240
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f1bd74fed3ea130800000000000000
+      internalID: 3579866851718143754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 240
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45754c14f4650a00800000000000000
+      internalID: 722094314871944523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 160
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5d45cca278e124996f6d822a70f8e3
+      internalID: -4750185732465726392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_23
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 160
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ef1457ecfedb94da803a7f0b95bff9
+      internalID: -324603963821040080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 80
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d92cb16beaeff49b7d9113f82dafe6
+      internalID: -8807945540282906356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 80
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9242c6389c5d945b4fd4daf149da8d
+      internalID: 2886635942031443004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dfd4c48ec92f44aba926f4183244ec
+      internalID: 8575166576135526269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialouge_Background_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a888b9eabb6b0eb4192ccf264c538c13
+      internalID: -8951125358199993134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5acde1422cfe5514b849aa039a79d287
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dialouge_Background_0: -2459690793928598591
+      Dialouge_Background_1: -5116445445955438028
+      Dialouge_Background_10: 1168631540458739146
+      Dialouge_Background_11: -6992562581069050087
+      Dialouge_Background_12: 1173103543983421641
+      Dialouge_Background_13: -2152367646827771262
+      Dialouge_Background_14: -4379710744454805492
+      Dialouge_Background_15: -3566764776149937949
+      Dialouge_Background_16: -7886349714699495847
+      Dialouge_Background_17: 3656935860019094954
+      Dialouge_Background_18: 5000626977376306412
+      Dialouge_Background_19: -712949808701257809
+      Dialouge_Background_2: -2129057443028173442
+      Dialouge_Background_20: 3579866851718143754
+      Dialouge_Background_21: 722094314871944523
+      Dialouge_Background_22: -4750185732465726392
+      Dialouge_Background_23: -324603963821040080
+      Dialouge_Background_24: -8807945540282906356
+      Dialouge_Background_25: 2886635942031443004
+      Dialouge_Background_26: 9149967148284804571
+      Dialouge_Background_27: 8575166576135526269
+      Dialouge_Background_28: -8951125358199993134
+      Dialouge_Background_3: -8569954719209257872
+      Dialouge_Background_4: 8351472478084005477
+      Dialouge_Background_5: -1827349878060617102
+      Dialouge_Background_6: 5940567650475243575
+      Dialouge_Background_7: -5073896240254477648
+      Dialouge_Background_8: 4931869120410635670
+      Dialouge_Background_9: -4911443046286378501
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

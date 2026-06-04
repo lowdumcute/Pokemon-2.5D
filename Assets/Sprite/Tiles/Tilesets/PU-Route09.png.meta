@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: 7c5ee8c389865cf4b84e0a27afda2995
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5530957263721510417
+    second: PU-Route09_0
+  - first:
+      213: -2732239094326063488
+    second: PU-Route09_1
+  - first:
+      213: -9047295002336669388
+    second: PU-Route09_2
+  - first:
+      213: -9222392358447957842
+    second: PU-Route09_3
+  - first:
+      213: 5298342077790256760
+    second: PU-Route09_4
+  - first:
+      213: -7096348216113614991
+    second: PU-Route09_5
+  - first:
+      213: -4579928253004372311
+    second: PU-Route09_6
+  - first:
+      213: -8003908958181622337
+    second: PU-Route09_7
+  - first:
+      213: 2920549079254317370
+    second: PU-Route09_8
+  - first:
+      213: -6303127737652787809
+    second: PU-Route09_9
+  - first:
+      213: -7159151179086781683
+    second: PU-Route09_10
+  - first:
+      213: 4254076313133075736
+    second: PU-Route09_11
+  - first:
+      213: -1730881147933520463
+    second: PU-Route09_12
+  - first:
+      213: -7258534832301634306
+    second: PU-Route09_13
+  - first:
+      213: 678638593246769150
+    second: PU-Route09_14
+  - first:
+      213: 7383078749164244475
+    second: PU-Route09_15
+  - first:
+      213: 9171739853319286291
+    second: PU-Route09_16
+  - first:
+      213: 6227015371319942706
+    second: PU-Route09_17
+  - first:
+      213: -2437902686140281470
+    second: PU-Route09_18
+  - first:
+      213: -2959055237318094405
+    second: PU-Route09_19
+  - first:
+      213: -3047494129994018748
+    second: PU-Route09_20
+  - first:
+      213: -7749899360883327455
+    second: PU-Route09_21
+  - first:
+      213: 4615863289964228671
+    second: PU-Route09_22
+  - first:
+      213: -489242457381229657
+    second: PU-Route09_23
+  - first:
+      213: -3093276337392147530
+    second: PU-Route09_24
+  - first:
+      213: 8812481514294761058
+    second: PU-Route09_25
+  - first:
+      213: -1066753041309875904
+    second: PU-Route09_26
+  - first:
+      213: -2040344529183816456
+    second: PU-Route09_27
+  - first:
+      213: 972097065196070103
+    second: PU-Route09_28
+  - first:
+      213: 1874839763065160054
+    second: PU-Route09_29
+  - first:
+      213: 7314093129081973923
+    second: PU-Route09_30
+  - first:
+      213: -7017276727304178009
+    second: PU-Route09_31
+  - first:
+      213: 2701472087148748625
+    second: PU-Route09_32
+  - first:
+      213: 7270071081289308654
+    second: PU-Route09_33
+  - first:
+      213: -282692328253497800
+    second: PU-Route09_34
+  - first:
+      213: 3711820307871300808
+    second: PU-Route09_35
+  - first:
+      213: -805796188660667373
+    second: PU-Route09_36
+  - first:
+      213: 2815146519345886249
+    second: PU-Route09_37
+  - first:
+      213: 3651583499787306457
+    second: PU-Route09_38
+  - first:
+      213: 2602433663898861536
+    second: PU-Route09_39
+  - first:
+      213: 670666318112173023
+    second: PU-Route09_40
+  - first:
+      213: 3377622278802372715
+    second: PU-Route09_41
+  - first:
+      213: 1180559447128044842
+    second: PU-Route09_42
+  - first:
+      213: 5629602091776871945
+    second: PU-Route09_43
+  - first:
+      213: 7242899099496330742
+    second: PU-Route09_44
+  - first:
+      213: -8036315741420161496
+    second: PU-Route09_45
+  - first:
+      213: -8620243505594899624
+    second: PU-Route09_46
+  - first:
+      213: -3781160742993022027
+    second: PU-Route09_47
+  - first:
+      213: -4334841562881008191
+    second: PU-Route09_48
+  - first:
+      213: 3993195215003190386
+    second: PU-Route09_49
+  - first:
+      213: -8003606987841706272
+    second: PU-Route09_50
+  - first:
+      213: 7049890897054322169
+    second: PU-Route09_51
+  - first:
+      213: -3109672221123136639
+    second: PU-Route09_52
+  - first:
+      213: -3358039472536393531
+    second: PU-Route09_53
+  - first:
+      213: -1509050829216176279
+    second: PU-Route09_54
+  - first:
+      213: 4222538129547826099
+    second: PU-Route09_55
+  - first:
+      213: -5873256547765700886
+    second: PU-Route09_56
+  - first:
+      213: 7144132958564399755
+    second: PU-Route09_57
+  - first:
+      213: 2536250164920844192
+    second: PU-Route09_58
+  - first:
+      213: 3192745618553385304
+    second: PU-Route09_59
+  - first:
+      213: -103129826348605133
+    second: PU-Route09_60
+  - first:
+      213: 7173506444160355878
+    second: PU-Route09_61
+  - first:
+      213: 38119004086394920
+    second: PU-Route09_62
+  - first:
+      213: 8469805813346039633
+    second: PU-Route09_63
+  - first:
+      213: -8029721390856524127
+    second: PU-Route09_64
+  - first:
+      213: -1851173031784309856
+    second: PU-Route09_65
+  - first:
+      213: 2453209278299787944
+    second: PU-Route09_66
+  - first:
+      213: 4626319318398587568
+    second: PU-Route09_67
+  - first:
+      213: -7645098400178734327
+    second: PU-Route09_68
+  - first:
+      213: 5892354341313232740
+    second: PU-Route09_69
+  - first:
+      213: 7479054884610714445
+    second: PU-Route09_70
+  - first:
+      213: -8909434958047245132
+    second: PU-Route09_71
+  - first:
+      213: 6823545819604595584
+    second: PU-Route09_72
+  - first:
+      213: -2873580642421684443
+    second: PU-Route09_73
+  - first:
+      213: -5942644265168848625
+    second: PU-Route09_74
+  - first:
+      213: -4061380125104684799
+    second: PU-Route09_75
+  - first:
+      213: -957210455168538063
+    second: PU-Route09_76
+  - first:
+      213: 7148204206712748046
+    second: PU-Route09_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PU-Route09_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2975
+        width: 256
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe943044ca71e33b0800000000000000
+      internalID: -5530957263721510417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2815
+        width: 227
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e824d0503251ad0800000000000000
+      internalID: -2732239094326063488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2944
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4315e87412d817280800000000000000
+      internalID: -9047295002336669388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2944
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8be67230b730080800000000000000
+      internalID: -9222392358447957842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2973
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e71354c0e778940800000000000000
+      internalID: 5298342077790256760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2969
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f221045e4b48d90800000000000000
+      internalID: -7096348216113614991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2911
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a626e6f483d070c0800000000000000
+      internalID: -4579928253004372311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2879
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd740585376ce090800000000000000
+      internalID: -8003908958181622337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2591
+        width: 159
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a393c02f9efd78820800000000000000
+      internalID: 2920549079254317370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2847
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f954b4fc7bac688a0800000000000000
+      internalID: -6303127737652787809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2527
+        width: 97
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03a635fee595ac90800000000000000
+      internalID: -7159151179086781683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d43b32ed3890b30800000000000000
+      internalID: 4254076313133075736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2559
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd800d34ccaaf7e0800000000000000
+      internalID: -1730881147933520463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2561
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc8cd20701844b90800000000000000
+      internalID: -7258534832301634306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2541
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff285974320b6900800000000000000
+      internalID: 678638593246769150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2559
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd8ba05107f57660800000000000000
+      internalID: 7383078749164244475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2559
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ea3697dc0984f70800000000000000
+      internalID: 9171739853319286291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2541
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e1c62fc7dca6650800000000000000
+      internalID: 6227015371319942706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2435
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d43ab6c64da2ed0800000000000000
+      internalID: -2437902686140281470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2399
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb155ec70f25fe6d0800000000000000
+      internalID: -2959055237318094405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2371
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4405e9e2c3025b5d0800000000000000
+      internalID: -3047494129994018748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_21
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2431
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12eb58d8793d27490800000000000000
+      internalID: -7749899360883327455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2111
+        width: 256
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f307512d437de0040800000000000000
+      internalID: 4615863289964228671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2079
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aba0ceb39cd539f0800000000000000
+      internalID: -489242457381229657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3ae9d5f897215d0800000000000000
+      internalID: -3093276337392147530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2079
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2665c392f393c4a70800000000000000
+      internalID: 8812481514294761058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2079
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04148a5c2c12231f0800000000000000
+      internalID: -1066753041309875904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 256
+        height: 1522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4469ef57d3fa3e0800000000000000
+      internalID: -2040344529183816456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 543
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4263261259d7d00800000000000000
+      internalID: 972097065196070103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 161
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671c648c4d4c40a10800000000000000
+      internalID: 1874839763065160054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 511
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac6e0df2f0e08560800000000000000
+      internalID: 7314093129081973923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 511
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a63b62eeff9d9e90800000000000000
+      internalID: -7017276727304178009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 511
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f522ddc8e8d7520800000000000000
+      internalID: 2701472087148748625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 479
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9d614412b74e460800000000000000
+      internalID: 7270071081289308654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 447
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ed8b143dca31cf0800000000000000
+      internalID: -282692328253497800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_35
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 447
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccffb867e8038330800000000000000
+      internalID: 3711820307871300808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c648db2ac31d4f0800000000000000
+      internalID: -805796188660667373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 415
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924f94418d8611720800000000000000
+      internalID: 2815146519345886249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5008c98d70da230800000000000000
+      internalID: 3651583499787306457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efb53801a3bd1420800000000000000
+      internalID: 2602433663898861536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb25e5867fae4900800000000000000
+      internalID: 670666318112173023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68f5713199bfde20800000000000000
+      internalID: 3377622278802372715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a257c42ff80326010800000000000000
+      internalID: 1180559447128044842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e082b864d502e40800000000000000
+      internalID: 5629602091776871945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5b9714b52f38460800000000000000
+      internalID: 7242899099496330742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82675c15965497090800000000000000
+      internalID: -8036315741420161496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853e5a3243ebe5880800000000000000
+      internalID: -8620243505594899624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3bf33765e968bc0800000000000000
+      internalID: -3781160742993022027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdd0e6c09c87d3c0800000000000000
+      internalID: -4334841562881008191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2740e0524edaa6730800000000000000
+      internalID: 3993195215003190386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e66cd779d97de090800000000000000
+      internalID: -8003606987841706272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdce204b6e36d160800000000000000
+      internalID: 7049890897054322169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1833e04379938d4d0800000000000000
+      internalID: -3109672221123136639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c86ab134e8d561d0800000000000000
+      internalID: -3358039472536393531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967af802446ce0be0800000000000000
+      internalID: -1509050829216176279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b39d3e8e08799a30800000000000000
+      internalID: 4222538129547826099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae630b3a9400e7ea0800000000000000
+      internalID: -5873256547765700886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a3467131f052360800000000000000
+      internalID: 7144132958564399755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aff1ad5612923320800000000000000
+      internalID: 2536250164920844192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8513f046939ee4c20800000000000000
+      internalID: 3192745618553385304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3316eb628fb919ef0800000000000000
+      internalID: -103129826348605133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e4726aa1a6d8360800000000000000
+      internalID: 7173506444160355878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820e2c1480d678000800000000000000
+      internalID: 38119004086394920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1577705238bca8570800000000000000
+      internalID: 8469805813346039633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae24a430f2b09090800000000000000
+      internalID: -8029721390856524127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab96be7fef4f46e0800000000000000
+      internalID: -1851173031784309856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a250c847dc8b0220800000000000000
+      internalID: 2453209278299787944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2dca6a8ecf33040800000000000000
+      internalID: 4626319318398587568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 63
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b7070b28727e590800000000000000
+      internalID: -7645098400178734327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fb4bced09d5c150800000000000000
+      internalID: 5892354341313232740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b2fd4bac0fac760800000000000000
+      internalID: 7479054884610714445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc85202c145b5480800000000000000
+      internalID: -8909434958047245132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083322e25ca12be50800000000000000
+      internalID: 6823545819604595584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527440f61adfe18d0800000000000000
+      internalID: -2873580642421684443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09391cb68c778da0800000000000000
+      internalID: -5942644265168848625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101cd495b4413a7c0800000000000000
+      internalID: -4061380125104684799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13aa36c992e47b2f0800000000000000
+      internalID: -957210455168538063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PU-Route09_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08f01b6ad5833360800000000000000
+      internalID: 7148204206712748046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PU-Route09_0: -5530957263721510417
+      PU-Route09_1: -2732239094326063488
+      PU-Route09_10: -7159151179086781683
+      PU-Route09_11: 4254076313133075736
+      PU-Route09_12: -1730881147933520463
+      PU-Route09_13: -7258534832301634306
+      PU-Route09_14: 678638593246769150
+      PU-Route09_15: 7383078749164244475
+      PU-Route09_16: 9171739853319286291
+      PU-Route09_17: 6227015371319942706
+      PU-Route09_18: -2437902686140281470
+      PU-Route09_19: -2959055237318094405
+      PU-Route09_2: -9047295002336669388
+      PU-Route09_20: -3047494129994018748
+      PU-Route09_21: -7749899360883327455
+      PU-Route09_22: 4615863289964228671
+      PU-Route09_23: -489242457381229657
+      PU-Route09_24: -3093276337392147530
+      PU-Route09_25: 8812481514294761058
+      PU-Route09_26: -1066753041309875904
+      PU-Route09_27: -2040344529183816456
+      PU-Route09_28: 972097065196070103
+      PU-Route09_29: 1874839763065160054
+      PU-Route09_3: -9222392358447957842
+      PU-Route09_30: 7314093129081973923
+      PU-Route09_31: -7017276727304178009
+      PU-Route09_32: 2701472087148748625
+      PU-Route09_33: 7270071081289308654
+      PU-Route09_34: -282692328253497800
+      PU-Route09_35: 3711820307871300808
+      PU-Route09_36: -805796188660667373
+      PU-Route09_37: 2815146519345886249
+      PU-Route09_38: 3651583499787306457
+      PU-Route09_39: 2602433663898861536
+      PU-Route09_4: 5298342077790256760
+      PU-Route09_40: 670666318112173023
+      PU-Route09_41: 3377622278802372715
+      PU-Route09_42: 1180559447128044842
+      PU-Route09_43: 5629602091776871945
+      PU-Route09_44: 7242899099496330742
+      PU-Route09_45: -8036315741420161496
+      PU-Route09_46: -8620243505594899624
+      PU-Route09_47: -3781160742993022027
+      PU-Route09_48: -4334841562881008191
+      PU-Route09_49: 3993195215003190386
+      PU-Route09_5: -7096348216113614991
+      PU-Route09_50: -8003606987841706272
+      PU-Route09_51: 7049890897054322169
+      PU-Route09_52: -3109672221123136639
+      PU-Route09_53: -3358039472536393531
+      PU-Route09_54: -1509050829216176279
+      PU-Route09_55: 4222538129547826099
+      PU-Route09_56: -5873256547765700886
+      PU-Route09_57: 7144132958564399755
+      PU-Route09_58: 2536250164920844192
+      PU-Route09_59: 3192745618553385304
+      PU-Route09_6: -4579928253004372311
+      PU-Route09_60: -103129826348605133
+      PU-Route09_61: 7173506444160355878
+      PU-Route09_62: 38119004086394920
+      PU-Route09_63: 8469805813346039633
+      PU-Route09_64: -8029721390856524127
+      PU-Route09_65: -1851173031784309856
+      PU-Route09_66: 2453209278299787944
+      PU-Route09_67: 4626319318398587568
+      PU-Route09_68: -7645098400178734327
+      PU-Route09_69: 5892354341313232740
+      PU-Route09_7: -8003908958181622337
+      PU-Route09_70: 7479054884610714445
+      PU-Route09_71: -8909434958047245132
+      PU-Route09_72: 6823545819604595584
+      PU-Route09_73: -2873580642421684443
+      PU-Route09_74: -5942644265168848625
+      PU-Route09_75: -4061380125104684799
+      PU-Route09_76: -957210455168538063
+      PU-Route09_77: 7148204206712748046
+      PU-Route09_8: 2920549079254317370
+      PU-Route09_9: -6303127737652787809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
