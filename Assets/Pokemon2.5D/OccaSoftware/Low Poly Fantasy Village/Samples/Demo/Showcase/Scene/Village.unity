@@ -7331,6 +7331,9 @@ GameObject:
   - component: {fileID: 935096805}
   - component: {fileID: 935096804}
   - component: {fileID: 935096803}
+  - component: {fileID: 935096807}
+  - component: {fileID: 935096806}
+  - component: {fileID: 935096808}
   m_Layer: 0
   m_Name: Blonde_man
   m_TagString: Untagged
@@ -7373,8 +7376,8 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.5
-  m_Height: 1
+  m_Radius: 0.53
+  m_Height: 2.27
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &935096804
@@ -7434,6 +7437,70 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 935096801}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &935096806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935096801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 506bf91f48ce70047bfdfd28e8243a60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonParty
+  pokemons:
+  - _base: {fileID: 11400000, guid: fc7e7d3150d98874483a1846c2d28cc7, type: 2}
+    level: 20
+    gender: 0
+    HeldItem: {fileID: 0}
+  - _base: {fileID: 11400000, guid: ed96776fd728b894eb9836cdb22bbdde, type: 2}
+    level: 20
+    gender: 0
+    HeldItem: {fileID: 0}
+--- !u!114 &935096807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935096801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 673bfd0ccfd3d5148b5270e461dfe33b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NPCTrainer
+  trainerName: Trainer
+  personality: 1
+  trainerParty: {fileID: 935096806}
+  interactionRange: 2
+--- !u!54 &935096808
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935096801}
+  serializedVersion: 5
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1159639472
 GameObject:
   m_ObjectHideFlags: 0
@@ -8449,6 +8516,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameManager
       objectReference: {fileID: 0}
+    - target: {fileID: 7811020007099794235, guid: f76c4aa8eb637ea4fa7e22371c82f716, type: 3}
+      propertyPath: ItemPrefabs
+      value: 
+      objectReference: {fileID: 2227372195023274592, guid: 351f7a8db01ad0c489287c9e594d32e9, type: 3}
     - target: {fileID: 8849887023787158366, guid: f76c4aa8eb637ea4fa7e22371c82f716, type: 3}
       propertyPath: worldCamera
       value: 
@@ -8707,7 +8778,7 @@ GameObject:
   - component: {fileID: 2018116986}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8868,7 +8939,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PokemonParty
   pokemons:
   - _base: {fileID: 11400000, guid: d7405ca35d3752441a7794a051255648, type: 2}
-    level: 100
+    level: 25
     gender: 0
     HeldItem: {fileID: 0}
 --- !u!114 &2018116985
@@ -8917,87 +8988,6 @@ MonoBehaviour:
   m_DefaultActionMap: 
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
---- !u!50 &276189567660849564
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4817147978330246079}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 0
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!70 &591167050977635048
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4817147978330246079}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 2, y: 2}
-  m_Direction: 0
---- !u!114 &1105048089908144405
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4817147978330246079}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 506bf91f48ce70047bfdfd28e8243a60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PokemonParty
-  pokemons:
-  - _base: {fileID: 11400000, guid: d7405ca35d3752441a7794a051255648, type: 2}
-    level: 20
-    gender: 0
-    HeldItem: {fileID: 0}
 --- !u!212 &3193243070579483671
 SpriteRenderer:
   serializedVersion: 2
@@ -9068,10 +9058,6 @@ GameObject:
   - component: {fileID: 5446252011221528621}
   - component: {fileID: 3193243070579483671}
   - component: {fileID: 8962567050864778160}
-  - component: {fileID: 8139094025093733767}
-  - component: {fileID: 1105048089908144405}
-  - component: {fileID: 276189567660849564}
-  - component: {fileID: 591167050977635048}
   m_Layer: 0
   m_Name: blonde_man Prefabs
   m_TagString: Untagged
@@ -9094,22 +9080,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 935096802}
   m_LocalEulerAnglesHint: {x: 20, y: 0, z: 0}
---- !u!114 &8139094025093733767
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4817147978330246079}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 673bfd0ccfd3d5148b5270e461dfe33b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::NPCTrainer
-  trainerName: Trainer
-  personality: 0
-  trainerParty: {fileID: 1105048089908144405}
-  interactionRange: 2
 --- !u!95 &8962567050864778160
 Animator:
   serializedVersion: 7

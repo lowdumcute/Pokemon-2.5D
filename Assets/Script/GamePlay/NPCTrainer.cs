@@ -13,10 +13,10 @@ public class NPCTrainer : MonoBehaviour
     private bool hasBeatenTrainer = false;  // Để tránh đánh lại NPC đã thắng
 
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnCollisionEnter(Collision collision)
     {
-        // Nếu player vào vùng trigger của trainer (2D physics)
-        if (collision.CompareTag("Player") && !hasBeatenTrainer)
+        // Nếu player vào vùng trigger của trainer
+        if (collision.collider.CompareTag("Player") && !hasBeatenTrainer)
         {
             StartBattleWithPlayer();
         }

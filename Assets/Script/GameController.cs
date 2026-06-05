@@ -28,16 +28,14 @@ public class GameController : MonoBehaviour
         var playerParty = playerController.GetComponent<PokemonParty>();
         var wildPokemon = FindAnyObjectByType<MapArea>().GetComponent<MapArea>().GetRandomWildPokemon();
         battleSystem.StartBattle(playerParty, wildPokemon);
-    }
-
-    // Public API for starting a trainer battle from PlayerController
-    public void StartTrainerBattle(PokemonParty playerParty, Pokemon trainerPokemon, TrainerPersonality personality)
+    }    // Public API for starting a trainer battle from PlayerController
+    public void StartTrainerBattle(PokemonParty playerParty, PokemonParty trainerParty, Pokemon trainerPokemon, TrainerPersonality personality)
     {
         state = GameState.Battle;
         battleSystem.gameObject.SetActive(true);
         playerController.gameObject.SetActive(false);
         worldCamera.gameObject.SetActive(false);
-        battleSystem.StartBattle(playerParty, trainerPokemon, personality);
+        battleSystem.StartTrainerBattle(playerParty, trainerParty, trainerPokemon, personality);
     }
 
     private void EndBattle(bool won)

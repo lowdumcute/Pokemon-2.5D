@@ -6,9 +6,9 @@ using UnityEngine;
 /// </summary>
 public enum TrainerPersonality
 {
-    Aggressive,  // Tấn công mạnh, ít hồi máu
-    Tactical,    // Đọc type advantage, xét kế hoạch
-    Coward       // Thủ nhiều, heal khi máu thấp
+    Aggressive,  // Tấn công mạnh, ít hồi máu, thích switch nếu bị ưỡng
+    Tactical,    // Đọc type advantage, xét kế hoạch, cân bằng defense/offense
+    Coward       // Thủ nhiều, heal khi máu thấp, switch nếu cần
 }
 
 /// Script xử lý logic chọn chiêu cho trainer battle
@@ -37,10 +37,8 @@ public class TrainerAI
             default:
                 return GetTacticalMove(attacker, defender);
         }
-    }
-
-    // ============ AGGRESSIVE TRAINER ============
-    // Mục tiêu: Damage lớn nhất, ít dùng status
+    }    // ============ AGGRESSIVE TRAINER ============
+    // Mục tiêu: Damage lớn nhất, nhưng vẫn xét lợi thế hệ, thích switch nếu bị ưỡng
     private Move GetAggressiveMove(Pokemon attacker, Pokemon defender)
     {
         Move bestMove = attacker.Moves[0];
@@ -51,10 +49,21 @@ public class TrainerAI
             if (move.PP <= 0) continue;
 
             float score = EstimateDamagePotential(move, attacker, defender);
+            float typeEff = GetTypeEffectiveness(move, defender);
+            
             if (move.Base.Category == MoveBase.MoveCategory.Status)
             {
-                // Aggressive trainer chỉ dùng status khi không có chiêu tấn công
-                score = 0.1f;
+                score = 0.5f; // Aggressive rất ít dùng status
+            }
+            else
+            {
+                // Bonus nhẹ cho lợi thế hệ
+                score += typeEff * 3f;
+                // Nếu opponent sắp chết, priority damage
+                if (defender.CurrentHp < defender.MaxHP * 0.2f)
+                    score *= 1.5f;
+                // Thêm random nhỏ để không dễ đoán
+                score += Random.Range(-2f, 2f);
             }
 
             if (score > bestScore)
@@ -65,10 +74,8 @@ public class TrainerAI
         }
 
         return bestMove;
-    }
-
-    // ============ TACTICAL TRAINER ============
-    // Mục tiêu: Cân nhắc lợi thế hệ, tiết kiệm PP, dùng status hợp lý
+    }    // ============ TACTICAL TRAINER ============
+    // Mục tiêu: Cân nhắc lợi thế hệ, tiết kiệm PP, dùng status hợp lý, switch hợp lý
     private Move GetTacticalMove(Pokemon attacker, Pokemon defender)
     {
         Move bestMove = attacker.Moves[0];
@@ -86,8 +93,15 @@ public class TrainerAI
             else
             {
                 score = EstimateDamagePotential(move, attacker, defender);
-                score += 2f * GetTypeEffectiveness(move, defender); // ưu tiên lợi thế hệ
-                score *= 1f - (1f / (move.PP + 1f)); // giữ tài nguyên PP nếu không cần thiết
+                float typeEff = GetTypeEffectiveness(move, defender);
+                score += 2.5f * typeEff; // ưu tiên lợi thế hệ
+                
+                // Nếu opponent sắp chết, priority damage
+                if (defender.CurrentHp < defender.MaxHP * 0.3f)
+                    score *= 1.3f;
+                
+                score *= 1f - (1f / (move.PP + 1f)); // giữ tài nguyên PP
+                score += Random.Range(-1f, 1f); // random nhỏ
             }
 
             if (score > bestScore)
@@ -98,10 +112,8 @@ public class TrainerAI
         }
 
         return bestMove;
-    }
-
-    // ============ COWARD TRAINER ============
-    // Mục tiêu: Máu thấp thì heal/buff, chọn chiêu an toàn
+    }    // ============ COWARD TRAINER ============
+    // Mục tiêu: Máu thấp thì heal/buff, chọn chiêu an toàn, switch nếu bị khắc chếchế
     private Move GetCowardMove(Pokemon attacker, Pokemon defender)
     {
         Move bestMove = attacker.Moves[0];
@@ -113,19 +125,35 @@ public class TrainerAI
             if (move.PP <= 0) continue;
 
             float score;
-            if (hpRatio <= 0.35f && move.Base.Target == MoveBase.MoveTartget.Self && move.Base.Category == MoveBase.MoveCategory.Status)
+            
+            // Nếu máu dưới 40%, ưu tiên heal/buff bản thân
+            if (hpRatio <= 0.4f && move.Base.Target == MoveBase.MoveTartget.Self && 
+                move.Base.Category == MoveBase.MoveCategory.Status)
             {
-                score = 100f; // ưu tiên tự buff/heal khi máu thấp
+                score = 150f; // ưu tiên cao nhất
+            }
+            // Nếu máu dưới 60%, tìm move heal/buff
+            else if (hpRatio <= 0.6f && move.Base.Target == MoveBase.MoveTartget.Self && 
+                     move.Base.Category == MoveBase.MoveCategory.Status)
+            {
+                score = 80f;
             }
             else if (move.Base.Category == MoveBase.MoveCategory.Status)
             {
-                score = 10f + EvaluateStatusMove(move, attacker, defender);
+                score = 15f + EvaluateStatusMove(move, attacker, defender);
             }
             else
             {
                 float effectiveness = GetTypeEffectiveness(move, defender);
-                score = effectiveness * 20f / (move.Base.Power + 10f); // chọn chiêu an toàn và hiệu quả
-                if (effectiveness > 1f) score += 3f;
+                // Chọn chiêu an toàn (có lợi thế)
+                score = effectiveness > 1f ? 40f : 20f;
+                score += effectiveness * 10f;
+                
+                // Nếu opponent sắp chết, cân nhắc finish
+                if (defender.CurrentHp < defender.MaxHP * 0.2f)
+                    score *= 1.2f;
+                    
+                score += Random.Range(-2f, 2f);
             }
 
             if (score > bestScore)
@@ -154,33 +182,78 @@ public class TrainerAI
         float effect1 = TypeChart.GetEffectiveness(move.Base.Type, defender.Base.Type1);
         float effect2 = TypeChart.GetEffectiveness(move.Base.Type, defender.Base.Type2);
         return effect1 * effect2;
-    }
-
-    private float EvaluateStatusMove(Move move, Pokemon attacker, Pokemon defender)
+    }    private float EvaluateStatusMove(Move move, Pokemon attacker, Pokemon defender)
     {
         float score = 0f;
         if (move.Base.Target == MoveBase.MoveTartget.Self)
         {
+            // Self-buff: tăng stats
             if (move.Base.Effects != null && move.Base.Effects.Boosts != null && move.Base.Effects.Boosts.Count > 0)
             {
-                score += 10f + move.Base.Effects.Boosts.Count * 2f;
+                score += 15f + move.Base.Effects.Boosts.Count * 3f;
             }
-            if (move.Base.Effects != null && move.Base.Effects.Status != ConditionID.none)
-            {
-                score += 6f;
-            }
-        }
-        else
-        {
+            // Self-heal status
             if (move.Base.Effects != null && move.Base.Effects.Status != ConditionID.none)
             {
                 score += 8f;
             }
+        }
+        else
+        {
+            // Debuff opponent
+            if (move.Base.Effects != null && move.Base.Effects.Status != ConditionID.none)
+            {
+                score += 12f;
+                // Nếu opponent chưa có status, ưu tiên cao hơn
+                if (defender.Status == null)
+                    score += 5f;
+            }
+            // Volatile status (confusion, flinch...)
             if (move.Base.Effects != null && move.Base.Effects.VolatileStatus != VolatileConditionID.none)
             {
-                score += 5f;
+                score += 8f;
             }
         }
         return score;
+    }
+
+    /// <summary>
+    /// Helper để check xem trainer có nên switch Pokemon hay không
+    /// (Có thể gọi từ BattleSystem nếu cần)
+    /// </summary>
+    public bool ShouldSwitchPokemon(Pokemon currentPokemon, Pokemon playerPokemon, PokemonParty trainerParty)
+    {
+        if (trainerParty == null || trainerParty.Pokemons.Count <= 1)
+            return false;
+
+        switch (personality)
+        {
+            case TrainerPersonality.Aggressive:
+                // Switch nếu bị ưỡng nặng hoặc máu quá thấp
+                float typeEff = CalculateTypeAdvantage(playerPokemon, currentPokemon);
+                return typeEff > 1.5f || (float)currentPokemon.CurrentHp / currentPokemon.MaxHP < 0.2f;
+
+            case TrainerPersonality.Tactical:
+                // Switch nếu bị ưỡng hoặc máu dưới 30%
+                typeEff = CalculateTypeAdvantage(playerPokemon, currentPokemon);
+                return typeEff > 1f || (float)currentPokemon.CurrentHp / currentPokemon.MaxHP < 0.3f;
+
+            case TrainerPersonality.Coward:
+                // Switch nếu máu dưới 25% và có thay thế tốt hơn
+                return (float)currentPokemon.CurrentHp / currentPokemon.MaxHP < 0.25f;
+
+            default:
+                return false;
+        }
+    }
+
+    /// <summary>
+    /// Tính lợi thế hệ giữa 2 Pokemon
+    /// </summary>
+    private float CalculateTypeAdvantage(Pokemon attacker, Pokemon defender)
+    {
+        float effect1 = TypeChart.GetEffectiveness(attacker.Base.Type1, defender.Base.Type1);
+        float effect2 = TypeChart.GetEffectiveness(attacker.Base.Type1, defender.Base.Type2);
+        return effect1 * effect2;
     }
 }
