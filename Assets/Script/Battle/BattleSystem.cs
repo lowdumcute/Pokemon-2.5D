@@ -315,10 +315,11 @@ public class BattleSystem : MonoBehaviour
         }
         else
         {
-            // If this was a trainer battle, check trainer party for next healthy Pokemon
+            // Nếu đây là trận trainer battle, kiểm tra xem trainer còn Pokemon nào không
             if (isTrainerBattle && trainerParty != null)
             {
-                var next = trainerParty.GetHealthyPokemon();
+                // Dùng AI để chọn Pokemon tiếp theo tốt nhất dựa trên Pokemon hiện tại của player và tính cách của trainer
+                var next = trainerAI.ChooseBestPokemon(playerUnit.Pokemon, trainerParty);
                 if (next != null)
                 {
                     StartCoroutine(TrainerSendOutNextPokemon(next));
@@ -330,7 +331,7 @@ public class BattleSystem : MonoBehaviour
         }
     }
 
-    // Coroutine to handle trainer sending out their next Pokemon
+    // Trainer gửi Pokemon tiếp theo ra nếu có
     IEnumerator TrainerSendOutNextPokemon(Pokemon next)
     {
         state = BattleState.Busy;

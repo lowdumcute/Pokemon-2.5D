@@ -73,7 +73,8 @@ public class PlayerController : MonoBehaviour
                 }
             }
         }
-    }    public void RequestStartTrainerBattle(
+    }    
+    public void RequestStartTrainerBattle(
         PokemonParty trainerParty,
         Pokemon trainerPokemon,
         TrainerPersonality personality)

@@ -5,13 +5,17 @@ using UnityEngine;
 /// </summary>
 public class NPCTrainer : MonoBehaviour
 {
-    [SerializeField] string trainerName = "Trainer";
-    [SerializeField] TrainerPersonality personality = TrainerPersonality.Tactical;
+    [Header("Trainer Info")]
+    [SerializeField] NPCData npcData;  // ScriptableObject chứa tên và thoại của trainer
+    [SerializeField] NPCUI npcUI;      // Tham chiếu đến NPCUI để hiển thị tên và gọi UI
     [SerializeField] PokemonParty trainerParty;  // Party của trainer
     [SerializeField] float interactionRange = 2f;
-    
-    private bool hasBeatenTrainer = false;  // Để tránh đánh lại NPC đã thắng
+    [SerializeField]private bool hasBeatenTrainer = false;  // Để tránh đánh lại NPC đã thắng
 
+    public void Start()
+    {
+        npcUI.SetData(npcData);
+    }
 
     private void OnCollisionEnter(Collision collision)
     {
@@ -20,6 +24,11 @@ public class NPCTrainer : MonoBehaviour
         {
             StartBattleWithPlayer();
         }
+        else if (collision.collider.CompareTag("Player") && hasBeatenTrainer)
+        {
+            Debug.Log($"You have already defeated {npcData.npcName}."); // sửa lại sau thành NPCData.defaultDialogues 
+        }
+
     }
 
     public void StartBattleWithPlayer()
@@ -36,12 +45,12 @@ public class NPCTrainer : MonoBehaviour
         var trainerPokemon = trainerParty.GetHealthyPokemon();
         if (trainerPokemon == null) return;
 
-        Debug.Log($"{trainerName} challenges you! (Personality: {personality})");
+        Debug.Log($"{npcData.npcName} challenges you! (Personality: {npcData.personality})");
 
         // Request PlayerController to start the battle so GameController handles the transition
         if (PlayerController.Instance != null)
         {
-            PlayerController.Instance.RequestStartTrainerBattle(trainerParty, trainerPokemon, personality);
+            PlayerController.Instance.RequestStartTrainerBattle(trainerParty, trainerPokemon, npcData.personality);
             if (BattleSystem.Instance != null)
                 BattleSystem.Instance.OnBattleOver += OnBattleResult;
         }
@@ -68,24 +77,15 @@ public class NPCTrainer : MonoBehaviour
         if (playerWon)
         {
             hasBeatenTrainer = true;
-            Debug.Log($"Defeated {trainerName}!");
-            gameObject.SetActive(false);
+            Debug.Log($"Defeated {npcData.npcName}!");
         }
         else
         {
-            Debug.Log($"Lost to {trainerName}!");
+            Debug.Log($"Lost to {npcData.npcName}!");
         }
     }
 
     // ===== Helper Methods =====
-    
-    /// <summary>
-    /// Gán personality cho trainer qua code
-    /// </summary>
-    public void SetPersonality(TrainerPersonality newPersonality)
-    {
-        personality = newPersonality;
-    }
 
     /// <summary>
     /// Gán trainer party (nếu chưa gán trong Inspector)
@@ -97,7 +97,7 @@ public class NPCTrainer : MonoBehaviour
 
     public string GetTrainerName()
     {
-        return trainerName;
+        return npcData.npcName;
     }
 
     public bool HasBeenDefeated()

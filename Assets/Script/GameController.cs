@@ -29,6 +29,7 @@ public class GameController : MonoBehaviour
         var wildPokemon = FindAnyObjectByType<MapArea>().GetComponent<MapArea>().GetRandomWildPokemon();
         battleSystem.StartBattle(playerParty, wildPokemon);
     }    // Public API for starting a trainer battle from PlayerController
+
     public void StartTrainerBattle(PokemonParty playerParty, PokemonParty trainerParty, Pokemon trainerPokemon, TrainerPersonality personality)
     {
         state = GameState.Battle;
