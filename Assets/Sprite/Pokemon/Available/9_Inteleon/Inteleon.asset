@@ -26,10 +26,15 @@ MonoBehaviour:
   spDefense: 65
   speed: 100
   learnableMoves:
-  - moveBase: {fileID: 11400000, guid: 5e081eeef7655f84bb2437c8897bb781, type: 2}
+  - moveBase: {fileID: 11400000, guid: fa9ecc98220605a498bede46abdb0f08, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d437b91579de35441a25f985d4d2deb0, type: 2}
     level: 1
   expYield: 265
   growthRate: 2
   evolution:
     evolvedForm: {fileID: 0}
     requiredLevel: 0
+  MegaEvolution:
+    megaForm: {fileID: 0}
+    requiredItem: 

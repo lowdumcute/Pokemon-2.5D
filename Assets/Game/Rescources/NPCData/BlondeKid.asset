@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ea8485a02fc7aa4e90afee0c4dddcfa, type: 3}
   m_Name: BlondeKid
   m_EditorClassIdentifier: Assembly-CSharp::NPCData
-  npcName: 
+  npcName: Blone Kid
+  personality: 0
   defaultDialogues: []
