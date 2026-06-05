@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: BlondeKid
   m_EditorClassIdentifier: Assembly-CSharp::NPCData
   npcName: Blone Kid
-  personality: 0
+  personality: 1
   defaultDialogues: []

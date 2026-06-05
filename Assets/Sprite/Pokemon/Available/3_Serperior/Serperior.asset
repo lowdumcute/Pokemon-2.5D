@@ -30,6 +30,8 @@ MonoBehaviour:
     level: 1
   - moveBase: {fileID: 11400000, guid: 3531e6a677aebf94ab62d86253001579, type: 2}
     level: 1
+  - moveBase: {fileID: 11400000, guid: 3fec1d71b6429fa468d2264613ef503f, type: 2}
+    level: 1
   expYield: 238
   growthRate: 2
   evolution:

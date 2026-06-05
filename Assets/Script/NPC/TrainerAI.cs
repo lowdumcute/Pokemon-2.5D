@@ -5,9 +5,9 @@ using System.Text;
 
 public enum TrainerPersonality
 {
-    Aggressive,  // Tấn công mạnh, ít hồi máu, thích switch nếu bị ưỡng
+    Aggressive,  // Tấn công mạnh, ít hồi máu, ít khi switch 
     Tactical,    // Đọc type advantage, xét kế hoạch, cân bằng defense/offense
-    Coward       // Thủ nhiều, heal khi máu thấp, switch nếu cần
+    Coward       // Thủ nhiều, heal khi máu thấp, switch nếu cần câu pp của chiêu
 }
 
 /// Script xử lý logic chọn chiêu cho trainer battle
@@ -95,20 +95,70 @@ public class TrainerAI
         List<(string moveName, float score)> debugScores =
             new List<(string, float)>();
 
+        bool defenderHasStatus = defender.Status != null;
+
         foreach (var move in attacker.Moves)
         {
             if (move.PP <= 0)
                 continue;
 
-            float score;
+            float score = 0f;
 
+            // ===== STATUS MOVE =====
             if (move.Base.Category == MoveBase.MoveCategory.Status)
             {
                 score = EvaluateStatusMove(
                     move,
                     attacker,
                     defender);
+
+                if (!defenderHasStatus)
+                {
+                    // Ưu tiên cực mạnh nếu đối thủ chưa có status
+                    score += 50f;
+
+                    if (move.Base.Effects != null)
+                    {
+                        switch (move.Base.Effects.Status)
+                        {
+                            case ConditionID.slp:
+                                score += 60f;
+                                break;
+
+                            case ConditionID.par:
+                                score += 50f;
+                                break;
+
+                            case ConditionID.brn:
+                                score += 40f;
+                                break;
+
+                            case ConditionID.psn:
+                                score += 30f;
+                                break;
+                        }
+
+                        if (move.Base.Effects.VolatileStatus != VolatileConditionID.none)
+                        {
+                            score += 25f;
+                        }
+                    }
+
+                    // Đối thủ còn nhiều máu -> càng nên mở bằng status
+                    float hpRatio =
+                        (float)defender.CurrentHp / defender.MaxHP;
+
+                    if (hpRatio > 0.7f)
+                        score += 20f;
+                }
+                else
+                {
+                    // Đối thủ đã có status -> giảm mạnh điểm
+                    score *= 0.3f;
+                }
             }
+
+            // ===== DAMAGE MOVE =====
             else
             {
                 score = EstimateDamagePotential(
@@ -117,19 +167,26 @@ public class TrainerAI
                     defender);
 
                 float typeEff =
-                    GetTypeEffectiveness(move, defender);
+                    GetTypeEffectiveness(
+                        move,
+                        defender);
 
-                score += 2.5f * typeEff;
+                score += typeEff * 2.5f;
 
-                if (defender.CurrentHp < defender.MaxHP * 0.3f)
+                if (defender.CurrentHp <
+                    defender.MaxHP * 0.3f)
+                {
                     score *= 1.3f;
+                }
 
-                score *= 1f - (1f / (move.PP + 1f));
+                score *=
+                    1f - (1f / (move.PP + 1f));
 
                 score += Random.Range(-1f, 1f);
             }
 
-            debugScores.Add((move.Base.Name, score));
+            debugScores.Add(
+                (move.Base.Name, score));
 
             if (score > bestScore)
             {
@@ -446,12 +503,18 @@ public class TrainerAI
                 sb.Append(" , ");
         }
 
-        int chosenIndex =
-            scores.FindIndex(
-                x => x.pokemonName ==
-                    selectedPokemon.Base.Name);
-
         sb.AppendLine();
+
+        // Không còn pokemon hợp lệ
+        if (selectedPokemon == null)
+        {
+            sb.Append("No available Pokemon remaining.");
+            Debug.Log(sb.ToString());
+            return;
+        }
+
+        int chosenIndex = scores.FindIndex(
+            x => x.pokemonName == selectedPokemon.Base.Name);
 
         sb.Append(
             $"Choose Pokemon {chosenIndex + 1} ({selectedPokemon.Base.Name}) => {selectedScore:F1}");
