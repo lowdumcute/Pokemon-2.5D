@@ -160,25 +160,25 @@ public class BattleSystem : MonoBehaviour
     }
     IEnumerator RunMove(BattleUnit sourceUnit, BattleUnit targetUnit, Move move)
     {
-        // ▶️ Kiểm tra trạng thái trước khi thực hiện chiêu
+        //  Kiểm tra trạng thái trước khi thực hiện chiêu
         bool canRunMove = true;
 
-        // 1. Kiểm tra status chính (poison, paralysis, v.v)
+        //  Kiểm tra status chính (poison, paralysis, v.v)
         if (sourceUnit.Pokemon.Status?.OnBeforeMove != null)
         {
             canRunMove &= sourceUnit.Pokemon.Status.OnBeforeMove(sourceUnit.Pokemon);
         }
 
-        // 2. Kiểm tra volatile status (confusion, infatuation, v.v)
+        //  Kiểm tra volatile status (confusion, infatuation, v.v)
         if (sourceUnit.Pokemon.VolatileStatus?.OnBeforeMove != null)
         {
             canRunMove &= sourceUnit.Pokemon.VolatileStatus.OnBeforeMove(sourceUnit.Pokemon);
         }
 
-        // 3. Hiển thị các thay đổi trạng thái nếu có
+        //  Hiển thị các thay đổi trạng thái nếu có
         yield return showStatusChanges(sourceUnit.Pokemon);
 
-        // 4. Nếu không thể hành động, bỏ lượt
+        //  Nếu không thể hành động, bỏ lượt
         if (!canRunMove)
         {
             yield return sourceUnit.Hud.UpdateUI();

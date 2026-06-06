@@ -6,8 +6,8 @@ using System.Text;
 public enum TrainerPersonality
 {
     Aggressive,  // Tấn công mạnh, ít hồi máu, ít khi switch 
-    Tactical,    // Đọc type advantage, xét kế hoạch, cân bằng defense/offense
-    Coward       // Thủ nhiều, heal khi máu thấp, switch nếu cần câu pp của chiêu
+    Tactical,    // Đọc type advantage, xét kế hoạch, ưu tiên status, switch hợp lý
+    Coward       // Thủ nhiều, heal khi máu thấp, switch nếu cần câu pp của chiêu ( chưa hoàn thiện)
 }
 
 /// Script xử lý logic chọn chiêu cho trainer battle
@@ -284,7 +284,7 @@ public class TrainerAI
     }
 
     // HELPER FUNCTIONS 
-
+    // ước lượng tiềm năng damage của move dựa trên power và hiệu quả hệ
     private float EstimateDamagePotential(Move move, Pokemon attacker, Pokemon defender)
     {
         if (move.Base.Category == MoveBase.MoveCategory.Status)
@@ -293,7 +293,7 @@ public class TrainerAI
         float typeEffectiveness = GetTypeEffectiveness(move, defender);
         return move.Base.Power * typeEffectiveness;
     }
-
+    // Tính hệ số hiệu quả của move dựa trên hệ của move và hệ của pokemon đối thủ
     private float GetTypeEffectiveness(Move move, Pokemon defender)
     {
         float effect1 = TypeChart.GetEffectiveness(move.Base.Type, defender.Base.Type1);
